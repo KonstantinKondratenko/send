@@ -1,0 +1,22 @@
+Loading cache...done.
+Loaded 0 entries from dependency cache.
+Parsing recipes...done.
+Parsing of 922 .bb files complete (0 cached, 922 parsed). 1878 targets, 47 skipped, 0 masked, 0 errors.
+NOTE: Resolving any missing task queue dependencies
+
+Build Configuration:
+BB_VERSION           = "2.8.0"
+BUILD_SYS            = "x86_64-linux"
+NATIVELSBSTRING      = "ubuntu-20.04"
+TARGET_SYS           = "x86_64-poky-linux"
+MACHINE              = "qemux86-64"
+DISTRO               = "poky"
+DISTRO_VERSION       = "5.0.1"
+TUNE_FEATURES        = "m64 core2"
+TARGET_FPU           = ""
+meta                 
+meta-poky            
+meta-yocto-bsp       = "my-upstream_5.0.1:4b07a5316ed4b858863dfdb7cab63859d46d1810"
+
+NOTE: Fetching uninative binary shim http://downloads.yoctoproject.org/releases/uninative/4.4/x86_64-nativesdk-libc-4.4.tar.xz;sha256sum=d81c54284be2bb886931fc87281d58177a2cd381cf99d1981f8923039a72a302 (will check PREMIRRORS first)
+Initialising tasks...Checking sstate mirror object availability...
