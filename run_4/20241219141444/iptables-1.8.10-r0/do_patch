@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734617953.15 
+iptables-1.8.10-r0: do_patch
+Elapsed time: 1.01 seconds
+utime: 9
+stime: 2
+cutime: 13
+cstime: 3
+IO rchar: 1546721
+IO wchar: 186259
+IO syscr: 2019
+IO syscw: 241
+IO read_bytes: 0
+IO write_bytes: 200704
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.098878
+rusage ru_stime: 0.029297
+rusage ru_maxrss: 81580
+rusage ru_minflt: 11427
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 57
+Child rusage ru_utime: 0.132769
+Child rusage ru_stime: 0.037968999999999996
+Child rusage ru_maxrss: 75596
+Child rusage ru_minflt: 29141
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 232
+Child rusage ru_nvcsw: 449
+Child rusage ru_nivcsw: 234
+Status: PASSED 
+Ended: 1734617954.17 

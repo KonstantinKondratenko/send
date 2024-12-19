@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607640.23 
+llvm-project-source-18.1.5-18.1.5-r0: do_patch
+Elapsed time: 3.87 seconds
+utime: 79
+stime: 33
+cutime: 115
+cstime: 35
+IO rchar: 26084320
+IO wchar: 2942880
+IO syscr: 27563
+IO syscw: 2265
+IO read_bytes: 8192
+IO write_bytes: 2670592
+IO cancelled_write_bytes: 184320
+rusage ru_utime: 0.7962039999999999
+rusage ru_stime: 0.335456
+rusage ru_maxrss: 80440
+rusage ru_minflt: 32924
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 328
+rusage ru_nvcsw: 149
+rusage ru_nivcsw: 228
+Child rusage ru_utime: 1.1503079999999999
+Child rusage ru_stime: 0.35309599999999997
+Child rusage ru_maxrss: 75224
+Child rusage ru_minflt: 329414
+Child rusage ru_majflt: 7
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 4888
+Child rusage ru_nvcsw: 5222
+Child rusage ru_nivcsw: 963
+Status: PASSED 
+Ended: 1734607644.10 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618097.77 
+lsscsi-030-r0: do_recipe_qa
+Elapsed time: 0.07 seconds
+utime: 8
+stime: 1
+cutime: 1
+cstime: 1
+IO rchar: 622119
+IO wchar: 116448
+IO syscr: 344
+IO syscw: 91
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.089021
+rusage ru_stime: 0.015481
+rusage ru_maxrss: 85008
+rusage ru_minflt: 15766
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.013156
+Child rusage ru_stime: 0.010766999999999999
+Child rusage ru_maxrss: 82244
+Child rusage ru_minflt: 4363
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 108
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1734618097.84 

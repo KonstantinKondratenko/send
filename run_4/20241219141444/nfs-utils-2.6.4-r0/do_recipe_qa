@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618104.44 
+nfs-utils-2.6.4-r0: do_recipe_qa
+Elapsed time: 0.49 seconds
+utime: 14
+stime: 5
+cutime: 1
+cstime: 1
+IO rchar: 678029
+IO wchar: 121723
+IO syscr: 354
+IO syscw: 96
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.149251
+rusage ru_stime: 0.053577
+rusage ru_maxrss: 85364
+rusage ru_minflt: 16111
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 52
+Child rusage ru_utime: 0.015573
+Child rusage ru_stime: 0.018695
+Child rusage ru_maxrss: 82588
+Child rusage ru_minflt: 4438
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 53
+Child rusage ru_nivcsw: 44
+Status: PASSED 
+Ended: 1734618104.94 

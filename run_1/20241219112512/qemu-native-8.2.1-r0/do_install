@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608687.06 
+qemu-native-8.2.1-r0: do_install
+Elapsed time: 2.43 seconds
+utime: 20
+stime: 2
+cutime: 54
+cstime: 35
+IO rchar: 379573038
+IO wchar: 357987742
+IO syscr: 2691
+IO syscw: 299
+IO read_bytes: 28983296
+IO write_bytes: 358084608
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.20923699999999998
+rusage ru_stime: 0.024616
+rusage ru_maxrss: 64756
+rusage ru_minflt: 16130
+rusage ru_majflt: 3
+rusage ru_inblock: 296
+rusage ru_oublock: 128
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 38
+Child rusage ru_utime: 0.549387
+Child rusage ru_stime: 0.354188
+Child rusage ru_maxrss: 62180
+Child rusage ru_minflt: 25883
+Child rusage ru_majflt: 13
+Child rusage ru_inblock: 56312
+Child rusage ru_oublock: 699256
+Child rusage ru_nvcsw: 532
+Child rusage ru_nivcsw: 335
+Status: PASSED 
+Ended: 1734608689.49 

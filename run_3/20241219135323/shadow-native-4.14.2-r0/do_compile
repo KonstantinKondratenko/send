@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616567.15 
+shadow-native-4.14.2-r0: do_compile
+Elapsed time: 3.10 seconds
+utime: 13
+stime: 2
+cutime: 1564
+cstime: 383
+IO rchar: 310104185
+IO wchar: 7898439
+IO syscr: 135737
+IO syscw: 50007
+IO read_bytes: 1654784
+IO write_bytes: 6901760
+IO cancelled_write_bytes: 446464
+rusage ru_utime: 0.13280799999999998
+rusage ru_stime: 0.028170999999999998
+rusage ru_maxrss: 83460
+rusage ru_minflt: 7788
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 848
+rusage ru_nvcsw: 435
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 15.643831
+Child rusage ru_stime: 3.836106
+Child rusage ru_maxrss: 80888
+Child rusage ru_minflt: 1936083
+Child rusage ru_majflt: 30
+Child rusage ru_inblock: 3232
+Child rusage ru_oublock: 12632
+Child rusage ru_nvcsw: 21313
+Child rusage ru_nivcsw: 13603
+Status: PASSED 
+Ended: 1734616570.26 

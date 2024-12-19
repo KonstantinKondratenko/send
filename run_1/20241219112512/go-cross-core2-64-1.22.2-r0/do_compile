@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607694.28 
+go-cross-core2-64-1.22.2-r0: do_compile
+Elapsed time: 58.74 seconds
+utime: 28
+stime: 11
+cutime: 21354
+cstime: 2405
+IO rchar: 2802378113
+IO wchar: 1456093205
+IO syscr: 292091
+IO syscw: 318787
+IO read_bytes: 778240
+IO write_bytes: 1706868736
+IO cancelled_write_bytes: 493064192
+rusage ru_utime: 0.285203
+rusage ru_stime: 0.116674
+rusage ru_maxrss: 90532
+rusage ru_minflt: 13193
+rusage ru_majflt: 8
+rusage ru_inblock: 64
+rusage ru_oublock: 13512
+rusage ru_nvcsw: 7155
+rusage ru_nivcsw: 231
+Child rusage ru_utime: 213.547536
+Child rusage ru_stime: 24.052566
+Child rusage ru_maxrss: 673116
+Child rusage ru_minflt: 12970356
+Child rusage ru_majflt: 55776
+Child rusage ru_inblock: 1456
+Child rusage ru_oublock: 3320216
+Child rusage ru_nvcsw: 375083
+Child rusage ru_nivcsw: 135806
+Status: PASSED 
+Ended: 1734607753.02 

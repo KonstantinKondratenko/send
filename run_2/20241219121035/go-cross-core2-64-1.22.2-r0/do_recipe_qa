@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610423.49 
+go-cross-core2-64-1.22.2-r0: do_recipe_qa
+Elapsed time: 0.16 seconds
+utime: 8
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 528595
+IO wchar: 116960
+IO syscr: 312
+IO syscw: 93
+IO read_bytes: 24576
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.08731
+rusage ru_stime: 0.035717
+rusage ru_maxrss: 83072
+rusage ru_minflt: 15435
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.014357
+Child rusage ru_stime: 0.015416
+Child rusage ru_maxrss: 80052
+Child rusage ru_minflt: 4269
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 64
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1734610423.65 

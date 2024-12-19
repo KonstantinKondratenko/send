@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607824.86 
+tcf-agent-1.8.0+git-r0: do_recipe_qa
+Elapsed time: 0.10 seconds
+utime: 13
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 624637
+IO wchar: 112515
+IO syscr: 342
+IO syscw: 87
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.134683
+rusage ru_stime: 0.031663
+rusage ru_maxrss: 85092
+rusage ru_minflt: 15539
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.017138
+Child rusage ru_stime: 0.01381
+Child rusage ru_maxrss: 82436
+Child rusage ru_minflt: 4359
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 146
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1734607824.96 

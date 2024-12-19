@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734612322.60 
+libseccomp-2.5.5-r0: do_compile_ptest_base
+Elapsed time: 5.07 seconds
+utime: 16
+stime: 1
+cutime: 927
+cstime: 193
+IO rchar: 343565532
+IO wchar: 30672685
+IO syscr: 118660
+IO syscw: 27172
+IO read_bytes: 286720
+IO write_bytes: 27754496
+IO cancelled_write_bytes: 49152
+rusage ru_utime: 0.163096
+rusage ru_stime: 0.019416
+rusage ru_maxrss: 59592
+rusage ru_minflt: 10888
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 808
+rusage ru_nvcsw: 193
+rusage ru_nivcsw: 63
+Child rusage ru_utime: 9.278819
+Child rusage ru_stime: 1.9319250000000001
+Child rusage ru_maxrss: 56524
+Child rusage ru_minflt: 1207931
+Child rusage ru_majflt: 45
+Child rusage ru_inblock: 560
+Child rusage ru_oublock: 53400
+Child rusage ru_nvcsw: 13237
+Child rusage ru_nivcsw: 7407
+Status: PASSED 
+Ended: 1734612327.67 

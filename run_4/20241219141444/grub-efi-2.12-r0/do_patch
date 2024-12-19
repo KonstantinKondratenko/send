@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618085.35 
+grub-efi-2.12-r0: do_patch
+Elapsed time: 1.89 seconds
+utime: 7
+stime: 2
+cutime: 16
+cstime: 4
+IO rchar: 4262956
+IO wchar: 869254
+IO syscr: 3517
+IO syscw: 492
+IO read_bytes: 16384
+IO write_bytes: 884736
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.074616
+rusage ru_stime: 0.027489999999999997
+rusage ru_maxrss: 83172
+rusage ru_minflt: 13426
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.167929
+Child rusage ru_stime: 0.044639
+Child rusage ru_maxrss: 76664
+Child rusage ru_minflt: 48567
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 1576
+Child rusage ru_nvcsw: 757
+Child rusage ru_nivcsw: 123
+Status: PASSED 
+Ended: 1734618087.24 

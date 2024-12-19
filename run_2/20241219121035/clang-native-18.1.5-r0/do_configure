@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734611366.56 
+clang-native-18.1.5-r0: do_configure
+Elapsed time: 73.92 seconds
+utime: 25
+stime: 4
+cutime: 1865
+cstime: 604
+IO rchar: 527926881
+IO wchar: 122096820
+IO syscr: 202811
+IO syscw: 46741
+IO read_bytes: 49623040
+IO write_bytes: 127324160
+IO cancelled_write_bytes: 17297408
+rusage ru_utime: 0.25851999999999997
+rusage ru_stime: 0.047395
+rusage ru_maxrss: 89184
+rusage ru_minflt: 13635
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 192
+rusage ru_nvcsw: 314
+rusage ru_nivcsw: 52
+Child rusage ru_utime: 18.657318
+Child rusage ru_stime: 6.042188
+Child rusage ru_maxrss: 588432
+Child rusage ru_minflt: 1595620
+Child rusage ru_majflt: 47
+Child rusage ru_inblock: 96896
+Child rusage ru_oublock: 248488
+Child rusage ru_nvcsw: 15137
+Child rusage ru_nivcsw: 12987
+Status: PASSED 
+Ended: 1734611440.48 

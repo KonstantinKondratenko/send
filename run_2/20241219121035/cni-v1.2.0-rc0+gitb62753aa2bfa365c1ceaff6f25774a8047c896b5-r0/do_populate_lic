@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610948.71 
+cni-v1.2.0-rc0+gitb62753aa2bfa365c1ceaff6f25774a8047c896b5-r0: do_populate_lic
+Elapsed time: 0.56 seconds
+utime: 21
+stime: 2
+cutime: 3
+cstime: 1
+IO rchar: 835941
+IO wchar: 199922
+IO syscr: 527
+IO syscw: 115
+IO read_bytes: 0
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.21878499999999998
+rusage ru_stime: 0.028895999999999998
+rusage ru_maxrss: 87112
+rusage ru_minflt: 21187
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 232
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 113
+Child rusage ru_utime: 0.039629
+Child rusage ru_stime: 0.019341
+Child rusage ru_maxrss: 83772
+Child rusage ru_minflt: 6019
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 94
+Child rusage ru_nivcsw: 52
+Status: PASSED 
+Ended: 1734610949.27 

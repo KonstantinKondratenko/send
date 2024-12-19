@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610522.72 
+busybox-1.36.1-r0: do_recipe_qa
+Elapsed time: 0.12 seconds
+utime: 15
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 648392
+IO wchar: 125562
+IO syscr: 361
+IO syscw: 100
+IO read_bytes: 45056
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.156192
+rusage ru_stime: 0.031238
+rusage ru_maxrss: 83932
+rusage ru_minflt: 16007
+rusage ru_majflt: 0
+rusage ru_inblock: 88
+rusage ru_oublock: 160
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.011023
+Child rusage ru_stime: 0.017679999999999998
+Child rusage ru_maxrss: 80948
+Child rusage ru_minflt: 4364
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 138
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1734610522.84 

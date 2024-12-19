@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610856.47 
+smartmontools-7.4-r0: do_patch
+Elapsed time: 0.15 seconds
+utime: 10
+stime: 1
+cutime: 3
+cstime: 2
+IO rchar: 1527948
+IO wchar: 738348
+IO syscr: 899
+IO syscw: 285
+IO read_bytes: 0
+IO write_bytes: 761856
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.105235
+rusage ru_stime: 0.016836999999999998
+rusage ru_maxrss: 83204
+rusage ru_minflt: 10190
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 0.033198
+Child rusage ru_stime: 0.029002
+Child rusage ru_maxrss: 77328
+Child rusage ru_minflt: 9785
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1344
+Child rusage ru_nvcsw: 138
+Child rusage ru_nivcsw: 85
+Status: PASSED 
+Ended: 1734610856.62 

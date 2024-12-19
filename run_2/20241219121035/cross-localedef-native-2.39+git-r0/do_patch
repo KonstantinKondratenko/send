@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610533.37 
+cross-localedef-native-2.39+git-r0: do_patch
+Elapsed time: 0.67 seconds
+utime: 6
+stime: 3
+cutime: 23
+cstime: 4
+IO rchar: 4012738
+IO wchar: 792507
+IO syscr: 5798
+IO syscw: 668
+IO read_bytes: 4096
+IO write_bytes: 823296
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.06737
+rusage ru_stime: 0.031703
+rusage ru_maxrss: 81220
+rusage ru_minflt: 14290
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 46
+rusage ru_nivcsw: 15
+Child rusage ru_utime: 0.23376999999999998
+Child rusage ru_stime: 0.049101
+Child rusage ru_maxrss: 75432
+Child rusage ru_minflt: 88080
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1440
+Child rusage ru_nvcsw: 1374
+Child rusage ru_nivcsw: 61
+Status: PASSED 
+Ended: 1734610534.04 

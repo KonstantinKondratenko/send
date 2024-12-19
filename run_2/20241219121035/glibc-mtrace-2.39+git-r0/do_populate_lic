@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610936.47 
+glibc-mtrace-2.39+git-r0: do_populate_lic
+Elapsed time: 0.59 seconds
+utime: 15
+stime: 3
+cutime: 3
+cstime: 2
+IO rchar: 937272
+IO wchar: 210201
+IO syscr: 545
+IO syscw: 115
+IO read_bytes: 0
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.15612399999999999
+rusage ru_stime: 0.037975999999999996
+rusage ru_maxrss: 86664
+rusage ru_minflt: 17978
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 208
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 26
+Child rusage ru_utime: 0.032928
+Child rusage ru_stime: 0.026574999999999998
+Child rusage ru_maxrss: 83364
+Child rusage ru_minflt: 5617
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 75
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1734610937.07 

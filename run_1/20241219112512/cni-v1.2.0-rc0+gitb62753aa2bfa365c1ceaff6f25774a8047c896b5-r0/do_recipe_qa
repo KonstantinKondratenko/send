@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607714.97 
+cni-v1.2.0-rc0+gitb62753aa2bfa365c1ceaff6f25774a8047c896b5-r0: do_recipe_qa
+Elapsed time: 0.15 seconds
+utime: 9
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 597359
+IO wchar: 133140
+IO syscr: 344
+IO syscw: 95
+IO read_bytes: 28672
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.09893199999999999
+rusage ru_stime: 0.034246
+rusage ru_maxrss: 84628
+rusage ru_minflt: 16090
+rusage ru_majflt: 0
+rusage ru_inblock: 56
+rusage ru_oublock: 184
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.019608999999999998
+Child rusage ru_stime: 0.008168
+Child rusage ru_maxrss: 81956
+Child rusage ru_minflt: 4669
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 95
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1734607715.12 

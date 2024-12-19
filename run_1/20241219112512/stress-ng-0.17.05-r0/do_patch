@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607973.70 
+stress-ng-0.17.05-r0: do_patch
+Elapsed time: 0.21 seconds
+utime: 6
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 1000213
+IO wchar: 629477
+IO syscr: 322
+IO syscw: 194
+IO read_bytes: 0
+IO write_bytes: 647168
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.06401
+rusage ru_stime: 0.012802
+rusage ru_maxrss: 82888
+rusage ru_minflt: 8869
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 2
+Child rusage ru_utime: 0.011713999999999999
+Child rusage ru_stime: 0.007599
+Child rusage ru_maxrss: 77436
+Child rusage ru_minflt: 1267
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 13
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1734607973.91 

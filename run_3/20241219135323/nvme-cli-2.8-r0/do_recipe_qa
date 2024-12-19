@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616764.44 
+nvme-cli-2.8-r0: do_recipe_qa
+Elapsed time: 0.06 seconds
+utime: 7
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 631264
+IO wchar: 120167
+IO syscr: 356
+IO syscw: 99
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.07778399999999999
+rusage ru_stime: 0.022224
+rusage ru_maxrss: 84712
+rusage ru_minflt: 15985
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.015399
+Child rusage ru_stime: 0.00374
+Child rusage ru_maxrss: 82076
+Child rusage ru_minflt: 4396
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 116
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1734616764.50 

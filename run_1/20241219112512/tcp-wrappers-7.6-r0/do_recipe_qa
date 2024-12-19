@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607669.92 
+tcp-wrappers-7.6-r0: do_recipe_qa
+Elapsed time: 0.43 seconds
+utime: 12
+stime: 3
+cutime: 3
+cstime: 1
+IO rchar: 535121
+IO wchar: 113048
+IO syscr: 321
+IO syscw: 86
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.12493299999999999
+rusage ru_stime: 0.030156
+rusage ru_maxrss: 82524
+rusage ru_minflt: 15452
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.030625999999999997
+Child rusage ru_stime: 0.011906
+Child rusage ru_maxrss: 79828
+Child rusage ru_minflt: 4356
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 111
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1734607670.36 

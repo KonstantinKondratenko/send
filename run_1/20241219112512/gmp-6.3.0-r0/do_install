@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734609270.89 
+gmp-6.3.0-r0: do_install
+Elapsed time: 3.15 seconds
+utime: 22
+stime: 3
+cutime: 44
+cstime: 16
+IO rchar: 9583003
+IO wchar: 3565323
+IO syscr: 6636
+IO syscw: 620
+IO read_bytes: 540672
+IO write_bytes: 3584000
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.223968
+rusage ru_stime: 0.031434
+rusage ru_maxrss: 57916
+rusage ru_minflt: 17060
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 232
+rusage ru_nvcsw: 730
+rusage ru_nivcsw: 153
+Child rusage ru_utime: 0.443324
+Child rusage ru_stime: 0.167274
+Child rusage ru_maxrss: 55756
+Child rusage ru_minflt: 68824
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1048
+Child rusage ru_oublock: 6768
+Child rusage ru_nvcsw: 901
+Child rusage ru_nivcsw: 1511
+Status: PASSED 
+Ended: 1734609274.04 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616735.64 
+btrfs-tools-6.7.1-r0: do_recipe_qa
+Elapsed time: 0.23 seconds
+utime: 12
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 609863
+IO wchar: 122480
+IO syscr: 351
+IO syscw: 98
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.122399
+rusage ru_stime: 0.033764999999999996
+rusage ru_maxrss: 84100
+rusage ru_minflt: 15853
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 67
+Child rusage ru_utime: 0.026813
+Child rusage ru_stime: 0.010201
+Child rusage ru_maxrss: 81432
+Child rusage ru_minflt: 4495
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 62
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1734616735.87 

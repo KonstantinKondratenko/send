@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610429.38 
+go-binary-native-1.22.2-r0: do_patch
+Elapsed time: 0.09 seconds
+utime: 8
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 424266
+IO wchar: 115151
+IO syscr: 182
+IO syscw: 68
+IO read_bytes: 0
+IO write_bytes: 126976
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.082428
+rusage ru_stime: 0.027476
+rusage ru_maxrss: 80108
+rusage ru_minflt: 8235
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 48
+Child rusage ru_utime: 0.002905
+Child rusage ru_stime: 0.012084
+Child rusage ru_maxrss: 74548
+Child rusage ru_minflt: 1249
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 9
+Child rusage ru_nivcsw: 38
+Status: PASSED 
+Ended: 1734610429.46 

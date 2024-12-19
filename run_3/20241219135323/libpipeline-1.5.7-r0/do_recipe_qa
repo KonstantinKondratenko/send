@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616628.86 
+libpipeline-1.5.7-r0: do_recipe_qa
+Elapsed time: 0.41 seconds
+utime: 16
+stime: 1
+cutime: 2
+cstime: 1
+IO rchar: 578052
+IO wchar: 116201
+IO syscr: 334
+IO syscw: 90
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.165733
+rusage ru_stime: 0.016573
+rusage ru_maxrss: 83712
+rusage ru_minflt: 15681
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 54
+Child rusage ru_utime: 0.027408
+Child rusage ru_stime: 0.010629
+Child rusage ru_maxrss: 81056
+Child rusage ru_minflt: 4350
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 103
+Child rusage ru_nivcsw: 77
+Status: PASSED 
+Ended: 1734616629.26 

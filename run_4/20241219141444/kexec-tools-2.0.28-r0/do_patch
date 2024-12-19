@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618330.29 
+kexec-tools-2.0.28-r0: do_patch
+Elapsed time: 2.89 seconds
+utime: 14
+stime: 2
+cutime: 32
+cstime: 6
+IO rchar: 3005029
+IO wchar: 752629
+IO syscr: 3948
+IO syscw: 511
+IO read_bytes: 77824
+IO write_bytes: 765952
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.144266
+rusage ru_stime: 0.02623
+rusage ru_maxrss: 83140
+rusage ru_minflt: 13085
+rusage ru_majflt: 0
+rusage ru_inblock: 152
+rusage ru_oublock: 168
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 28
+Child rusage ru_utime: 0.326308
+Child rusage ru_stime: 0.06845
+Child rusage ru_maxrss: 77316
+Child rusage ru_minflt: 59374
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1328
+Child rusage ru_nvcsw: 932
+Child rusage ru_nivcsw: 353
+Status: PASSED 
+Ended: 1734618333.19 

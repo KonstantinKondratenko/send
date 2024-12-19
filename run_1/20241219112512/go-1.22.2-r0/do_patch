@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607975.50 
+go-1.22.2-r0: do_patch
+Elapsed time: 0.45 seconds
+utime: 8
+stime: 4
+cutime: 24
+cstime: 5
+IO rchar: 4665447
+IO wchar: 1477077
+IO syscr: 5857
+IO syscw: 819
+IO read_bytes: 217088
+IO write_bytes: 1478656
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.080258
+rusage ru_stime: 0.040129
+rusage ru_maxrss: 83132
+rusage ru_minflt: 15073
+rusage ru_majflt: 0
+rusage ru_inblock: 272
+rusage ru_oublock: 168
+rusage ru_nvcsw: 51
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.241448
+Child rusage ru_stime: 0.059656
+Child rusage ru_maxrss: 77436
+Child rusage ru_minflt: 86500
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 152
+Child rusage ru_oublock: 2720
+Child rusage ru_nvcsw: 1356
+Child rusage ru_nivcsw: 66
+Status: PASSED 
+Ended: 1734607975.95 

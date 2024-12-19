@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616542.95 
+libbsd-native-0.12.1-r0: do_install
+Elapsed time: 0.26 seconds
+utime: 20
+stime: 4
+cutime: 13
+cstime: 5
+IO rchar: 2777699
+IO wchar: 718315
+IO syscr: 36101
+IO syscw: 1800
+IO read_bytes: 12288
+IO write_bytes: 1556480
+IO cancelled_write_bytes: 28672
+rusage ru_utime: 0.20188599999999998
+rusage ru_stime: 0.047501999999999996
+rusage ru_maxrss: 82816
+rusage ru_minflt: 16447
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 68
+rusage ru_nivcsw: 23
+Child rusage ru_utime: 0.136316
+Child rusage ru_stime: 0.052003
+Child rusage ru_maxrss: 80244
+Child rusage ru_minflt: 27929
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 2888
+Child rusage ru_nvcsw: 664
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1734616543.21 

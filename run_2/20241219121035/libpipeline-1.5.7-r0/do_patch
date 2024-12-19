@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610576.21 
+libpipeline-1.5.7-r0: do_patch
+Elapsed time: 0.35 seconds
+utime: 10
+stime: 1
+cutime: 4
+cstime: 3
+IO rchar: 1753387
+IO wchar: 644752
+IO syscr: 896
+IO syscw: 252
+IO read_bytes: 24576
+IO write_bytes: 675840
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.107985
+rusage ru_stime: 0.015425999999999999
+rusage ru_maxrss: 81492
+rusage ru_minflt: 10120
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 24
+Child rusage ru_utime: 0.041927
+Child rusage ru_stime: 0.030331999999999998
+Child rusage ru_maxrss: 75432
+Child rusage ru_minflt: 9884
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 1192
+Child rusage ru_nvcsw: 128
+Child rusage ru_nivcsw: 56
+Status: PASSED 
+Ended: 1734610576.56 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618107.62 
+traceroute-2.1.5-r0: do_fetch
+Elapsed time: 1.33 seconds
+utime: 6
+stime: 1
+cutime: 0
+cstime: 0
+IO rchar: 456357
+IO wchar: 129060
+IO syscr: 214
+IO syscw: 231
+IO read_bytes: 4096
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.062663
+rusage ru_stime: 0.012532
+rusage ru_maxrss: 82652
+rusage ru_minflt: 6420
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 21
+Child rusage ru_utime: 0.007372999999999999
+Child rusage ru_stime: 0.003016
+Child rusage ru_maxrss: 79244
+Child rusage ru_minflt: 1014
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1734618108.94 

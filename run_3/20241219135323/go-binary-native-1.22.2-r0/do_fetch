@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616548.88 
+go-binary-native-1.22.2-r0: do_fetch
+Elapsed time: 2.58 seconds
+utime: 109
+stime: 10
+cutime: 7
+cstime: 22
+IO rchar: 69501957
+IO wchar: 69123644
+IO syscr: 33228
+IO syscw: 97124
+IO read_bytes: 0
+IO write_bytes: 69021696
+IO cancelled_write_bytes: 0
+rusage ru_utime: 1.090384
+rusage ru_stime: 0.100961
+rusage ru_maxrss: 146528
+rusage ru_minflt: 16935
+rusage ru_majflt: 2
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 10828
+rusage ru_nivcsw: 915
+Child rusage ru_utime: 0.073225
+Child rusage ru_stime: 0.22347599999999998
+Child rusage ru_maxrss: 76232
+Child rusage ru_minflt: 996
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 134688
+Child rusage ru_nvcsw: 1386
+Child rusage ru_nivcsw: 9823
+Status: PASSED 
+Ended: 1734616551.47 

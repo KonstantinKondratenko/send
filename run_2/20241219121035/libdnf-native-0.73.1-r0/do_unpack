@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610881.17 
+libdnf-native-0.73.1-r0: do_unpack
+Elapsed time: 3.74 seconds
+utime: 15
+stime: 3
+cutime: 14
+cstime: 9
+IO rchar: 5504634
+IO wchar: 7279271
+IO syscr: 5918
+IO syscw: 3433
+IO read_bytes: 151552
+IO write_bytes: 10100736
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.154721
+rusage ru_stime: 0.035705
+rusage ru_maxrss: 84748
+rusage ru_minflt: 17006
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 44
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.149552
+Child rusage ru_stime: 0.099593
+Child rusage ru_maxrss: 80616
+Child rusage ru_minflt: 21309
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 296
+Child rusage ru_oublock: 19640
+Child rusage ru_nvcsw: 162
+Child rusage ru_nivcsw: 41
+Status: PASSED 
+Ended: 1734610884.91 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618127.81 
+ipmitool-1.8.19-r0: do_fetch
+Elapsed time: 5.57 seconds
+utime: 7
+stime: 4
+cutime: 75
+cstime: 11
+IO rchar: 16073387
+IO wchar: 13758083
+IO syscr: 16580
+IO syscw: 2502
+IO read_bytes: 344064
+IO write_bytes: 5005312
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.0722
+rusage ru_stime: 0.040111
+rusage ru_maxrss: 82708
+rusage ru_minflt: 9245
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 176
+rusage ru_nivcsw: 17
+Child rusage ru_utime: 0.7596539999999999
+Child rusage ru_stime: 0.11179199999999999
+Child rusage ru_maxrss: 78896
+Child rusage ru_minflt: 19162
+Child rusage ru_majflt: 13
+Child rusage ru_inblock: 672
+Child rusage ru_oublock: 9632
+Child rusage ru_nvcsw: 3071
+Child rusage ru_nivcsw: 510
+Status: PASSED 
+Ended: 1734618133.38 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607695.94 
+libslirp-4.7.0-r0: do_fetch
+Elapsed time: 3.66 seconds
+utime: 10
+stime: 2
+cutime: 25
+cstime: 6
+IO rchar: 7216374
+IO wchar: 3726302
+IO syscr: 8219
+IO syscw: 1703
+IO read_bytes: 8192
+IO write_bytes: 1462272
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.110077
+rusage ru_stime: 0.024461
+rusage ru_maxrss: 80560
+rusage ru_minflt: 9039
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 140
+rusage ru_nivcsw: 73
+Child rusage ru_utime: 0.255804
+Child rusage ru_stime: 0.062459999999999995
+Child rusage ru_maxrss: 76940
+Child rusage ru_minflt: 15391
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 2688
+Child rusage ru_nvcsw: 603
+Child rusage ru_nivcsw: 191
+Status: PASSED 
+Ended: 1734607699.61 

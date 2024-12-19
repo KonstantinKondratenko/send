@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607767.39 
+xinetd-2.3.15.4-r0: do_recipe_qa
+Elapsed time: 0.38 seconds
+utime: 15
+stime: 3
+cutime: 3
+cstime: 0
+IO rchar: 608894
+IO wchar: 117102
+IO syscr: 341
+IO syscw: 92
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.157004
+rusage ru_stime: 0.030633999999999998
+rusage ru_maxrss: 84696
+rusage ru_minflt: 15784
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 45
+Child rusage ru_utime: 0.032857
+Child rusage ru_stime: 0.005277
+Child rusage ru_maxrss: 82024
+Child rusage ru_minflt: 4386
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 51
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1734607767.77 

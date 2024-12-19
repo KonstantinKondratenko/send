@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610568.60 
+update-rc.d-native-0.8-r0: do_recipe_qa
+Elapsed time: 0.86 seconds
+utime: 19
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 756406
+IO wchar: 115124
+IO syscr: 334
+IO syscw: 98
+IO read_bytes: 4096
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.19033899999999998
+rusage ru_stime: 0.027757
+rusage ru_maxrss: 85116
+rusage ru_minflt: 15738
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 168
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 62
+Child rusage ru_utime: 0.029827
+Child rusage ru_stime: 0.011342999999999999
+Child rusage ru_maxrss: 82132
+Child rusage ru_minflt: 4345
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 79
+Child rusage ru_nivcsw: 46
+Status: PASSED 
+Ended: 1734610569.46 

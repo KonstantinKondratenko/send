@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734611783.10 
+thrift-native-0.20.0-r0: do_populate_sysroot
+Elapsed time: 3.52 seconds
+utime: 51
+stime: 24
+cutime: 38
+cstime: 15
+IO rchar: 228652468
+IO wchar: 201035331
+IO syscr: 6219
+IO syscw: 1259
+IO read_bytes: 65536
+IO write_bytes: 193671168
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.519013
+rusage ru_stime: 0.24140099999999998
+rusage ru_maxrss: 64628
+rusage ru_minflt: 45124
+rusage ru_majflt: 8
+rusage ru_inblock: 104
+rusage ru_oublock: 360912
+rusage ru_nvcsw: 167
+rusage ru_nivcsw: 105
+Child rusage ru_utime: 0.38036899999999996
+Child rusage ru_stime: 0.155279
+Child rusage ru_maxrss: 61904
+Child rusage ru_minflt: 37964
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 17352
+Child rusage ru_nvcsw: 521
+Child rusage ru_nivcsw: 131
+Status: PASSED 
+Ended: 1734611786.61 

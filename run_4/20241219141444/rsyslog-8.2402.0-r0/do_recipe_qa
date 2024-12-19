@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734617923.63 
+rsyslog-8.2402.0-r0: do_recipe_qa
+Elapsed time: 0.66 seconds
+utime: 14
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 600931
+IO wchar: 120940
+IO syscr: 343
+IO syscw: 97
+IO read_bytes: 16384
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.141116
+rusage ru_stime: 0.03421
+rusage ru_maxrss: 83432
+rusage ru_minflt: 15890
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 160
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 73
+Child rusage ru_utime: 0.019287
+Child rusage ru_stime: 0.022109
+Child rusage ru_maxrss: 80660
+Child rusage ru_minflt: 4373
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 70
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1734617924.29 

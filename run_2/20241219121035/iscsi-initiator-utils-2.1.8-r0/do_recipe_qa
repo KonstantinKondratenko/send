@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610661.96 
+iscsi-initiator-utils-2.1.8-r0: do_recipe_qa
+Elapsed time: 0.19 seconds
+utime: 12
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 643554
+IO wchar: 121543
+IO syscr: 348
+IO syscw: 96
+IO read_bytes: 28672
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.125108
+rusage ru_stime: 0.037194
+rusage ru_maxrss: 84860
+rusage ru_minflt: 15882
+rusage ru_majflt: 0
+rusage ru_inblock: 56
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 119
+Child rusage ru_utime: 0.015787
+Child rusage ru_stime: 0.020751
+Child rusage ru_maxrss: 81844
+Child rusage ru_minflt: 4393
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 30
+Status: PASSED 
+Ended: 1734610662.15 

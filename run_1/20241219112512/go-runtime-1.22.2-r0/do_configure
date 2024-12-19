@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608802.23 
+go-runtime-1.22.2-r0: do_configure
+Elapsed time: 0.13 seconds
+utime: 15
+stime: 1
+cutime: 0
+cstime: 0
+IO rchar: 291504
+IO wchar: 58552
+IO syscr: 53
+IO syscw: 44
+IO read_bytes: 8192
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.150727
+rusage ru_stime: 0.019323999999999997
+rusage ru_maxrss: 64356
+rusage ru_minflt: 10002
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 120
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 0.007376
+Child rusage ru_stime: 0.0
+Child rusage ru_maxrss: 61532
+Child rusage ru_minflt: 473
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 1
+Child rusage ru_nivcsw: 1
+Status: PASSED 
+Ended: 1734608802.36 

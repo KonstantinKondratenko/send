@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618100.54 
+devmem2-2.0-r0: do_recipe_qa
+Elapsed time: 1.61 seconds
+utime: 8
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 606653
+IO wchar: 112143
+IO syscr: 337
+IO syscw: 89
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.086939
+rusage ru_stime: 0.021734
+rusage ru_maxrss: 84896
+rusage ru_minflt: 15633
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.008772
+Child rusage ru_stime: 0.013425999999999999
+Child rusage ru_maxrss: 82120
+Child rusage ru_minflt: 4362
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 123
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1734618102.15 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607719.93 
+strace-6.7-r0: do_deploy_source_date_epoch
+Elapsed time: 0.22 seconds
+utime: 20
+stime: 3
+cutime: 1
+cstime: 3
+IO rchar: 654290
+IO wchar: 145445
+IO syscr: 424
+IO syscw: 99
+IO read_bytes: 0
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.200989
+rusage ru_stime: 0.037684999999999996
+rusage ru_maxrss: 84528
+rusage ru_minflt: 21872
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 86
+Child rusage ru_utime: 0.017533
+Child rusage ru_stime: 0.031021
+Child rusage ru_maxrss: 81832
+Child rusage ru_minflt: 5262
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 97
+Child rusage ru_nivcsw: 27
+Status: PASSED 
+Ended: 1734607720.15 

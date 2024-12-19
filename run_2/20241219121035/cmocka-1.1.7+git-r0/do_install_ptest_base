@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734612010.25 
+cmocka-1.1.7+git-r0: do_install_ptest_base
+Elapsed time: 0.32 seconds
+utime: 19
+stime: 1
+cutime: 2
+cstime: 1
+IO rchar: 4325448
+IO wchar: 3938294
+IO syscr: 749
+IO syscw: 76
+IO read_bytes: 4096
+IO write_bytes: 3985408
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.19833599999999998
+rusage ru_stime: 0.012659
+rusage ru_maxrss: 57284
+rusage ru_minflt: 16043
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 56
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 277
+Child rusage ru_utime: 0.021575
+Child rusage ru_stime: 0.014626
+Child rusage ru_maxrss: 55380
+Child rusage ru_minflt: 2985
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 7728
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 228
+Status: PASSED 
+Ended: 1734612010.57 

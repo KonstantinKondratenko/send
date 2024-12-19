@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734614082.71 
+linux-yocto-6.6.23+git-r0: do_sizecheck
+Elapsed time: 0.04 seconds
+utime: 22
+stime: 1
+cutime: 0
+cstime: 0
+IO rchar: 609845
+IO wchar: 40668
+IO syscr: 131
+IO syscw: 51
+IO read_bytes: 0
+IO write_bytes: 24576
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.220083
+rusage ru_stime: 0.012457
+rusage ru_maxrss: 69832
+rusage ru_minflt: 12120
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 48
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 50
+Child rusage ru_utime: 0.0032159999999999997
+Child rusage ru_stime: 0.0032159999999999997
+Child rusage ru_maxrss: 66896
+Child rusage ru_minflt: 470
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 1
+Child rusage ru_nivcsw: 1
+Status: PASSED 
+Ended: 1734614082.75 

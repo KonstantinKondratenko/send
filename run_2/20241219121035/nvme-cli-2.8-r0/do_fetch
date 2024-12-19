@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610678.49 
+nvme-cli-2.8-r0: do_fetch
+Elapsed time: 32.06 seconds
+utime: 8
+stime: 2
+cutime: 277
+cstime: 32
+IO rchar: 53092008
+IO wchar: 53414103
+IO syscr: 54946
+IO syscw: 19139
+IO read_bytes: 0
+IO write_bytes: 18530304
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.080205
+rusage ru_stime: 0.029165
+rusage ru_maxrss: 82208
+rusage ru_minflt: 9145
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 238
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 2.771726
+Child rusage ru_stime: 0.321208
+Child rusage ru_maxrss: 78664
+Child rusage ru_minflt: 35952
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 36016
+Child rusage ru_nvcsw: 14262
+Child rusage ru_nivcsw: 2096
+Status: PASSED 
+Ended: 1734610710.55 

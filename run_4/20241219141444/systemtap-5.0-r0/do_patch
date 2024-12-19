@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618317.80 
+systemtap-5.0-r0: do_patch
+Elapsed time: 1.79 seconds
+utime: 15
+stime: 6
+cutime: 44
+cstime: 16
+IO rchar: 5552891
+IO wchar: 1169867
+IO syscr: 6682
+IO syscw: 791
+IO read_bytes: 0
+IO write_bytes: 1159168
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.154088
+rusage ru_stime: 0.062467999999999996
+rusage ru_maxrss: 83148
+rusage ru_minflt: 15738
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 42
+rusage ru_nivcsw: 95
+Child rusage ru_utime: 0.448536
+Child rusage ru_stime: 0.16168
+Child rusage ru_maxrss: 77224
+Child rusage ru_minflt: 97540
+Child rusage ru_majflt: 5
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2096
+Child rusage ru_nvcsw: 1516
+Child rusage ru_nivcsw: 442
+Status: PASSED 
+Ended: 1734618319.60 

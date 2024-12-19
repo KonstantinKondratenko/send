@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608143.69 
+libtraceevent-1.7.3-r0: do_populate_lic
+Elapsed time: 0.70 seconds
+utime: 19
+stime: 4
+cutime: 3
+cstime: 2
+IO rchar: 1062897
+IO wchar: 271508
+IO syscr: 564
+IO syscw: 128
+IO read_bytes: 139264
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.19924499999999998
+rusage ru_stime: 0.044275999999999996
+rusage ru_maxrss: 86836
+rusage ru_minflt: 21237
+rusage ru_majflt: 2
+rusage ru_inblock: 272
+rusage ru_oublock: 208
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 118
+Child rusage ru_utime: 0.036449999999999996
+Child rusage ru_stime: 0.022130999999999998
+Child rusage ru_maxrss: 83832
+Child rusage ru_minflt: 5709
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 73
+Child rusage ru_nivcsw: 39
+Status: PASSED 
+Ended: 1734608144.39 

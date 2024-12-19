@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616559.77 
+nlohmann-json-3.11.3-r0: do_recipe_qa
+Elapsed time: 0.24 seconds
+utime: 16
+stime: 1
+cutime: 2
+cstime: 1
+IO rchar: 542669
+IO wchar: 114509
+IO syscr: 328
+IO syscw: 90
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.16755
+rusage ru_stime: 0.011689
+rusage ru_maxrss: 82400
+rusage ru_minflt: 15672
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 79
+Child rusage ru_utime: 0.021679
+Child rusage ru_stime: 0.011094999999999999
+Child rusage ru_maxrss: 79736
+Child rusage ru_minflt: 4330
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 63
+Child rusage ru_nivcsw: 44
+Status: PASSED 
+Ended: 1734616560.01 

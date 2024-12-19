@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616876.69 
+thrift-0.20.0-r0: do_patch
+Elapsed time: 0.92 seconds
+utime: 13
+stime: 2
+cutime: 6
+cstime: 1
+IO rchar: 1826213
+IO wchar: 644699
+IO syscr: 1094
+IO syscw: 252
+IO read_bytes: 4096
+IO write_bytes: 684032
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.131851
+rusage ru_stime: 0.024721999999999997
+rusage ru_maxrss: 82684
+rusage ru_minflt: 10081
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 29
+Child rusage ru_utime: 0.06662599999999999
+Child rusage ru_stime: 0.015787
+Child rusage ru_maxrss: 77096
+Child rusage ru_minflt: 9875
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1192
+Child rusage ru_nvcsw: 144
+Child rusage ru_nivcsw: 67
+Status: PASSED 
+Ended: 1734616877.61 

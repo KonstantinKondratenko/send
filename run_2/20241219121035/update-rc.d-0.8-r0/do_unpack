@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610833.63 
+update-rc.d-0.8-r0: do_unpack
+Elapsed time: 1.87 seconds
+utime: 9
+stime: 3
+cutime: 12
+cstime: 8
+IO rchar: 4962814
+IO wchar: 65278
+IO syscr: 1772
+IO syscw: 127
+IO read_bytes: 122880
+IO write_bytes: 204800
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.09179899999999999
+rusage ru_stime: 0.030598999999999998
+rusage ru_maxrss: 82308
+rusage ru_minflt: 12739
+rusage ru_majflt: 0
+rusage ru_inblock: 240
+rusage ru_oublock: 80
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 34
+Child rusage ru_utime: 0.125488
+Child rusage ru_stime: 0.08642699999999999
+Child rusage ru_maxrss: 78684
+Child rusage ru_minflt: 15730
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 320
+Child rusage ru_nvcsw: 49
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1734610835.49 

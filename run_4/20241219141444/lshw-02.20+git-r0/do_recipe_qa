@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618097.81 
+lshw-02.20+git-r0: do_recipe_qa
+Elapsed time: 0.09 seconds
+utime: 6
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 600602
+IO wchar: 112217
+IO syscr: 338
+IO syscw: 88
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.06933
+rusage ru_stime: 0.034665
+rusage ru_maxrss: 84860
+rusage ru_minflt: 15573
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.010752999999999999
+Child rusage ru_stime: 0.013861
+Child rusage ru_maxrss: 82076
+Child rusage ru_minflt: 4354
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 105
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1734618097.90 

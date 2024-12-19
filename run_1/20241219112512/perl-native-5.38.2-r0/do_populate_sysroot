@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607724.20 
+perl-native-5.38.2-r0: do_populate_sysroot
+Elapsed time: 2.05 seconds
+utime: 55
+stime: 50
+cutime: 258
+cstime: 107
+IO rchar: 276425437
+IO wchar: 109731156
+IO syscr: 51301
+IO syscw: 9160
+IO read_bytes: 8192
+IO write_bytes: 50597888
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.55289
+rusage ru_stime: 0.508497
+rusage ru_maxrss: 85664
+rusage ru_minflt: 125992
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 39248
+rusage ru_nvcsw: 339
+rusage ru_nivcsw: 213
+Child rusage ru_utime: 2.587119
+Child rusage ru_stime: 1.078763
+Child rusage ru_maxrss: 114440
+Child rusage ru_minflt: 233286
+Child rusage ru_majflt: 19
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 59576
+Child rusage ru_nvcsw: 2207
+Child rusage ru_nivcsw: 2098
+Status: PASSED 
+Ended: 1734607726.24 

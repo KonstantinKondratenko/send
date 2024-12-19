@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734619006.75 
+glibc-2.39+git-r0: do_patch
+Elapsed time: 1.30 seconds
+utime: 24
+stime: 8
+cutime: 53
+cstime: 17
+IO rchar: 7815769
+IO wchar: 1502568
+IO syscr: 10642
+IO syscw: 1188
+IO read_bytes: 0
+IO write_bytes: 1523712
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.24379199999999998
+rusage ru_stime: 0.08264099999999999
+rusage ru_maxrss: 83396
+rusage ru_minflt: 23257
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 232
+rusage ru_nvcsw: 72
+rusage ru_nivcsw: 56
+Child rusage ru_utime: 0.534521
+Child rusage ru_stime: 0.175616
+Child rusage ru_maxrss: 79784
+Child rusage ru_minflt: 156981
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2744
+Child rusage ru_nvcsw: 2468
+Child rusage ru_nivcsw: 376
+Status: PASSED 
+Ended: 1734619008.05 

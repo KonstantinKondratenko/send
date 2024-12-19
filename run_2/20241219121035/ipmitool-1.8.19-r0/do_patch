@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610857.85 
+ipmitool-1.8.19-r0: do_patch
+Elapsed time: 1.21 seconds
+utime: 6
+stime: 1
+cutime: 3
+cstime: 1
+IO rchar: 1307977
+IO wchar: 638860
+IO syscr: 865
+IO syscw: 249
+IO read_bytes: 0
+IO write_bytes: 675840
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.066177
+rusage ru_stime: 0.012407999999999999
+rusage ru_maxrss: 83120
+rusage ru_minflt: 10151
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.036906999999999995
+Child rusage ru_stime: 0.015179999999999999
+Child rusage ru_maxrss: 77116
+Child rusage ru_minflt: 9882
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1184
+Child rusage ru_nvcsw: 140
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1734610859.07 

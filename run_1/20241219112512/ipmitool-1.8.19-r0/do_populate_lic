@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608170.36 
+ipmitool-1.8.19-r0: do_populate_lic
+Elapsed time: 0.49 seconds
+utime: 16
+stime: 3
+cutime: 2
+cstime: 3
+IO rchar: 752935
+IO wchar: 160402
+IO syscr: 519
+IO syscw: 109
+IO read_bytes: 8192
+IO write_bytes: 122880
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.167853
+rusage ru_stime: 0.031972
+rusage ru_maxrss: 86792
+rusage ru_minflt: 20918
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.025936999999999998
+Child rusage ru_stime: 0.03111
+Child rusage ru_maxrss: 83780
+Child rusage ru_minflt: 5595
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 127
+Child rusage ru_nivcsw: 48
+Status: PASSED 
+Ended: 1734608170.85 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734619102.05 
+go-cross-core2-64-1.22.2-r0: do_patch
+Elapsed time: 1.13 seconds
+utime: 7
+stime: 5
+cutime: 25
+cstime: 15
+IO rchar: 4123604
+IO wchar: 965837
+IO syscr: 5737
+IO syscw: 694
+IO read_bytes: 81920
+IO write_bytes: 958464
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.07343899999999999
+rusage ru_stime: 0.053038999999999996
+rusage ru_maxrss: 80308
+rusage ru_minflt: 14478
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 44
+rusage ru_nivcsw: 15
+Child rusage ru_utime: 0.2554
+Child rusage ru_stime: 0.155111
+Child rusage ru_maxrss: 74800
+Child rusage ru_minflt: 86780
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 160
+Child rusage ru_oublock: 1704
+Child rusage ru_nvcsw: 1370
+Child rusage ru_nivcsw: 191
+Status: PASSED 
+Ended: 1734619103.18 

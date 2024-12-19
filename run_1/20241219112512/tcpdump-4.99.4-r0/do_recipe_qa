@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607703.46 
+tcpdump-4.99.4-r0: do_recipe_qa
+Elapsed time: 0.13 seconds
+utime: 11
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 579450
+IO wchar: 119863
+IO syscr: 345
+IO syscw: 95
+IO read_bytes: 131072
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.11725899999999999
+rusage ru_stime: 0.031269
+rusage ru_maxrss: 83696
+rusage ru_minflt: 15649
+rusage ru_majflt: 0
+rusage ru_inblock: 256
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.011361
+Child rusage ru_stime: 0.021544999999999998
+Child rusage ru_maxrss: 80996
+Child rusage ru_minflt: 4387
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 105
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1734607703.59 

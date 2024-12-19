@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618228.58 
+rdma-core-51.0-r0: do_patch
+Elapsed time: 0.12 seconds
+utime: 8
+stime: 2
+cutime: 6
+cstime: 2
+IO rchar: 2585850
+IO wchar: 822146
+IO syscr: 1796
+IO syscw: 343
+IO read_bytes: 106496
+IO write_bytes: 851968
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.08072399999999999
+rusage ru_stime: 0.026907999999999998
+rusage ru_maxrss: 82792
+rusage ru_minflt: 11048
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.063831
+Child rusage ru_stime: 0.028794999999999998
+Child rusage ru_maxrss: 76892
+Child rusage ru_minflt: 19633
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 208
+Child rusage ru_oublock: 1528
+Child rusage ru_nvcsw: 287
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1734618228.70 

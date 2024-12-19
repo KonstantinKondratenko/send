@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607975.77 
+blktrace-1.3.0+git-r0: do_patch
+Elapsed time: 0.84 seconds
+utime: 6
+stime: 1
+cutime: 0
+cstime: 0
+IO rchar: 1017322
+IO wchar: 628154
+IO syscr: 325
+IO syscw: 191
+IO read_bytes: 0
+IO write_bytes: 647168
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.063988
+rusage ru_stime: 0.011996999999999999
+rusage ru_maxrss: 83200
+rusage ru_minflt: 8811
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.009481
+Child rusage ru_stime: 0.009002
+Child rusage ru_maxrss: 77784
+Child rusage ru_minflt: 1252
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 21
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1734607976.61 

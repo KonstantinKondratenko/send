@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607958.90 
+efibootmgr-18-r0: do_unpack
+Elapsed time: 1.30 seconds
+utime: 6
+stime: 3
+cutime: 11
+cstime: 5
+IO rchar: 5018232
+IO wchar: 227454
+IO syscr: 2090
+IO syscw: 317
+IO read_bytes: 0
+IO write_bytes: 442368
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.065329
+rusage ru_stime: 0.034842
+rusage ru_maxrss: 83292
+rusage ru_minflt: 12816
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 80
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 75
+Child rusage ru_utime: 0.11356799999999999
+Child rusage ru_stime: 0.058762999999999996
+Child rusage ru_maxrss: 79784
+Child rusage ru_minflt: 15985
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 784
+Child rusage ru_nvcsw: 74
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1734607960.20 

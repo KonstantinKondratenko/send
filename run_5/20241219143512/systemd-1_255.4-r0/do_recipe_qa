@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618946.66 
+systemd-1_255.4-r0: do_recipe_qa
+Elapsed time: 0.06 seconds
+utime: 10
+stime: 0
+cutime: 1
+cstime: 0
+IO rchar: 628465
+IO wchar: 129386
+IO syscr: 372
+IO syscw: 110
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.10558999999999999
+rusage ru_stime: 0.008121999999999999
+rusage ru_maxrss: 81512
+rusage ru_minflt: 16452
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.011229999999999999
+Child rusage ru_stime: 0.008391
+Child rusage ru_maxrss: 78740
+Child rusage ru_minflt: 4482
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 142
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1734618946.72 

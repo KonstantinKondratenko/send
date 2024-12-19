@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607775.86 
+thrift-native-0.20.0-r0: do_recipe_qa
+Elapsed time: 0.36 seconds
+utime: 20
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 773010
+IO wchar: 119322
+IO syscr: 337
+IO syscw: 101
+IO read_bytes: 12288
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.20965999999999999
+rusage ru_stime: 0.036287
+rusage ru_maxrss: 85864
+rusage ru_minflt: 16276
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 176
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 60
+Child rusage ru_utime: 0.029789999999999997
+Child rusage ru_stime: 0.010955
+Child rusage ru_maxrss: 83192
+Child rusage ru_minflt: 4390
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 66
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1734607776.22 

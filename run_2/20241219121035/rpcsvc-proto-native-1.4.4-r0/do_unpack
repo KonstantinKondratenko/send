@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610836.08 
+rpcsvc-proto-native-1.4.4-r0: do_unpack
+Elapsed time: 0.22 seconds
+utime: 8
+stime: 3
+cutime: 12
+cstime: 6
+IO rchar: 5229120
+IO wchar: 352116
+IO syscr: 1881
+IO syscw: 215
+IO read_bytes: 98304
+IO write_bytes: 589824
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.083906
+rusage ru_stime: 0.033562
+rusage ru_maxrss: 84080
+rusage ru_minflt: 14319
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 80
+rusage ru_nvcsw: 34
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.123572
+Child rusage ru_stime: 0.06607
+Child rusage ru_maxrss: 80048
+Child rusage ru_minflt: 16569
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 192
+Child rusage ru_oublock: 1072
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 32
+Status: PASSED 
+Ended: 1734610836.30 

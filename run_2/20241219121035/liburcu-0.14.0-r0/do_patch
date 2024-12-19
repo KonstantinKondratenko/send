@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610502.07 
+liburcu-0.14.0-r0: do_patch
+Elapsed time: 1.15 seconds
+utime: 7
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 1328989
+IO wchar: 631896
+IO syscr: 378
+IO syscw: 198
+IO read_bytes: 0
+IO write_bytes: 647168
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.07769
+rusage ru_stime: 0.011653
+rusage ru_maxrss: 80452
+rusage ru_minflt: 8974
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.010261
+Child rusage ru_stime: 0.005665
+Child rusage ru_maxrss: 74556
+Child rusage ru_minflt: 1270
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 15
+Child rusage ru_nivcsw: 2
+Status: PASSED 
+Ended: 1734610503.23 

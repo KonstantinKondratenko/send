@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607535.76 
+systemd-systemctl-native-1.0-r0: do_populate_sysroot
+Elapsed time: 0.21 seconds
+utime: 17
+stime: 3
+cutime: 4
+cstime: 2
+IO rchar: 867380
+IO wchar: 224538
+IO syscr: 841
+IO syscw: 159
+IO read_bytes: 0
+IO write_bytes: 159744
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.171068
+rusage ru_stime: 0.031103
+rusage ru_maxrss: 78636
+rusage ru_minflt: 29205
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 272
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.041743999999999996
+Child rusage ru_stime: 0.026271
+Child rusage ru_maxrss: 76564
+Child rusage ru_minflt: 10916
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 160
+Child rusage ru_nivcsw: 32
+Status: PASSED 
+Ended: 1734607535.97 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618019.48 
+expect-5.45.4-r0: do_deploy_source_date_epoch
+Elapsed time: 0.37 seconds
+utime: 17
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 671791
+IO wchar: 146617
+IO syscr: 428
+IO syscw: 100
+IO read_bytes: 0
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.174764
+rusage ru_stime: 0.049388999999999995
+rusage ru_maxrss: 84420
+rusage ru_minflt: 22124
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 80
+Child rusage ru_utime: 0.029922999999999998
+Child rusage ru_stime: 0.01875
+Child rusage ru_maxrss: 81640
+Child rusage ru_minflt: 5262
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 73
+Child rusage ru_nivcsw: 65
+Status: PASSED 
+Ended: 1734618019.86 

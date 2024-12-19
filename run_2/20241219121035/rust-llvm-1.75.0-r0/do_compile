@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734614160.43 
+rust-llvm-1.75.0-r0: do_compile
+Elapsed time: 1092.21 seconds
+utime: 68
+stime: 128
+cutime: 793207
+cstime: 36870
+IO rchar: 26291098396
+IO wchar: 1891940074
+IO syscr: 1992940
+IO syscw: 498066
+IO read_bytes: 660418560
+IO write_bytes: 1353236480
+IO cancelled_write_bytes: 529108992
+rusage ru_utime: 0.686909
+rusage ru_stime: 1.2895349999999999
+rusage ru_maxrss: 63112
+rusage ru_minflt: 14708
+rusage ru_majflt: 3740
+rusage ru_inblock: 102856
+rusage ru_oublock: 14768
+rusage ru_nvcsw: 7002
+rusage ru_nivcsw: 1232
+Child rusage ru_utime: 7932.071293
+Child rusage ru_stime: 368.706343
+Child rusage ru_maxrss: 1796164
+Child rusage ru_minflt: 178331682
+Child rusage ru_majflt: 5960
+Child rusage ru_inblock: 1187024
+Child rusage ru_oublock: 2628272
+Child rusage ru_nvcsw: 197780
+Child rusage ru_nivcsw: 1218996
+Status: FAILED 
+Ended: 1734615252.64 

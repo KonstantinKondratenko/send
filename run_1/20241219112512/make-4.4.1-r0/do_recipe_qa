@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607686.22 
+make-4.4.1-r0: do_recipe_qa
+Elapsed time: 0.09 seconds
+utime: 14
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 559586
+IO wchar: 117578
+IO syscr: 344
+IO syscw: 93
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.14859999999999998
+rusage ru_stime: 0.020080999999999998
+rusage ru_maxrss: 82792
+rusage ru_minflt: 15574
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.01473
+Child rusage ru_stime: 0.013526999999999999
+Child rusage ru_maxrss: 80100
+Child rusage ru_minflt: 4386
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 100
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1734607686.31 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608136.06 
+clang-native-18.1.5-r0: do_populate_lic
+Elapsed time: 0.46 seconds
+utime: 24
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 1103176
+IO wchar: 212483
+IO syscr: 548
+IO syscw: 132
+IO read_bytes: 331776
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.246908
+rusage ru_stime: 0.054868
+rusage ru_maxrss: 87644
+rusage ru_minflt: 22118
+rusage ru_majflt: 3
+rusage ru_inblock: 624
+rusage ru_oublock: 216
+rusage ru_nvcsw: 31
+rusage ru_nivcsw: 81
+Child rusage ru_utime: 0.021752999999999998
+Child rusage ru_stime: 0.034692
+Child rusage ru_maxrss: 84732
+Child rusage ru_minflt: 5629
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 125
+Child rusage ru_nivcsw: 37
+Status: PASSED 
+Ended: 1734608136.52 

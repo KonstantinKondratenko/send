@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608001.93 
+pigz-native-2.8-r0: do_compile
+Elapsed time: 0.88 seconds
+utime: 7
+stime: 2
+cutime: 176
+cstime: 11
+IO rchar: 9380355
+IO wchar: 909239
+IO syscr: 2925
+IO syscw: 524
+IO read_bytes: 4096
+IO write_bytes: 458752
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.07728299999999999
+rusage ru_stime: 0.023184999999999997
+rusage ru_maxrss: 86604
+rusage ru_minflt: 7330
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 48
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 1.767324
+Child rusage ru_stime: 0.117628
+Child rusage ru_maxrss: 84008
+Child rusage ru_minflt: 65388
+Child rusage ru_majflt: 5
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 848
+Child rusage ru_nvcsw: 250
+Child rusage ru_nivcsw: 258
+Status: PASSED 
+Ended: 1734608002.81 

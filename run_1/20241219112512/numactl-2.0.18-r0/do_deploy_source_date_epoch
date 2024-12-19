@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607702.06 
+numactl-2.0.18-r0: do_deploy_source_date_epoch
+Elapsed time: 0.52 seconds
+utime: 18
+stime: 3
+cutime: 2
+cstime: 3
+IO rchar: 636412
+IO wchar: 145987
+IO syscr: 433
+IO syscw: 99
+IO read_bytes: 0
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.187142
+rusage ru_stime: 0.039817
+rusage ru_maxrss: 83580
+rusage ru_minflt: 21813
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 190
+Child rusage ru_utime: 0.023126999999999998
+Child rusage ru_stime: 0.039089
+Child rusage ru_maxrss: 80864
+Child rusage ru_minflt: 5258
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 77
+Child rusage ru_nivcsw: 118
+Status: PASSED 
+Ended: 1734607702.57 

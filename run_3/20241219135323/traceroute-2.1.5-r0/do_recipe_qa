@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616763.41 
+traceroute-2.1.5-r0: do_recipe_qa
+Elapsed time: 0.38 seconds
+utime: 8
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 608068
+IO wchar: 113664
+IO syscr: 338
+IO syscw: 88
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.080582
+rusage ru_stime: 0.021976
+rusage ru_maxrss: 84360
+rusage ru_minflt: 15585
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.015236
+Child rusage ru_stime: 0.004901
+Child rusage ru_maxrss: 81708
+Child rusage ru_minflt: 4345
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 162
+Child rusage ru_nivcsw: 9
+Status: PASSED 
+Ended: 1734616763.79 

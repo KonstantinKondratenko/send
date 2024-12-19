@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607729.18 
+go-binary-native-1.22.2-r0: do_create_spdx
+Elapsed time: 0.17 seconds
+utime: 10
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 970326
+IO wchar: 475389
+IO syscr: 532
+IO syscw: 137
+IO read_bytes: 4096
+IO write_bytes: 204800
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.10758699999999999
+rusage ru_stime: 0.041379
+rusage ru_maxrss: 84532
+rusage ru_minflt: 19552
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 296
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 11
+Child rusage ru_utime: 0.021800999999999997
+Child rusage ru_stime: 0.035122
+Child rusage ru_maxrss: 81760
+Child rusage ru_minflt: 5835
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 78
+Child rusage ru_nivcsw: 62
+Status: PASSED 
+Ended: 1734607729.35 

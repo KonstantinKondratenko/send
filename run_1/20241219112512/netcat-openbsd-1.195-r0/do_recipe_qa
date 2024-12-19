@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607823.22 
+netcat-openbsd-1.195-r0: do_recipe_qa
+Elapsed time: 0.11 seconds
+utime: 12
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 617623
+IO wchar: 117335
+IO syscr: 346
+IO syscw: 92
+IO read_bytes: 16384
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.12454799999999999
+rusage ru_stime: 0.027243999999999997
+rusage ru_maxrss: 85076
+rusage ru_minflt: 15679
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.017828999999999998
+Child rusage ru_stime: 0.015719
+Child rusage ru_maxrss: 82404
+Child rusage ru_minflt: 4363
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 133
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1734607823.33 

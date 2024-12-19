@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608013.82 
+rust-1.75.0-r0: do_deploy_source_date_epoch
+Elapsed time: 0.27 seconds
+utime: 22
+stime: 4
+cutime: 3
+cstime: 1
+IO rchar: 734061
+IO wchar: 148487
+IO syscr: 442
+IO syscw: 103
+IO read_bytes: 4096
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.224243
+rusage ru_stime: 0.044848
+rusage ru_maxrss: 86424
+rusage ru_minflt: 22461
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 39
+Child rusage ru_utime: 0.032868
+Child rusage ru_stime: 0.016253
+Child rusage ru_maxrss: 83756
+Child rusage ru_minflt: 5277
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 91
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1734608014.09 

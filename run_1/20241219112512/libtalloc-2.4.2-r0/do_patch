@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607635.36 
+libtalloc-2.4.2-r0: do_patch
+Elapsed time: 0.23 seconds
+utime: 10
+stime: 2
+cutime: 7
+cstime: 3
+IO rchar: 1653811
+IO wchar: 730594
+IO syscr: 1481
+IO syscw: 321
+IO read_bytes: 86016
+IO write_bytes: 761856
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.101384
+rusage ru_stime: 0.023396
+rusage ru_maxrss: 79660
+rusage ru_minflt: 10290
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 152
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 24
+Child rusage ru_utime: 0.076766
+Child rusage ru_stime: 0.038776
+Child rusage ru_maxrss: 73932
+Child rusage ru_minflt: 19463
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 152
+Child rusage ru_oublock: 1336
+Child rusage ru_nvcsw: 299
+Child rusage ru_nivcsw: 177
+Status: PASSED 
+Ended: 1734607635.59 

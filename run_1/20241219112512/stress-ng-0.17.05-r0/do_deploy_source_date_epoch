@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608013.37 
+stress-ng-0.17.05-r0: do_deploy_source_date_epoch
+Elapsed time: 0.28 seconds
+utime: 17
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 679234
+IO wchar: 137789
+IO syscr: 431
+IO syscw: 93
+IO read_bytes: 0
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.17129
+rusage ru_stime: 0.035036
+rusage ru_maxrss: 85792
+rusage ru_minflt: 21403
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 43
+Child rusage ru_utime: 0.018483
+Child rusage ru_stime: 0.026459
+Child rusage ru_maxrss: 83132
+Child rusage ru_minflt: 5252
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 86
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1734608013.65 

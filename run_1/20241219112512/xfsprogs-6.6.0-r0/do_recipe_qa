@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607821.47 
+xfsprogs-6.6.0-r0: do_recipe_qa
+Elapsed time: 0.42 seconds
+utime: 11
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 617780
+IO wchar: 118952
+IO syscr: 348
+IO syscw: 94
+IO read_bytes: 217088
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.115393
+rusage ru_stime: 0.03606
+rusage ru_maxrss: 85212
+rusage ru_minflt: 15804
+rusage ru_majflt: 0
+rusage ru_inblock: 424
+rusage ru_oublock: 160
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 80
+Child rusage ru_utime: 0.017613
+Child rusage ru_stime: 0.016936
+Child rusage ru_maxrss: 82528
+Child rusage ru_minflt: 4393
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 65
+Child rusage ru_nivcsw: 38
+Status: PASSED 
+Ended: 1734607821.89 

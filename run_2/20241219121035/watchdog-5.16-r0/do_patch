@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610860.21 
+watchdog-5.16-r0: do_patch
+Elapsed time: 1.98 seconds
+utime: 6
+stime: 2
+cutime: 13
+cstime: 3
+IO rchar: 2027651
+IO wchar: 675169
+IO syscr: 2138
+IO syscw: 355
+IO read_bytes: 4096
+IO write_bytes: 700416
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.068114
+rusage ru_stime: 0.025093999999999998
+rusage ru_maxrss: 83344
+rusage ru_minflt: 11307
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 144
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.132416
+Child rusage ru_stime: 0.033889999999999997
+Child rusage ru_maxrss: 77388
+Child rusage ru_minflt: 28890
+Child rusage ru_majflt: 8
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1224
+Child rusage ru_nvcsw: 453
+Child rusage ru_nivcsw: 60
+Status: PASSED 
+Ended: 1734610862.18 

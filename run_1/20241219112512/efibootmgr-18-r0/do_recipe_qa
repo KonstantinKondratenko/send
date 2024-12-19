@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607826.72 
+efibootmgr-18-r0: do_recipe_qa
+Elapsed time: 0.32 seconds
+utime: 11
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 618895
+IO wchar: 111019
+IO syscr: 334
+IO syscw: 86
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.113275
+rusage ru_stime: 0.041534
+rusage ru_maxrss: 84956
+rusage ru_minflt: 15488
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.025969
+Child rusage ru_stime: 0.012308
+Child rusage ru_maxrss: 82284
+Child rusage ru_minflt: 4305
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 81
+Child rusage ru_nivcsw: 34
+Status: PASSED 
+Ended: 1734607827.04 

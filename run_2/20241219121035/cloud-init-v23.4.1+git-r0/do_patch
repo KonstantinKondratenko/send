@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610860.02 
+cloud-init-v23.4.1+git-r0: do_patch
+Elapsed time: 1.53 seconds
+utime: 6
+stime: 2
+cutime: 8
+cstime: 4
+IO rchar: 1664721
+IO wchar: 666976
+IO syscr: 1493
+IO syscw: 307
+IO read_bytes: 0
+IO write_bytes: 700416
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.06719599999999999
+rusage ru_stime: 0.020998
+rusage ru_maxrss: 83112
+rusage ru_minflt: 10727
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.080353
+Child rusage ru_stime: 0.042845
+Child rusage ru_maxrss: 77124
+Child rusage ru_minflt: 19623
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1232
+Child rusage ru_nvcsw: 299
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1734610861.55 

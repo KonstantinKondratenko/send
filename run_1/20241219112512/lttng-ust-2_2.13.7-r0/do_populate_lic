@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608177.70 
+lttng-ust-2_2.13.7-r0: do_populate_lic
+Elapsed time: 0.47 seconds
+utime: 15
+stime: 5
+cutime: 2
+cstime: 2
+IO rchar: 899519
+IO wchar: 229111
+IO syscr: 554
+IO syscw: 123
+IO read_bytes: 20480
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.156111
+rusage ru_stime: 0.057513999999999996
+rusage ru_maxrss: 87068
+rusage ru_minflt: 21126
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 148
+Child rusage ru_utime: 0.029938
+Child rusage ru_stime: 0.029082
+Child rusage ru_maxrss: 84044
+Child rusage ru_minflt: 5725
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 99
+Child rusage ru_nivcsw: 35
+Status: PASSED 
+Ended: 1734608178.17 

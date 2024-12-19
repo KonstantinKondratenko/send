@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610595.51 
+socat-1.8.0.0-r0: do_recipe_qa
+Elapsed time: 1.70 seconds
+utime: 9
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 590640
+IO wchar: 115179
+IO syscr: 340
+IO syscw: 89
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.099062
+rusage ru_stime: 0.017689
+rusage ru_maxrss: 84416
+rusage ru_minflt: 15621
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.015453
+Child rusage ru_stime: 0.009797
+Child rusage ru_maxrss: 81416
+Child rusage ru_minflt: 4358
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 30
+Status: PASSED 
+Ended: 1734610597.21 

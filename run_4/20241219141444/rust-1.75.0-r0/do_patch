@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734618085.37 
+rust-1.75.0-r0: do_patch
+Elapsed time: 3.21 seconds
+utime: 14
+stime: 6
+cutime: 36
+cstime: 11
+IO rchar: 6169637
+IO wchar: 1001232
+IO syscr: 7501
+IO syscw: 825
+IO read_bytes: 24576
+IO write_bytes: 1003520
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.145163
+rusage ru_stime: 0.06532299999999999
+rusage ru_maxrss: 82876
+rusage ru_minflt: 18160
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 55
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.362491
+Child rusage ru_stime: 0.112269
+Child rusage ru_maxrss: 76944
+Child rusage ru_minflt: 116800
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 1776
+Child rusage ru_nvcsw: 1846
+Child rusage ru_nivcsw: 229
+Status: PASSED 
+Ended: 1734618088.57 

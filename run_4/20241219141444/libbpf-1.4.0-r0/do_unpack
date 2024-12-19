@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734617928.38 
+libbpf-1.4.0-r0: do_unpack
+Elapsed time: 0.99 seconds
+utime: 8
+stime: 3
+cutime: 18
+cstime: 8
+IO rchar: 5029494
+IO wchar: 6123496
+IO syscr: 3042
+IO syscw: 1220
+IO read_bytes: 0
+IO write_bytes: 6565888
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.08466499999999999
+rusage ru_stime: 0.033866
+rusage ru_maxrss: 80448
+rusage ru_minflt: 12801
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 80
+rusage ru_nvcsw: 31
+rusage ru_nivcsw: 51
+Child rusage ru_utime: 0.185938
+Child rusage ru_stime: 0.081992
+Child rusage ru_maxrss: 76876
+Child rusage ru_minflt: 18808
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 12744
+Child rusage ru_nvcsw: 213
+Child rusage ru_nivcsw: 169
+Status: PASSED 
+Ended: 1734617929.37 

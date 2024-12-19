@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734608211.70 
+unfs3-native-0.10.0-r0: do_patch
+Elapsed time: 2.95 seconds
+utime: 16
+stime: 3
+cutime: 28
+cstime: 5
+IO rchar: 2283997
+IO wchar: 238306
+IO syscr: 3166
+IO syscw: 337
+IO read_bytes: 110592
+IO write_bytes: 253952
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.166341
+rusage ru_stime: 0.033268
+rusage ru_maxrss: 85364
+rusage ru_minflt: 12590
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 47
+Child rusage ru_utime: 0.283451
+Child rusage ru_stime: 0.056589999999999994
+Child rusage ru_maxrss: 79420
+Child rusage ru_minflt: 48666
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 216
+Child rusage ru_oublock: 352
+Child rusage ru_nvcsw: 785
+Child rusage ru_nivcsw: 219
+Status: PASSED 
+Ended: 1734608214.64 

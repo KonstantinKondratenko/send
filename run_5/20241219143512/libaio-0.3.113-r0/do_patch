@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734619130.93 
+libaio-0.3.113-r0: do_patch
+Elapsed time: 0.47 seconds
+utime: 6
+stime: 2
+cutime: 8
+cstime: 3
+IO rchar: 1965197
+IO wchar: 670898
+IO syscr: 2007
+IO syscw: 345
+IO read_bytes: 12288
+IO write_bytes: 708608
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.068613
+rusage ru_stime: 0.02573
+rusage ru_maxrss: 80252
+rusage ru_minflt: 10928
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.084393
+Child rusage ru_stime: 0.033983
+Child rusage ru_maxrss: 74608
+Child rusage ru_minflt: 29117
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 1248
+Child rusage ru_nvcsw: 452
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1734619131.40 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607704.19 
+opkg-1_0.6.3-r0: do_recipe_qa
+Elapsed time: 0.14 seconds
+utime: 14
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 584942
+IO wchar: 117679
+IO syscr: 345
+IO syscw: 93
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.14285
+rusage ru_stime: 0.031744
+rusage ru_maxrss: 83764
+rusage ru_minflt: 15726
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 0.021398
+Child rusage ru_stime: 0.012411
+Child rusage ru_maxrss: 81056
+Child rusage ru_minflt: 4384
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 79
+Child rusage ru_nivcsw: 47
+Status: PASSED 
+Ended: 1734607704.33 

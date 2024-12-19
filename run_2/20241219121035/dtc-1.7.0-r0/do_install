@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734613861.94 
+dtc-1.7.0-r0: do_install
+Elapsed time: 0.54 seconds
+utime: 23
+stime: 2
+cutime: 24
+cstime: 8
+IO rchar: 9935498
+IO wchar: 1437008
+IO syscr: 1492
+IO syscw: 112
+IO read_bytes: 16384
+IO write_bytes: 1458176
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.23624399999999998
+rusage ru_stime: 0.020364999999999998
+rusage ru_maxrss: 59256
+rusage ru_minflt: 17108
+rusage ru_majflt: 3
+rusage ru_inblock: 32
+rusage ru_oublock: 152
+rusage ru_nvcsw: 173
+rusage ru_nivcsw: 272
+Child rusage ru_utime: 0.24248399999999998
+Child rusage ru_stime: 0.08162699999999999
+Child rusage ru_maxrss: 57276
+Child rusage ru_minflt: 11763
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2696
+Child rusage ru_nvcsw: 111
+Child rusage ru_nivcsw: 154
+Status: PASSED 
+Ended: 1734613862.48 

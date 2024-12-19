@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734607793.21 
+cri-tools-1.29.0+git17b4dd65d660fec94d7a5a070e3e89ef640f1087-r0: do_recipe_qa
+Elapsed time: 0.33 seconds
+utime: 17
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 608607
+IO wchar: 128966
+IO syscr: 338
+IO syscw: 93
+IO read_bytes: 16384
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.175322
+rusage ru_stime: 0.023906999999999998
+rusage ru_maxrss: 85068
+rusage ru_minflt: 16081
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 184
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 41
+Child rusage ru_utime: 0.028175
+Child rusage ru_stime: 0.013932
+Child rusage ru_maxrss: 82396
+Child rusage ru_minflt: 4697
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 61
+Child rusage ru_nivcsw: 41
+Status: PASSED 
+Ended: 1734607793.54 

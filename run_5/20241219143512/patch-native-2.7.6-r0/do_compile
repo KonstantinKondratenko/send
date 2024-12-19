@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734619003.84 
+patch-native-2.7.6-r0: do_compile
+Elapsed time: 1.41 seconds
+utime: 18
+stime: 1
+cutime: 488
+cstime: 73
+IO rchar: 61331628
+IO wchar: 3274902
+IO syscr: 18377
+IO syscw: 2131
+IO read_bytes: 0
+IO write_bytes: 2248704
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.18751299999999999
+rusage ru_stime: 0.019133999999999998
+rusage ru_maxrss: 83356
+rusage ru_minflt: 7540
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 216
+rusage ru_nvcsw: 121
+rusage ru_nivcsw: 74
+Child rusage ru_utime: 4.880523
+Child rusage ru_stime: 0.739464
+Child rusage ru_maxrss: 80620
+Child rusage ru_minflt: 333846
+Child rusage ru_majflt: 50
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 4176
+Child rusage ru_nvcsw: 1256
+Child rusage ru_nivcsw: 1622
+Status: PASSED 
+Ended: 1734619005.25 

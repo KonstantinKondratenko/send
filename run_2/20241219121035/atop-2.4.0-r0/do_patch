@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734610860.04 
+atop-2.4.0-r0: do_patch
+Elapsed time: 2.14 seconds
+utime: 6
+stime: 2
+cutime: 11
+cstime: 5
+IO rchar: 1946791
+IO wchar: 665339
+IO syscr: 2055
+IO syscw: 349
+IO read_bytes: 0
+IO write_bytes: 700416
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.069093
+rusage ru_stime: 0.020321
+rusage ru_maxrss: 82884
+rusage ru_minflt: 11165
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.115724
+Child rusage ru_stime: 0.051898
+Child rusage ru_maxrss: 77384
+Child rusage ru_minflt: 28686
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1224
+Child rusage ru_nvcsw: 446
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1734610862.18 

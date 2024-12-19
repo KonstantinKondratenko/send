@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1734616416.34 
+systemd-systemctl-native-1.0-r0: do_recipe_qa
+Elapsed time: 0.05 seconds
+utime: 6
+stime: 1
+cutime: 0
+cstime: 0
+IO rchar: 503330
+IO wchar: 113288
+IO syscr: 326
+IO syscw: 93
+IO read_bytes: 0
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.060653
+rusage ru_stime: 0.01213
+rusage ru_maxrss: 77628
+rusage ru_minflt: 14624
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.00857
+Child rusage ru_stime: 0.009462
+Child rusage ru_maxrss: 74916
+Child rusage ru_minflt: 4373
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 134
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1734616416.39 
