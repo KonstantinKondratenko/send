@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205726.91 
+systemd-conf-1_1.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.22 seconds
+utime: 9
+stime: 4
+cutime: 0
+cstime: 0
+IO rchar: 859178
+IO wchar: 165586
+IO syscr: 216
+IO syscw: 67
+IO read_bytes: 430080
+IO write_bytes: 180224
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.097624
+rusage ru_stime: 0.04393
+rusage ru_maxrss: 58744
+rusage ru_minflt: 6800
+rusage ru_majflt: 6
+rusage ru_inblock: 824
+rusage ru_oublock: 144
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 26
+Child rusage ru_utime: 0.0075899999999999995
+Child rusage ru_stime: 0.0
+Child rusage ru_maxrss: 53984
+Child rusage ru_minflt: 760
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 11
+Child rusage ru_nivcsw: 9
+Status: PASSED 
+Ended: 1735205727.12 

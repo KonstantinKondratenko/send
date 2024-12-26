@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735170890.10 
+lvm2-2.03.22-r0: do_install
+Elapsed time: 15.91 seconds
+utime: 29
+stime: 8
+cutime: 475
+cstime: 117
+IO rchar: 96123122
+IO wchar: 41905914
+IO syscr: 85872
+IO syscw: 3399
+IO read_bytes: 12050432
+IO write_bytes: 42024960
+IO cancelled_write_bytes: 913408
+rusage ru_utime: 0.290801
+rusage ru_stime: 0.08581
+rusage ru_maxrss: 59232
+rusage ru_minflt: 17767
+rusage ru_majflt: 219
+rusage ru_inblock: 1568
+rusage ru_oublock: 376
+rusage ru_nvcsw: 1639
+rusage ru_nivcsw: 355
+Child rusage ru_utime: 4.751364
+Child rusage ru_stime: 1.176915
+Child rusage ru_maxrss: 57072
+Child rusage ru_minflt: 644453
+Child rusage ru_majflt: 181
+Child rusage ru_inblock: 21968
+Child rusage ru_oublock: 81704
+Child rusage ru_nvcsw: 17014
+Child rusage ru_nivcsw: 12278
+Status: PASSED 
+Ended: 1735170906.02 

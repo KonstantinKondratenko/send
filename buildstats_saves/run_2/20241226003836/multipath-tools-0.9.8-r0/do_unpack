@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174119.90 
+multipath-tools-0.9.8-r0: do_unpack
+Elapsed time: 2.05 seconds
+utime: 4
+stime: 5
+cutime: 15
+cstime: 7
+IO rchar: 5340856
+IO wchar: 2955488
+IO syscr: 2634
+IO syscw: 756
+IO read_bytes: 77824
+IO write_bytes: 3895296
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.045458
+rusage ru_stime: 0.059446
+rusage ru_maxrss: 82084
+rusage ru_minflt: 20782
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 64
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.150731
+Child rusage ru_stime: 0.07843
+Child rusage ru_maxrss: 78508
+Child rusage ru_minflt: 26192
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 152
+Child rusage ru_oublock: 7456
+Child rusage ru_nvcsw: 90
+Child rusage ru_nivcsw: 48
+Status: PASSED 
+Ended: 1735174121.95 

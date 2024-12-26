@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166500.37 
+kern-tools-native-0.3+git-r0: do_install
+Elapsed time: 0.75 seconds
+utime: 15
+stime: 3
+cutime: 4
+cstime: 1
+IO rchar: 1060187
+IO wchar: 451610
+IO syscr: 764
+IO syscw: 80
+IO read_bytes: 458752
+IO write_bytes: 499712
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.15614599999999998
+rusage ru_stime: 0.034699
+rusage ru_maxrss: 86576
+rusage ru_minflt: 15473
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 116
+Child rusage ru_utime: 0.048555999999999995
+Child rusage ru_stime: 0.015574999999999999
+Child rusage ru_maxrss: 83888
+Child rusage ru_minflt: 5637
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 896
+Child rusage ru_oublock: 904
+Child rusage ru_nvcsw: 84
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1735166501.11 

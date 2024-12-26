@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199004.05 
+makedumpfile-1.7.5-r0: do_recipe_qa
+Elapsed time: 0.16 seconds
+utime: 12
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 600092
+IO wchar: 112111
+IO syscr: 334
+IO syscw: 87
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.122916
+rusage ru_stime: 0.048421
+rusage ru_maxrss: 84308
+rusage ru_minflt: 15454
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 116
+Child rusage ru_utime: 0.015016999999999999
+Child rusage ru_stime: 0.020863
+Child rusage ru_maxrss: 81500
+Child rusage ru_minflt: 4356
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 75
+Child rusage ru_nivcsw: 38
+Status: PASSED 
+Ended: 1735199004.21 

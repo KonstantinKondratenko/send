@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202416.46 
+librepo-1.17.0-r0: do_compile
+Elapsed time: 2.91 seconds
+utime: 15
+stime: 2
+cutime: 901
+cstime: 134
+IO rchar: 169239491
+IO wchar: 12586210
+IO syscr: 26258
+IO syscw: 4618
+IO read_bytes: 1073152
+IO write_bytes: 5361664
+IO cancelled_write_bytes: 2228224
+rusage ru_utime: 0.15228
+rusage ru_stime: 0.022841999999999998
+rusage ru_maxrss: 63896
+rusage ru_minflt: 9768
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 240
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 58
+Child rusage ru_utime: 9.015085
+Child rusage ru_stime: 1.343624
+Child rusage ru_maxrss: 97820
+Child rusage ru_minflt: 425752
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 2096
+Child rusage ru_oublock: 10232
+Child rusage ru_nvcsw: 2224
+Child rusage ru_nivcsw: 4064
+Status: PASSED 
+Ended: 1735202419.37 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199576.03 
+openssl-native-3.2.1-r0: do_create_runtime_spdx
+Elapsed time: 1.13 seconds
+utime: 14
+stime: 1
+cutime: 2
+cstime: 0
+IO rchar: 1031245
+IO wchar: 349295
+IO syscr: 388
+IO syscw: 118
+IO read_bytes: 4096
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.146037
+rusage ru_stime: 0.016226
+rusage ru_maxrss: 84632
+rusage ru_minflt: 21725
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 176
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 15
+Child rusage ru_utime: 0.020596
+Child rusage ru_stime: 0.00485
+Child rusage ru_maxrss: 81812
+Child rusage ru_minflt: 4660
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 122
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735199577.16 

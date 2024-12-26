@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180385.52 
+tar-1.35-r0: do_install_ptest_base
+Elapsed time: 0.45 seconds
+utime: 13
+stime: 3
+cutime: 3
+cstime: 2
+IO rchar: 2520775
+IO wchar: 1937777
+IO syscr: 911
+IO syscw: 58
+IO read_bytes: 2781184
+IO write_bytes: 1978368
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.138045
+rusage ru_stime: 0.032480999999999996
+rusage ru_maxrss: 57116
+rusage ru_minflt: 13850
+rusage ru_majflt: 17
+rusage ru_inblock: 344
+rusage ru_oublock: 72
+rusage ru_nvcsw: 586
+rusage ru_nivcsw: 59
+Child rusage ru_utime: 0.030552
+Child rusage ru_stime: 0.027104999999999997
+Child rusage ru_maxrss: 54928
+Child rusage ru_minflt: 5873
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 5088
+Child rusage ru_oublock: 3792
+Child rusage ru_nvcsw: 1229
+Child rusage ru_nivcsw: 48
+Status: PASSED 
+Ended: 1735180385.97 

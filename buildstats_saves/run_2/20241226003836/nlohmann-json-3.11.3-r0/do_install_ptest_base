@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735178654.17 
+nlohmann-json-3.11.3-r0: do_install_ptest_base
+Elapsed time: 2.31 seconds
+utime: 12
+stime: 3
+cutime: 4
+cstime: 70
+IO rchar: 741452647
+IO wchar: 740750413
+IO syscr: 12603
+IO syscw: 6851
+IO read_bytes: 749764608
+IO write_bytes: 745467904
+IO cancelled_write_bytes: 237568
+rusage ru_utime: 0.12595299999999998
+rusage ru_stime: 0.031487999999999995
+rusage ru_maxrss: 50172
+rusage ru_minflt: 10339
+rusage ru_majflt: 3
+rusage ru_inblock: 1632
+rusage ru_oublock: 64
+rusage ru_nvcsw: 79
+rusage ru_nivcsw: 248
+Child rusage ru_utime: 0.049967
+Child rusage ru_stime: 0.7043039999999999
+Child rusage ru_maxrss: 47924
+Child rusage ru_minflt: 3993
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1462752
+Child rusage ru_oublock: 1455928
+Child rusage ru_nvcsw: 5159
+Child rusage ru_nivcsw: 2649
+Status: PASSED 
+Ended: 1735178656.48 

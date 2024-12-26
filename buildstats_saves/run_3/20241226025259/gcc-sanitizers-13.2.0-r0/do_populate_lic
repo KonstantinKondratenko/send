@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182635.03 
+gcc-sanitizers-13.2.0-r0: do_populate_lic
+Elapsed time: 0.21 seconds
+utime: 10
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 804992
+IO wchar: 176921
+IO syscr: 541
+IO syscw: 117
+IO read_bytes: 172032
+IO write_bytes: 122880
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.102366
+rusage ru_stime: 0.029856999999999998
+rusage ru_maxrss: 86536
+rusage ru_minflt: 20989
+rusage ru_majflt: 1
+rusage ru_inblock: 336
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.022466
+Child rusage ru_stime: 0.013293
+Child rusage ru_maxrss: 83364
+Child rusage ru_minflt: 5650
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 116
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1735182635.25 

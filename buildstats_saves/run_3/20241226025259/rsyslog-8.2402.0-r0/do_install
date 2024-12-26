@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188546.54 
+rsyslog-8.2402.0-r0: do_install
+Elapsed time: 12.77 seconds
+utime: 30
+stime: 3
+cutime: 131
+cstime: 26
+IO rchar: 15251749
+IO wchar: 6164288
+IO syscr: 12884
+IO syscw: 1387
+IO read_bytes: 8249344
+IO write_bytes: 6258688
+IO cancelled_write_bytes: 118784
+rusage ru_utime: 0.303913
+rusage ru_stime: 0.033305
+rusage ru_maxrss: 60244
+rusage ru_minflt: 22507
+rusage ru_majflt: 4
+rusage ru_inblock: 1504
+rusage ru_oublock: 280
+rusage ru_nvcsw: 779
+rusage ru_nivcsw: 297
+Child rusage ru_utime: 1.311782
+Child rusage ru_stime: 0.262996
+Child rusage ru_maxrss: 58252
+Child rusage ru_minflt: 216783
+Child rusage ru_majflt: 16
+Child rusage ru_inblock: 14608
+Child rusage ru_oublock: 11944
+Child rusage ru_nvcsw: 4260
+Child rusage ru_nivcsw: 2713
+Status: PASSED 
+Ended: 1735188559.31 

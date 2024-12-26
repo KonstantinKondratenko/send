@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173782.13 
+c-ares-1.27.0-r0: do_patch
+Elapsed time: 0.36 seconds
+utime: 7
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 965545
+IO wchar: 637428
+IO syscr: 329
+IO syscw: 203
+IO read_bytes: 8192
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.073089
+rusage ru_stime: 0.012180999999999999
+rusage ru_maxrss: 81204
+rusage ru_minflt: 8741
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 128
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.013828
+Child rusage ru_stime: 0.003341
+Child rusage ru_maxrss: 75216
+Child rusage ru_minflt: 1253
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 14
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735173782.49 

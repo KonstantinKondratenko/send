@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166205.50 
+linux-firmware-1_20240312-r0: do_recipe_qa
+Elapsed time: 5.14 seconds
+utime: 32
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 567856
+IO wchar: 109424
+IO syscr: 336
+IO syscw: 89
+IO read_bytes: 24576
+IO write_bytes: 94208
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.32126099999999996
+rusage ru_stime: 0.025033
+rusage ru_maxrss: 90696
+rusage ru_minflt: 21555
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 59
+Child rusage ru_utime: 0.020277
+Child rusage ru_stime: 0.016578
+Child rusage ru_maxrss: 87892
+Child rusage ru_minflt: 4206
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 111
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1735166210.64 

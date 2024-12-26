@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199266.12 
+mtd-utils-2.1.6-r0: do_unpack
+Elapsed time: 1.68 seconds
+utime: 8
+stime: 1
+cutime: 12
+cstime: 5
+IO rchar: 5026562
+IO wchar: 1706254
+IO syscr: 1893
+IO syscw: 440
+IO read_bytes: 139264
+IO write_bytes: 2392064
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.081243
+rusage ru_stime: 0.012827
+rusage ru_maxrss: 81188
+rusage ru_minflt: 13012
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 80
+rusage ru_nvcsw: 31
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.126968
+Child rusage ru_stime: 0.054015
+Child rusage ru_maxrss: 77500
+Child rusage ru_minflt: 16786
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 272
+Child rusage ru_oublock: 4592
+Child rusage ru_nvcsw: 56
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1735199267.80 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205766.67 
+psmisc-23.6-r0: do_compile
+Elapsed time: 2.83 seconds
+utime: 18
+stime: 1
+cutime: 268
+cstime: 27
+IO rchar: 27048747
+IO wchar: 4212067
+IO syscr: 14091
+IO syscw: 2107
+IO read_bytes: 282624
+IO write_bytes: 2199552
+IO cancelled_write_bytes: 577536
+rusage ru_utime: 0.182491
+rusage ru_stime: 0.010948999999999999
+rusage ru_maxrss: 61576
+rusage ru_minflt: 9577
+rusage ru_majflt: 10
+rusage ru_inblock: 80
+rusage ru_oublock: 160
+rusage ru_nvcsw: 126
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 2.681232
+Child rusage ru_stime: 0.273839
+Child rusage ru_maxrss: 58948
+Child rusage ru_minflt: 133660
+Child rusage ru_majflt: 19
+Child rusage ru_inblock: 472
+Child rusage ru_oublock: 4136
+Child rusage ru_nvcsw: 1727
+Child rusage ru_nivcsw: 1130
+Status: PASSED 
+Ended: 1735205769.50 

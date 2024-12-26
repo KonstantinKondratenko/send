@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169417.84 
+libdaemon-0.14-r0: do_populate_sysroot
+Elapsed time: 2.93 seconds
+utime: 50
+stime: 4
+cutime: 5
+cstime: 5
+IO rchar: 1619805
+IO wchar: 484936
+IO syscr: 1314
+IO syscw: 206
+IO read_bytes: 8192
+IO write_bytes: 364544
+IO cancelled_write_bytes: 32768
+rusage ru_utime: 0.507272
+rusage ru_stime: 0.047556
+rusage ru_maxrss: 62628
+rusage ru_minflt: 27389
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 520
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 148
+Child rusage ru_utime: 0.05606
+Child rusage ru_stime: 0.053319
+Child rusage ru_maxrss: 60272
+Child rusage ru_minflt: 15282
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 192
+Child rusage ru_nvcsw: 194
+Child rusage ru_nivcsw: 147
+Status: PASSED 
+Ended: 1735169420.77 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167643.76 
+libaio-0.3.113-r0: do_populate_sysroot
+Elapsed time: 3.85 seconds
+utime: 38
+stime: 6
+cutime: 8
+cstime: 5
+IO rchar: 1493576
+IO wchar: 386999
+IO syscr: 1199
+IO syscw: 180
+IO read_bytes: 5017600
+IO write_bytes: 266240
+IO cancelled_write_bytes: 16384
+rusage ru_utime: 0.385912
+rusage ru_stime: 0.061581
+rusage ru_maxrss: 57888
+rusage ru_minflt: 30547
+rusage ru_majflt: 559
+rusage ru_inblock: 5712
+rusage ru_oublock: 368
+rusage ru_nvcsw: 657
+rusage ru_nivcsw: 65
+Child rusage ru_utime: 0.08191
+Child rusage ru_stime: 0.055215
+Child rusage ru_maxrss: 55252
+Child rusage ru_minflt: 14267
+Child rusage ru_majflt: 36
+Child rusage ru_inblock: 4088
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 215
+Child rusage ru_nivcsw: 178
+Status: PASSED 
+Ended: 1735167647.60 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173638.21 
+ninja-native-1.11.1-r0: do_compile
+Elapsed time: 23.91 seconds
+utime: 6
+stime: 1
+cutime: 2862
+cstime: 247
+IO rchar: 429113662
+IO wchar: 197041115
+IO syscr: 43234
+IO syscw: 42719
+IO read_bytes: 401408
+IO write_bytes: 105390080
+IO cancelled_write_bytes: 32186368
+rusage ru_utime: 0.064177
+rusage ru_stime: 0.012033
+rusage ru_maxrss: 83924
+rusage ru_minflt: 7165
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 40
+rusage ru_nvcsw: 50
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 28.621713
+Child rusage ru_stime: 2.476138
+Child rusage ru_maxrss: 202460
+Child rusage ru_minflt: 1457114
+Child rusage ru_majflt: 29
+Child rusage ru_inblock: 784
+Child rusage ru_oublock: 205800
+Child rusage ru_nvcsw: 6723
+Child rusage ru_nivcsw: 6376
+Status: PASSED 
+Ended: 1735173662.12 

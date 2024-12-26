@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735168245.44 
+shadow-4.14.2-r0: do_install
+Elapsed time: 10.34 seconds
+utime: 24
+stime: 3
+cutime: 120
+cstime: 13
+IO rchar: 17810064
+IO wchar: 11406215
+IO syscr: 14584
+IO syscw: 1250
+IO read_bytes: 2097152
+IO write_bytes: 11452416
+IO cancelled_write_bytes: 40960
+rusage ru_utime: 0.248555
+rusage ru_stime: 0.038568
+rusage ru_maxrss: 57840
+rusage ru_minflt: 21842
+rusage ru_majflt: 9
+rusage ru_inblock: 96
+rusage ru_oublock: 248
+rusage ru_nvcsw: 441
+rusage ru_nivcsw: 260
+Child rusage ru_utime: 1.2082600000000001
+Child rusage ru_stime: 0.136983
+Child rusage ru_maxrss: 55660
+Child rusage ru_minflt: 190468
+Child rusage ru_majflt: 20
+Child rusage ru_inblock: 4000
+Child rusage ru_oublock: 22120
+Child rusage ru_nvcsw: 3564
+Child rusage ru_nivcsw: 2878
+Status: PASSED 
+Ended: 1735168255.77 

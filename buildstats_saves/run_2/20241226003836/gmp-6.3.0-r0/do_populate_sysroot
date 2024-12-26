@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735176119.02 
+gmp-6.3.0-r0: do_populate_sysroot
+Elapsed time: 1.79 seconds
+utime: 33
+stime: 3
+cutime: 12
+cstime: 3
+IO rchar: 8708605
+IO wchar: 4941349
+IO syscr: 1891
+IO syscw: 379
+IO read_bytes: 69632
+IO write_bytes: 4153344
+IO cancelled_write_bytes: 532480
+rusage ru_utime: 0.33059299999999997
+rusage ru_stime: 0.036284
+rusage ru_maxrss: 62848
+rusage ru_minflt: 28010
+rusage ru_majflt: 2
+rusage ru_inblock: 104
+rusage ru_oublock: 5416
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 93
+Child rusage ru_utime: 0.125272
+Child rusage ru_stime: 0.035302
+Child rusage ru_maxrss: 60504
+Child rusage ru_minflt: 18887
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 2696
+Child rusage ru_nvcsw: 233
+Child rusage ru_nivcsw: 84
+Status: PASSED 
+Ended: 1735176120.81 

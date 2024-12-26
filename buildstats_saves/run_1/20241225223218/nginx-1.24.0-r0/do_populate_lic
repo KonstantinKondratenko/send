@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166419.33 
+nginx-1.24.0-r0: do_populate_lic
+Elapsed time: 0.19 seconds
+utime: 15
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 777565
+IO wchar: 161892
+IO syscr: 532
+IO syscw: 112
+IO read_bytes: 4096
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.158189
+rusage ru_stime: 0.032449
+rusage ru_maxrss: 86820
+rusage ru_minflt: 21046
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.012336999999999999
+Child rusage ru_stime: 0.021734999999999997
+Child rusage ru_maxrss: 83696
+Child rusage ru_minflt: 5625
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 153
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735166419.52 

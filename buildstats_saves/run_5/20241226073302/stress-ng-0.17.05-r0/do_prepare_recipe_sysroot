@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735206010.31 
+stress-ng-0.17.05-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.45 seconds
+utime: 11
+stime: 6
+cutime: 0
+cstime: 0
+IO rchar: 875930
+IO wchar: 166550
+IO syscr: 225
+IO syscw: 67
+IO read_bytes: 675840
+IO write_bytes: 180224
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.114955
+rusage ru_stime: 0.065688
+rusage ru_maxrss: 59400
+rusage ru_minflt: 6873
+rusage ru_majflt: 2
+rusage ru_inblock: 1312
+rusage ru_oublock: 144
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 60
+Child rusage ru_utime: 0.005932
+Child rusage ru_stime: 0.00085
+Child rusage ru_maxrss: 54612
+Child rusage ru_minflt: 761
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 12
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735206010.76 

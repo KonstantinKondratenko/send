@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735177752.90 
+lttng-ust-2_2.13.7-r0: do_install
+Elapsed time: 13.60 seconds
+utime: 24
+stime: 4
+cutime: 123
+cstime: 20
+IO rchar: 15333464
+IO wchar: 6198680
+IO syscr: 15247
+IO syscw: 1543
+IO read_bytes: 147456
+IO write_bytes: 6275072
+IO cancelled_write_bytes: 57344
+rusage ru_utime: 0.24443199999999998
+rusage ru_stime: 0.044812
+rusage ru_maxrss: 60464
+rusage ru_minflt: 17203
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 304
+rusage ru_nvcsw: 910
+rusage ru_nivcsw: 301
+Child rusage ru_utime: 1.230863
+Child rusage ru_stime: 0.205813
+Child rusage ru_maxrss: 58124
+Child rusage ru_minflt: 188044
+Child rusage ru_majflt: 12
+Child rusage ru_inblock: 272
+Child rusage ru_oublock: 11952
+Child rusage ru_nvcsw: 3578
+Child rusage ru_nivcsw: 4360
+Status: PASSED 
+Ended: 1735177766.50 

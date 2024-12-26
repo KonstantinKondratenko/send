@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735201370.30 
+cargo-native-1.75.0-r0: do_rust_create_wrappers
+Elapsed time: 0.27 seconds
+utime: 19
+stime: 1
+cutime: 1
+cstime: 1
+IO rchar: 635037
+IO wchar: 48797
+IO syscr: 302
+IO syscw: 54
+IO read_bytes: 53248
+IO write_bytes: 94208
+IO cancelled_write_bytes: 32768
+rusage ru_utime: 0.19685
+rusage ru_stime: 0.01406
+rusage ru_maxrss: 61092
+rusage ru_minflt: 9884
+rusage ru_majflt: 9
+rusage ru_inblock: 104
+rusage ru_oublock: 56
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 38
+Child rusage ru_utime: 0.016086
+Child rusage ru_stime: 0.013855999999999999
+Child rusage ru_maxrss: 58604
+Child rusage ru_minflt: 3291
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 35
+Child rusage ru_nivcsw: 16
+Status: PASSED 
+Ended: 1735201370.57 

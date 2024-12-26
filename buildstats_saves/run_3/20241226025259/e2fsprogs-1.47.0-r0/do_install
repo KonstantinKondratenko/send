@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184868.73 
+e2fsprogs-1.47.0-r0: do_install
+Elapsed time: 13.09 seconds
+utime: 26
+stime: 3
+cutime: 193
+cstime: 65
+IO rchar: 58785854
+IO wchar: 35915529
+IO syscr: 32974
+IO syscw: 2856
+IO read_bytes: 294912
+IO write_bytes: 36204544
+IO cancelled_write_bytes: 18264064
+rusage ru_utime: 0.26859
+rusage ru_stime: 0.03777
+rusage ru_maxrss: 59300
+rusage ru_minflt: 17386
+rusage ru_majflt: 28
+rusage ru_inblock: 280
+rusage ru_oublock: 320
+rusage ru_nvcsw: 841
+rusage ru_nivcsw: 325
+Child rusage ru_utime: 1.933274
+Child rusage ru_stime: 0.6541119999999999
+Child rusage ru_maxrss: 57136
+Child rusage ru_minflt: 303607
+Child rusage ru_majflt: 14
+Child rusage ru_inblock: 296
+Child rusage ru_oublock: 70392
+Child rusage ru_nvcsw: 5232
+Child rusage ru_nivcsw: 6900
+Status: PASSED 
+Ended: 1735184881.82 

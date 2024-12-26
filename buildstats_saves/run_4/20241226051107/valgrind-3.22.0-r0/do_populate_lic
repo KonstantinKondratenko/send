@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190827.08 
+valgrind-3.22.0-r0: do_populate_lic
+Elapsed time: 1.12 seconds
+utime: 11
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 1494610
+IO wchar: 269765
+IO syscr: 698
+IO syscw: 132
+IO read_bytes: 557056
+IO write_bytes: 147456
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.115896
+rusage ru_stime: 0.027042
+rusage ru_maxrss: 86180
+rusage ru_minflt: 21578
+rusage ru_majflt: 2
+rusage ru_inblock: 1088
+rusage ru_oublock: 224
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.018385
+Child rusage ru_stime: 0.014856
+Child rusage ru_maxrss: 83028
+Child rusage ru_minflt: 5662
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 166
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735190828.20 

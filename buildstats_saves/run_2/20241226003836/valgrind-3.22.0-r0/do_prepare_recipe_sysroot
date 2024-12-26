@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735177395.29 
+valgrind-3.22.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.79 seconds
+utime: 36
+stime: 28
+cutime: 2
+cstime: 0
+IO rchar: 4723462
+IO wchar: 2511600
+IO syscr: 984
+IO syscw: 517
+IO read_bytes: 610304
+IO write_bytes: 2555904
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.364232
+rusage ru_stime: 0.282861
+rusage ru_maxrss: 72672
+rusage ru_minflt: 15745
+rusage ru_majflt: 2
+rusage ru_inblock: 1184
+rusage ru_oublock: 2416
+rusage ru_nvcsw: 50
+rusage ru_nivcsw: 92
+Child rusage ru_utime: 0.024498
+Child rusage ru_stime: 0.006274999999999999
+Child rusage ru_maxrss: 67832
+Child rusage ru_minflt: 1597
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 2576
+Child rusage ru_nvcsw: 27
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735177398.08 

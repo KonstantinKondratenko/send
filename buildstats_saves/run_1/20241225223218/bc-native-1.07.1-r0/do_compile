@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166119.93 
+bc-native-1.07.1-r0: do_compile
+Elapsed time: 0.75 seconds
+utime: 8
+stime: 1
+cutime: 166
+cstime: 22
+IO rchar: 18862327
+IO wchar: 1001602
+IO syscr: 6609
+IO syscw: 768
+IO read_bytes: 491520
+IO write_bytes: 589824
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.08154
+rusage ru_stime: 0.019414
+rusage ru_maxrss: 85436
+rusage ru_minflt: 7627
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 46
+rusage ru_nivcsw: 11
+Child rusage ru_utime: 1.6644489999999998
+Child rusage ru_stime: 0.22608
+Child rusage ru_maxrss: 82740
+Child rusage ru_minflt: 105395
+Child rusage ru_majflt: 121
+Child rusage ru_inblock: 960
+Child rusage ru_oublock: 1048
+Child rusage ru_nvcsw: 556
+Child rusage ru_nivcsw: 204
+Status: PASSED 
+Ended: 1735166120.68 

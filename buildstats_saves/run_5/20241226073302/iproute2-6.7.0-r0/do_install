@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735204656.24 
+iproute2-6.7.0-r0: do_install
+Elapsed time: 1.19 seconds
+utime: 22
+stime: 3
+cutime: 12
+cstime: 6
+IO rchar: 11866379
+IO wchar: 11030110
+IO syscr: 2189
+IO syscw: 277
+IO read_bytes: 851968
+IO write_bytes: 11096064
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.22815
+rusage ru_stime: 0.031314
+rusage ru_maxrss: 59736
+rusage ru_minflt: 16762
+rusage ru_majflt: 90
+rusage ru_inblock: 1448
+rusage ru_oublock: 176
+rusage ru_nvcsw: 724
+rusage ru_nivcsw: 50
+Child rusage ru_utime: 0.121976
+Child rusage ru_stime: 0.068226
+Child rusage ru_maxrss: 57488
+Child rusage ru_minflt: 18382
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 216
+Child rusage ru_oublock: 21496
+Child rusage ru_nvcsw: 500
+Child rusage ru_nivcsw: 311
+Status: PASSED 
+Ended: 1735204657.43 

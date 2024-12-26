@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735187511.13 
+libtraceevent-1.7.3-r0: do_configure
+Elapsed time: 3.37 seconds
+utime: 22
+stime: 1
+cutime: 131
+cstime: 8
+IO rchar: 11895260
+IO wchar: 4500815
+IO syscr: 2407
+IO syscw: 929
+IO read_bytes: 278528
+IO write_bytes: 4845568
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.229182
+rusage ru_stime: 0.012972
+rusage ru_maxrss: 59832
+rusage ru_minflt: 13804
+rusage ru_majflt: 0
+rusage ru_inblock: 288
+rusage ru_oublock: 144
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 58
+Child rusage ru_utime: 1.3143289999999999
+Child rusage ru_stime: 0.08353
+Child rusage ru_maxrss: 57144
+Child rusage ru_minflt: 25343
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 256
+Child rusage ru_oublock: 9320
+Child rusage ru_nvcsw: 241
+Child rusage ru_nivcsw: 225
+Status: PASSED 
+Ended: 1735187514.50 

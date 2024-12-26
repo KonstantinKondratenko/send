@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166453.68 
+dtc-native-1.7.0-r0: do_recipe_qa
+Elapsed time: 1.55 seconds
+utime: 22
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 792435
+IO wchar: 123080
+IO syscr: 344
+IO syscw: 110
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.22932899999999998
+rusage ru_stime: 0.032761
+rusage ru_maxrss: 87532
+rusage ru_minflt: 19796
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 48
+Child rusage ru_utime: 0.017963
+Child rusage ru_stime: 0.021551999999999998
+Child rusage ru_maxrss: 84716
+Child rusage ru_minflt: 4380
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 65
+Child rusage ru_nivcsw: 41
+Status: PASSED 
+Ended: 1735166455.23 

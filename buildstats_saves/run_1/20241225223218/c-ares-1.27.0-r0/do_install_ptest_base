@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169200.93 
+c-ares-1.27.0-r0: do_install_ptest_base
+Elapsed time: 0.33 seconds
+utime: 15
+stime: 2
+cutime: 1
+cstime: 5
+IO rchar: 47358598
+IO wchar: 46960807
+IO syscr: 961
+IO syscw: 394
+IO read_bytes: 47030272
+IO write_bytes: 46981120
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.15598199999999998
+rusage ru_stime: 0.022283
+rusage ru_maxrss: 57648
+rusage ru_minflt: 17952
+rusage ru_majflt: 4
+rusage ru_inblock: 96
+rusage ru_oublock: 64
+rusage ru_nvcsw: 47
+rusage ru_nivcsw: 280
+Child rusage ru_utime: 0.017685
+Child rusage ru_stime: 0.053196
+Child rusage ru_maxrss: 55436
+Child rusage ru_minflt: 3413
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 91760
+Child rusage ru_oublock: 91696
+Child rusage ru_nvcsw: 217
+Child rusage ru_nivcsw: 113
+Status: PASSED 
+Ended: 1735169201.26 

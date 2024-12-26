@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172724.07 
+watchdog-config-1.0-r0: do_package
+Elapsed time: 8.51 seconds
+utime: 39
+stime: 33
+cutime: 77
+cstime: 9
+IO rchar: 3089987
+IO wchar: 1801364
+IO syscr: 2807
+IO syscw: 677
+IO read_bytes: 122880
+IO write_bytes: 1855488
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.397011
+rusage ru_stime: 0.339711
+rusage ru_maxrss: 59644
+rusage ru_minflt: 35185
+rusage ru_majflt: 0
+rusage ru_inblock: 240
+rusage ru_oublock: 544
+rusage ru_nvcsw: 1256
+rusage ru_nivcsw: 181
+Child rusage ru_utime: 0.7779229999999999
+Child rusage ru_stime: 0.090511
+Child rusage ru_maxrss: 57344
+Child rusage ru_minflt: 21972
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 3080
+Child rusage ru_nvcsw: 2031
+Child rusage ru_nivcsw: 499
+Status: PASSED 
+Ended: 1735172732.58 

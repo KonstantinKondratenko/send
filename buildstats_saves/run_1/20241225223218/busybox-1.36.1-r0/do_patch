@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166119.89 
+busybox-1.36.1-r0: do_patch
+Elapsed time: 1.03 seconds
+utime: 9
+stime: 4
+cutime: 44
+cstime: 11
+IO rchar: 5557975
+IO wchar: 1327783
+IO syscr: 8178
+IO syscw: 1062
+IO read_bytes: 0
+IO write_bytes: 1155072
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.09252099999999999
+rusage ru_stime: 0.040708999999999995
+rusage ru_maxrss: 82004
+rusage ru_minflt: 17142
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 424
+rusage ru_nvcsw: 63
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.44164299999999995
+Child rusage ru_stime: 0.11549799999999999
+Child rusage ru_maxrss: 75828
+Child rusage ru_minflt: 127014
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1832
+Child rusage ru_nvcsw: 1977
+Child rusage ru_nivcsw: 239
+Status: PASSED 
+Ended: 1735166120.93 

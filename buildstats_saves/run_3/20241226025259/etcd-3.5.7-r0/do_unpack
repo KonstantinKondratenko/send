@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182324.65 
+etcd-3.5.7-r0: do_unpack
+Elapsed time: 3.55 seconds
+utime: 6
+stime: 3
+cutime: 16
+cstime: 10
+IO rchar: 6032625
+IO wchar: 11984560
+IO syscr: 30216
+IO syscw: 16083
+IO read_bytes: 110592
+IO write_bytes: 14626816
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.061531999999999996
+rusage ru_stime: 0.034610999999999996
+rusage ru_maxrss: 82800
+rusage ru_minflt: 15525
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.161275
+Child rusage ru_stime: 0.107595
+Child rusage ru_maxrss: 78944
+Child rusage ru_minflt: 24437
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 216
+Child rusage ru_oublock: 28464
+Child rusage ru_nvcsw: 971
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1735182328.21 

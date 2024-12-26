@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199438.23 
+glibc-mtrace-2.39+git-r0: do_collect_spdx_deps
+Elapsed time: 0.64 seconds
+utime: 9
+stime: 1
+cutime: 0
+cstime: 0
+IO rchar: 419945
+IO wchar: 103928
+IO syscr: 129
+IO syscw: 57
+IO read_bytes: 0
+IO write_bytes: 118784
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.091026
+rusage ru_stime: 0.019788
+rusage ru_maxrss: 79804
+rusage ru_minflt: 6423
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 17
+Child rusage ru_utime: 0.00598
+Child rusage ru_stime: 0.0010249999999999999
+Child rusage ru_maxrss: 74328
+Child rusage ru_minflt: 757
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 10
+Child rusage ru_nivcsw: 1
+Status: PASSED 
+Ended: 1735199438.86 

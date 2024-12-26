@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188604.37 
+python3-maturin-native-1.4.0-r0: do_populate_sysroot
+Elapsed time: 1.53 seconds
+utime: 53
+stime: 6
+cutime: 33
+cstime: 11
+IO rchar: 79619768
+IO wchar: 43005708
+IO syscr: 5502
+IO syscw: 2202
+IO read_bytes: 524288
+IO write_bytes: 30593024
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5326489999999999
+rusage ru_stime: 0.064078
+rusage ru_maxrss: 65092
+rusage ru_minflt: 37421
+rusage ru_majflt: 0
+rusage ru_inblock: 144
+rusage ru_oublock: 28904
+rusage ru_nvcsw: 42
+rusage ru_nivcsw: 916
+Child rusage ru_utime: 0.330536
+Child rusage ru_stime: 0.112241
+Child rusage ru_maxrss: 62752
+Child rusage ru_minflt: 27681
+Child rusage ru_majflt: 9
+Child rusage ru_inblock: 880
+Child rusage ru_oublock: 30848
+Child rusage ru_nvcsw: 403
+Child rusage ru_nivcsw: 335
+Status: PASSED 
+Ended: 1735188605.90 

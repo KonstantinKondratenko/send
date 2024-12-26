@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191110.79 
+gcc-cross-x86_64-13.2.0-r0: do_install
+Elapsed time: 1.76 seconds
+utime: 11
+stime: 2
+cutime: 182
+cstime: 35
+IO rchar: 235502466
+IO wchar: 195129417
+IO syscr: 61871
+IO syscw: 6258
+IO read_bytes: 1200128
+IO write_bytes: 193413120
+IO cancelled_write_bytes: 1089536
+rusage ru_utime: 0.117036
+rusage ru_stime: 0.020898999999999997
+rusage ru_maxrss: 86116
+rusage ru_minflt: 16671
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 768
+rusage ru_nvcsw: 672
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 1.829507
+Child rusage ru_stime: 0.355647
+Child rusage ru_maxrss: 83184
+Child rusage ru_minflt: 585589
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2344
+Child rusage ru_oublock: 376992
+Child rusage ru_nvcsw: 8041
+Child rusage ru_nivcsw: 261
+Status: PASSED 
+Ended: 1735191112.55 

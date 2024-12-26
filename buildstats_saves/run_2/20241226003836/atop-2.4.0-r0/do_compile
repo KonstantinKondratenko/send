@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735181027.30 
+atop-2.4.0-r0: do_compile
+Elapsed time: 12.67 seconds
+utime: 11
+stime: 1
+cutime: 567
+cstime: 59
+IO rchar: 38085013
+IO wchar: 10114714
+IO syscr: 9948
+IO syscw: 3331
+IO read_bytes: 1011712
+IO write_bytes: 3010560
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.11746
+rusage ru_stime: 0.015660999999999998
+rusage ru_maxrss: 60852
+rusage ru_minflt: 7162
+rusage ru_majflt: 4
+rusage ru_inblock: 48
+rusage ru_oublock: 184
+rusage ru_nvcsw: 210
+rusage ru_nivcsw: 60
+Child rusage ru_utime: 5.672079
+Child rusage ru_stime: 0.591441
+Child rusage ru_maxrss: 58352
+Child rusage ru_minflt: 139258
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1928
+Child rusage ru_oublock: 5696
+Child rusage ru_nvcsw: 2799
+Child rusage ru_nivcsw: 5424
+Status: PASSED 
+Ended: 1735181039.97 

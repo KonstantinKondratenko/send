@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166074.95 
+autoconf-archive-2023.02.20-r0: do_configure
+Elapsed time: 3.27 seconds
+utime: 21
+stime: 3
+cutime: 123
+cstime: 24
+IO rchar: 20706914
+IO wchar: 3240896
+IO syscr: 14687
+IO syscw: 4135
+IO read_bytes: 12288
+IO write_bytes: 2379776
+IO cancelled_write_bytes: 487424
+rusage ru_utime: 0.214729
+rusage ru_stime: 0.039764
+rusage ru_maxrss: 82860
+rusage ru_minflt: 19798
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 224
+rusage ru_nvcsw: 49
+rusage ru_nivcsw: 92
+Child rusage ru_utime: 1.233914
+Child rusage ru_stime: 0.244998
+Child rusage ru_maxrss: 80132
+Child rusage ru_minflt: 129069
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 4424
+Child rusage ru_nvcsw: 1373
+Child rusage ru_nivcsw: 953
+Status: PASSED 
+Ended: 1735166078.22 

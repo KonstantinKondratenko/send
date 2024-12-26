@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188572.33 
+cmocka-1.1.7+git-r0: do_create_spdx
+Elapsed time: 1.35 seconds
+utime: 34
+stime: 8
+cutime: 6
+cstime: 2
+IO rchar: 2192026
+IO wchar: 2081286
+IO syscr: 830
+IO syscw: 2394
+IO read_bytes: 5943296
+IO write_bytes: 737280
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.348413
+rusage ru_stime: 0.080094
+rusage ru_maxrss: 63880
+rusage ru_minflt: 28586
+rusage ru_majflt: 168
+rusage ru_inblock: 11288
+rusage ru_oublock: 1312
+rusage ru_nvcsw: 258
+rusage ru_nivcsw: 751
+Child rusage ru_utime: 0.069544
+Child rusage ru_stime: 0.025571
+Child rusage ru_maxrss: 60868
+Child rusage ru_minflt: 7947
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 320
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 431
+Child rusage ru_nivcsw: 127
+Status: PASSED 
+Ended: 1735188573.68 

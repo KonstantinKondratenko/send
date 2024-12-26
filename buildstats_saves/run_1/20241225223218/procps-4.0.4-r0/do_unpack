@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166129.45 
+procps-4.0.4-r0: do_unpack
+Elapsed time: 0.23 seconds
+utime: 5
+stime: 2
+cutime: 13
+cstime: 5
+IO rchar: 5075857
+IO wchar: 8592779
+IO syscr: 2112
+IO syscw: 942
+IO read_bytes: 12288
+IO write_bytes: 9187328
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.05738
+rusage ru_stime: 0.024591
+rusage ru_maxrss: 81528
+rusage ru_minflt: 13902
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 34
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.139784
+Child rusage ru_stime: 0.055789
+Child rusage ru_maxrss: 77704
+Child rusage ru_minflt: 20000
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 17872
+Child rusage ru_nvcsw: 67
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735166129.68 

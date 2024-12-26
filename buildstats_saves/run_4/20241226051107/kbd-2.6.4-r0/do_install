@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197382.18 
+kbd-2.6.4-r0: do_install
+Elapsed time: 15.99 seconds
+utime: 23
+stime: 3
+cutime: 150
+cstime: 56
+IO rchar: 20023808
+IO wchar: 9378816
+IO syscr: 29679
+IO syscw: 2722
+IO read_bytes: 6746112
+IO write_bytes: 13611008
+IO cancelled_write_bytes: 4734976
+rusage ru_utime: 0.23333299999999998
+rusage ru_stime: 0.039622
+rusage ru_maxrss: 58928
+rusage ru_minflt: 16810
+rusage ru_majflt: 4
+rusage ru_inblock: 32
+rusage ru_oublock: 240
+rusage ru_nvcsw: 469
+rusage ru_nivcsw: 353
+Child rusage ru_utime: 1.5063900000000001
+Child rusage ru_stime: 0.566615
+Child rusage ru_maxrss: 56940
+Child rusage ru_minflt: 226960
+Child rusage ru_majflt: 12
+Child rusage ru_inblock: 13144
+Child rusage ru_oublock: 26344
+Child rusage ru_nvcsw: 4941
+Child rusage ru_nivcsw: 8208
+Status: PASSED 
+Ended: 1735197398.17 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735201859.67 
+libstd-rs-1.75.0-r0: do_install
+Elapsed time: 0.83 seconds
+utime: 18
+stime: 3
+cutime: 3
+cstime: 15
+IO rchar: 182445343
+IO wchar: 182087806
+IO syscr: 2191
+IO syscw: 1472
+IO read_bytes: 24576
+IO write_bytes: 182206464
+IO cancelled_write_bytes: 61440
+rusage ru_utime: 0.18498599999999998
+rusage ru_stime: 0.036996999999999995
+rusage ru_maxrss: 58700
+rusage ru_minflt: 14229
+rusage ru_majflt: 3
+rusage ru_inblock: 48
+rusage ru_oublock: 160
+rusage ru_nvcsw: 340
+rusage ru_nivcsw: 148
+Child rusage ru_utime: 0.03676
+Child rusage ru_stime: 0.154863
+Child rusage ru_maxrss: 56600
+Child rusage ru_minflt: 3075
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 355712
+Child rusage ru_nvcsw: 180
+Child rusage ru_nivcsw: 213
+Status: PASSED 
+Ended: 1735201860.50 

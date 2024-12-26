@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180823.67 
+etcd-3.5.7-r0: do_configure
+Elapsed time: 0.21 seconds
+utime: 14
+stime: 2
+cutime: 0
+cstime: 0
+IO rchar: 321005
+IO wchar: 67907
+IO syscr: 72
+IO syscw: 47
+IO read_bytes: 8192
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.14374399999999998
+rusage ru_stime: 0.024641
+rusage ru_maxrss: 62592
+rusage ru_minflt: 7985
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 144
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 58
+Child rusage ru_utime: 0.003707
+Child rusage ru_stime: 0.005948999999999999
+Child rusage ru_maxrss: 59792
+Child rusage ru_minflt: 644
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 3
+Child rusage ru_nivcsw: 9
+Status: PASSED 
+Ended: 1735180823.88 

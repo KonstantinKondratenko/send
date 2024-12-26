@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169276.08 
+liburcu-0.14.0-r0: do_install
+Elapsed time: 6.15 seconds
+utime: 23
+stime: 5
+cutime: 68
+cstime: 21
+IO rchar: 6957270
+IO wchar: 2135584
+IO syscr: 15986
+IO syscw: 1283
+IO read_bytes: 217088
+IO write_bytes: 2785280
+IO cancelled_write_bytes: 389120
+rusage ru_utime: 0.233372
+rusage ru_stime: 0.05516
+rusage ru_maxrss: 57952
+rusage ru_minflt: 21671
+rusage ru_majflt: 7
+rusage ru_inblock: 56
+rusage ru_oublock: 280
+rusage ru_nvcsw: 586
+rusage ru_nivcsw: 288
+Child rusage ru_utime: 0.682439
+Child rusage ru_stime: 0.214779
+Child rusage ru_maxrss: 55748
+Child rusage ru_minflt: 119970
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 368
+Child rusage ru_oublock: 5160
+Child rusage ru_nvcsw: 2891
+Child rusage ru_nivcsw: 2822
+Status: PASSED 
+Ended: 1735169282.22 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189131.24 
+inotify-tools-3.22.6.0-r0: do_configure
+Elapsed time: 24.61 seconds
+utime: 29
+stime: 6
+cutime: 471
+cstime: 92
+IO rchar: 107793023
+IO wchar: 15885301
+IO syscr: 50623
+IO syscw: 14829
+IO read_bytes: 552960
+IO write_bytes: 14741504
+IO cancelled_write_bytes: 8056832
+rusage ru_utime: 0.29914599999999997
+rusage ru_stime: 0.06216
+rusage ru_maxrss: 62324
+rusage ru_minflt: 20553
+rusage ru_majflt: 0
+rusage ru_inblock: 176
+rusage ru_oublock: 272
+rusage ru_nvcsw: 202
+rusage ru_nivcsw: 54
+Child rusage ru_utime: 4.718887
+Child rusage ru_stime: 0.924101
+Child rusage ru_maxrss: 59852
+Child rusage ru_minflt: 535456
+Child rusage ru_majflt: 31
+Child rusage ru_inblock: 904
+Child rusage ru_oublock: 28520
+Child rusage ru_nvcsw: 6417
+Child rusage ru_nivcsw: 3254
+Status: PASSED 
+Ended: 1735189155.84 

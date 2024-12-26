@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172756.24 
+python3-pytest-subtests-0.11.0-r0: do_package
+Elapsed time: 5.72 seconds
+utime: 55
+stime: 20
+cutime: 63
+cstime: 10
+IO rchar: 2169923
+IO wchar: 887157
+IO syscr: 3124
+IO syscw: 431
+IO read_bytes: 24576
+IO write_bytes: 794624
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.559453
+rusage ru_stime: 0.200096
+rusage ru_maxrss: 61104
+rusage ru_minflt: 35342
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 560
+rusage ru_nvcsw: 1216
+rusage ru_nivcsw: 361
+Child rusage ru_utime: 0.637644
+Child rusage ru_stime: 0.10048399999999999
+Child rusage ru_maxrss: 114720
+Child rusage ru_minflt: 25809
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 992
+Child rusage ru_nvcsw: 2610
+Child rusage ru_nivcsw: 643
+Status: PASSED 
+Ended: 1735172761.95 

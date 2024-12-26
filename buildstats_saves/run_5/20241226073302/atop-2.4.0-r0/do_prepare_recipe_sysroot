@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735206003.87 
+atop-2.4.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 1.21 seconds
+utime: 14
+stime: 3
+cutime: 0
+cstime: 0
+IO rchar: 878982
+IO wchar: 166353
+IO syscr: 226
+IO syscw: 67
+IO read_bytes: 499712
+IO write_bytes: 180224
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.140371
+rusage ru_stime: 0.038283
+rusage ru_maxrss: 59308
+rusage ru_minflt: 9517
+rusage ru_majflt: 1
+rusage ru_inblock: 968
+rusage ru_oublock: 144
+rusage ru_nvcsw: 46
+rusage ru_nivcsw: 61
+Child rusage ru_utime: 0.0058249999999999994
+Child rusage ru_stime: 0.002
+Child rusage ru_maxrss: 54520
+Child rusage ru_minflt: 769
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 12
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735206005.08 

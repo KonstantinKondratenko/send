@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190433.13 
+python3-maturin-native-1.4.0-r0: do_patch
+Elapsed time: 0.59 seconds
+utime: 14
+stime: 0
+cutime: 3
+cstime: 0
+IO rchar: 1067878
+IO wchar: 723196
+IO syscr: 741
+IO syscw: 1369
+IO read_bytes: 8192
+IO write_bytes: 204800
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.149288
+rusage ru_stime: 0.007857
+rusage ru_maxrss: 86540
+rusage ru_minflt: 12237
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 200
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.031481999999999996
+Child rusage ru_stime: 0.003787
+Child rusage ru_maxrss: 81364
+Child rusage ru_minflt: 9836
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 200
+Child rusage ru_nvcsw: 147
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735190433.73 

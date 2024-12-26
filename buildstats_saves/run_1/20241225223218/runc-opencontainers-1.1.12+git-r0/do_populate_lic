@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166406.96 
+runc-opencontainers-1.1.12+git-r0: do_populate_lic
+Elapsed time: 0.27 seconds
+utime: 16
+stime: 4
+cutime: 2
+cstime: 2
+IO rchar: 819455
+IO wchar: 191106
+IO syscr: 526
+IO syscw: 113
+IO read_bytes: 4096
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.166456
+rusage ru_stime: 0.044388
+rusage ru_maxrss: 86976
+rusage ru_minflt: 21226
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 224
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 43
+Child rusage ru_utime: 0.024925
+Child rusage ru_stime: 0.026883999999999998
+Child rusage ru_maxrss: 83824
+Child rusage ru_minflt: 5860
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 72
+Child rusage ru_nivcsw: 49
+Status: PASSED 
+Ended: 1735166407.24 

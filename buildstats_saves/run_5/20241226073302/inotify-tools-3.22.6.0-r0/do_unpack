@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199204.31 
+inotify-tools-3.22.6.0-r0: do_unpack
+Elapsed time: 9.33 seconds
+utime: 7
+stime: 4
+cutime: 13
+cstime: 5
+IO rchar: 5091925
+IO wchar: 458592
+IO syscr: 2185
+IO syscw: 359
+IO read_bytes: 12288
+IO write_bytes: 770048
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.070246
+rusage ru_stime: 0.04683
+rusage ru_maxrss: 81392
+rusage ru_minflt: 14721
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 29
+Child rusage ru_utime: 0.135266
+Child rusage ru_stime: 0.056410999999999996
+Child rusage ru_maxrss: 77908
+Child rusage ru_minflt: 17947
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 1408
+Child rusage ru_nvcsw: 117
+Child rusage ru_nivcsw: 94
+Status: PASSED 
+Ended: 1735199213.63 

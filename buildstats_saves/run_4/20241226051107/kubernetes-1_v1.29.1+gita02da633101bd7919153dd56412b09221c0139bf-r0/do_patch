@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190960.40 
+kubernetes-1_v1.29.1+gita02da633101bd7919153dd56412b09221c0139bf-r0: do_patch
+Elapsed time: 0.51 seconds
+utime: 17
+stime: 6
+cutime: 17
+cstime: 3
+IO rchar: 2404589
+IO wchar: 783816
+IO syscr: 2722
+IO syscw: 438
+IO read_bytes: 20480
+IO write_bytes: 802816
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.17182
+rusage ru_stime: 0.061363999999999995
+rusage ru_maxrss: 83596
+rusage ru_minflt: 12542
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 168
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 49
+Child rusage ru_utime: 0.17437999999999998
+Child rusage ru_stime: 0.038327
+Child rusage ru_maxrss: 77564
+Child rusage ru_minflt: 40539
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 1400
+Child rusage ru_nvcsw: 610
+Child rusage ru_nivcsw: 135
+Status: PASSED 
+Ended: 1735190960.91 

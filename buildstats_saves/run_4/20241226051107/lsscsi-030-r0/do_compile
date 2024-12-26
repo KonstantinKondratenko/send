@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197734.63 
+lsscsi-030-r0: do_compile
+Elapsed time: 7.28 seconds
+utime: 14
+stime: 0
+cutime: 169
+cstime: 6
+IO rchar: 6867211
+IO wchar: 2786381
+IO syscr: 1907
+IO syscw: 861
+IO read_bytes: 212992
+IO write_bytes: 827392
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.149412
+rusage ru_stime: 0.008787999999999999
+rusage ru_maxrss: 61436
+rusage ru_minflt: 9514
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 128
+rusage ru_nvcsw: 91
+rusage ru_nivcsw: 171
+Child rusage ru_utime: 1.69177
+Child rusage ru_stime: 0.06665499999999999
+Child rusage ru_maxrss: 75444
+Child rusage ru_minflt: 23162
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 400
+Child rusage ru_oublock: 1488
+Child rusage ru_nvcsw: 435
+Child rusage ru_nivcsw: 797
+Status: PASSED 
+Ended: 1735197741.92 

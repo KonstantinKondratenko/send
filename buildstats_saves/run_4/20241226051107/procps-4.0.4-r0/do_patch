@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190393.07 
+procps-4.0.4-r0: do_patch
+Elapsed time: 0.26 seconds
+utime: 9
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 1040420
+IO wchar: 636416
+IO syscr: 335
+IO syscw: 202
+IO read_bytes: 8192
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.095694
+rusage ru_stime: 0.018227
+rusage ru_maxrss: 82940
+rusage ru_minflt: 9256
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 128
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 33
+Child rusage ru_utime: 0.015681999999999998
+Child rusage ru_stime: 0.001058
+Child rusage ru_maxrss: 77032
+Child rusage ru_minflt: 1272
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 3
+Status: PASSED 
+Ended: 1735190393.32 

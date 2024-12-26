@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199289.12 
+systemd-compat-units-1.0-r0: do_patch
+Elapsed time: 1.84 seconds
+utime: 5
+stime: 0
+cutime: 1
+cstime: 0
+IO rchar: 943592
+IO wchar: 629840
+IO syscr: 318
+IO syscw: 194
+IO read_bytes: 16384
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.051757
+rusage ru_stime: 0.00941
+rusage ru_maxrss: 80632
+rusage ru_minflt: 8261
+rusage ru_majflt: 14
+rusage ru_inblock: 32
+rusage ru_oublock: 128
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.01637
+Child rusage ru_stime: 0.000523
+Child rusage ru_maxrss: 75060
+Child rusage ru_minflt: 1271
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 16
+Child rusage ru_nivcsw: 1
+Status: PASSED 
+Ended: 1735199290.96 

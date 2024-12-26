@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190296.75 
+valgrind-3.22.0-r0: do_patch
+Elapsed time: 1.47 seconds
+utime: 9
+stime: 5
+cutime: 52
+cstime: 13
+IO rchar: 12361219
+IO wchar: 5688587
+IO syscr: 12828
+IO syscw: 2448
+IO read_bytes: 4550656
+IO write_bytes: 5681152
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.096968
+rusage ru_stime: 0.050422999999999996
+rusage ru_maxrss: 85128
+rusage ru_minflt: 24569
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 248
+rusage ru_nvcsw: 97
+rusage ru_nivcsw: 21
+Child rusage ru_utime: 0.5247999999999999
+Child rusage ru_stime: 0.13061799999999998
+Child rusage ru_maxrss: 81836
+Child rusage ru_minflt: 199128
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8848
+Child rusage ru_oublock: 10848
+Child rusage ru_nvcsw: 3136
+Child rusage ru_nivcsw: 155
+Status: PASSED 
+Ended: 1735190298.22 

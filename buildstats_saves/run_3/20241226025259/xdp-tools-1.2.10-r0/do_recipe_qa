@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182114.59 
+xdp-tools-1.2.10-r0: do_recipe_qa
+Elapsed time: 0.35 seconds
+utime: 6
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 592154
+IO wchar: 113066
+IO syscr: 332
+IO syscw: 88
+IO read_bytes: 20480
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.064929
+rusage ru_stime: 0.030555
+rusage ru_maxrss: 84360
+rusage ru_minflt: 15504
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 160
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.01499
+Child rusage ru_stime: 0.009519
+Child rusage ru_maxrss: 81456
+Child rusage ru_minflt: 4337
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 135
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735182114.94 

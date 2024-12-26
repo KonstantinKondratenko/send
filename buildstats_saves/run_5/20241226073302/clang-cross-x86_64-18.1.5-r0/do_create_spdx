@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199022.51 
+clang-cross-x86_64-18.1.5-r0: do_create_spdx
+Elapsed time: 4.87 seconds
+utime: 9
+stime: 1
+cutime: 2
+cstime: 2
+IO rchar: 1650278
+IO wchar: 1022094
+IO syscr: 790
+IO syscw: 268
+IO read_bytes: 4096
+IO write_bytes: 741376
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.09592099999999999
+rusage ru_stime: 0.019983
+rusage ru_maxrss: 85584
+rusage ru_minflt: 21292
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 320
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.023451
+Child rusage ru_stime: 0.022220999999999998
+Child rusage ru_maxrss: 82676
+Child rusage ru_minflt: 6717
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1128
+Child rusage ru_nvcsw: 138
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1735199027.38 

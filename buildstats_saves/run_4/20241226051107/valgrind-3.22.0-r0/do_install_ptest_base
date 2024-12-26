@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194043.11 
+valgrind-3.22.0-r0: do_install_ptest_base
+Elapsed time: 31.11 seconds
+utime: 58
+stime: 20
+cutime: 210
+cstime: 307
+IO rchar: 364545483
+IO wchar: 353137221
+IO syscr: 822918
+IO syscw: 717804
+IO read_bytes: 112082944
+IO write_bytes: 390115328
+IO cancelled_write_bytes: 219660288
+rusage ru_utime: 0.58709
+rusage ru_stime: 0.203401
+rusage ru_maxrss: 63696
+rusage ru_minflt: 14725
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 4304
+rusage ru_nvcsw: 29289
+rusage ru_nivcsw: 443
+Child rusage ru_utime: 2.1075720000000002
+Child rusage ru_stime: 3.077205
+Child rusage ru_maxrss: 57668
+Child rusage ru_minflt: 236945
+Child rusage ru_majflt: 8
+Child rusage ru_inblock: 218912
+Child rusage ru_oublock: 757640
+Child rusage ru_nvcsw: 16481
+Child rusage ru_nivcsw: 82549
+Status: PASSED 
+Ended: 1735194074.22 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180802.34 
+irqbalance-1.8.0+git-r0: do_prepare_recipe_sysroot
+Elapsed time: 4.48 seconds
+utime: 9
+stime: 5
+cutime: 1
+cstime: 0
+IO rchar: 1921327
+IO wchar: 1057824
+IO syscr: 603
+IO syscw: 301
+IO read_bytes: 282624
+IO write_bytes: 1101824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.091795
+rusage ru_stime: 0.055874999999999994
+rusage ru_maxrss: 60624
+rusage ru_minflt: 8679
+rusage ru_majflt: 2
+rusage ru_inblock: 544
+rusage ru_oublock: 152
+rusage ru_nvcsw: 45
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.013973
+Child rusage ru_stime: 0.003908
+Child rusage ru_maxrss: 55776
+Child rusage ru_minflt: 1559
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 2000
+Child rusage ru_nvcsw: 20
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735180806.82 

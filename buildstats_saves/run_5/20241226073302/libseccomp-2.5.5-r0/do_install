@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735200912.80 
+libseccomp-2.5.5-r0: do_install
+Elapsed time: 3.23 seconds
+utime: 18
+stime: 4
+cutime: 25
+cstime: 7
+IO rchar: 5780038
+IO wchar: 2746084
+IO syscr: 9043
+IO syscw: 631
+IO read_bytes: 208896
+IO write_bytes: 2854912
+IO cancelled_write_bytes: 1347584
+rusage ru_utime: 0.183526
+rusage ru_stime: 0.040783
+rusage ru_maxrss: 57872
+rusage ru_minflt: 17459
+rusage ru_majflt: 4
+rusage ru_inblock: 56
+rusage ru_oublock: 192
+rusage ru_nvcsw: 176
+rusage ru_nivcsw: 307
+Child rusage ru_utime: 0.259824
+Child rusage ru_stime: 0.076278
+Child rusage ru_maxrss: 55600
+Child rusage ru_minflt: 48075
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 352
+Child rusage ru_oublock: 5384
+Child rusage ru_nvcsw: 1191
+Child rusage ru_nivcsw: 836
+Status: PASSED 
+Ended: 1735200916.02 

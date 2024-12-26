@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185405.17 
+systemd-1_255.4-r0: do_install
+Elapsed time: 11.38 seconds
+utime: 36
+stime: 6
+cutime: 113
+cstime: 65
+IO rchar: 110463775
+IO wchar: 97723966
+IO syscr: 15669
+IO syscw: 2258
+IO read_bytes: 10620928
+IO write_bytes: 99266560
+IO cancelled_write_bytes: 16384
+rusage ru_utime: 0.36111699999999997
+rusage ru_stime: 0.067461
+rusage ru_maxrss: 61724
+rusage ru_minflt: 18362
+rusage ru_majflt: 9
+rusage ru_inblock: 80
+rusage ru_oublock: 512
+rusage ru_nvcsw: 101
+rusage ru_nivcsw: 408
+Child rusage ru_utime: 1.139486
+Child rusage ru_stime: 0.65128
+Child rusage ru_maxrss: 59564
+Child rusage ru_minflt: 93096
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 20664
+Child rusage ru_oublock: 193368
+Child rusage ru_nvcsw: 1635
+Child rusage ru_nivcsw: 8657
+Status: PASSED 
+Ended: 1735185416.55 

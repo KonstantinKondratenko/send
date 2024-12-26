@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166110.08 
+mdadm-4.2-r0: do_recipe_qa
+Elapsed time: 0.15 seconds
+utime: 13
+stime: 2
+cutime: 3
+cstime: 0
+IO rchar: 599953
+IO wchar: 121515
+IO syscr: 343
+IO syscw: 95
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.137153
+rusage ru_stime: 0.024936999999999997
+rusage ru_maxrss: 83744
+rusage ru_minflt: 15883
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 66
+Child rusage ru_utime: 0.030129
+Child rusage ru_stime: 0.001949
+Child rusage ru_maxrss: 80956
+Child rusage ru_minflt: 4378
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1735166110.23 

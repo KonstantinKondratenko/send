@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172781.56 
+libnvme-1.8-r0: do_populate_sysroot
+Elapsed time: 2.66 seconds
+utime: 36
+stime: 6
+cutime: 12
+cstime: 2
+IO rchar: 6153550
+IO wchar: 2585045
+IO syscr: 1825
+IO syscw: 346
+IO read_bytes: 2473984
+IO write_bytes: 1617920
+IO cancelled_write_bytes: 225280
+rusage ru_utime: 0.367679
+rusage ru_stime: 0.064438
+rusage ru_maxrss: 62908
+rusage ru_minflt: 27684
+rusage ru_majflt: 5
+rusage ru_inblock: 3120
+rusage ru_oublock: 1856
+rusage ru_nvcsw: 201
+rusage ru_nivcsw: 131
+Child rusage ru_utime: 0.128068
+Child rusage ru_stime: 0.025936999999999998
+Child rusage ru_maxrss: 60688
+Child rusage ru_minflt: 17515
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 1712
+Child rusage ru_oublock: 1304
+Child rusage ru_nvcsw: 232
+Child rusage ru_nivcsw: 88
+Status: PASSED 
+Ended: 1735172784.23 

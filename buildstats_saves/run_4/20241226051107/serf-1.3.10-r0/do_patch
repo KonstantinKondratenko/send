@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190392.79 
+serf-1.3.10-r0: do_patch
+Elapsed time: 0.63 seconds
+utime: 7
+stime: 2
+cutime: 12
+cstime: 3
+IO rchar: 2659274
+IO wchar: 750738
+IO syscr: 3255
+IO syscw: 473
+IO read_bytes: 4096
+IO write_bytes: 782336
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.074
+rusage ru_stime: 0.024666
+rusage ru_maxrss: 82604
+rusage ru_minflt: 12443
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 152
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 19
+Child rusage ru_utime: 0.129769
+Child rusage ru_stime: 0.032061
+Child rusage ru_maxrss: 77032
+Child rusage ru_minflt: 48825
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1376
+Child rusage ru_nvcsw: 752
+Child rusage ru_nivcsw: 37
+Status: PASSED 
+Ended: 1735190393.42 

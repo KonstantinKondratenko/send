@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174304.47 
+rust-native-1.75.0-r0: do_populate_lic
+Elapsed time: 0.23 seconds
+utime: 17
+stime: 5
+cutime: 2
+cstime: 2
+IO rchar: 1109744
+IO wchar: 230037
+IO syscr: 557
+IO syscw: 135
+IO read_bytes: 176128
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.172396
+rusage ru_stime: 0.052468
+rusage ru_maxrss: 86844
+rusage ru_minflt: 22173
+rusage ru_majflt: 1
+rusage ru_inblock: 80
+rusage ru_oublock: 216
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 33
+Child rusage ru_utime: 0.023254
+Child rusage ru_stime: 0.027070999999999998
+Child rusage ru_maxrss: 83720
+Child rusage ru_minflt: 5654
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 264
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 81
+Child rusage ru_nivcsw: 40
+Status: PASSED 
+Ended: 1735174304.70 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166109.30 
+iptables-1.8.10-r0: do_recipe_qa
+Elapsed time: 0.21 seconds
+utime: 14
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 584298
+IO wchar: 118562
+IO syscr: 340
+IO syscw: 93
+IO read_bytes: 16384
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.149307
+rusage ru_stime: 0.039291
+rusage ru_maxrss: 83640
+rusage ru_minflt: 15820
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 53
+Child rusage ru_utime: 0.017405
+Child rusage ru_stime: 0.019489
+Child rusage ru_maxrss: 80848
+Child rusage ru_minflt: 4369
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 65
+Child rusage ru_nivcsw: 34
+Status: PASSED 
+Ended: 1735166109.52 

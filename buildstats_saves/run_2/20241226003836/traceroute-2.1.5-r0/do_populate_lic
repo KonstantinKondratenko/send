@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174351.77 
+traceroute-2.1.5-r0: do_populate_lic
+Elapsed time: 0.75 seconds
+utime: 12
+stime: 4
+cutime: 4
+cstime: 0
+IO rchar: 1049992
+IO wchar: 264001
+IO syscr: 560
+IO syscw: 119
+IO read_bytes: 53248
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.123029
+rusage ru_stime: 0.043655
+rusage ru_maxrss: 85740
+rusage ru_minflt: 18256
+rusage ru_majflt: 2
+rusage ru_inblock: 104
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 74
+Child rusage ru_utime: 0.046242
+Child rusage ru_stime: 0.009845
+Child rusage ru_maxrss: 82624
+Child rusage ru_minflt: 5671
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 109
+Child rusage ru_nivcsw: 52
+Status: PASSED 
+Ended: 1735174352.52 

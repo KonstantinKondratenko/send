@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735183511.84 
+linux-yocto-6.6.23+git-r0: do_kernel_metadata
+Elapsed time: 32.73 seconds
+utime: 38
+stime: 10
+cutime: 238
+cstime: 50
+IO rchar: 19402092
+IO wchar: 921348
+IO syscr: 38233
+IO syscw: 1425
+IO read_bytes: 7454720
+IO write_bytes: 372736
+IO cancelled_write_bytes: 24576
+rusage ru_utime: 0.38437499999999997
+rusage ru_stime: 0.101977
+rusage ru_maxrss: 68176
+rusage ru_minflt: 12248
+rusage ru_majflt: 878
+rusage ru_inblock: 9024
+rusage ru_oublock: 416
+rusage ru_nvcsw: 1248
+rusage ru_nivcsw: 72
+Child rusage ru_utime: 2.381358
+Child rusage ru_stime: 0.505311
+Child rusage ru_maxrss: 65320
+Child rusage ru_minflt: 406828
+Child rusage ru_majflt: 28
+Child rusage ru_inblock: 5536
+Child rusage ru_oublock: 312
+Child rusage ru_nvcsw: 6809
+Child rusage ru_nivcsw: 3184
+Status: PASSED 
+Ended: 1735183544.57 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185592.78 
+liblogging-1.0.6-r0: do_compile
+Elapsed time: 0.85 seconds
+utime: 13
+stime: 2
+cutime: 99
+cstime: 21
+IO rchar: 13126535
+IO wchar: 864741
+IO syscr: 6887
+IO syscw: 1104
+IO read_bytes: 65536
+IO write_bytes: 405504
+IO cancelled_write_bytes: 28672
+rusage ru_utime: 0.1361
+rusage ru_stime: 0.020621
+rusage ru_maxrss: 63268
+rusage ru_minflt: 9742
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 40
+rusage ru_nivcsw: 58
+Child rusage ru_utime: 0.9967729999999999
+Child rusage ru_stime: 0.21023699999999998
+Child rusage ru_maxrss: 60484
+Child rusage ru_minflt: 117570
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 128
+Child rusage ru_oublock: 648
+Child rusage ru_nvcsw: 1335
+Child rusage ru_nivcsw: 822
+Status: PASSED 
+Ended: 1735185593.63 

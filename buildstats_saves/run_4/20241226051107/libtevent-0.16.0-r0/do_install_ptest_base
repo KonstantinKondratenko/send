@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735193536.32 
+libtevent-0.16.0-r0: do_install_ptest_base
+Elapsed time: 0.20 seconds
+utime: 13
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 960901
+IO wchar: 566436
+IO syscr: 625
+IO syscw: 37
+IO read_bytes: 81920
+IO write_bytes: 581632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.135841
+rusage ru_stime: 0.033042
+rusage ru_maxrss: 59516
+rusage ru_minflt: 10208
+rusage ru_majflt: 14
+rusage ru_inblock: 152
+rusage ru_oublock: 64
+rusage ru_nvcsw: 109
+rusage ru_nivcsw: 276
+Child rusage ru_utime: 0.025238999999999998
+Child rusage ru_stime: 0.012726999999999999
+Child rusage ru_maxrss: 57440
+Child rusage ru_minflt: 3506
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1072
+Child rusage ru_nvcsw: 51
+Child rusage ru_nivcsw: 87
+Status: PASSED 
+Ended: 1735193536.52 

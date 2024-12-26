@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182954.53 
+kubernetes-1_v1.29.1+gita02da633101bd7919153dd56412b09221c0139bf-r0: do_unpack
+Elapsed time: 5.66 seconds
+utime: 17
+stime: 5
+cutime: 180
+cstime: 118
+IO rchar: 16635934
+IO wchar: 328510770
+IO syscr: 239633
+IO syscw: 158380
+IO read_bytes: 4153344
+IO write_bytes: 388911104
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.175646
+rusage ru_stime: 0.058547999999999996
+rusage ru_maxrss: 83564
+rusage ru_minflt: 23018
+rusage ru_majflt: 0
+rusage ru_inblock: 72
+rusage ru_oublock: 136
+rusage ru_nvcsw: 72
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 1.806128
+Child rusage ru_stime: 1.184548
+Child rusage ru_maxrss: 343280
+Child rusage ru_minflt: 105840
+Child rusage ru_majflt: 57
+Child rusage ru_inblock: 8040
+Child rusage ru_oublock: 759456
+Child rusage ru_nvcsw: 114272
+Child rusage ru_nivcsw: 113383
+Status: PASSED 
+Ended: 1735182960.19 

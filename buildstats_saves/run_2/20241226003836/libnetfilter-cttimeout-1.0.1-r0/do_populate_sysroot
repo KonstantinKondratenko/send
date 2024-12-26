@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180572.04 
+libnetfilter-cttimeout-1.0.1-r0: do_populate_sysroot
+Elapsed time: 1.35 seconds
+utime: 28
+stime: 3
+cutime: 8
+cstime: 2
+IO rchar: 1396975
+IO wchar: 386730
+IO syscr: 1207
+IO syscw: 199
+IO read_bytes: 1204224
+IO write_bytes: 303104
+IO cancelled_write_bytes: 24576
+rusage ru_utime: 0.288033
+rusage ru_stime: 0.033385
+rusage ru_maxrss: 61304
+rusage ru_minflt: 30458
+rusage ru_majflt: 1
+rusage ru_inblock: 1080
+rusage ru_oublock: 448
+rusage ru_nvcsw: 130
+rusage ru_nivcsw: 107
+Child rusage ru_utime: 0.08975
+Child rusage ru_stime: 0.027309
+Child rusage ru_maxrss: 58964
+Child rusage ru_minflt: 14399
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1272
+Child rusage ru_oublock: 144
+Child rusage ru_nvcsw: 204
+Child rusage ru_nivcsw: 136
+Status: PASSED 
+Ended: 1735180573.39 

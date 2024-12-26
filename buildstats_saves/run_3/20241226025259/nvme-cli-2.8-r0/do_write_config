@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182480.75 
+nvme-cli-2.8-r0: do_write_config
+Elapsed time: 0.10 seconds
+utime: 11
+stime: 0
+cutime: 0
+cstime: 0
+IO rchar: 353260
+IO wchar: 55561
+IO syscr: 121
+IO syscw: 46
+IO read_bytes: 0
+IO write_bytes: 69632
+IO cancelled_write_bytes: 16384
+rusage ru_utime: 0.115147
+rusage ru_stime: 0.007941
+rusage ru_maxrss: 84820
+rusage ru_minflt: 7170
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 35
+Child rusage ru_utime: 0.005405999999999999
+Child rusage ru_stime: 0.005856
+Child rusage ru_maxrss: 81996
+Child rusage ru_minflt: 1199
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 9
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735182480.85 

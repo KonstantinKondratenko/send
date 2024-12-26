@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180354.51 
+iputils-20240117-r0: do_configure
+Elapsed time: 4.33 seconds
+utime: 18
+stime: 2
+cutime: 163
+cstime: 21
+IO rchar: 20051736
+IO wchar: 4625198
+IO syscr: 6127
+IO syscw: 1692
+IO read_bytes: 2842624
+IO write_bytes: 5120000
+IO cancelled_write_bytes: 311296
+rusage ru_utime: 0.183037
+rusage ru_stime: 0.021283
+rusage ru_maxrss: 63020
+rusage ru_minflt: 13449
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 144
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 204
+Child rusage ru_utime: 1.638882
+Child rusage ru_stime: 0.214002
+Child rusage ru_maxrss: 60272
+Child rusage ru_minflt: 77669
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 5536
+Child rusage ru_oublock: 9856
+Child rusage ru_nvcsw: 728
+Child rusage ru_nivcsw: 803
+Status: PASSED 
+Ended: 1735180358.83 

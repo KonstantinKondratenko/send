@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166068.18 
+pseudo-native-1.9.0+git-r0: do_compile
+Elapsed time: 4.18 seconds
+utime: 12
+stime: 2
+cutime: 566
+cstime: 27
+IO rchar: 38766575
+IO wchar: 13658208
+IO syscr: 9389
+IO syscw: 3425
+IO read_bytes: 102400
+IO write_bytes: 6193152
+IO cancelled_write_bytes: 102400
+rusage ru_utime: 0.12545699999999999
+rusage ru_stime: 0.02163
+rusage ru_maxrss: 84012
+rusage ru_minflt: 7455
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 45
+Child rusage ru_utime: 5.665109
+Child rusage ru_stime: 0.275068
+Child rusage ru_maxrss: 122976
+Child rusage ru_minflt: 137619
+Child rusage ru_majflt: 10
+Child rusage ru_inblock: 200
+Child rusage ru_oublock: 11992
+Child rusage ru_nvcsw: 1672
+Child rusage ru_nivcsw: 2323
+Status: PASSED 
+Ended: 1735166072.36 

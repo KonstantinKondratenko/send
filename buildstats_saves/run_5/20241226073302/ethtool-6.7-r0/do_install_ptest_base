@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205626.78 
+ethtool-6.7-r0: do_install_ptest_base
+Elapsed time: 4.99 seconds
+utime: 19
+stime: 2
+cutime: 4
+cstime: 1
+IO rchar: 6182552
+IO wchar: 5401234
+IO syscr: 906
+IO syscw: 246
+IO read_bytes: 6492160
+IO write_bytes: 5427200
+IO cancelled_write_bytes: 356352
+rusage ru_utime: 0.19269799999999998
+rusage ru_stime: 0.028699
+rusage ru_maxrss: 57956
+rusage ru_minflt: 15023
+rusage ru_majflt: 301
+rusage ru_inblock: 1408
+rusage ru_oublock: 72
+rusage ru_nvcsw: 528
+rusage ru_nivcsw: 99
+Child rusage ru_utime: 0.04061
+Child rusage ru_stime: 0.014761
+Child rusage ru_maxrss: 55716
+Child rusage ru_minflt: 4507
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 11272
+Child rusage ru_oublock: 10528
+Child rusage ru_nvcsw: 190
+Child rusage ru_nivcsw: 93
+Status: PASSED 
+Ended: 1735205631.78 

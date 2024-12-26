@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197285.54 
+systemd-serialgetty-1.0-r0: do_install
+Elapsed time: 0.80 seconds
+utime: 16
+stime: 3
+cutime: 4
+cstime: 2
+IO rchar: 496482
+IO wchar: 76376
+IO syscr: 1079
+IO syscw: 57
+IO read_bytes: 24576
+IO write_bytes: 98304
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.167065
+rusage ru_stime: 0.035171
+rusage ru_maxrss: 58224
+rusage ru_minflt: 16334
+rusage ru_majflt: 2
+rusage ru_inblock: 40
+rusage ru_oublock: 160
+rusage ru_nvcsw: 204
+rusage ru_nivcsw: 257
+Child rusage ru_utime: 0.041353
+Child rusage ru_stime: 0.025802
+Child rusage ru_maxrss: 56240
+Child rusage ru_minflt: 7524
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 137
+Child rusage ru_nivcsw: 151
+Status: PASSED 
+Ended: 1735197286.34 

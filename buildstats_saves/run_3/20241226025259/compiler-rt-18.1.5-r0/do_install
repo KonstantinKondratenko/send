@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185815.74 
+compiler-rt-18.1.5-r0: do_install
+Elapsed time: 0.86 seconds
+utime: 26
+stime: 5
+cutime: 46
+cstime: 30
+IO rchar: 50861518
+IO wchar: 1432988
+IO syscr: 11137
+IO syscw: 263
+IO read_bytes: 8192
+IO write_bytes: 1449984
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.268402
+rusage ru_stime: 0.051311999999999997
+rusage ru_maxrss: 60324
+rusage ru_minflt: 16889
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 78
+rusage ru_nivcsw: 325
+Child rusage ru_utime: 0.46948199999999995
+Child rusage ru_stime: 0.305091
+Child rusage ru_maxrss: 90444
+Child rusage ru_minflt: 30227
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2672
+Child rusage ru_nvcsw: 239
+Child rusage ru_nivcsw: 413
+Status: PASSED 
+Ended: 1735185816.60 

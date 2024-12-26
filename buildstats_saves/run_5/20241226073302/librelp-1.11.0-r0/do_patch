@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198735.04 
+librelp-1.11.0-r0: do_patch
+Elapsed time: 1.20 seconds
+utime: 6
+stime: 1
+cutime: 10
+cstime: 1
+IO rchar: 2382837
+IO wchar: 836364
+IO syscr: 2706
+IO syscw: 438
+IO read_bytes: 8192
+IO write_bytes: 868352
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.062855
+rusage ru_stime: 0.016760999999999998
+rusage ru_maxrss: 80772
+rusage ru_minflt: 11522
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.103811
+Child rusage ru_stime: 0.012357
+Child rusage ru_maxrss: 75140
+Child rusage ru_minflt: 39040
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1536
+Child rusage ru_nvcsw: 603
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1735198736.24 

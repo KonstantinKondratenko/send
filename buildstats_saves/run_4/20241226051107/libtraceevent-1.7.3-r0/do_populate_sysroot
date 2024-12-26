@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197474.89 
+libtraceevent-1.7.3-r0: do_populate_sysroot
+Elapsed time: 1.27 seconds
+utime: 56
+stime: 7
+cutime: 12
+cstime: 8
+IO rchar: 8381192
+IO wchar: 3056807
+IO syscr: 3886
+IO syscw: 583
+IO read_bytes: 2736128
+IO write_bytes: 2076672
+IO cancelled_write_bytes: 339968
+rusage ru_utime: 0.5694779999999999
+rusage ru_stime: 0.071682
+rusage ru_maxrss: 63068
+rusage ru_minflt: 33701
+rusage ru_majflt: 5
+rusage ru_inblock: 2928
+rusage ru_oublock: 2040
+rusage ru_nvcsw: 190
+rusage ru_nivcsw: 27
+Child rusage ru_utime: 0.12425299999999999
+Child rusage ru_stime: 0.08087
+Child rusage ru_maxrss: 60584
+Child rusage ru_minflt: 43920
+Child rusage ru_majflt: 11
+Child rusage ru_inblock: 2416
+Child rusage ru_oublock: 2016
+Child rusage ru_nvcsw: 484
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1735197476.16 

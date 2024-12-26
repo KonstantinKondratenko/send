@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735179935.62 
+strace-6.7-r0: do_install
+Elapsed time: 1.78 seconds
+utime: 24
+stime: 8
+cutime: 30
+cstime: 5
+IO rchar: 13442233
+IO wchar: 5804282
+IO syscr: 4159
+IO syscw: 240
+IO read_bytes: 27721728
+IO write_bytes: 5816320
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.242494
+rusage ru_stime: 0.080831
+rusage ru_maxrss: 56540
+rusage ru_minflt: 18694
+rusage ru_majflt: 1920
+rusage ru_inblock: 35096
+rusage ru_oublock: 192
+rusage ru_nvcsw: 2140
+rusage ru_nivcsw: 268
+Child rusage ru_utime: 0.300598
+Child rusage ru_stime: 0.051177
+Child rusage ru_maxrss: 54360
+Child rusage ru_minflt: 28051
+Child rusage ru_majflt: 10
+Child rusage ru_inblock: 19048
+Child rusage ru_oublock: 11168
+Child rusage ru_nvcsw: 649
+Child rusage ru_nivcsw: 449
+Status: PASSED 
+Ended: 1735179937.41 

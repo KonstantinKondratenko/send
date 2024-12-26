@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735178874.84 
+libdnf-0.73.1-r0: do_install
+Elapsed time: 1.01 seconds
+utime: 26
+stime: 5
+cutime: 4
+cstime: 13
+IO rchar: 71649496
+IO wchar: 64550391
+IO syscr: 12702
+IO syscw: 8313
+IO read_bytes: 73728
+IO write_bytes: 64839680
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.269188
+rusage ru_stime: 0.056442
+rusage ru_maxrss: 60508
+rusage ru_minflt: 19999
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 456
+rusage ru_nivcsw: 256
+Child rusage ru_utime: 0.047151
+Child rusage ru_stime: 0.139966
+Child rusage ru_maxrss: 58228
+Child rusage ru_minflt: 2843
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 136
+Child rusage ru_oublock: 126432
+Child rusage ru_nvcsw: 820
+Child rusage ru_nivcsw: 1823
+Status: PASSED 
+Ended: 1735178875.84 

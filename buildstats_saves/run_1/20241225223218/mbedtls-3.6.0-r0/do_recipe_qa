@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166092.70 
+mbedtls-3.6.0-r0: do_recipe_qa
+Elapsed time: 0.08 seconds
+utime: 11
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 575261
+IO wchar: 114596
+IO syscr: 339
+IO syscw: 91
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.112339
+rusage ru_stime: 0.028083999999999998
+rusage ru_maxrss: 83608
+rusage ru_minflt: 15885
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 21
+Child rusage ru_utime: 0.013477
+Child rusage ru_stime: 0.011009
+Child rusage ru_maxrss: 80816
+Child rusage ru_minflt: 4364
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 110
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735166092.78 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180401.05 
+xinetd-2.3.15.4-r0: do_install
+Elapsed time: 1.82 seconds
+utime: 21
+stime: 3
+cutime: 24
+cstime: 2
+IO rchar: 2729722
+IO wchar: 1041248
+IO syscr: 3769
+IO syscw: 318
+IO read_bytes: 184320
+IO write_bytes: 1118208
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.211781
+rusage ru_stime: 0.034575999999999996
+rusage ru_maxrss: 56944
+rusage ru_minflt: 17590
+rusage ru_majflt: 13
+rusage ru_inblock: 104
+rusage ru_oublock: 224
+rusage ru_nvcsw: 138
+rusage ru_nivcsw: 311
+Child rusage ru_utime: 0.24159599999999998
+Child rusage ru_stime: 0.025998999999999998
+Child rusage ru_maxrss: 54776
+Child rusage ru_minflt: 36664
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 256
+Child rusage ru_oublock: 1960
+Child rusage ru_nvcsw: 450
+Child rusage ru_nivcsw: 772
+Status: PASSED 
+Ended: 1735180402.87 

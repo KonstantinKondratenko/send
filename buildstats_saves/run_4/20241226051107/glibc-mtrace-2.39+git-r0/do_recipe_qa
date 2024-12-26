@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190845.69 
+glibc-mtrace-2.39+git-r0: do_recipe_qa
+Elapsed time: 0.12 seconds
+utime: 7
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 624775
+IO wchar: 112726
+IO syscr: 345
+IO syscw: 87
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.07898999999999999
+rusage ru_stime: 0.037614
+rusage ru_maxrss: 85216
+rusage ru_minflt: 15643
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.015467
+Child rusage ru_stime: 0.005111
+Child rusage ru_maxrss: 82432
+Child rusage ru_minflt: 4373
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 82
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735190845.81 

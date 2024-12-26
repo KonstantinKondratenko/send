@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185508.00 
+brotli-1.1.0-r0: do_populate_sysroot
+Elapsed time: 1.25 seconds
+utime: 25
+stime: 6
+cutime: 10
+cstime: 7
+IO rchar: 13271096
+IO wchar: 9119914
+IO syscr: 2103
+IO syscw: 424
+IO read_bytes: 8192
+IO write_bytes: 8175616
+IO cancelled_write_bytes: 847872
+rusage ru_utime: 0.253683
+rusage ru_stime: 0.068454
+rusage ru_maxrss: 61964
+rusage ru_minflt: 28403
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 11872
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 62
+Child rusage ru_utime: 0.10535
+Child rusage ru_stime: 0.07220499999999999
+Child rusage ru_maxrss: 59872
+Child rusage ru_minflt: 20528
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 4096
+Child rusage ru_nvcsw: 212
+Child rusage ru_nivcsw: 79
+Status: PASSED 
+Ended: 1735185509.25 

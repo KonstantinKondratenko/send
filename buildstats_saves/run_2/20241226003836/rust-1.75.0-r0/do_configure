@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180894.03 
+rust-1.75.0-r0: do_configure
+Elapsed time: 0.16 seconds
+utime: 23
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 419513
+IO wchar: 83040
+IO syscr: 176
+IO syscw: 74
+IO read_bytes: 823296
+IO write_bytes: 118784
+IO cancelled_write_bytes: 24576
+rusage ru_utime: 0.23238199999999998
+rusage ru_stime: 0.026666
+rusage ru_maxrss: 63268
+rusage ru_minflt: 10777
+rusage ru_majflt: 5
+rusage ru_inblock: 1608
+rusage ru_oublock: 176
+rusage ru_nvcsw: 99
+rusage ru_nivcsw: 116
+Child rusage ru_utime: 0.012360999999999999
+Child rusage ru_stime: 0.005815
+Child rusage ru_maxrss: 60468
+Child rusage ru_minflt: 1819
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 17
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735180894.19 

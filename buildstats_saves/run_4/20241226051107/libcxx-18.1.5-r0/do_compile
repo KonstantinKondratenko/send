@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195008.94 
+libcxx-18.1.5-r0: do_compile
+Elapsed time: 52.27 seconds
+utime: 32
+stime: 10
+cutime: 15041
+cstime: 864
+IO rchar: 282631380
+IO wchar: 64204803
+IO syscr: 125128
+IO syscw: 24026
+IO read_bytes: 14524416
+IO write_bytes: 65839104
+IO cancelled_write_bytes: 8814592
+rusage ru_utime: 0.32689999999999997
+rusage ru_stime: 0.10323099999999999
+rusage ru_maxrss: 59612
+rusage ru_minflt: 8531
+rusage ru_majflt: 230
+rusage ru_inblock: 4248
+rusage ru_oublock: 2120
+rusage ru_nvcsw: 1386
+rusage ru_nivcsw: 55
+Child rusage ru_utime: 150.417697
+Child rusage ru_stime: 8.644208
+Child rusage ru_maxrss: 247404
+Child rusage ru_minflt: 2630302
+Child rusage ru_majflt: 102
+Child rusage ru_inblock: 24120
+Child rusage ru_oublock: 126472
+Child rusage ru_nvcsw: 3868
+Child rusage ru_nivcsw: 19118
+Status: PASSED 
+Ended: 1735195061.21 

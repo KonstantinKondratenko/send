@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174202.11 
+boost-native-1.84.0-r0: do_patch
+Elapsed time: 1.99 seconds
+utime: 13
+stime: 1
+cutime: 11
+cstime: 3
+IO rchar: 1673138
+IO wchar: 227112
+IO syscr: 1955
+IO syscw: 239
+IO read_bytes: 4096
+IO write_bytes: 249856
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.136913
+rusage ru_stime: 0.015212
+rusage ru_maxrss: 84212
+rusage ru_minflt: 11535
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 47
+Child rusage ru_utime: 0.115934
+Child rusage ru_stime: 0.037829
+Child rusage ru_maxrss: 78244
+Child rusage ru_minflt: 28900
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 344
+Child rusage ru_nvcsw: 461
+Child rusage ru_nivcsw: 187
+Status: PASSED 
+Ended: 1735174204.11 

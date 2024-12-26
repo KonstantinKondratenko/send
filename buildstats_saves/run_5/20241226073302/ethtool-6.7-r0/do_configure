@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202430.40 
+ethtool-6.7-r0: do_configure
+Elapsed time: 22.90 seconds
+utime: 26
+stime: 4
+cutime: 240
+cstime: 38
+IO rchar: 32264404
+IO wchar: 4824847
+IO syscr: 16596
+IO syscw: 6975
+IO read_bytes: 475136
+IO write_bytes: 4120576
+IO cancelled_write_bytes: 1204224
+rusage ru_utime: 0.261553
+rusage ru_stime: 0.044954
+rusage ru_maxrss: 63700
+rusage ru_minflt: 19502
+rusage ru_majflt: 0
+rusage ru_inblock: 680
+rusage ru_oublock: 248
+rusage ru_nvcsw: 121
+rusage ru_nivcsw: 118
+Child rusage ru_utime: 2.404101
+Child rusage ru_stime: 0.387785
+Child rusage ru_maxrss: 61020
+Child rusage ru_minflt: 213613
+Child rusage ru_majflt: 11
+Child rusage ru_inblock: 248
+Child rusage ru_oublock: 7800
+Child rusage ru_nvcsw: 2845
+Child rusage ru_nivcsw: 2200
+Status: PASSED 
+Ended: 1735202453.31 

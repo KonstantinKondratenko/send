@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189223.81 
+python3-pytest-xdist-3.5.0-r0: do_compile
+Elapsed time: 8.04 seconds
+utime: 13
+stime: 2
+cutime: 157
+cstime: 11
+IO rchar: 14558096
+IO wchar: 5209865
+IO syscr: 2888
+IO syscw: 615
+IO read_bytes: 237568
+IO write_bytes: 5926912
+IO cancelled_write_bytes: 233472
+rusage ru_utime: 0.139765
+rusage ru_stime: 0.023958999999999998
+rusage ru_maxrss: 61648
+rusage ru_minflt: 12267
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 90
+rusage ru_nivcsw: 42
+Child rusage ru_utime: 1.5747499999999999
+Child rusage ru_stime: 0.11324899999999999
+Child rusage ru_maxrss: 59128
+Child rusage ru_minflt: 22521
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 464
+Child rusage ru_oublock: 11512
+Child rusage ru_nvcsw: 80
+Child rusage ru_nivcsw: 283
+Status: PASSED 
+Ended: 1735189231.85 

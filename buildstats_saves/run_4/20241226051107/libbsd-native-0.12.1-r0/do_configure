@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190223.80 
+libbsd-native-0.12.1-r0: do_configure
+Elapsed time: 56.24 seconds
+utime: 14
+stime: 3
+cutime: 449
+cstime: 106
+IO rchar: 123138273
+IO wchar: 18856655
+IO syscr: 62235
+IO syscw: 17359
+IO read_bytes: 4096
+IO write_bytes: 18694144
+IO cancelled_write_bytes: 11632640
+rusage ru_utime: 0.145386
+rusage ru_stime: 0.032307999999999996
+rusage ru_maxrss: 85376
+rusage ru_minflt: 20371
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 256
+rusage ru_nvcsw: 349
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 4.49756
+Child rusage ru_stime: 1.06859
+Child rusage ru_maxrss: 82648
+Child rusage ru_minflt: 857275
+Child rusage ru_majflt: 62
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 36256
+Child rusage ru_nvcsw: 6869
+Child rusage ru_nivcsw: 973
+Status: PASSED 
+Ended: 1735190280.04 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172346.08 
+python3-psutil-5.9.8-r0: do_package
+Elapsed time: 3.31 seconds
+utime: 99
+stime: 28
+cutime: 194
+cstime: 27
+IO rchar: 26743478
+IO wchar: 8820808
+IO syscr: 11156
+IO syscw: 1397
+IO read_bytes: 86016
+IO write_bytes: 4263936
+IO cancelled_write_bytes: 393216
+rusage ru_utime: 0.999162
+rusage ru_stime: 0.283287
+rusage ru_maxrss: 60212
+rusage ru_minflt: 43397
+rusage ru_majflt: 7
+rusage ru_inblock: 168
+rusage ru_oublock: 672
+rusage ru_nvcsw: 794
+rusage ru_nivcsw: 2463
+Child rusage ru_utime: 1.948995
+Child rusage ru_stime: 0.279197
+Child rusage ru_maxrss: 314040
+Child rusage ru_minflt: 76825
+Child rusage ru_majflt: 5
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 7656
+Child rusage ru_nvcsw: 3999
+Child rusage ru_nivcsw: 1839
+Status: PASSED 
+Ended: 1735172349.39 

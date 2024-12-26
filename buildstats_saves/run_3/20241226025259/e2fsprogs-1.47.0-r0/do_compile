@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184805.67 
+e2fsprogs-1.47.0-r0: do_compile
+Elapsed time: 34.87 seconds
+utime: 24
+stime: 2
+cutime: 5587
+cstime: 713
+IO rchar: 508304624
+IO wchar: 103889629
+IO syscr: 147171
+IO syscw: 32198
+IO read_bytes: 11079680
+IO write_bytes: 44646400
+IO cancelled_write_bytes: 11603968
+rusage ru_utime: 0.24447
+rusage ru_stime: 0.026007
+rusage ru_maxrss: 64308
+rusage ru_minflt: 10193
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 1232
+rusage ru_nvcsw: 704
+rusage ru_nivcsw: 42
+Child rusage ru_utime: 55.870122
+Child rusage ru_stime: 7.137067
+Child rusage ru_maxrss: 74148
+Child rusage ru_minflt: 2044624
+Child rusage ru_majflt: 47
+Child rusage ru_inblock: 21640
+Child rusage ru_oublock: 85968
+Child rusage ru_nvcsw: 22462
+Child rusage ru_nivcsw: 29642
+Status: PASSED 
+Ended: 1735184840.55 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174376.26 
+rust-1.75.0-r0: do_populate_lic
+Elapsed time: 0.57 seconds
+utime: 17
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 925094
+IO wchar: 225896
+IO syscr: 551
+IO syscw: 123
+IO read_bytes: 24576
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.17651999999999998
+rusage ru_stime: 0.044129999999999996
+rusage ru_maxrss: 86012
+rusage ru_minflt: 21717
+rusage ru_majflt: 1
+rusage ru_inblock: 48
+rusage ru_oublock: 208
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 67
+Child rusage ru_utime: 0.025112
+Child rusage ru_stime: 0.030369999999999998
+Child rusage ru_maxrss: 82900
+Child rusage ru_minflt: 5663
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 88
+Child rusage ru_nivcsw: 65
+Status: PASSED 
+Ended: 1735174376.83 

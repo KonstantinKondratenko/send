@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735192140.10 
+rust-native-1.75.0-r0: do_rust_create_wrappers
+Elapsed time: 0.41 seconds
+utime: 24
+stime: 2
+cutime: 2
+cstime: 0
+IO rchar: 645384
+IO wchar: 49451
+IO syscr: 305
+IO syscw: 55
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 32768
+rusage ru_utime: 0.241802
+rusage ru_stime: 0.020491
+rusage ru_maxrss: 63776
+rusage ru_minflt: 13423
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 76
+Child rusage ru_utime: 0.029568999999999998
+Child rusage ru_stime: 0.000735
+Child rusage ru_maxrss: 61044
+Child rusage ru_minflt: 3236
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 35
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1735192140.52 

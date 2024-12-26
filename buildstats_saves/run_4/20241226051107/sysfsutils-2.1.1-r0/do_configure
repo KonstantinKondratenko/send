@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197607.46 
+sysfsutils-2.1.1-r0: do_configure
+Elapsed time: 21.12 seconds
+utime: 23
+stime: 3
+cutime: 391
+cstime: 67
+IO rchar: 116663304
+IO wchar: 17355848
+IO syscr: 49828
+IO syscw: 15700
+IO read_bytes: 249856
+IO write_bytes: 16470016
+IO cancelled_write_bytes: 9072640
+rusage ru_utime: 0.23277499999999998
+rusage ru_stime: 0.03809
+rusage ru_maxrss: 61768
+rusage ru_minflt: 20333
+rusage ru_majflt: 9
+rusage ru_inblock: 224
+rusage ru_oublock: 272
+rusage ru_nvcsw: 275
+rusage ru_nivcsw: 53
+Child rusage ru_utime: 3.91503
+Child rusage ru_stime: 0.675577
+Child rusage ru_maxrss: 58984
+Child rusage ru_minflt: 545762
+Child rusage ru_majflt: 9
+Child rusage ru_inblock: 264
+Child rusage ru_oublock: 31896
+Child rusage ru_nvcsw: 5272
+Child rusage ru_nivcsw: 991
+Status: PASSED 
+Ended: 1735197628.57 

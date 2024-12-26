@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199569.76 
+iptables-1.8.10-r0: do_populate_lic
+Elapsed time: 0.26 seconds
+utime: 11
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 919735
+IO wchar: 213545
+IO syscr: 558
+IO syscw: 122
+IO read_bytes: 159744
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.113119
+rusage ru_stime: 0.052518999999999996
+rusage ru_maxrss: 84048
+rusage ru_minflt: 21307
+rusage ru_majflt: 2
+rusage ru_inblock: 288
+rusage ru_oublock: 216
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.025252
+Child rusage ru_stime: 0.036844999999999996
+Child rusage ru_maxrss: 80880
+Child rusage ru_minflt: 5647
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 124
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1735199570.01 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199211.34 
+containerd-opencontainers-v2.0.0-beta.0+git-r0: do_unpack
+Elapsed time: 52.49 seconds
+utime: 8
+stime: 3
+cutime: 59
+cstime: 45
+IO rchar: 5774775
+IO wchar: 48463178
+IO syscr: 19662
+IO syscw: 15890
+IO read_bytes: 720896
+IO write_bytes: 60674048
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.08959099999999999
+rusage ru_stime: 0.038953
+rusage ru_maxrss: 81388
+rusage ru_minflt: 14710
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 26
+Child rusage ru_utime: 0.599791
+Child rusage ru_stime: 0.45371
+Child rusage ru_maxrss: 91972
+Child rusage ru_minflt: 36107
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1408
+Child rusage ru_oublock: 118400
+Child rusage ru_nvcsw: 1102
+Child rusage ru_nivcsw: 90
+Status: PASSED 
+Ended: 1735199263.83 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172702.96 
+debugedit-5.0-r0: do_compile
+Elapsed time: 1.37 seconds
+utime: 9
+stime: 1
+cutime: 176
+cstime: 12
+IO rchar: 10433767
+IO wchar: 2837995
+IO syscr: 3176
+IO syscw: 972
+IO read_bytes: 696320
+IO write_bytes: 794624
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.09467199999999999
+rusage ru_stime: 0.015778
+rusage ru_maxrss: 62264
+rusage ru_minflt: 9623
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 1.7624659999999999
+Child rusage ru_stime: 0.125586
+Child rusage ru_maxrss: 69824
+Child rusage ru_minflt: 46103
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1360
+Child rusage ru_oublock: 1448
+Child rusage ru_nvcsw: 482
+Child rusage ru_nivcsw: 860
+Status: PASSED 
+Ended: 1735172704.33 

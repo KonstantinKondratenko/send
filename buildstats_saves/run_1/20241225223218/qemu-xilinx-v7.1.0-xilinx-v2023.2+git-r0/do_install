@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172285.12 
+qemu-xilinx-v7.1.0-xilinx-v2023.2+git-r0: do_install
+Elapsed time: 7.97 seconds
+utime: 38
+stime: 6
+cutime: 184
+cstime: 93
+IO rchar: 762950403
+IO wchar: 695706112
+IO syscr: 6720
+IO syscw: 597
+IO read_bytes: 832671744
+IO write_bytes: 695922688
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.381219
+rusage ru_stime: 0.067273
+rusage ru_maxrss: 60316
+rusage ru_minflt: 18629
+rusage ru_majflt: 2
+rusage ru_inblock: 2312
+rusage ru_oublock: 264
+rusage ru_nvcsw: 393
+rusage ru_nivcsw: 324
+Child rusage ru_utime: 1.84585
+Child rusage ru_stime: 0.9331029999999999
+Child rusage ru_maxrss: 92960
+Child rusage ru_minflt: 68392
+Child rusage ru_majflt: 784
+Child rusage ru_inblock: 1624000
+Child rusage ru_oublock: 1358960
+Child rusage ru_nvcsw: 3956
+Child rusage ru_nivcsw: 1105
+Status: PASSED 
+Ended: 1735172293.08 

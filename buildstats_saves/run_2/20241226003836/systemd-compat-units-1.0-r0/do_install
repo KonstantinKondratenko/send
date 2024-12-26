@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174184.75 
+systemd-compat-units-1.0-r0: do_install
+Elapsed time: 0.12 seconds
+utime: 13
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 356072
+IO wchar: 68646
+IO syscr: 402
+IO syscw: 43
+IO read_bytes: 0
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.137047
+rusage ru_stime: 0.039155999999999996
+rusage ru_maxrss: 78052
+rusage ru_minflt: 15784
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 472
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.01141
+Child rusage ru_stime: 0.005744
+Child rusage ru_maxrss: 75764
+Child rusage ru_minflt: 1919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 77
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1735174184.87 

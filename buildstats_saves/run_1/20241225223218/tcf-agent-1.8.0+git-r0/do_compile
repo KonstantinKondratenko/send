@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172996.83 
+tcf-agent-1.8.0+git-r0: do_compile
+Elapsed time: 25.00 seconds
+utime: 14
+stime: 2
+cutime: 2690
+cstime: 242
+IO rchar: 206039861
+IO wchar: 53515323
+IO syscr: 53941
+IO syscw: 14129
+IO read_bytes: 3952640
+IO write_bytes: 25325568
+IO cancelled_write_bytes: 5980160
+rusage ru_utime: 0.14449299999999998
+rusage ru_stime: 0.024082
+rusage ru_maxrss: 61120
+rusage ru_minflt: 9708
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 408
+rusage ru_nvcsw: 151
+rusage ru_nivcsw: 104
+Child rusage ru_utime: 26.900122
+Child rusage ru_stime: 2.422517
+Child rusage ru_maxrss: 83320
+Child rusage ru_minflt: 651162
+Child rusage ru_majflt: 7
+Child rusage ru_inblock: 7720
+Child rusage ru_oublock: 49056
+Child rusage ru_nvcsw: 9103
+Child rusage ru_nivcsw: 20696
+Status: PASSED 
+Ended: 1735173021.84 

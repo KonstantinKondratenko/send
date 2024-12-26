@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180824.18 
+samba-4.19.5-r0: do_configure
+Elapsed time: 76.06 seconds
+utime: 29
+stime: 6
+cutime: 3291
+cstime: 1144
+IO rchar: 1099943915
+IO wchar: 51349091
+IO syscr: 367855
+IO syscw: 64413
+IO read_bytes: 11640832
+IO write_bytes: 64626688
+IO cancelled_write_bytes: 42774528
+rusage ru_utime: 0.291893
+rusage ru_stime: 0.06988899999999999
+rusage ru_maxrss: 65156
+rusage ru_minflt: 8785
+rusage ru_majflt: 11
+rusage ru_inblock: 144
+rusage ru_oublock: 376
+rusage ru_nvcsw: 1904
+rusage ru_nivcsw: 78
+Child rusage ru_utime: 32.918073
+Child rusage ru_stime: 11.443235
+Child rusage ru_maxrss: 62400
+Child rusage ru_minflt: 3972997
+Child rusage ru_majflt: 146
+Child rusage ru_inblock: 22592
+Child rusage ru_oublock: 125848
+Child rusage ru_nvcsw: 18115
+Child rusage ru_nivcsw: 8976
+Status: PASSED 
+Ended: 1735180900.24 

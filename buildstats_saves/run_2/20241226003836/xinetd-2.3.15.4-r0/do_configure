@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180353.13 
+xinetd-2.3.15.4-r0: do_configure
+Elapsed time: 31.52 seconds
+utime: 29
+stime: 5
+cutime: 554
+cstime: 76
+IO rchar: 115391365
+IO wchar: 17904577
+IO syscr: 49159
+IO syscw: 15867
+IO read_bytes: 434176
+IO write_bytes: 16912384
+IO cancelled_write_bytes: 9220096
+rusage ru_utime: 0.295302
+rusage ru_stime: 0.053690999999999996
+rusage ru_maxrss: 62128
+rusage ru_minflt: 23212
+rusage ru_majflt: 1
+rusage ru_inblock: 160
+rusage ru_oublock: 312
+rusage ru_nvcsw: 182
+rusage ru_nivcsw: 72
+Child rusage ru_utime: 5.545869
+Child rusage ru_stime: 0.7680929999999999
+Child rusage ru_maxrss: 59600
+Child rusage ru_minflt: 535042
+Child rusage ru_majflt: 26
+Child rusage ru_inblock: 688
+Child rusage ru_oublock: 32720
+Child rusage ru_nvcsw: 5811
+Child rusage ru_nivcsw: 4418
+Status: PASSED 
+Ended: 1735180384.66 

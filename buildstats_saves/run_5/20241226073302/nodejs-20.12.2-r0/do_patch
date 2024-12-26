@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198766.69 
+nodejs-20.12.2-r0: do_patch
+Elapsed time: 2.13 seconds
+utime: 9
+stime: 2
+cutime: 15
+cstime: 3
+IO rchar: 2515831
+IO wchar: 671117
+IO syscr: 3132
+IO syscw: 475
+IO read_bytes: 90112
+IO write_bytes: 692224
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.094125
+rusage ru_stime: 0.029949
+rusage ru_maxrss: 81108
+rusage ru_minflt: 12173
+rusage ru_majflt: 0
+rusage ru_inblock: 64
+rusage ru_oublock: 160
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 29
+Child rusage ru_utime: 0.15764799999999998
+Child rusage ru_stime: 0.032882999999999996
+Child rusage ru_maxrss: 75264
+Child rusage ru_minflt: 49065
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 112
+Child rusage ru_oublock: 1192
+Child rusage ru_nvcsw: 747
+Child rusage ru_nivcsw: 59
+Status: PASSED 
+Ended: 1735198768.82 

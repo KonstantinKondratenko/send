@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189093.66 
+systemtap-5.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.42 seconds
+utime: 17
+stime: 16
+cutime: 2
+cstime: 0
+IO rchar: 6374561
+IO wchar: 2513543
+IO syscr: 1392
+IO syscw: 673
+IO read_bytes: 385024
+IO write_bytes: 2605056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.173263
+rusage ru_stime: 0.16941299999999998
+rusage ru_maxrss: 73424
+rusage ru_minflt: 13926
+rusage ru_majflt: 2
+rusage ru_inblock: 744
+rusage ru_oublock: 152
+rusage ru_nvcsw: 53
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.027615999999999998
+Child rusage ru_stime: 0.007932
+Child rusage ru_maxrss: 68752
+Child rusage ru_minflt: 1649
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 4936
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1735189096.08 

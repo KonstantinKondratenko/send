@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195251.61 
+pps-tools-1.0.3-r0: do_install
+Elapsed time: 1.11 seconds
+utime: 21
+stime: 3
+cutime: 45
+cstime: 14
+IO rchar: 9373357
+IO wchar: 773184
+IO syscr: 3598
+IO syscw: 567
+IO read_bytes: 24576
+IO write_bytes: 483328
+IO cancelled_write_bytes: 139264
+rusage ru_utime: 0.21056899999999998
+rusage ru_stime: 0.032395
+rusage ru_maxrss: 57324
+rusage ru_minflt: 16531
+rusage ru_majflt: 5
+rusage ru_inblock: 40
+rusage ru_oublock: 168
+rusage ru_nvcsw: 67
+rusage ru_nivcsw: 270
+Child rusage ru_utime: 0.458468
+Child rusage ru_stime: 0.149287
+Child rusage ru_maxrss: 55236
+Child rusage ru_minflt: 33697
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 776
+Child rusage ru_nvcsw: 229
+Child rusage ru_nivcsw: 362
+Status: PASSED 
+Ended: 1735195252.72 

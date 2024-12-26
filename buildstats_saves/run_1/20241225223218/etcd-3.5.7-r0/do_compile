@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172867.21 
+etcd-3.5.7-r0: do_compile
+Elapsed time: 129.08 seconds
+utime: 21
+stime: 4
+cutime: 52
+cstime: 37
+IO rchar: 13986280
+IO wchar: 3862702
+IO syscr: 25222
+IO syscw: 25839
+IO read_bytes: 31645696
+IO write_bytes: 4235264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.217081
+rusage ru_stime: 0.045225
+rusage ru_maxrss: 62624
+rusage ru_minflt: 11527
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 2824
+rusage ru_nvcsw: 8712
+rusage ru_nivcsw: 55
+Child rusage ru_utime: 0.526563
+Child rusage ru_stime: 0.374542
+Child rusage ru_maxrss: 60044
+Child rusage ru_minflt: 20779
+Child rusage ru_majflt: 33
+Child rusage ru_inblock: 61808
+Child rusage ru_oublock: 5448
+Child rusage ru_nvcsw: 137490
+Child rusage ru_nivcsw: 1347
+Status: FAILED 
+Ended: 1735172996.29 

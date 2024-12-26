@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205724.81 
+runc-opencontainers-1.1.12+git-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.27 seconds
+utime: 37
+stime: 32
+cutime: 0
+cstime: 0
+IO rchar: 4263938
+IO wchar: 172330
+IO syscr: 652
+IO syscw: 73
+IO read_bytes: 20275200
+IO write_bytes: 188416
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.374467
+rusage ru_stime: 0.32165699999999997
+rusage ru_maxrss: 67736
+rusage ru_minflt: 11654
+rusage ru_majflt: 1
+rusage ru_inblock: 39584
+rusage ru_oublock: 144
+rusage ru_nvcsw: 2993
+rusage ru_nivcsw: 181
+Child rusage ru_utime: 0.009073
+Child rusage ru_stime: 0.0
+Child rusage ru_maxrss: 62980
+Child rusage ru_minflt: 811
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 224
+Child rusage ru_nvcsw: 10
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735205727.08 

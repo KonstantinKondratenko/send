@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184873.62 
+libaio-0.3.113-r0: do_compile
+Elapsed time: 0.68 seconds
+utime: 12
+stime: 2
+cutime: 79
+cstime: 26
+IO rchar: 16070683
+IO wchar: 862662
+IO syscr: 5448
+IO syscw: 746
+IO read_bytes: 331776
+IO write_bytes: 565248
+IO cancelled_write_bytes: 143360
+rusage ru_utime: 0.129004
+rusage ru_stime: 0.0258
+rusage ru_maxrss: 59136
+rusage ru_minflt: 12044
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 34
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.790868
+Child rusage ru_stime: 0.267218
+Child rusage ru_maxrss: 56380
+Child rusage ru_minflt: 71061
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 648
+Child rusage ru_oublock: 984
+Child rusage ru_nvcsw: 375
+Child rusage ru_nivcsw: 431
+Status: PASSED 
+Ended: 1735184874.31 

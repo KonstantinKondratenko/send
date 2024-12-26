@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735200518.31 
+zstd-1.5.5-r0: do_install
+Elapsed time: 25.57 seconds
+utime: 21
+stime: 5
+cutime: 3403
+cstime: 151
+IO rchar: 186362151
+IO wchar: 118745110
+IO syscr: 27363
+IO syscw: 17537
+IO read_bytes: 90112
+IO write_bytes: 63692800
+IO cancelled_write_bytes: 14503936
+rusage ru_utime: 0.21309999999999998
+rusage ru_stime: 0.051143999999999995
+rusage ru_maxrss: 58108
+rusage ru_minflt: 20702
+rusage ru_majflt: 8
+rusage ru_inblock: 64
+rusage ru_oublock: 312
+rusage ru_nvcsw: 305
+rusage ru_nivcsw: 262
+Child rusage ru_utime: 34.032253
+Child rusage ru_stime: 1.515099
+Child rusage ru_maxrss: 281824
+Child rusage ru_minflt: 602594
+Child rusage ru_majflt: 32
+Child rusage ru_inblock: 112
+Child rusage ru_oublock: 124088
+Child rusage ru_nvcsw: 9024
+Child rusage ru_nivcsw: 12632
+Status: PASSED 
+Ended: 1735200543.89 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188853.68 
+liburcu-0.14.0-r0: do_create_spdx
+Elapsed time: 1.12 seconds
+utime: 32
+stime: 7
+cutime: 6
+cstime: 2
+IO rchar: 2084053
+IO wchar: 1513489
+IO syscr: 815
+IO syscw: 1159
+IO read_bytes: 7389184
+IO write_bytes: 610304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.323296
+rusage ru_stime: 0.075185
+rusage ru_maxrss: 61888
+rusage ru_minflt: 32675
+rusage ru_majflt: 286
+rusage ru_inblock: 14384
+rusage ru_oublock: 1048
+rusage ru_nvcsw: 459
+rusage ru_nivcsw: 178
+Child rusage ru_utime: 0.060453999999999994
+Child rusage ru_stime: 0.024416999999999998
+Child rusage ru_maxrss: 58888
+Child rusage ru_minflt: 7623
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 144
+Child rusage ru_nvcsw: 417
+Child rusage ru_nivcsw: 109
+Status: PASSED 
+Ended: 1735188854.79 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205561.23 
+socat-1.8.0.0-r0: do_compile
+Elapsed time: 7.42 seconds
+utime: 19
+stime: 1
+cutime: 1542
+cstime: 335
+IO rchar: 319731931
+IO wchar: 35588284
+IO syscr: 58406
+IO syscw: 8034
+IO read_bytes: 2015232
+IO write_bytes: 21508096
+IO cancelled_write_bytes: 7409664
+rusage ru_utime: 0.19219699999999998
+rusage ru_stime: 0.015172999999999999
+rusage ru_maxrss: 61732
+rusage ru_minflt: 9670
+rusage ru_majflt: 80
+rusage ru_inblock: 800
+rusage ru_oublock: 320
+rusage ru_nvcsw: 224
+rusage ru_nivcsw: 125
+Child rusage ru_utime: 15.422764
+Child rusage ru_stime: 3.356039
+Child rusage ru_maxrss: 78996
+Child rusage ru_minflt: 791789
+Child rusage ru_majflt: 18
+Child rusage ru_inblock: 3136
+Child rusage ru_oublock: 41688
+Child rusage ru_nvcsw: 4353
+Child rusage ru_nivcsw: 7371
+Status: PASSED 
+Ended: 1735205568.64 

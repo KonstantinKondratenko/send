@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174966.03 
+run-postinsts-1.0-r0: do_package
+Elapsed time: 4.48 seconds
+utime: 51
+stime: 46
+cutime: 107
+cstime: 9
+IO rchar: 3060470
+IO wchar: 1791539
+IO syscr: 3332
+IO syscw: 647
+IO read_bytes: 413696
+IO write_bytes: 1851392
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.51474
+rusage ru_stime: 0.467226
+rusage ru_maxrss: 62512
+rusage ru_minflt: 37037
+rusage ru_majflt: 11
+rusage ru_inblock: 624
+rusage ru_oublock: 568
+rusage ru_nvcsw: 642
+rusage ru_nivcsw: 568
+Child rusage ru_utime: 1.074498
+Child rusage ru_stime: 0.09346
+Child rusage ru_maxrss: 59992
+Child rusage ru_minflt: 24670
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 184
+Child rusage ru_oublock: 3048
+Child rusage ru_nvcsw: 2551
+Child rusage ru_nivcsw: 596
+Status: PASSED 
+Ended: 1735174970.52 

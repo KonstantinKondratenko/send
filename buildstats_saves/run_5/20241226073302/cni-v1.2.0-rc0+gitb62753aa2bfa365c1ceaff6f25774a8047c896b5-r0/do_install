@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735203676.62 
+cni-v1.2.0-rc0+gitb62753aa2bfa365c1ceaff6f25774a8047c896b5-r0: do_install
+Elapsed time: 0.98 seconds
+utime: 20
+stime: 4
+cutime: 4
+cstime: 10
+IO rchar: 173502192
+IO wchar: 173124314
+IO syscr: 2110
+IO syscw: 1382
+IO read_bytes: 270336
+IO write_bytes: 173174784
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.206978
+rusage ru_stime: 0.047431999999999995
+rusage ru_maxrss: 58244
+rusage ru_minflt: 18584
+rusage ru_majflt: 23
+rusage ru_inblock: 528
+rusage ru_oublock: 216
+rusage ru_nvcsw: 161
+rusage ru_nivcsw: 285
+Child rusage ru_utime: 0.043337
+Child rusage ru_stime: 0.108788
+Child rusage ru_maxrss: 55976
+Child rusage ru_minflt: 4277
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 338016
+Child rusage ru_nvcsw: 116
+Child rusage ru_nivcsw: 219
+Status: PASSED 
+Ended: 1735203677.60 

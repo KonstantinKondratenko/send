@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202213.54 
+pciutils-3.11.1-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.59 seconds
+utime: 28
+stime: 12
+cutime: 18
+cstime: 6
+IO rchar: 3076004
+IO wchar: 574169
+IO syscr: 3094
+IO syscw: 341
+IO read_bytes: 307200
+IO write_bytes: 688128
+IO cancelled_write_bytes: 49152
+rusage ru_utime: 0.28358
+rusage ru_stime: 0.125585
+rusage ru_maxrss: 61284
+rusage ru_minflt: 13144
+rusage ru_majflt: 2
+rusage ru_inblock: 568
+rusage ru_oublock: 160
+rusage ru_nvcsw: 77
+rusage ru_nivcsw: 79
+Child rusage ru_utime: 0.18396099999999999
+Child rusage ru_stime: 0.060474
+Child rusage ru_maxrss: 56604
+Child rusage ru_minflt: 35894
+Child rusage ru_majflt: 5
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 1184
+Child rusage ru_nvcsw: 542
+Child rusage ru_nivcsw: 281
+Status: PASSED 
+Ended: 1735202216.14 

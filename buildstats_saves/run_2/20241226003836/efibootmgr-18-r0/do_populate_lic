@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174389.57 
+efibootmgr-18-r0: do_populate_lic
+Elapsed time: 0.19 seconds
+utime: 13
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 850827
+IO wchar: 203465
+IO syscr: 522
+IO syscw: 111
+IO read_bytes: 24576
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.136871
+rusage ru_stime: 0.031284
+rusage ru_maxrss: 85572
+rusage ru_minflt: 17949
+rusage ru_majflt: 1
+rusage ru_inblock: 48
+rusage ru_oublock: 208
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.0195
+Child rusage ru_stime: 0.02701
+Child rusage ru_maxrss: 82432
+Child rusage ru_minflt: 5560
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 80
+Child rusage ru_nivcsw: 46
+Status: PASSED 
+Ended: 1735174389.76 

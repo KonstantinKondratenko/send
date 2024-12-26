@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182636.27 
+bison-3.8.2-r0: do_populate_lic
+Elapsed time: 0.50 seconds
+utime: 15
+stime: 1
+cutime: 2
+cstime: 2
+IO rchar: 994127
+IO wchar: 246062
+IO syscr: 546
+IO syscw: 120
+IO read_bytes: 32768
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.15345899999999998
+rusage ru_stime: 0.019674
+rusage ru_maxrss: 86404
+rusage ru_minflt: 20887
+rusage ru_majflt: 3
+rusage ru_inblock: 64
+rusage ru_oublock: 208
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 43
+Child rusage ru_utime: 0.021223
+Child rusage ru_stime: 0.023721
+Child rusage ru_maxrss: 83220
+Child rusage ru_minflt: 5666
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 74
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1735182636.77 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735203893.55 
+libnvme-1.8-r0: do_install
+Elapsed time: 1.08 seconds
+utime: 18
+stime: 4
+cutime: 34
+cstime: 6
+IO rchar: 9951029
+IO wchar: 1573601
+IO syscr: 1498
+IO syscw: 120
+IO read_bytes: 8192
+IO write_bytes: 1605632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.188211
+rusage ru_stime: 0.040915
+rusage ru_maxrss: 59124
+rusage ru_minflt: 17797
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 152
+rusage ru_nvcsw: 120
+rusage ru_nivcsw: 271
+Child rusage ru_utime: 0.343933
+Child rusage ru_stime: 0.066241
+Child rusage ru_maxrss: 56856
+Child rusage ru_minflt: 11761
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2984
+Child rusage ru_nvcsw: 165
+Child rusage ru_nivcsw: 253
+Status: PASSED 
+Ended: 1735203894.63 

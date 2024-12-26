@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735203393.13 
+rsyslog-8.2402.0-r0: do_compile
+Elapsed time: 59.99 seconds
+utime: 17
+stime: 4
+cutime: 3406
+cstime: 339
+IO rchar: 310980819
+IO wchar: 73644164
+IO syscr: 96352
+IO syscw: 21954
+IO read_bytes: 7028736
+IO write_bytes: 36524032
+IO cancelled_write_bytes: 10084352
+rusage ru_utime: 0.176804
+rusage ru_stime: 0.045334
+rusage ru_maxrss: 61396
+rusage ru_minflt: 13124
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 1440
+rusage ru_nvcsw: 357
+rusage ru_nivcsw: 126
+Child rusage ru_utime: 34.066954
+Child rusage ru_stime: 3.394133
+Child rusage ru_maxrss: 80052
+Child rusage ru_minflt: 1662471
+Child rusage ru_majflt: 33
+Child rusage ru_inblock: 13712
+Child rusage ru_oublock: 69896
+Child rusage ru_nvcsw: 24129
+Child rusage ru_nivcsw: 17487
+Status: PASSED 
+Ended: 1735203453.12 

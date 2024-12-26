@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173798.83 
+libusb-compat-1_0.1.8-r0: do_patch
+Elapsed time: 0.32 seconds
+utime: 5
+stime: 2
+cutime: 6
+cstime: 1
+IO rchar: 1584069
+IO wchar: 663821
+IO syscr: 1471
+IO syscw: 306
+IO read_bytes: 12288
+IO write_bytes: 696320
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.055527
+rusage ru_stime: 0.023797
+rusage ru_maxrss: 81376
+rusage ru_minflt: 10434
+rusage ru_majflt: 2
+rusage ru_inblock: 24
+rusage ru_oublock: 152
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.065512
+Child rusage ru_stime: 0.017169999999999998
+Child rusage ru_maxrss: 75364
+Child rusage ru_minflt: 19664
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1208
+Child rusage ru_nvcsw: 289
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735173799.14 

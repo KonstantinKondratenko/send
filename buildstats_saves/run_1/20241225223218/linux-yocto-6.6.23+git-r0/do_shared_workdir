@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169321.82 
+linux-yocto-6.6.23+git-r0: do_shared_workdir
+Elapsed time: 0.37 seconds
+utime: 21
+stime: 2
+cutime: 2
+cstime: 2
+IO rchar: 8823125
+IO wchar: 7933974
+IO syscr: 650
+IO syscw: 163
+IO read_bytes: 2555904
+IO write_bytes: 8110080
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.215197
+rusage ru_stime: 0.022652
+rusage ru_maxrss: 67708
+rusage ru_minflt: 12329
+rusage ru_majflt: 23
+rusage ru_inblock: 2608
+rusage ru_oublock: 56
+rusage ru_nvcsw: 76
+rusage ru_nivcsw: 64
+Child rusage ru_utime: 0.020399
+Child rusage ru_stime: 0.023646999999999998
+Child rusage ru_maxrss: 64960
+Child rusage ru_minflt: 3771
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2384
+Child rusage ru_oublock: 15784
+Child rusage ru_nvcsw: 102
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1735169322.20 

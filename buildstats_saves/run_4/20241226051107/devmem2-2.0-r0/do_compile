@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197764.16 
+devmem2-2.0-r0: do_compile
+Elapsed time: 0.61 seconds
+utime: 11
+stime: 2
+cutime: 8
+cstime: 3
+IO rchar: 2222571
+IO wchar: 173406
+IO syscr: 655
+IO syscw: 144
+IO read_bytes: 20480
+IO write_bytes: 94208
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.110954
+rusage ru_stime: 0.022189999999999998
+rusage ru_maxrss: 61072
+rusage ru_minflt: 6752
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 56
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 154
+Child rusage ru_utime: 0.084301
+Child rusage ru_stime: 0.036322
+Child rusage ru_maxrss: 58336
+Child rusage ru_minflt: 6201
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 78
+Status: PASSED 
+Ended: 1735197764.77 

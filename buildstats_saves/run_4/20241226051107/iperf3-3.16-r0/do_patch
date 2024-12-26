@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190566.29 
+iperf3-3.16-r0: do_patch
+Elapsed time: 6.97 seconds
+utime: 7
+stime: 4
+cutime: 8
+cstime: 2
+IO rchar: 1782110
+IO wchar: 660353
+IO syscr: 1485
+IO syscw: 297
+IO read_bytes: 0
+IO write_bytes: 692224
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.076184
+rusage ru_stime: 0.044106
+rusage ru_maxrss: 82568
+rusage ru_minflt: 10745
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.081606
+Child rusage ru_stime: 0.021651999999999998
+Child rusage ru_maxrss: 77116
+Child rusage ru_minflt: 19510
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1208
+Child rusage ru_nvcsw: 291
+Child rusage ru_nivcsw: 90
+Status: PASSED 
+Ended: 1735190573.26 

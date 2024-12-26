@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735192261.31 
+libseccomp-2.5.5-r0: do_compile
+Elapsed time: 15.31 seconds
+utime: 8
+stime: 2
+cutime: 917
+cstime: 120
+IO rchar: 77086842
+IO wchar: 12422807
+IO syscr: 29118
+IO syscw: 5478
+IO read_bytes: 1150976
+IO write_bytes: 5636096
+IO cancelled_write_bytes: 1474560
+rusage ru_utime: 0.086781
+rusage ru_stime: 0.024794
+rusage ru_maxrss: 61096
+rusage ru_minflt: 12911
+rusage ru_majflt: 40
+rusage ru_inblock: 600
+rusage ru_oublock: 352
+rusage ru_nvcsw: 122
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 9.179247
+Child rusage ru_stime: 1.209977
+Child rusage ru_maxrss: 58388
+Child rusage ru_minflt: 512453
+Child rusage ru_majflt: 61
+Child rusage ru_inblock: 1648
+Child rusage ru_oublock: 10656
+Child rusage ru_nvcsw: 6454
+Child rusage ru_nivcsw: 4418
+Status: PASSED 
+Ended: 1735192276.62 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735203002.72 
+libpipeline-1.5.7-r0: do_compile
+Elapsed time: 6.63 seconds
+utime: 10
+stime: 3
+cutime: 443
+cstime: 80
+IO rchar: 53951285
+IO wchar: 5029544
+IO syscr: 23892
+IO syscw: 4057
+IO read_bytes: 1380352
+IO write_bytes: 3092480
+IO cancelled_write_bytes: 679936
+rusage ru_utime: 0.10814499999999999
+rusage ru_stime: 0.030279999999999998
+rusage ru_maxrss: 61368
+rusage ru_minflt: 7007
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 464
+rusage ru_nvcsw: 153
+rusage ru_nivcsw: 45
+Child rusage ru_utime: 4.435501
+Child rusage ru_stime: 0.801993
+Child rusage ru_maxrss: 58704
+Child rusage ru_minflt: 433924
+Child rusage ru_majflt: 16
+Child rusage ru_inblock: 2688
+Child rusage ru_oublock: 5576
+Child rusage ru_nvcsw: 5443
+Child rusage ru_nivcsw: 2757
+Status: PASSED 
+Ended: 1735203009.35 

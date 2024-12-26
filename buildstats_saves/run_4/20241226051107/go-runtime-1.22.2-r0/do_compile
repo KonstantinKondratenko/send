@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191872.82 
+go-runtime-1.22.2-r0: do_compile
+Elapsed time: 147.70 seconds
+utime: 38
+stime: 7
+cutime: 21882
+cstime: 2096
+IO rchar: 2384461744
+IO wchar: 1332035516
+IO syscr: 228111
+IO syscw: 258853
+IO read_bytes: 127250432
+IO write_bytes: 1472155648
+IO cancelled_write_bytes: 762175488
+rusage ru_utime: 0.385779
+rusage ru_stime: 0.079978
+rusage ru_maxrss: 67708
+rusage ru_minflt: 15397
+rusage ru_majflt: 62
+rusage ru_inblock: 720
+rusage ru_oublock: 10216
+rusage ru_nvcsw: 6261
+rusage ru_nivcsw: 89
+Child rusage ru_utime: 218.828526
+Child rusage ru_stime: 20.96093
+Child rusage ru_maxrss: 678432
+Child rusage ru_minflt: 11626112
+Child rusage ru_majflt: 31113
+Child rusage ru_inblock: 247816
+Child rusage ru_oublock: 2865088
+Child rusage ru_nvcsw: 429102
+Child rusage ru_nivcsw: 107049
+Status: PASSED 
+Ended: 1735192020.52 

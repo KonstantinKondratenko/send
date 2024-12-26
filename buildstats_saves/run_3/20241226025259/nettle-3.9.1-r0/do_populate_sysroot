@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184582.23 
+nettle-3.9.1-r0: do_populate_sysroot
+Elapsed time: 1.27 seconds
+utime: 26
+stime: 6
+cutime: 10
+cstime: 6
+IO rchar: 10384027
+IO wchar: 5443688
+IO syscr: 2259
+IO syscw: 438
+IO read_bytes: 8192
+IO write_bytes: 4407296
+IO cancelled_write_bytes: 638976
+rusage ru_utime: 0.261127
+rusage ru_stime: 0.061961999999999996
+rusage ru_maxrss: 64756
+rusage ru_minflt: 28080
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 5296
+rusage ru_nvcsw: 31
+rusage ru_nivcsw: 70
+Child rusage ru_utime: 0.10876999999999999
+Child rusage ru_stime: 0.06981899999999999
+Child rusage ru_maxrss: 62344
+Child rusage ru_minflt: 19465
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 3312
+Child rusage ru_nvcsw: 287
+Child rusage ru_nivcsw: 110
+Status: PASSED 
+Ended: 1735184583.49 

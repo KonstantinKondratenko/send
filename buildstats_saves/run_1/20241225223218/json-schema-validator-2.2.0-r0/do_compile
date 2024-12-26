@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172955.52 
+json-schema-validator-2.2.0-r0: do_compile
+Elapsed time: 42.17 seconds
+utime: 16
+stime: 1
+cutime: 3457
+cstime: 134
+IO rchar: 161816141
+IO wchar: 98829883
+IO syscr: 13947
+IO syscw: 21723
+IO read_bytes: 327680
+IO write_bytes: 26255360
+IO cancelled_write_bytes: 299008
+rusage ru_utime: 0.16487
+rusage ru_stime: 0.012062999999999999
+rusage ru_maxrss: 61192
+rusage ru_minflt: 9632
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 53
+rusage ru_nivcsw: 38
+Child rusage ru_utime: 34.573956
+Child rusage ru_stime: 1.346606
+Child rusage ru_maxrss: 593124
+Child rusage ru_minflt: 607424
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 632
+Child rusage ru_oublock: 51184
+Child rusage ru_nvcsw: 6310
+Child rusage ru_nivcsw: 25078
+Status: PASSED 
+Ended: 1735172997.69 

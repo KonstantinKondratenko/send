@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182349.06 
+systemtap-5.0-r0: do_unpack
+Elapsed time: 13.31 seconds
+utime: 11
+stime: 5
+cutime: 31
+cstime: 14
+IO rchar: 5347088
+IO wchar: 33170089
+IO syscr: 2725
+IO syscw: 6939
+IO read_bytes: 409600
+IO write_bytes: 47833088
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.117002
+rusage ru_stime: 0.050700999999999996
+rusage ru_maxrss: 82980
+rusage ru_minflt: 18243
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 50
+rusage ru_nivcsw: 28
+Child rusage ru_utime: 0.314812
+Child rusage ru_stime: 0.148149
+Child rusage ru_maxrss: 89764
+Child rusage ru_minflt: 41105
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 800
+Child rusage ru_oublock: 93304
+Child rusage ru_nvcsw: 269
+Child rusage ru_nivcsw: 72
+Status: PASSED 
+Ended: 1735182362.37 

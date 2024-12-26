@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166082.30 
+go-binary-native-1.22.2-r0: do_populate_sysroot
+Elapsed time: 4.86 seconds
+utime: 106
+stime: 74
+cutime: 1090
+cstime: 118
+IO rchar: 980511844
+IO wchar: 469261001
+IO syscr: 150776
+IO syscw: 27089
+IO read_bytes: 36864
+IO write_bytes: 258322432
+IO cancelled_write_bytes: 0
+rusage ru_utime: 1.067198
+rusage ru_stime: 0.744649
+rusage ru_maxrss: 83080
+rusage ru_minflt: 75467
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 209712
+rusage ru_nvcsw: 95
+rusage ru_nivcsw: 945
+Child rusage ru_utime: 10.907268
+Child rusage ru_stime: 1.180741
+Child rusage ru_maxrss: 260168
+Child rusage ru_minflt: 237087
+Child rusage ru_majflt: 10
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 294824
+Child rusage ru_nvcsw: 11646
+Child rusage ru_nivcsw: 11284
+Status: PASSED 
+Ended: 1735166087.15 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175968.72 
+libseccomp-2.5.5-r0: do_populate_sysroot
+Elapsed time: 3.36 seconds
+utime: 66
+stime: 6
+cutime: 11
+cstime: 3
+IO rchar: 5042792
+IO wchar: 2100124
+IO syscr: 1628
+IO syscw: 322
+IO read_bytes: 0
+IO write_bytes: 1134592
+IO cancelled_write_bytes: 131072
+rusage ru_utime: 0.666203
+rusage ru_stime: 0.06623
+rusage ru_maxrss: 63356
+rusage ru_minflt: 27430
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 1192
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 136
+Child rusage ru_utime: 0.114739
+Child rusage ru_stime: 0.034814
+Child rusage ru_maxrss: 60936
+Child rusage ru_minflt: 16106
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1024
+Child rusage ru_nvcsw: 200
+Child rusage ru_nivcsw: 130
+Status: PASSED 
+Ended: 1735175972.08 

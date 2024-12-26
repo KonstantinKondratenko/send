@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196988.41 
+groff-1.23.0-r0: do_compile
+Elapsed time: 31.12 seconds
+utime: 16
+stime: 2
+cutime: 6003
+cstime: 457
+IO rchar: 511897432
+IO wchar: 131395004
+IO syscr: 178141
+IO syscw: 96380
+IO read_bytes: 11386880
+IO write_bytes: 57593856
+IO cancelled_write_bytes: 12763136
+rusage ru_utime: 0.16042599999999999
+rusage ru_stime: 0.025875
+rusage ru_maxrss: 61856
+rusage ru_minflt: 7439
+rusage ru_majflt: 53
+rusage ru_inblock: 432
+rusage ru_oublock: 1112
+rusage ru_nvcsw: 581
+rusage ru_nivcsw: 80
+Child rusage ru_utime: 60.031216
+Child rusage ru_stime: 4.576204
+Child rusage ru_maxrss: 163384
+Child rusage ru_minflt: 2009880
+Child rusage ru_majflt: 255
+Child rusage ru_inblock: 21808
+Child rusage ru_oublock: 111376
+Child rusage ru_nvcsw: 46461
+Child rusage ru_nivcsw: 44947
+Status: PASSED 
+Ended: 1735197019.53 

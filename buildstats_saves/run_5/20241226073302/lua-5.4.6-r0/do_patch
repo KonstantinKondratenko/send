@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198706.07 
+lua-5.4.6-r0: do_patch
+Elapsed time: 1.30 seconds
+utime: 10
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 972139
+IO wchar: 639913
+IO syscr: 329
+IO syscw: 207
+IO read_bytes: 8192
+IO write_bytes: 655360
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.102687
+rusage ru_stime: 0.027646
+rusage ru_maxrss: 80600
+rusage ru_minflt: 8643
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 136
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 24
+Child rusage ru_utime: 0.012112999999999999
+Child rusage ru_stime: 0.003016
+Child rusage ru_maxrss: 74660
+Child rusage ru_minflt: 1295
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 16
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1735198707.37 

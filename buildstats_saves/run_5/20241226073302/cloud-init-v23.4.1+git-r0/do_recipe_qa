@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199004.83 
+cloud-init-v23.4.1+git-r0: do_recipe_qa
+Elapsed time: 0.70 seconds
+utime: 8
+stime: 2
+cutime: 2
+cstime: 0
+IO rchar: 630377
+IO wchar: 120496
+IO syscr: 354
+IO syscw: 97
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.08455599999999999
+rusage ru_stime: 0.028184999999999998
+rusage ru_maxrss: 84500
+rusage ru_minflt: 15737
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.020118
+Child rusage ru_stime: 0.005258
+Child rusage ru_maxrss: 81668
+Child rusage ru_minflt: 4430
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 153
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735199005.54 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735168298.30 
+util-linux-2.39.3-r0: do_install_ptest_base
+Elapsed time: 2.65 seconds
+utime: 21
+stime: 4
+cutime: 27
+cstime: 30
+IO rchar: 12791031
+IO wchar: 9325495
+IO syscr: 19215
+IO syscw: 1897
+IO read_bytes: 9781248
+IO write_bytes: 15196160
+IO cancelled_write_bytes: 36864
+rusage ru_utime: 0.21085199999999998
+rusage ru_stime: 0.04217
+rusage ru_maxrss: 58432
+rusage ru_minflt: 17432
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 376
+Child rusage ru_utime: 0.27635499999999996
+Child rusage ru_stime: 0.30811499999999997
+Child rusage ru_maxrss: 56224
+Child rusage ru_minflt: 26543
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 19104
+Child rusage ru_oublock: 29608
+Child rusage ru_nvcsw: 4386
+Child rusage ru_nivcsw: 11522
+Status: PASSED 
+Ended: 1735168300.96 

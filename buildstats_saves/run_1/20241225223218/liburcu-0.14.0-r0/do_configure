@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169186.76 
+liburcu-0.14.0-r0: do_configure
+Elapsed time: 59.47 seconds
+utime: 30
+stime: 5
+cutime: 924
+cstime: 176
+IO rchar: 204798627
+IO wchar: 27884980
+IO syscr: 90727
+IO syscw: 25053
+IO read_bytes: 806912
+IO write_bytes: 26427392
+IO cancelled_write_bytes: 16564224
+rusage ru_utime: 0.30947399999999997
+rusage ru_stime: 0.054367
+rusage ru_maxrss: 61292
+rusage ru_minflt: 19760
+rusage ru_majflt: 0
+rusage ru_inblock: 152
+rusage ru_oublock: 296
+rusage ru_nvcsw: 380
+rusage ru_nivcsw: 135
+Child rusage ru_utime: 9.246463
+Child rusage ru_stime: 1.767515
+Child rusage ru_maxrss: 58380
+Child rusage ru_minflt: 1020455
+Child rusage ru_majflt: 41
+Child rusage ru_inblock: 1424
+Child rusage ru_oublock: 51320
+Child rusage ru_nvcsw: 9976
+Child rusage ru_nivcsw: 6613
+Status: PASSED 
+Ended: 1735169246.23 

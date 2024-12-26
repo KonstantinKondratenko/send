@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735206032.99 
+irqbalance-1.8.0+git-r0: do_configure
+Elapsed time: 19.10 seconds
+utime: 20
+stime: 3
+cutime: 353
+cstime: 57
+IO rchar: 102206473
+IO wchar: 16361455
+IO syscr: 43726
+IO syscw: 15117
+IO read_bytes: 204800
+IO write_bytes: 15196160
+IO cancelled_write_bytes: 8376320
+rusage ru_utime: 0.20393899999999998
+rusage ru_stime: 0.035989
+rusage ru_maxrss: 63084
+rusage ru_minflt: 22788
+rusage ru_majflt: 0
+rusage ru_inblock: 168
+rusage ru_oublock: 280
+rusage ru_nvcsw: 190
+rusage ru_nivcsw: 21
+Child rusage ru_utime: 3.535971
+Child rusage ru_stime: 0.57051
+Child rusage ru_maxrss: 60324
+Child rusage ru_minflt: 462931
+Child rusage ru_majflt: 12
+Child rusage ru_inblock: 232
+Child rusage ru_oublock: 29400
+Child rusage ru_nvcsw: 5115
+Child rusage ru_nivcsw: 2184
+Status: PASSED 
+Ended: 1735206052.10 

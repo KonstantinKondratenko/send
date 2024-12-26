@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191756.38 
+qemu-native-8.2.1-r0: do_compile
+Elapsed time: 93.94 seconds
+utime: 24
+stime: 5
+cutime: 76514
+cstime: 6651
+IO rchar: 8909398159
+IO wchar: 2584174353
+IO syscr: 1512529
+IO syscw: 598546
+IO read_bytes: 29769728
+IO write_bytes: 1183600640
+IO cancelled_write_bytes: 122880
+rusage ru_utime: 0.245337
+rusage ru_stime: 0.050919
+rusage ru_maxrss: 65648
+rusage ru_minflt: 9923
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 392
+rusage ru_nvcsw: 1871
+rusage ru_nivcsw: 33
+Child rusage ru_utime: 765.14775
+Child rusage ru_stime: 66.515506
+Child rusage ru_maxrss: 510920
+Child rusage ru_minflt: 25117497
+Child rusage ru_majflt: 360
+Child rusage ru_inblock: 58144
+Child rusage ru_oublock: 2311328
+Child rusage ru_nvcsw: 209999
+Child rusage ru_nivcsw: 272477
+Status: PASSED 
+Ended: 1735191850.32 

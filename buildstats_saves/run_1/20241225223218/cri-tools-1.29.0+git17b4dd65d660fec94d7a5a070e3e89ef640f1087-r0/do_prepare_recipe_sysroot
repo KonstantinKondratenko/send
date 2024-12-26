@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172665.59 
+cri-tools-1.29.0+git17b4dd65d660fec94d7a5a070e3e89ef640f1087-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.32 seconds
+utime: 26
+stime: 35
+cutime: 0
+cstime: 0
+IO rchar: 4262033
+IO wchar: 172609
+IO syscr: 648
+IO syscw: 72
+IO read_bytes: 13017088
+IO write_bytes: 188416
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.26991699999999996
+rusage ru_stime: 0.35131999999999997
+rusage ru_maxrss: 70432
+rusage ru_minflt: 14952
+rusage ru_majflt: 3
+rusage ru_inblock: 25416
+rusage ru_oublock: 144
+rusage ru_nvcsw: 2817
+rusage ru_nivcsw: 167
+Child rusage ru_utime: 0.008076999999999999
+Child rusage ru_stime: 0.0
+Child rusage ru_maxrss: 65768
+Child rusage ru_minflt: 845
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 224
+Child rusage ru_nvcsw: 9
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735172667.90 

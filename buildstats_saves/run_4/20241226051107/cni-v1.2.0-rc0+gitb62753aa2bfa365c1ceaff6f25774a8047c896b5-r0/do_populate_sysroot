@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197470.37 
+cni-v1.2.0-rc0+gitb62753aa2bfa365c1ceaff6f25774a8047c896b5-r0: do_populate_sysroot
+Elapsed time: 1.80 seconds
+utime: 17
+stime: 3
+cutime: 3
+cstime: 1
+IO rchar: 866918
+IO wchar: 253163
+IO syscr: 701
+IO syscw: 143
+IO read_bytes: 1163264
+IO write_bytes: 196608
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.173227
+rusage ru_stime: 0.035432
+rusage ru_maxrss: 62852
+rusage ru_minflt: 25799
+rusage ru_majflt: 15
+rusage ru_inblock: 1664
+rusage ru_oublock: 344
+rusage ru_nvcsw: 143
+rusage ru_nivcsw: 19
+Child rusage ru_utime: 0.031013
+Child rusage ru_stime: 0.012020999999999999
+Child rusage ru_maxrss: 59920
+Child rusage ru_minflt: 8784
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 608
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 200
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1735197472.17 

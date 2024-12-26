@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174787.63 
+rpm-native-1_4.19.1.1-r0: do_install
+Elapsed time: 8.26 seconds
+utime: 26
+stime: 2
+cutime: 87
+cstime: 19
+IO rchar: 17625273
+IO wchar: 3969719
+IO syscr: 15406
+IO syscw: 1505
+IO read_bytes: 512000
+IO write_bytes: 3715072
+IO cancelled_write_bytes: 143360
+rusage ru_utime: 0.268426
+rusage ru_stime: 0.023007
+rusage ru_maxrss: 87196
+rusage ru_minflt: 16253
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 189
+rusage ru_nivcsw: 123
+Child rusage ru_utime: 0.8717459999999999
+Child rusage ru_stime: 0.193538
+Child rusage ru_maxrss: 84480
+Child rusage ru_minflt: 149560
+Child rusage ru_majflt: 20
+Child rusage ru_inblock: 1000
+Child rusage ru_oublock: 7088
+Child rusage ru_nvcsw: 2196
+Child rusage ru_nivcsw: 954
+Status: PASSED 
+Ended: 1735174795.89 

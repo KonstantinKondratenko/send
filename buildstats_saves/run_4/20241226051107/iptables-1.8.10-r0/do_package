@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194193.24 
+iptables-1.8.10-r0: do_package
+Elapsed time: 29.94 seconds
+utime: 596
+stime: 234
+cutime: 6590
+cstime: 521
+IO rchar: 165245462
+IO wchar: 34379078
+IO syscr: 134898
+IO syscw: 12825
+IO read_bytes: 57344
+IO write_bytes: 24719360
+IO cancelled_write_bytes: 10567680
+rusage ru_utime: 5.963848
+rusage ru_stime: 2.340544
+rusage ru_maxrss: 65456
+rusage ru_minflt: 340328
+rusage ru_majflt: 1
+rusage ru_inblock: 24
+rusage ru_oublock: 3008
+rusage ru_nvcsw: 11197
+rusage ru_nivcsw: 12203
+Child rusage ru_utime: 65.902106
+Child rusage ru_stime: 5.212825
+Child rusage ru_maxrss: 88704
+Child rusage ru_minflt: 1677408
+Child rusage ru_majflt: 150
+Child rusage ru_inblock: 88
+Child rusage ru_oublock: 45272
+Child rusage ru_nvcsw: 45832
+Child rusage ru_nivcsw: 37556
+Status: PASSED 
+Ended: 1735194223.18 

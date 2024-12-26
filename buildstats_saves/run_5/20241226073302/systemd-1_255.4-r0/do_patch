@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198696.74 
+systemd-1_255.4-r0: do_patch
+Elapsed time: 1.07 seconds
+utime: 7
+stime: 3
+cutime: 6
+cstime: 1
+IO rchar: 1873391
+IO wchar: 707541
+IO syscr: 1563
+IO syscw: 345
+IO read_bytes: 12288
+IO write_bytes: 724992
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.07539799999999999
+rusage ru_stime: 0.031745999999999996
+rusage ru_maxrss: 81524
+rusage ru_minflt: 11678
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.064941
+Child rusage ru_stime: 0.015215
+Child rusage ru_maxrss: 75944
+Child rusage ru_minflt: 19630
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1256
+Child rusage ru_nvcsw: 294
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1735198697.82 

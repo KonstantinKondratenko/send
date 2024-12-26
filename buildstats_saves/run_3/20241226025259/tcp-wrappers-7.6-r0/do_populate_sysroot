@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185590.18 
+tcp-wrappers-7.6-r0: do_populate_sysroot
+Elapsed time: 0.78 seconds
+utime: 20
+stime: 4
+cutime: 6
+cstime: 4
+IO rchar: 2404494
+IO wchar: 817478
+IO syscr: 1356
+IO syscw: 213
+IO read_bytes: 4096
+IO write_bytes: 491520
+IO cancelled_write_bytes: 40960
+rusage ru_utime: 0.20943199999999998
+rusage ru_stime: 0.04833
+rusage ru_maxrss: 62632
+rusage ru_minflt: 26724
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 568
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.06428099999999999
+Child rusage ru_stime: 0.048539
+Child rusage ru_maxrss: 60300
+Child rusage ru_minflt: 15428
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 392
+Child rusage ru_nvcsw: 205
+Child rusage ru_nivcsw: 134
+Status: PASSED 
+Ended: 1735185590.96 

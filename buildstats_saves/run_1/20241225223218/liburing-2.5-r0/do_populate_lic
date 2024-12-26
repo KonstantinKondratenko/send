@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166419.75 
+liburing-2.5-r0: do_populate_lic
+Elapsed time: 0.15 seconds
+utime: 15
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 811649
+IO wchar: 193871
+IO syscr: 530
+IO syscw: 110
+IO read_bytes: 4096
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.156695
+rusage ru_stime: 0.021175
+rusage ru_maxrss: 86524
+rusage ru_minflt: 20694
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 216
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 0.018262999999999998
+Child rusage ru_stime: 0.021182
+Child rusage ru_maxrss: 83408
+Child rusage ru_minflt: 5603
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 105
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735166419.90 

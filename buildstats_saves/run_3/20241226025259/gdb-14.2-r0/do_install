@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189050.03 
+gdb-14.2-r0: do_install
+Elapsed time: 6.76 seconds
+utime: 12
+stime: 5
+cutime: 157
+cstime: 53
+IO rchar: 294593205
+IO wchar: 243256487
+IO syscr: 46995
+IO syscw: 5705
+IO read_bytes: 21446656
+IO write_bytes: 243441664
+IO cancelled_write_bytes: 47497216
+rusage ru_utime: 0.126753
+rusage ru_stime: 0.050700999999999996
+rusage ru_maxrss: 59920
+rusage ru_minflt: 17669
+rusage ru_majflt: 6
+rusage ru_inblock: 1072
+rusage ru_oublock: 344
+rusage ru_nvcsw: 1513
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 1.575542
+Child rusage ru_stime: 0.533579
+Child rusage ru_maxrss: 57904
+Child rusage ru_minflt: 402551
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 40816
+Child rusage ru_oublock: 475128
+Child rusage ru_nvcsw: 17245
+Child rusage ru_nivcsw: 282
+Status: PASSED 
+Ended: 1735189056.79 

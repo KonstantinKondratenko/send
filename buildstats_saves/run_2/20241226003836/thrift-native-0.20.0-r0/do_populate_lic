@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174277.76 
+thrift-native-0.20.0-r0: do_populate_lic
+Elapsed time: 0.25 seconds
+utime: 21
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 1006950
+IO wchar: 200082
+IO syscr: 542
+IO syscw: 126
+IO read_bytes: 24576
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.214796
+rusage ru_stime: 0.039053
+rusage ru_maxrss: 86672
+rusage ru_minflt: 21924
+rusage ru_majflt: 2
+rusage ru_inblock: 48
+rusage ru_oublock: 216
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 72
+Child rusage ru_utime: 0.021899
+Child rusage ru_stime: 0.026892
+Child rusage ru_maxrss: 83568
+Child rusage ru_minflt: 5642
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 88
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1735174278.02 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175995.16 
+sqlite3-3_3.45.1-r0: do_populate_sysroot
+Elapsed time: 2.31 seconds
+utime: 35
+stime: 7
+cutime: 15
+cstime: 4
+IO rchar: 18187776
+IO wchar: 12776977
+IO syscr: 2213
+IO syscw: 620
+IO read_bytes: 4096
+IO write_bytes: 10608640
+IO cancelled_write_bytes: 1425408
+rusage ru_utime: 0.35163099999999997
+rusage ru_stime: 0.07768499999999999
+rusage ru_maxrss: 61984
+rusage ru_minflt: 27359
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 13376
+rusage ru_nvcsw: 48
+rusage ru_nivcsw: 79
+Child rusage ru_utime: 0.15392699999999998
+Child rusage ru_stime: 0.040732
+Child rusage ru_maxrss: 59668
+Child rusage ru_minflt: 17502
+Child rusage ru_majflt: 9
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 7344
+Child rusage ru_nvcsw: 270
+Child rusage ru_nivcsw: 109
+Status: PASSED 
+Ended: 1735175997.47 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194027.21 
+valgrind-3.22.0-r0: do_install
+Elapsed time: 11.53 seconds
+utime: 28
+stime: 6
+cutime: 152
+cstime: 66
+IO rchar: 300056626
+IO wchar: 272032514
+IO syscr: 44704
+IO syscw: 8815
+IO read_bytes: 20975616
+IO write_bytes: 272683008
+IO cancelled_write_bytes: 87937024
+rusage ru_utime: 0.280706
+rusage ru_stime: 0.065369
+rusage ru_maxrss: 59808
+rusage ru_minflt: 17456
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 328
+rusage ru_nvcsw: 932
+rusage ru_nivcsw: 305
+Child rusage ru_utime: 1.5224929999999999
+Child rusage ru_stime: 0.669677
+Child rusage ru_maxrss: 57668
+Child rusage ru_minflt: 251960
+Child rusage ru_majflt: 18
+Child rusage ru_inblock: 40960
+Child rusage ru_oublock: 532256
+Child rusage ru_nvcsw: 6902
+Child rusage ru_nivcsw: 4994
+Status: PASSED 
+Ended: 1735194038.74 

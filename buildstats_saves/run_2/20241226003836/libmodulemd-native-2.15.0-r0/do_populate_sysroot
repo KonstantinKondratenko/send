@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175090.22 
+libmodulemd-native-2.15.0-r0: do_populate_sysroot
+Elapsed time: 2.98 seconds
+utime: 62
+stime: 5
+cutime: 10
+cstime: 7
+IO rchar: 6063496
+IO wchar: 2380556
+IO syscr: 1927
+IO syscw: 346
+IO read_bytes: 155648
+IO write_bytes: 1523712
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.62366
+rusage ru_stime: 0.055612999999999996
+rusage ru_maxrss: 67108
+rusage ru_minflt: 34604
+rusage ru_majflt: 0
+rusage ru_inblock: 264
+rusage ru_oublock: 1512
+rusage ru_nvcsw: 56
+rusage ru_nivcsw: 169
+Child rusage ru_utime: 0.109973
+Child rusage ru_stime: 0.07751999999999999
+Child rusage ru_maxrss: 64632
+Child rusage ru_minflt: 19177
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 1464
+Child rusage ru_nvcsw: 257
+Child rusage ru_nivcsw: 130
+Status: PASSED 
+Ended: 1735175093.21 

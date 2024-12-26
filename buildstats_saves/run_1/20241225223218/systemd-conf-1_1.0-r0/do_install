@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172695.47 
+systemd-conf-1_1.0-r0: do_install
+Elapsed time: 0.11 seconds
+utime: 10
+stime: 1
+cutime: 2
+cstime: 0
+IO rchar: 418895
+IO wchar: 71444
+IO syscr: 623
+IO syscw: 49
+IO read_bytes: 176128
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.10432999999999999
+rusage ru_stime: 0.012038
+rusage ru_maxrss: 57788
+rusage ru_minflt: 13593
+rusage ru_majflt: 5
+rusage ru_inblock: 40
+rusage ru_oublock: 144
+rusage ru_nvcsw: 514
+rusage ru_nivcsw: 2
+Child rusage ru_utime: 0.020314
+Child rusage ru_stime: 0.001829
+Child rusage ru_maxrss: 55800
+Child rusage ru_minflt: 3684
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 304
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 230
+Child rusage ru_nivcsw: 0
+Status: PASSED 
+Ended: 1735172695.58 

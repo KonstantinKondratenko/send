@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185763.83 
+libbsd-0.12.1-r0: do_compile
+Elapsed time: 2.71 seconds
+utime: 14
+stime: 2
+cutime: 468
+cstime: 91
+IO rchar: 46175163
+IO wchar: 3641654
+IO syscr: 23415
+IO syscw: 4358
+IO read_bytes: 446464
+IO write_bytes: 1564672
+IO cancelled_write_bytes: 204800
+rusage ru_utime: 0.147736
+rusage ru_stime: 0.020517999999999998
+rusage ru_maxrss: 62512
+rusage ru_minflt: 9314
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 384
+rusage ru_nvcsw: 276
+rusage ru_nivcsw: 26
+Child rusage ru_utime: 4.686028
+Child rusage ru_stime: 0.9116719999999999
+Child rusage ru_maxrss: 59684
+Child rusage ru_minflt: 467578
+Child rusage ru_majflt: 22
+Child rusage ru_inblock: 872
+Child rusage ru_oublock: 2672
+Child rusage ru_nvcsw: 5519
+Child rusage ru_nivcsw: 2943
+Status: PASSED 
+Ended: 1735185766.54 

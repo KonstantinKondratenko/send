@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184582.29 
+libcheck-0.15.2-r0: do_install
+Elapsed time: 1.75 seconds
+utime: 20
+stime: 4
+cutime: 31
+cstime: 10
+IO rchar: 4138200
+IO wchar: 661680
+IO syscr: 5620
+IO syscw: 359
+IO read_bytes: 319488
+IO write_bytes: 741376
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.20747
+rusage ru_stime: 0.041493999999999996
+rusage ru_maxrss: 57428
+rusage ru_minflt: 16226
+rusage ru_majflt: 4
+rusage ru_inblock: 48
+rusage ru_oublock: 208
+rusage ru_nvcsw: 603
+rusage ru_nivcsw: 65
+Child rusage ru_utime: 0.319892
+Child rusage ru_stime: 0.10597799999999999
+Child rusage ru_maxrss: 55340
+Child rusage ru_minflt: 48322
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 576
+Child rusage ru_oublock: 1240
+Child rusage ru_nvcsw: 1040
+Child rusage ru_nivcsw: 847
+Status: PASSED 
+Ended: 1735184584.03 

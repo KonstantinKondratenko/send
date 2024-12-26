@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166057.93 
+systemd-1_255.4-r0: do_deploy_source_date_epoch
+Elapsed time: 0.27 seconds
+utime: 23
+stime: 1
+cutime: 2
+cstime: 1
+IO rchar: 708428
+IO wchar: 157678
+IO syscr: 455
+IO syscw: 117
+IO read_bytes: 0
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.23421699999999998
+rusage ru_stime: 0.015358
+rusage ru_maxrss: 83344
+rusage ru_minflt: 22523
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 101
+Child rusage ru_utime: 0.021207999999999998
+Child rusage ru_stime: 0.019188
+Child rusage ru_maxrss: 80576
+Child rusage ru_minflt: 5327
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 78
+Child rusage ru_nivcsw: 57
+Status: PASSED 
+Ended: 1735166058.20 

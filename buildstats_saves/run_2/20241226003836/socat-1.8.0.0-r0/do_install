@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180432.24 
+socat-1.8.0.0-r0: do_install
+Elapsed time: 1.17 seconds
+utime: 26
+stime: 1
+cutime: 5
+cstime: 1
+IO rchar: 3228220
+IO wchar: 2783981
+IO syscr: 955
+IO syscw: 130
+IO read_bytes: 217088
+IO write_bytes: 2801664
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.267951
+rusage ru_stime: 0.019416
+rusage ru_maxrss: 56796
+rusage ru_minflt: 17314
+rusage ru_majflt: 7
+rusage ru_inblock: 64
+rusage ru_oublock: 192
+rusage ru_nvcsw: 92
+rusage ru_nivcsw: 292
+Child rusage ru_utime: 0.051420999999999994
+Child rusage ru_stime: 0.019253
+Child rusage ru_maxrss: 54624
+Child rusage ru_minflt: 6165
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 360
+Child rusage ru_oublock: 5280
+Child rusage ru_nvcsw: 72
+Child rusage ru_nivcsw: 204
+Status: PASSED 
+Ended: 1735180433.41 

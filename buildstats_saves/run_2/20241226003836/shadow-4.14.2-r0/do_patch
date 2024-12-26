@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173760.02 
+shadow-4.14.2-r0: do_patch
+Elapsed time: 0.85 seconds
+utime: 11
+stime: 3
+cutime: 6
+cstime: 2
+IO rchar: 2561918
+IO wchar: 712089
+IO syscr: 1647
+IO syscw: 358
+IO read_bytes: 1007616
+IO write_bytes: 753664
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.111441
+rusage ru_stime: 0.030742
+rusage ru_maxrss: 81268
+rusage ru_minflt: 11078
+rusage ru_majflt: 1
+rusage ru_inblock: 1792
+rusage ru_oublock: 168
+rusage ru_nvcsw: 88
+rusage ru_nivcsw: 60
+Child rusage ru_utime: 0.063648
+Child rusage ru_stime: 0.023784
+Child rusage ru_maxrss: 74956
+Child rusage ru_minflt: 19382
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 176
+Child rusage ru_oublock: 1304
+Child rusage ru_nvcsw: 308
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1735173760.87 

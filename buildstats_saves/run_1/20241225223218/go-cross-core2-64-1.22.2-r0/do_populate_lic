@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166412.69 
+go-cross-core2-64-1.22.2-r0: do_populate_lic
+Elapsed time: 0.17 seconds
+utime: 15
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 656146
+IO wchar: 161175
+IO syscr: 495
+IO syscw: 112
+IO read_bytes: 8192
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.15418199999999999
+rusage ru_stime: 0.029168999999999997
+rusage ru_maxrss: 86752
+rusage ru_minflt: 20696
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 22
+Child rusage ru_utime: 0.015743
+Child rusage ru_stime: 0.024772
+Child rusage ru_maxrss: 83628
+Child rusage ru_minflt: 5530
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 80
+Child rusage ru_nivcsw: 41
+Status: PASSED 
+Ended: 1735166412.86 

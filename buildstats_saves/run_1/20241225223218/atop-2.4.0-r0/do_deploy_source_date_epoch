@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166353.41 
+atop-2.4.0-r0: do_deploy_source_date_epoch
+Elapsed time: 1.66 seconds
+utime: 21
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 689859
+IO wchar: 137639
+IO syscr: 423
+IO syscw: 93
+IO read_bytes: 0
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.210135
+rusage ru_stime: 0.037823999999999997
+rusage ru_maxrss: 85412
+rusage ru_minflt: 21680
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 125
+Child rusage ru_utime: 0.023066
+Child rusage ru_stime: 0.026033999999999998
+Child rusage ru_maxrss: 82628
+Child rusage ru_minflt: 5216
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 94
+Child rusage ru_nivcsw: 280
+Status: PASSED 
+Ended: 1735166355.07 

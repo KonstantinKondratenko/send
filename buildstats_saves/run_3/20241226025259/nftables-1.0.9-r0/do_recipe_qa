@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735181895.57 
+nftables-1.0.9-r0: do_recipe_qa
+Elapsed time: 0.77 seconds
+utime: 11
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 596835
+IO wchar: 126497
+IO syscr: 361
+IO syscw: 103
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.113275
+rusage ru_stime: 0.028318
+rusage ru_maxrss: 83624
+rusage ru_minflt: 15913
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.018848
+Child rusage ru_stime: 0.003718
+Child rusage ru_maxrss: 80744
+Child rusage ru_minflt: 4485
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 139
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1735181896.34 

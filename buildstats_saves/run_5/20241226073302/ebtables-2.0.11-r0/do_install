@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205856.40 
+ebtables-2.0.11-r0: do_install
+Elapsed time: 2.84 seconds
+utime: 21
+stime: 3
+cutime: 25
+cstime: 7
+IO rchar: 2515980
+IO wchar: 840709
+IO syscr: 3299
+IO syscw: 465
+IO read_bytes: 81920
+IO write_bytes: 856064
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.21754199999999999
+rusage ru_stime: 0.031076999999999997
+rusage ru_maxrss: 58264
+rusage ru_minflt: 14148
+rusage ru_majflt: 11
+rusage ru_inblock: 120
+rusage ru_oublock: 224
+rusage ru_nvcsw: 149
+rusage ru_nivcsw: 315
+Child rusage ru_utime: 0.255981
+Child rusage ru_stime: 0.079303
+Child rusage ru_maxrss: 56060
+Child rusage ru_minflt: 47628
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 1448
+Child rusage ru_nvcsw: 1018
+Child rusage ru_nivcsw: 746
+Status: PASSED 
+Ended: 1735205859.24 

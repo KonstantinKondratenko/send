@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735183557.34 
+libdnf-native-0.73.1-r0: do_install
+Elapsed time: 0.32 seconds
+utime: 26
+stime: 2
+cutime: 3
+cstime: 1
+IO rchar: 12231234
+IO wchar: 8187018
+IO syscr: 2335
+IO syscw: 1360
+IO read_bytes: 24576
+IO write_bytes: 8450048
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.26795399999999997
+rusage ru_stime: 0.027583
+rusage ru_maxrss: 63164
+rusage ru_minflt: 17149
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 97
+rusage ru_nivcsw: 31
+Child rusage ru_utime: 0.034026
+Child rusage ru_stime: 0.017348
+Child rusage ru_maxrss: 60340
+Child rusage ru_minflt: 1986
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 16344
+Child rusage ru_nvcsw: 12
+Child rusage ru_nivcsw: 96
+Status: PASSED 
+Ended: 1735183557.67 

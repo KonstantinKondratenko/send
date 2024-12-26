@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190322.43 
+strace-6.7-r0: do_patch
+Elapsed time: 0.46 seconds
+utime: 5
+stime: 2
+cutime: 19
+cstime: 5
+IO rchar: 2724415
+IO wchar: 247493
+IO syscr: 4325
+IO syscw: 467
+IO read_bytes: 4096
+IO write_bytes: 303104
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.058672999999999996
+rusage ru_stime: 0.027379999999999998
+rusage ru_maxrss: 82492
+rusage ru_minflt: 13409
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.19144699999999998
+Child rusage ru_stime: 0.058289999999999995
+Child rusage ru_maxrss: 76684
+Child rusage ru_minflt: 68243
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 432
+Child rusage ru_nvcsw: 1067
+Child rusage ru_nivcsw: 64
+Status: PASSED 
+Ended: 1735190322.89 

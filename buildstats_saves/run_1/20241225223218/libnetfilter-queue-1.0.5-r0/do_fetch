@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166123.86 
+libnetfilter-queue-1.0.5-r0: do_fetch
+Elapsed time: 8.48 seconds
+utime: 7
+stime: 3
+cutime: 11
+cstime: 5
+IO rchar: 5261417
+IO wchar: 1964660
+IO syscr: 1740
+IO syscw: 1758
+IO read_bytes: 4096
+IO write_bytes: 1257472
+IO cancelled_write_bytes: 69632
+rusage ru_utime: 0.074742
+rusage ru_stime: 0.035172999999999996
+rusage ru_maxrss: 81536
+rusage ru_minflt: 11867
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 384
+rusage ru_nvcsw: 92
+rusage ru_nivcsw: 91
+Child rusage ru_utime: 0.113744
+Child rusage ru_stime: 0.058102999999999995
+Child rusage ru_maxrss: 78060
+Child rusage ru_minflt: 14369
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 2072
+Child rusage ru_nvcsw: 128
+Child rusage ru_nivcsw: 318
+Status: PASSED 
+Ended: 1735166132.34 

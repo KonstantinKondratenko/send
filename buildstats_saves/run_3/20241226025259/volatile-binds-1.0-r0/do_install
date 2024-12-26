@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182451.00 
+volatile-binds-1.0-r0: do_install
+Elapsed time: 0.56 seconds
+utime: 19
+stime: 2
+cutime: 2
+cstime: 2
+IO rchar: 487489
+IO wchar: 70157
+IO syscr: 795
+IO syscw: 60
+IO read_bytes: 16384
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.193666
+rusage ru_stime: 0.027112999999999998
+rusage ru_maxrss: 74792
+rusage ru_minflt: 17328
+rusage ru_majflt: 3
+rusage ru_inblock: 32
+rusage ru_oublock: 152
+rusage ru_nvcsw: 68
+rusage ru_nivcsw: 323
+Child rusage ru_utime: 0.025831
+Child rusage ru_stime: 0.029339999999999998
+Child rusage ru_maxrss: 72584
+Child rusage ru_minflt: 5390
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 78
+Child rusage ru_nivcsw: 185
+Status: PASSED 
+Ended: 1735182451.56 

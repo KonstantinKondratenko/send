@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182221.26 
+mtd-utils-2.1.6-r0: do_fetch
+Elapsed time: 10.32 seconds
+utime: 7
+stime: 2
+cutime: 8
+cstime: 3
+IO rchar: 11087120
+IO wchar: 7919742
+IO syscr: 3264
+IO syscw: 4961
+IO read_bytes: 4096
+IO write_bytes: 5165056
+IO cancelled_write_bytes: 69632
+rusage ru_utime: 0.07296799999999999
+rusage ru_stime: 0.026882999999999997
+rusage ru_maxrss: 82264
+rusage ru_minflt: 11874
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 416
+rusage ru_nvcsw: 360
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.081061
+Child rusage ru_stime: 0.031779
+Child rusage ru_maxrss: 78552
+Child rusage ru_minflt: 14370
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 9672
+Child rusage ru_nvcsw: 423
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735182231.58 

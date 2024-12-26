@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182395.40 
+libsmi-0.5.0-r0: do_patch
+Elapsed time: 0.21 seconds
+utime: 6
+stime: 2
+cutime: 9
+cstime: 1
+IO rchar: 3081315
+IO wchar: 1481393
+IO syscr: 2151
+IO syscw: 556
+IO read_bytes: 4096
+IO write_bytes: 1519616
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.067496
+rusage ru_stime: 0.027791999999999997
+rusage ru_maxrss: 82828
+rusage ru_minflt: 11427
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 152
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.099299
+Child rusage ru_stime: 0.011618
+Child rusage ru_maxrss: 76884
+Child rusage ru_minflt: 29309
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2816
+Child rusage ru_nvcsw: 443
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1735182395.62 

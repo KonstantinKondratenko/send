@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174363.84 
+netcat-openbsd-1.195-r0: do_populate_lic
+Elapsed time: 1.27 seconds
+utime: 14
+stime: 4
+cutime: 2
+cstime: 2
+IO rchar: 752816
+IO wchar: 160962
+IO syscr: 518
+IO syscw: 109
+IO read_bytes: 8192
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.146042
+rusage ru_stime: 0.041726
+rusage ru_maxrss: 85768
+rusage ru_minflt: 18206
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 19
+Child rusage ru_utime: 0.020259
+Child rusage ru_stime: 0.029848999999999997
+Child rusage ru_maxrss: 82640
+Child rusage ru_minflt: 5620
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 110
+Child rusage ru_nivcsw: 46
+Status: PASSED 
+Ended: 1735174365.11 

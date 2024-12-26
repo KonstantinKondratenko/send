@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205478.04 
+grub-efi-2.12-r0: do_compile
+Elapsed time: 69.11 seconds
+utime: 31
+stime: 5
+cutime: 9586
+cstime: 1509
+IO rchar: 1924955335
+IO wchar: 345602012
+IO syscr: 775731
+IO syscw: 128260
+IO read_bytes: 13561856
+IO write_bytes: 218255360
+IO cancelled_write_bytes: 86720512
+rusage ru_utime: 0.31106
+rusage ru_stime: 0.055546
+rusage ru_maxrss: 63588
+rusage ru_minflt: 9223
+rusage ru_majflt: 105
+rusage ru_inblock: 1712
+rusage ru_oublock: 8488
+rusage ru_nvcsw: 2343
+rusage ru_nivcsw: 90
+Child rusage ru_utime: 95.867673
+Child rusage ru_stime: 15.090617
+Child rusage ru_maxrss: 89816
+Child rusage ru_minflt: 6633892
+Child rusage ru_majflt: 522
+Child rusage ru_inblock: 24776
+Child rusage ru_oublock: 417792
+Child rusage ru_nvcsw: 175305
+Child rusage ru_nivcsw: 164084
+Status: PASSED 
+Ended: 1735205547.15 

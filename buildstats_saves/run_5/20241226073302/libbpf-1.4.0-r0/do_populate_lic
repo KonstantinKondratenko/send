@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199531.94 
+libbpf-1.4.0-r0: do_populate_lic
+Elapsed time: 0.58 seconds
+utime: 15
+stime: 2
+cutime: 2
+cstime: 2
+IO rchar: 776021
+IO wchar: 217810
+IO syscr: 513
+IO syscw: 112
+IO read_bytes: 155648
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.151674
+rusage ru_stime: 0.029491999999999997
+rusage ru_maxrss: 83024
+rusage ru_minflt: 17904
+rusage ru_majflt: 1
+rusage ru_inblock: 264
+rusage ru_oublock: 208
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 52
+Child rusage ru_utime: 0.022307999999999998
+Child rusage ru_stime: 0.025148999999999998
+Child rusage ru_maxrss: 79844
+Child rusage ru_minflt: 5626
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 79
+Child rusage ru_nivcsw: 62
+Status: PASSED 
+Ended: 1735199532.52 

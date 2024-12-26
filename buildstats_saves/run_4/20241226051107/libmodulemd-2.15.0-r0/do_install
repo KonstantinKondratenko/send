@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735193982.63 
+libmodulemd-2.15.0-r0: do_install
+Elapsed time: 1.26 seconds
+utime: 23
+stime: 3
+cutime: 31
+cstime: 5
+IO rchar: 11703122
+IO wchar: 3313435
+IO syscr: 1650
+IO syscw: 171
+IO read_bytes: 4096
+IO write_bytes: 3366912
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.234198
+rusage ru_stime: 0.039033
+rusage ru_maxrss: 60324
+rusage ru_minflt: 17329
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 117
+rusage ru_nivcsw: 264
+Child rusage ru_utime: 0.31843
+Child rusage ru_stime: 0.057266
+Child rusage ru_maxrss: 58220
+Child rusage ru_minflt: 11772
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 6416
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 350
+Status: PASSED 
+Ended: 1735193983.89 

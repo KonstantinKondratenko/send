@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174390.76 
+update-rc.d-native-0.8-r0: do_populate_lic
+Elapsed time: 0.21 seconds
+utime: 21
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 952603
+IO wchar: 186128
+IO syscr: 522
+IO syscw: 121
+IO read_bytes: 8192
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.21051199999999998
+rusage ru_stime: 0.035085
+rusage ru_maxrss: 86744
+rusage ru_minflt: 21457
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 216
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 128
+Child rusage ru_utime: 0.021588
+Child rusage ru_stime: 0.027729999999999998
+Child rusage ru_maxrss: 83660
+Child rusage ru_minflt: 5655
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 79
+Child rusage ru_nivcsw: 64
+Status: PASSED 
+Ended: 1735174390.97 

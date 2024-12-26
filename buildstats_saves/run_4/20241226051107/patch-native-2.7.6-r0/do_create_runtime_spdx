@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190882.13 
+patch-native-2.7.6-r0: do_create_runtime_spdx
+Elapsed time: 0.26 seconds
+utime: 18
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 1018487
+IO wchar: 346154
+IO syscr: 376
+IO syscw: 112
+IO read_bytes: 0
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.189225
+rusage ru_stime: 0.024680999999999998
+rusage ru_maxrss: 86724
+rusage ru_minflt: 21242
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 268
+Child rusage ru_utime: 0.020524999999999998
+Child rusage ru_stime: 0.014972999999999998
+Child rusage ru_maxrss: 83936
+Child rusage ru_minflt: 4617
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 85
+Child rusage ru_nivcsw: 33
+Status: PASSED 
+Ended: 1735190882.39 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180567.36 
+patch-2.7.6-r0: do_install
+Elapsed time: 1.65 seconds
+utime: 19
+stime: 6
+cutime: 17
+cstime: 6
+IO rchar: 3348965
+IO wchar: 965251
+IO syscr: 3371
+IO syscw: 217
+IO read_bytes: 94208
+IO write_bytes: 950272
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.199812
+rusage ru_stime: 0.068021
+rusage ru_maxrss: 58280
+rusage ru_minflt: 16714
+rusage ru_majflt: 10
+rusage ru_inblock: 88
+rusage ru_oublock: 184
+rusage ru_nvcsw: 150
+rusage ru_nivcsw: 274
+Child rusage ru_utime: 0.179368
+Child rusage ru_stime: 0.067438
+Child rusage ru_maxrss: 56112
+Child rusage ru_minflt: 28000
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 96
+Child rusage ru_oublock: 1672
+Child rusage ru_nvcsw: 551
+Child rusage ru_nivcsw: 1078
+Status: PASSED 
+Ended: 1735180569.00 

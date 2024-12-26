@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166091.60 
+pcsc-lite-2.0.3-r0: do_recipe_qa
+Elapsed time: 0.09 seconds
+utime: 10
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 572102
+IO wchar: 119234
+IO syscr: 343
+IO syscw: 94
+IO read_bytes: 16384
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.105237
+rusage ru_stime: 0.035079
+rusage ru_maxrss: 83428
+rusage ru_minflt: 15750
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.018299
+Child rusage ru_stime: 0.012624
+Child rusage ru_maxrss: 80640
+Child rusage ru_minflt: 4406
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 86
+Child rusage ru_nivcsw: 16
+Status: PASSED 
+Ended: 1735166091.69 

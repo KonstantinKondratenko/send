@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191460.16 
+boost-native-1.84.0-r0: do_compile
+Elapsed time: 151.33 seconds
+utime: 38
+stime: 3
+cutime: 98712
+cstime: 6814
+IO rchar: 7640638159
+IO wchar: 309776240
+IO syscr: 1111955
+IO syscw: 134518
+IO read_bytes: 96780288
+IO write_bytes: 159408128
+IO cancelled_write_bytes: 425984
+rusage ru_utime: 0.386828
+rusage ru_stime: 0.033637
+rusage ru_maxrss: 69824
+rusage ru_minflt: 14178
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 3808
+rusage ru_nvcsw: 1699
+rusage ru_nivcsw: 39
+Child rusage ru_utime: 987.129757
+Child rusage ru_stime: 68.141519
+Child rusage ru_maxrss: 643444
+Child rusage ru_minflt: 33036215
+Child rusage ru_majflt: 242
+Child rusage ru_inblock: 189024
+Child rusage ru_oublock: 307536
+Child rusage ru_nvcsw: 61852
+Child rusage ru_nivcsw: 142014
+Status: PASSED 
+Ended: 1735191611.49 

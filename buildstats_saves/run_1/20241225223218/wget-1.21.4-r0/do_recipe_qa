@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166198.46 
+wget-1.21.4-r0: do_recipe_qa
+Elapsed time: 0.37 seconds
+utime: 12
+stime: 4
+cutime: 2
+cstime: 0
+IO rchar: 647913
+IO wchar: 118315
+IO syscr: 356
+IO syscw: 94
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.12042699999999999
+rusage ru_stime: 0.040142
+rusage ru_maxrss: 84828
+rusage ru_minflt: 15864
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 93
+Child rusage ru_utime: 0.02596
+Child rusage ru_stime: 0.008727
+Child rusage ru_maxrss: 82080
+Child rusage ru_minflt: 4393
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 87
+Child rusage ru_nivcsw: 46
+Status: PASSED 
+Ended: 1735166198.83 

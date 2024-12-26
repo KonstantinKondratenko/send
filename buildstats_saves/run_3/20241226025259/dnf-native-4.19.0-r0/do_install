@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735183570.26 
+dnf-native-4.19.0-r0: do_install
+Elapsed time: 0.50 seconds
+utime: 22
+stime: 3
+cutime: 6
+cstime: 3
+IO rchar: 4524087
+IO wchar: 3759296
+IO syscr: 1457
+IO syscw: 932
+IO read_bytes: 1200128
+IO write_bytes: 4120576
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.22621
+rusage ru_stime: 0.036355
+rusage ru_maxrss: 63716
+rusage ru_minflt: 17467
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 172
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.068868
+Child rusage ru_stime: 0.03147
+Child rusage ru_maxrss: 60904
+Child rusage ru_minflt: 4938
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2344
+Child rusage ru_oublock: 7880
+Child rusage ru_nvcsw: 152
+Child rusage ru_nivcsw: 105
+Status: PASSED 
+Ended: 1735183570.76 

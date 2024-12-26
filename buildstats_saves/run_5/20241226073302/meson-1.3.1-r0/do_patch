@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199341.03 
+meson-1.3.1-r0: do_patch
+Elapsed time: 0.37 seconds
+utime: 7
+stime: 1
+cutime: 10
+cstime: 1
+IO rchar: 2148558
+IO wchar: 753871
+IO syscr: 2137
+IO syscw: 377
+IO read_bytes: 8192
+IO write_bytes: 774144
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.07156599999999999
+rusage ru_stime: 0.015903
+rusage ru_maxrss: 79744
+rusage ru_minflt: 11399
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 152
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.10116699999999999
+Child rusage ru_stime: 0.019926
+Child rusage ru_maxrss: 73948
+Child rusage ru_minflt: 29136
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1360
+Child rusage ru_nvcsw: 441
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1735199341.40 

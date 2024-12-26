@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182395.17 
+netcat-openbsd-1.195-r0: do_patch
+Elapsed time: 0.42 seconds
+utime: 8
+stime: 1
+cutime: 10
+cstime: 5
+IO rchar: 2815749
+IO wchar: 1155526
+IO syscr: 2775
+IO syscw: 588
+IO read_bytes: 16384
+IO write_bytes: 1261568
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.088417
+rusage ru_stime: 0.013262
+rusage ru_maxrss: 85676
+rusage ru_minflt: 13150
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 176
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.104553
+Child rusage ru_stime: 0.050275999999999994
+Child rusage ru_maxrss: 82220
+Child rusage ru_minflt: 43814
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 2288
+Child rusage ru_nvcsw: 699
+Child rusage ru_nivcsw: 34
+Status: PASSED 
+Ended: 1735182395.58 

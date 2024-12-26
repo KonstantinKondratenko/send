@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199212.51 
+wget-1.21.4-r0: do_unpack
+Elapsed time: 16.29 seconds
+utime: 5
+stime: 4
+cutime: 28
+cstime: 7
+IO rchar: 28106731
+IO wchar: 44333221
+IO syscr: 2695
+IO syscw: 4187
+IO read_bytes: 323584
+IO write_bytes: 24764416
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.056041
+rusage ru_stime: 0.040028999999999995
+rusage ru_maxrss: 81172
+rusage ru_minflt: 8856
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.284498
+Child rusage ru_stime: 0.074441
+Child rusage ru_maxrss: 77508
+Child rusage ru_minflt: 1639
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 632
+Child rusage ru_oublock: 48304
+Child rusage ru_nvcsw: 806
+Child rusage ru_nivcsw: 64
+Status: PASSED 
+Ended: 1735199228.80 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182395.32 
+liburing-2.5-r0: do_patch
+Elapsed time: 0.16 seconds
+utime: 8
+stime: 1
+cutime: 0
+cstime: 0
+IO rchar: 1000002
+IO wchar: 628668
+IO syscr: 320
+IO syscw: 193
+IO read_bytes: 4096
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.087153
+rusage ru_stime: 0.01245
+rusage ru_maxrss: 82828
+rusage ru_minflt: 8883
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.006429
+Child rusage ru_stime: 0.0075309999999999995
+Child rusage ru_maxrss: 76884
+Child rusage ru_minflt: 1260
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 16
+Child rusage ru_nivcsw: 3
+Status: PASSED 
+Ended: 1735182395.48 

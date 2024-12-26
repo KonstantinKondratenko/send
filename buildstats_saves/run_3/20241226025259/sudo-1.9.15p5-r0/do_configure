@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189167.74 
+sudo-1.9.15p5-r0: do_configure
+Elapsed time: 34.53 seconds
+utime: 22
+stime: 3
+cutime: 1054
+cstime: 306
+IO rchar: 301699821
+IO wchar: 34271928
+IO syscr: 133762
+IO syscw: 32861
+IO read_bytes: 2027520
+IO write_bytes: 33259520
+IO cancelled_write_bytes: 20590592
+rusage ru_utime: 0.225155
+rusage ru_stime: 0.031599999999999996
+rusage ru_maxrss: 61344
+rusage ru_minflt: 20825
+rusage ru_majflt: 7
+rusage ru_inblock: 224
+rusage ru_oublock: 312
+rusage ru_nvcsw: 646
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 10.54068
+Child rusage ru_stime: 3.063769
+Child rusage ru_maxrss: 58716
+Child rusage ru_minflt: 1669867
+Child rusage ru_majflt: 52
+Child rusage ru_inblock: 3736
+Child rusage ru_oublock: 64648
+Child rusage ru_nvcsw: 12052
+Child rusage ru_nivcsw: 3458
+Status: PASSED 
+Ended: 1735189202.27 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190559.59 
+nginx-1.24.0-r0: do_patch
+Elapsed time: 2.83 seconds
+utime: 11
+stime: 4
+cutime: 19
+cstime: 6
+IO rchar: 2906407
+IO wchar: 958211
+IO syscr: 3259
+IO syscw: 553
+IO read_bytes: 0
+IO write_bytes: 970752
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.11717999999999999
+rusage ru_stime: 0.040279999999999996
+rusage ru_maxrss: 82768
+rusage ru_minflt: 12616
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 75
+Child rusage ru_utime: 0.19816799999999998
+Child rusage ru_stime: 0.06644499999999999
+Child rusage ru_maxrss: 76864
+Child rusage ru_minflt: 48643
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1720
+Child rusage ru_nvcsw: 791
+Child rusage ru_nivcsw: 317
+Status: PASSED 
+Ended: 1735190562.42 

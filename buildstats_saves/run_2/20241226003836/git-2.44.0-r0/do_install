@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180440.21 
+git-2.44.0-r0: do_install
+Elapsed time: 14.06 seconds
+utime: 26
+stime: 4
+cutime: 86
+cstime: 38
+IO rchar: 217616451
+IO wchar: 213296983
+IO syscr: 12403
+IO syscw: 2165
+IO read_bytes: 520192
+IO write_bytes: 213229568
+IO cancelled_write_bytes: 17571840
+rusage ru_utime: 0.264612
+rusage ru_stime: 0.042803999999999995
+rusage ru_maxrss: 57428
+rusage ru_minflt: 16956
+rusage ru_majflt: 5
+rusage ru_inblock: 344
+rusage ru_oublock: 240
+rusage ru_nvcsw: 196
+rusage ru_nivcsw: 297
+Child rusage ru_utime: 0.864011
+Child rusage ru_stime: 0.381795
+Child rusage ru_maxrss: 55256
+Child rusage ru_minflt: 113920
+Child rusage ru_majflt: 9
+Child rusage ru_inblock: 672
+Child rusage ru_oublock: 416224
+Child rusage ru_nvcsw: 1826
+Child rusage ru_nivcsw: 2909
+Status: PASSED 
+Ended: 1735180454.27 

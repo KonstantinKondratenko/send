@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172872.13 
+thrift-0.20.0-r0: do_compile
+Elapsed time: 34.22 seconds
+utime: 12
+stime: 3
+cutime: 27153
+cstime: 1394
+IO rchar: 1492827570
+IO wchar: 893932554
+IO syscr: 155521
+IO syscw: 184145
+IO read_bytes: 10158080
+IO write_bytes: 251682816
+IO cancelled_write_bytes: 12083200
+rusage ru_utime: 0.128698
+rusage ru_stime: 0.031198999999999998
+rusage ru_maxrss: 63020
+rusage ru_minflt: 7759
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 784
+rusage ru_nvcsw: 158
+rusage ru_nivcsw: 56
+Child rusage ru_utime: 271.537885
+Child rusage ru_stime: 13.942473
+Child rusage ru_maxrss: 400192
+Child rusage ru_minflt: 5261891
+Child rusage ru_majflt: 18
+Child rusage ru_inblock: 19840
+Child rusage ru_oublock: 490784
+Child rusage ru_nvcsw: 65054
+Child rusage ru_nivcsw: 99500
+Status: PASSED 
+Ended: 1735172906.34 

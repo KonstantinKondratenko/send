@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189200.81 
+xfsprogs-6.6.0-r0: do_compile
+Elapsed time: 31.03 seconds
+utime: 13
+stime: 3
+cutime: 8280
+cstime: 1562
+IO rchar: 1295469171
+IO wchar: 141677550
+IO syscr: 327976
+IO syscw: 42813
+IO read_bytes: 6008832
+IO write_bytes: 62660608
+IO cancelled_write_bytes: 9973760
+rusage ru_utime: 0.134331
+rusage ru_stime: 0.034825999999999996
+rusage ru_maxrss: 61888
+rusage ru_minflt: 10446
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 1560
+rusage ru_nvcsw: 593
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 82.807771
+Child rusage ru_stime: 15.627007
+Child rusage ru_maxrss: 105896
+Child rusage ru_minflt: 3398634
+Child rusage ru_majflt: 86
+Child rusage ru_inblock: 11728
+Child rusage ru_oublock: 120824
+Child rusage ru_nvcsw: 33229
+Child rusage ru_nivcsw: 35187
+Status: PASSED 
+Ended: 1735189231.84 

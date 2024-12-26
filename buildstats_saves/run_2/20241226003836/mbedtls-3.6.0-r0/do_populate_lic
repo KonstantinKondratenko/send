@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174363.89 
+mbedtls-3.6.0-r0: do_populate_lic
+Elapsed time: 1.24 seconds
+utime: 14
+stime: 5
+cutime: 3
+cstime: 2
+IO rchar: 964728
+IO wchar: 230161
+IO syscr: 543
+IO syscw: 116
+IO read_bytes: 258048
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.14735399999999998
+rusage ru_stime: 0.054730999999999995
+rusage ru_maxrss: 85968
+rusage ru_minflt: 21275
+rusage ru_majflt: 1
+rusage ru_inblock: 504
+rusage ru_oublock: 208
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 38
+Child rusage ru_utime: 0.032637
+Child rusage ru_stime: 0.021897
+Child rusage ru_maxrss: 82864
+Child rusage ru_minflt: 5646
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 118
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1735174365.13 

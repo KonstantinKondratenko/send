@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172959.56 
+iptraf-ng-1.2.1-r0: do_compile
+Elapsed time: 3.93 seconds
+utime: 15
+stime: 1
+cutime: 620
+cstime: 150
+IO rchar: 96792368
+IO wchar: 8387203
+IO syscr: 23516
+IO syscw: 3425
+IO read_bytes: 729088
+IO write_bytes: 2674688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.159054
+rusage ru_stime: 0.016742
+rusage ru_maxrss: 61008
+rusage ru_minflt: 9484
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 113
+rusage ru_nivcsw: 22
+Child rusage ru_utime: 6.209256
+Child rusage ru_stime: 1.501561
+Child rusage ru_maxrss: 58484
+Child rusage ru_minflt: 281384
+Child rusage ru_majflt: 13
+Child rusage ru_inblock: 1424
+Child rusage ru_oublock: 5136
+Child rusage ru_nvcsw: 2234
+Child rusage ru_nivcsw: 3277
+Status: PASSED 
+Ended: 1735172963.49 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166416.39 
+zstd-native-1.5.5-r0: do_populate_lic
+Elapsed time: 1.17 seconds
+utime: 14
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 1042854
+IO wchar: 208006
+IO syscr: 542
+IO syscw: 124
+IO read_bytes: 200704
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.14371
+rusage ru_stime: 0.044218
+rusage ru_maxrss: 87436
+rusage ru_minflt: 21402
+rusage ru_majflt: 2
+rusage ru_inblock: 376
+rusage ru_oublock: 208
+rusage ru_nvcsw: 34
+rusage ru_nivcsw: 11
+Child rusage ru_utime: 0.0265
+Child rusage ru_stime: 0.010528
+Child rusage ru_maxrss: 84312
+Child rusage ru_minflt: 5620
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 120
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1735166417.55 

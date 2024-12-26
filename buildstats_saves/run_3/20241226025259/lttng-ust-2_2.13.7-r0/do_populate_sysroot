@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188594.06 
+lttng-ust-2_2.13.7-r0: do_populate_sysroot
+Elapsed time: 1.23 seconds
+utime: 29
+stime: 13
+cutime: 22
+cstime: 14
+IO rchar: 19053134
+IO wchar: 10048681
+IO syscr: 4142
+IO syscw: 785
+IO read_bytes: 6725632
+IO write_bytes: 8597504
+IO cancelled_write_bytes: 1228800
+rusage ru_utime: 0.295259
+rusage ru_stime: 0.13655699999999998
+rusage ru_maxrss: 63140
+rusage ru_minflt: 33027
+rusage ru_majflt: 1
+rusage ru_inblock: 4304
+rusage ru_oublock: 11344
+rusage ru_nvcsw: 198
+rusage ru_nivcsw: 210
+Child rusage ru_utime: 0.222518
+Child rusage ru_stime: 0.147643
+Child rusage ru_maxrss: 60904
+Child rusage ru_minflt: 42347
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 8832
+Child rusage ru_oublock: 5448
+Child rusage ru_nvcsw: 332
+Child rusage ru_nivcsw: 211
+Status: PASSED 
+Ended: 1735188595.29 

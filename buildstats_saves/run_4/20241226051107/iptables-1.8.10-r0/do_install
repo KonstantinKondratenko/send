@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194121.82 
+iptables-1.8.10-r0: do_install
+Elapsed time: 4.11 seconds
+utime: 19
+stime: 3
+cutime: 49
+cstime: 15
+IO rchar: 8203931
+IO wchar: 4450661
+IO syscr: 9005
+IO syscw: 726
+IO read_bytes: 24576
+IO write_bytes: 4714496
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.190987
+rusage ru_stime: 0.033953
+rusage ru_maxrss: 59508
+rusage ru_minflt: 16566
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 240
+rusage ru_nvcsw: 272
+rusage ru_nivcsw: 319
+Child rusage ru_utime: 0.490901
+Child rusage ru_stime: 0.157135
+Child rusage ru_maxrss: 57432
+Child rusage ru_minflt: 89097
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 8968
+Child rusage ru_nvcsw: 1454
+Child rusage ru_nivcsw: 2562
+Status: PASSED 
+Ended: 1735194125.93 

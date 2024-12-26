@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205470.95 
+python3-maturin-native-1.4.0-r0: do_install
+Elapsed time: 0.71 seconds
+utime: 32
+stime: 1
+cutime: 20
+cstime: 2
+IO rchar: 8616213
+IO wchar: 15238241
+IO syscr: 917
+IO syscw: 913
+IO read_bytes: 4096
+IO write_bytes: 14942208
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.326805
+rusage ru_stime: 0.012732
+rusage ru_maxrss: 65176
+rusage ru_minflt: 21184
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 57
+Child rusage ru_utime: 0.20546299999999998
+Child rusage ru_stime: 0.020135999999999998
+Child rusage ru_maxrss: 62532
+Child rusage ru_minflt: 5675
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 29096
+Child rusage ru_nvcsw: 18
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1735205471.66 

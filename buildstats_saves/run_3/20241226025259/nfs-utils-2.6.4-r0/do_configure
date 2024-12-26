@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189187.37 
+nfs-utils-2.6.4-r0: do_configure
+Elapsed time: 41.61 seconds
+utime: 24
+stime: 3
+cutime: 1041
+cstime: 231
+IO rchar: 219597977
+IO wchar: 28529547
+IO syscr: 106401
+IO syscw: 24078
+IO read_bytes: 1613824
+IO write_bytes: 27209728
+IO cancelled_write_bytes: 13918208
+rusage ru_utime: 0.24143099999999998
+rusage ru_stime: 0.032189999999999996
+rusage ru_maxrss: 62872
+rusage ru_minflt: 23674
+rusage ru_majflt: 5
+rusage ru_inblock: 256
+rusage ru_oublock: 328
+rusage ru_nvcsw: 511
+rusage ru_nivcsw: 48
+Child rusage ru_utime: 10.410542
+Child rusage ru_stime: 2.312822
+Child rusage ru_maxrss: 60204
+Child rusage ru_minflt: 1403112
+Child rusage ru_majflt: 32
+Child rusage ru_inblock: 2896
+Child rusage ru_oublock: 52816
+Child rusage ru_nvcsw: 12056
+Child rusage ru_nivcsw: 4640
+Status: PASSED 
+Ended: 1735189228.98 

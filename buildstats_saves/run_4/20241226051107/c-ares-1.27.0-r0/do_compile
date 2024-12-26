@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735192932.50 
+c-ares-1.27.0-r0: do_compile
+Elapsed time: 37.03 seconds
+utime: 16
+stime: 2
+cutime: 14353
+cstime: 769
+IO rchar: 869657325
+IO wchar: 419483270
+IO syscr: 107277
+IO syscw: 102428
+IO read_bytes: 3403776
+IO write_bytes: 120242176
+IO cancelled_write_bytes: 3674112
+rusage ru_utime: 0.169128
+rusage ru_stime: 0.022253
+rusage ru_maxrss: 61300
+rusage ru_minflt: 10007
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 816
+rusage ru_nvcsw: 155
+rusage ru_nivcsw: 46
+Child rusage ru_utime: 143.530402
+Child rusage ru_stime: 7.691603
+Child rusage ru_maxrss: 540328
+Child rusage ru_minflt: 2918353
+Child rusage ru_majflt: 31
+Child rusage ru_inblock: 6648
+Child rusage ru_oublock: 234032
+Child rusage ru_nvcsw: 30654
+Child rusage ru_nivcsw: 53021
+Status: PASSED 
+Ended: 1735192969.53 

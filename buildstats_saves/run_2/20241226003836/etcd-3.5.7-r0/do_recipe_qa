@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173978.35 
+etcd-3.5.7-r0: do_recipe_qa
+Elapsed time: 0.08 seconds
+utime: 10
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 624471
+IO wchar: 123276
+IO syscr: 349
+IO syscw: 96
+IO read_bytes: 57344
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.104325
+rusage ru_stime: 0.011590999999999999
+rusage ru_maxrss: 84616
+rusage ru_minflt: 15946
+rusage ru_majflt: 0
+rusage ru_inblock: 112
+rusage ru_oublock: 176
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.014473999999999999
+Child rusage ru_stime: 0.009556
+Child rusage ru_maxrss: 81860
+Child rusage ru_minflt: 4520
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 114
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1735173978.43 

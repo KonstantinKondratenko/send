@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173614.37 
+curl-native-8.7.1-r0: do_patch
+Elapsed time: 0.12 seconds
+utime: 9
+stime: 2
+cutime: 5
+cstime: 1
+IO rchar: 1531502
+IO wchar: 379862
+IO syscr: 1327
+IO syscw: 246
+IO read_bytes: 0
+IO write_bytes: 393216
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.09214
+rusage ru_stime: 0.02003
+rusage ru_maxrss: 82128
+rusage ru_minflt: 10769
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.059376
+Child rusage ru_stime: 0.011807999999999999
+Child rusage ru_maxrss: 75984
+Child rusage ru_minflt: 19489
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 632
+Child rusage ru_nvcsw: 300
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1735173614.50 

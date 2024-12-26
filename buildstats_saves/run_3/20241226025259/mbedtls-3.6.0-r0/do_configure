@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185594.70 
+mbedtls-3.6.0-r0: do_configure
+Elapsed time: 2.53 seconds
+utime: 15
+stime: 2
+cutime: 91
+cstime: 26
+IO rchar: 17122070
+IO wchar: 5963528
+IO syscr: 5778
+IO syscw: 1891
+IO read_bytes: 7786496
+IO write_bytes: 6008832
+IO cancelled_write_bytes: 466944
+rusage ru_utime: 0.15723399999999998
+rusage ru_stime: 0.024189
+rusage ru_maxrss: 62880
+rusage ru_minflt: 10163
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 128
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 39
+Child rusage ru_utime: 0.915975
+Child rusage ru_stime: 0.265472
+Child rusage ru_maxrss: 59944
+Child rusage ru_minflt: 61439
+Child rusage ru_majflt: 39
+Child rusage ru_inblock: 15192
+Child rusage ru_oublock: 11608
+Child rusage ru_nvcsw: 770
+Child rusage ru_nivcsw: 532
+Status: PASSED 
+Ended: 1735185597.24 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174387.56 
+iproute2-6.7.0-r0: do_populate_lic
+Elapsed time: 0.30 seconds
+utime: 16
+stime: 6
+cutime: 3
+cstime: 2
+IO rchar: 869136
+IO wchar: 206884
+IO syscr: 529
+IO syscw: 115
+IO read_bytes: 28672
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.163268
+rusage ru_stime: 0.06371399999999999
+rusage ru_maxrss: 85556
+rusage ru_minflt: 20999
+rusage ru_majflt: 1
+rusage ru_inblock: 56
+rusage ru_oublock: 208
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 83
+Child rusage ru_utime: 0.03139
+Child rusage ru_stime: 0.021727
+Child rusage ru_maxrss: 82452
+Child rusage ru_minflt: 5594
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 118
+Child rusage ru_nivcsw: 78
+Status: PASSED 
+Ended: 1735174387.86 

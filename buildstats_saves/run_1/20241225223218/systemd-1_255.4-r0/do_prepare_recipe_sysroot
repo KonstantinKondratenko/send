@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735168937.08 
+systemd-1_255.4-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.93 seconds
+utime: 59
+stime: 22
+cutime: 17
+cstime: 3
+IO rchar: 4408896
+IO wchar: 1841623
+IO syscr: 2556
+IO syscw: 629
+IO read_bytes: 5558272
+IO write_bytes: 2027520
+IO cancelled_write_bytes: 49152
+rusage ru_utime: 0.5945849999999999
+rusage ru_stime: 0.223934
+rusage ru_maxrss: 63548
+rusage ru_minflt: 27527
+rusage ru_majflt: 28
+rusage ru_inblock: 9968
+rusage ru_oublock: 504
+rusage ru_nvcsw: 277
+rusage ru_nivcsw: 141
+Child rusage ru_utime: 0.17321499999999998
+Child rusage ru_stime: 0.038636
+Child rusage ru_maxrss: 60824
+Child rusage ru_minflt: 25273
+Child rusage ru_majflt: 13
+Child rusage ru_inblock: 888
+Child rusage ru_oublock: 3456
+Child rusage ru_nvcsw: 331
+Child rusage ru_nivcsw: 115
+Status: PASSED 
+Ended: 1735168940.01 

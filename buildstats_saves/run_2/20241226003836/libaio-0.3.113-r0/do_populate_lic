@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174387.28 
+libaio-0.3.113-r0: do_populate_lic
+Elapsed time: 0.17 seconds
+utime: 11
+stime: 2
+cutime: 3
+cstime: 1
+IO rchar: 903188
+IO wchar: 216429
+IO syscr: 526
+IO syscw: 111
+IO read_bytes: 53248
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.117654
+rusage ru_stime: 0.029412999999999998
+rusage ru_maxrss: 85572
+rusage ru_minflt: 17977
+rusage ru_majflt: 1
+rusage ru_inblock: 104
+rusage ru_oublock: 208
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 43
+Child rusage ru_utime: 0.033238
+Child rusage ru_stime: 0.011226
+Child rusage ru_maxrss: 82444
+Child rusage ru_minflt: 5610
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 62
+Child rusage ru_nivcsw: 92
+Status: PASSED 
+Ended: 1735174387.45 

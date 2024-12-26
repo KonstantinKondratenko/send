@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167292.47 
+cairo-native-1.18.0-r0: do_populate_sysroot
+Elapsed time: 1.96 seconds
+utime: 42
+stime: 10
+cutime: 19
+cstime: 9
+IO rchar: 13063213
+IO wchar: 6410525
+IO syscr: 3159
+IO syscw: 589
+IO read_bytes: 73728
+IO write_bytes: 4603904
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.42091
+rusage ru_stime: 0.10117999999999999
+rusage ru_maxrss: 67460
+rusage ru_minflt: 41867
+rusage ru_majflt: 12
+rusage ru_inblock: 144
+rusage ru_oublock: 4088
+rusage ru_nvcsw: 82
+rusage ru_nivcsw: 114
+Child rusage ru_utime: 0.19813
+Child rusage ru_stime: 0.095716
+Child rusage ru_maxrss: 65580
+Child rusage ru_minflt: 29986
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 4904
+Child rusage ru_nvcsw: 261
+Child rusage ru_nivcsw: 150
+Status: PASSED 
+Ended: 1735167294.43 

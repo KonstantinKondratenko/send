@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202590.96 
+liburcu-0.14.0-r0: do_populate_sysroot
+Elapsed time: 1.61 seconds
+utime: 23
+stime: 9
+cutime: 14
+cstime: 12
+IO rchar: 7789919
+IO wchar: 2941575
+IO syscr: 3451
+IO syscw: 494
+IO read_bytes: 4096
+IO write_bytes: 2162688
+IO cancelled_write_bytes: 299008
+rusage ru_utime: 0.23801799999999998
+rusage ru_stime: 0.097757
+rusage ru_maxrss: 64352
+rusage ru_minflt: 31314
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 2792
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 136
+Child rusage ru_utime: 0.14679499999999998
+Child rusage ru_stime: 0.122138
+Child rusage ru_maxrss: 62088
+Child rusage ru_minflt: 33078
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1432
+Child rusage ru_nvcsw: 296
+Child rusage ru_nivcsw: 208
+Status: PASSED 
+Ended: 1735202592.56 

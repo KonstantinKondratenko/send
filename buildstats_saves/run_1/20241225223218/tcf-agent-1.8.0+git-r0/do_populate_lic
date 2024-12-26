@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166424.15 
+tcf-agent-1.8.0+git-r0: do_populate_lic
+Elapsed time: 0.69 seconds
+utime: 12
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 789912
+IO wchar: 181562
+IO syscr: 528
+IO syscw: 109
+IO read_bytes: 24576
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.12689999999999999
+rusage ru_stime: 0.0423
+rusage ru_maxrss: 86664
+rusage ru_minflt: 20782
+rusage ru_majflt: 0
+rusage ru_inblock: 48
+rusage ru_oublock: 208
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.027419
+Child rusage ru_stime: 0.018876999999999998
+Child rusage ru_maxrss: 83540
+Child rusage ru_minflt: 5606
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 83
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1735166424.84 

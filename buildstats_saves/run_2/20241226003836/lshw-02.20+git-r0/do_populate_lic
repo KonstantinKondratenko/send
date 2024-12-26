@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174363.86 
+lshw-02.20+git-r0: do_populate_lic
+Elapsed time: 1.25 seconds
+utime: 13
+stime: 4
+cutime: 4
+cstime: 0
+IO rchar: 851580
+IO wchar: 203562
+IO syscr: 529
+IO syscw: 111
+IO read_bytes: 20480
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.130405
+rusage ru_stime: 0.042066
+rusage ru_maxrss: 85680
+rusage ru_minflt: 18040
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 0.043432
+Child rusage ru_stime: 0.00805
+Child rusage ru_maxrss: 82476
+Child rusage ru_minflt: 5589
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 144
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1735174365.11 

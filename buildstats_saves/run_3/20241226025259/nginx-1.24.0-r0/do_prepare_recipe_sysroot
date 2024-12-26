@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189063.04 
+nginx-1.24.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 3.15 seconds
+utime: 27
+stime: 10
+cutime: 5
+cstime: 2
+IO rchar: 1340797
+IO wchar: 321579
+IO syscr: 1007
+IO syscw: 159
+IO read_bytes: 569344
+IO write_bytes: 380928
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.279429
+rusage ru_stime: 0.106261
+rusage ru_maxrss: 62236
+rusage ru_minflt: 25073
+rusage ru_majflt: 2
+rusage ru_inblock: 1112
+rusage ru_oublock: 448
+rusage ru_nvcsw: 72
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 0.054554
+Child rusage ru_stime: 0.022761
+Child rusage ru_maxrss: 59748
+Child rusage ru_minflt: 11647
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 296
+Child rusage ru_nvcsw: 117
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735189066.18 

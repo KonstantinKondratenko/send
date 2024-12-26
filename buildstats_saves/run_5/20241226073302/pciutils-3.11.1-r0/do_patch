@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198747.99 
+pciutils-3.11.1-r0: do_patch
+Elapsed time: 0.74 seconds
+utime: 6
+stime: 1
+cutime: 3
+cstime: 1
+IO rchar: 813470
+IO wchar: 142226
+IO syscr: 697
+IO syscw: 130
+IO read_bytes: 40960
+IO write_bytes: 176128
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.063263
+rusage ru_stime: 0.011164
+rusage ru_maxrss: 80880
+rusage ru_minflt: 10065
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 136
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.033796
+Child rusage ru_stime: 0.018424
+Child rusage ru_maxrss: 74760
+Child rusage ru_minflt: 9733
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 145
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735198748.73 

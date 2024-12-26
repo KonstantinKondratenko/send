@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182818.83 
+grub-native-2.12-r0: do_install
+Elapsed time: 2.09 seconds
+utime: 20
+stime: 4
+cutime: 58
+cstime: 11
+IO rchar: 57139341
+IO wchar: 35445930
+IO syscr: 28368
+IO syscw: 2369
+IO read_bytes: 507904
+IO write_bytes: 36491264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.205872
+rusage ru_stime: 0.040367
+rusage ru_maxrss: 86520
+rusage ru_minflt: 16607
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 144
+rusage ru_nvcsw: 85
+rusage ru_nivcsw: 42
+Child rusage ru_utime: 0.584755
+Child rusage ru_stime: 0.11127999999999999
+Child rusage ru_maxrss: 83724
+Child rusage ru_minflt: 51099
+Child rusage ru_majflt: 24
+Child rusage ru_inblock: 960
+Child rusage ru_oublock: 71128
+Child rusage ru_nvcsw: 723
+Child rusage ru_nivcsw: 248
+Status: PASSED 
+Ended: 1735182820.91 

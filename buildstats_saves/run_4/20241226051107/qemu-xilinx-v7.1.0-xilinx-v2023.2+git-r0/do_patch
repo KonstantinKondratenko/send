@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191191.84 
+qemu-xilinx-v7.1.0-xilinx-v2023.2+git-r0: do_patch
+Elapsed time: 3.77 seconds
+utime: 17
+stime: 5
+cutime: 56
+cstime: 14
+IO rchar: 6606696
+IO wchar: 2253913
+IO syscr: 8273
+IO syscw: 1201
+IO read_bytes: 417792
+IO write_bytes: 2195456
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.17365899999999998
+rusage ru_stime: 0.053432999999999994
+rusage ru_maxrss: 80928
+rusage ru_minflt: 18095
+rusage ru_majflt: 0
+rusage ru_inblock: 120
+rusage ru_oublock: 240
+rusage ru_nvcsw: 63
+rusage ru_nivcsw: 80
+Child rusage ru_utime: 0.568419
+Child rusage ru_stime: 0.14591099999999999
+Child rusage ru_maxrss: 75092
+Child rusage ru_minflt: 127475
+Child rusage ru_majflt: 7
+Child rusage ru_inblock: 696
+Child rusage ru_oublock: 4048
+Child rusage ru_nvcsw: 1990
+Child rusage ru_nivcsw: 2185
+Status: PASSED 
+Ended: 1735191195.61 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735183167.27 
+glibc-2.39+git-r0: do_populate_sysroot
+Elapsed time: 2.39 seconds
+utime: 36
+stime: 6
+cutime: 130
+cstime: 13
+IO rchar: 186606061
+IO wchar: 80857946
+IO syscr: 25587
+IO syscw: 7151
+IO read_bytes: 8192
+IO write_bytes: 19156992
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.361717
+rusage ru_stime: 0.064305
+rusage ru_maxrss: 64924
+rusage ru_minflt: 32730
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 648
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 110
+Child rusage ru_utime: 1.308545
+Child rusage ru_stime: 0.131704
+Child rusage ru_maxrss: 131792
+Child rusage ru_minflt: 48237
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 36768
+Child rusage ru_nvcsw: 1896
+Child rusage ru_nivcsw: 511
+Status: PASSED 
+Ended: 1735183169.65 

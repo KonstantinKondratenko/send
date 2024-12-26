@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735174273.20 
+watchdog-config-1.0-r0: do_populate_lic
+Elapsed time: 1.20 seconds
+utime: 12
+stime: 1
+cutime: 1
+cstime: 2
+IO rchar: 726581
+IO wchar: 155815
+IO syscr: 509
+IO syscw: 104
+IO read_bytes: 4096
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.123903
+rusage ru_stime: 0.019358999999999998
+rusage ru_maxrss: 85720
+rusage ru_minflt: 17981
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 28
+Child rusage ru_utime: 0.016817
+Child rusage ru_stime: 0.020073999999999998
+Child rusage ru_maxrss: 82604
+Child rusage ru_minflt: 5591
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 80
+Child rusage ru_nivcsw: 32
+Status: PASSED 
+Ended: 1735174274.39 

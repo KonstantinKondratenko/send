@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182634.48 
+go-runtime-1.22.2-r0: do_populate_lic
+Elapsed time: 0.25 seconds
+utime: 11
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 725178
+IO wchar: 157551
+IO syscr: 494
+IO syscw: 109
+IO read_bytes: 40960
+IO write_bytes: 122880
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.110997
+rusage ru_stime: 0.023785
+rusage ru_maxrss: 86340
+rusage ru_minflt: 20773
+rusage ru_majflt: 1
+rusage ru_inblock: 64
+rusage ru_oublock: 200
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.011774
+Child rusage ru_stime: 0.021145999999999998
+Child rusage ru_maxrss: 83176
+Child rusage ru_minflt: 5498
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 117
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1735182634.73 

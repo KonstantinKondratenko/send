@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182328.56 
+makedumpfile-1.7.5-r0: do_unpack
+Elapsed time: 0.52 seconds
+utime: 4
+stime: 4
+cutime: 12
+cstime: 5
+IO rchar: 5041999
+IO wchar: 1022742
+IO syscr: 2021
+IO syscw: 327
+IO read_bytes: 8192
+IO write_bytes: 1273856
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.045706
+rusage ru_stime: 0.041551
+rusage ru_maxrss: 82540
+rusage ru_minflt: 13535
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 34
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.128542
+Child rusage ru_stime: 0.058143999999999994
+Child rusage ru_maxrss: 78956
+Child rusage ru_minflt: 17158
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 2400
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 37
+Status: PASSED 
+Ended: 1735182329.08 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735200451.46 
+dnf-native-4.19.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 1.93 seconds
+utime: 27
+stime: 6
+cutime: 2
+cstime: 1
+IO rchar: 3396648
+IO wchar: 2081698
+IO syscr: 1062
+IO syscw: 602
+IO read_bytes: 483328
+IO write_bytes: 2293760
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.272486
+rusage ru_stime: 0.069202
+rusage ru_maxrss: 63692
+rusage ru_minflt: 11285
+rusage ru_majflt: 13
+rusage ru_inblock: 784
+rusage ru_oublock: 184
+rusage ru_nvcsw: 46
+rusage ru_nivcsw: 137
+Child rusage ru_utime: 0.029005
+Child rusage ru_stime: 0.014776
+Child rusage ru_maxrss: 58808
+Child rusage ru_minflt: 1346
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 160
+Child rusage ru_oublock: 4296
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1735200453.39 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188854.15 
+strace-6.7-r0: do_install_ptest_base
+Elapsed time: 78.78 seconds
+utime: 13
+stime: 3
+cutime: 524
+cstime: 204
+IO rchar: 121616925
+IO wchar: 88240535
+IO syscr: 103872
+IO syscw: 4447
+IO read_bytes: 92938240
+IO write_bytes: 96346112
+IO cancelled_write_bytes: 1245184
+rusage ru_utime: 0.13727699999999998
+rusage ru_stime: 0.036607
+rusage ru_maxrss: 57796
+rusage ru_minflt: 16307
+rusage ru_majflt: 0
+rusage ru_inblock: 352
+rusage ru_oublock: 200
+rusage ru_nvcsw: 155
+rusage ru_nivcsw: 336
+Child rusage ru_utime: 5.247985
+Child rusage ru_stime: 2.048538
+Child rusage ru_maxrss: 55748
+Child rusage ru_minflt: 879595
+Child rusage ru_majflt: 22
+Child rusage ru_inblock: 181168
+Child rusage ru_oublock: 187976
+Child rusage ru_nvcsw: 27716
+Child rusage ru_nivcsw: 31378
+Status: PASSED 
+Ended: 1735188932.93 

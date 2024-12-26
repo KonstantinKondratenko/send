@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189214.77 
+rdma-core-51.0-r0: do_compile
+Elapsed time: 10.67 seconds
+utime: 24
+stime: 3
+cutime: 5750
+cstime: 600
+IO rchar: 554387574
+IO wchar: 135509454
+IO syscr: 134274
+IO syscw: 41169
+IO read_bytes: 7241728
+IO write_bytes: 45514752
+IO cancelled_write_bytes: 6004736
+rusage ru_utime: 0.24265199999999998
+rusage ru_stime: 0.033469
+rusage ru_maxrss: 62068
+rusage ru_minflt: 10426
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 1848
+rusage ru_nvcsw: 345
+rusage ru_nivcsw: 60
+Child rusage ru_utime: 57.50318
+Child rusage ru_stime: 6.006198
+Child rusage ru_maxrss: 130844
+Child rusage ru_minflt: 1796247
+Child rusage ru_majflt: 49
+Child rusage ru_inblock: 14144
+Child rusage ru_oublock: 87048
+Child rusage ru_nvcsw: 22465
+Child rusage ru_nivcsw: 32374
+Status: PASSED 
+Ended: 1735189225.45 

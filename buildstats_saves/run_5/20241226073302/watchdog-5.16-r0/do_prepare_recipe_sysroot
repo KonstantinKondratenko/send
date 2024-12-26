@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735206004.70 
+watchdog-5.16-r0: do_prepare_recipe_sysroot
+Elapsed time: 4.71 seconds
+utime: 12
+stime: 5
+cutime: 2
+cstime: 0
+IO rchar: 1831558
+IO wchar: 1055629
+IO syscr: 565
+IO syscw: 300
+IO read_bytes: 262144
+IO write_bytes: 1101824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.123377
+rusage ru_stime: 0.059560999999999996
+rusage ru_maxrss: 58952
+rusage ru_minflt: 10027
+rusage ru_majflt: 0
+rusage ru_inblock: 504
+rusage ru_oublock: 152
+rusage ru_nvcsw: 43
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 0.020534999999999998
+Child rusage ru_stime: 0.001867
+Child rusage ru_maxrss: 54184
+Child rusage ru_minflt: 1540
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 2000
+Child rusage ru_nvcsw: 25
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735206009.41 

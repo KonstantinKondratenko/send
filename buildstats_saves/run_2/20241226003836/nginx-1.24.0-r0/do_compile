@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180948.32 
+nginx-1.24.0-r0: do_compile
+Elapsed time: 14.56 seconds
+utime: 18
+stime: 2
+cutime: 3687
+cstime: 616
+IO rchar: 530446546
+IO wchar: 48935061
+IO syscr: 92241
+IO syscw: 14005
+IO read_bytes: 4067328
+IO write_bytes: 13230080
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.184414
+rusage ru_stime: 0.025147
+rusage ru_maxrss: 62184
+rusage ru_minflt: 10189
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 432
+rusage ru_nvcsw: 141
+rusage ru_nivcsw: 29
+Child rusage ru_utime: 36.879924
+Child rusage ru_stime: 6.160341
+Child rusage ru_maxrss: 88508
+Child rusage ru_minflt: 1411332
+Child rusage ru_majflt: 55
+Child rusage ru_inblock: 7928
+Child rusage ru_oublock: 25408
+Child rusage ru_nvcsw: 10256
+Child rusage ru_nivcsw: 16420
+Status: PASSED 
+Ended: 1735180962.88 

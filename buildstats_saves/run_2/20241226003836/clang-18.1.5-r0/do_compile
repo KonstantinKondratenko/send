@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735178404.52 
+clang-18.1.5-r0: do_compile
+Elapsed time: 2375.65 seconds
+utime: 154
+stime: 37
+cutime: 2490100
+cstime: 72374
+IO rchar: 22065849074
+IO wchar: 2716430156
+IO syscr: 4820602
+IO syscw: 1746437
+IO read_bytes: 1688506368
+IO write_bytes: 2718605312
+IO cancelled_write_bytes: 374251520
+rusage ru_utime: 1.547639
+rusage ru_stime: 0.378627
+rusage ru_maxrss: 60972
+rusage ru_minflt: 26775
+rusage ru_majflt: 9353
+rusage ru_inblock: 87008
+rusage ru_oublock: 49712
+rusage ru_nvcsw: 16380
+rusage ru_nivcsw: 91
+Child rusage ru_utime: 24901.007251
+Child rusage ru_stime: 723.746879
+Child rusage ru_maxrss: 1464500
+Child rusage ru_minflt: 308580128
+Child rusage ru_majflt: 49776
+Child rusage ru_inblock: 3210856
+Child rusage ru_oublock: 5260064
+Child rusage ru_nvcsw: 128677
+Child rusage ru_nivcsw: 3313224
+Status: PASSED 
+Ended: 1735180780.17 

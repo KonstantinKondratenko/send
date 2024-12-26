@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182372.80 
+curl-native-8.7.1-r0: do_install
+Elapsed time: 0.60 seconds
+utime: 11
+stime: 1
+cutime: 47
+cstime: 10
+IO rchar: 14466391
+IO wchar: 7736488
+IO syscr: 249707
+IO syscw: 10910
+IO read_bytes: 20480
+IO write_bytes: 11505664
+IO cancelled_write_bytes: 7622656
+rusage ru_utime: 0.11433399999999999
+rusage ru_stime: 0.015243999999999999
+rusage ru_maxrss: 86732
+rusage ru_minflt: 17343
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 272
+rusage ru_nvcsw: 226
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.47733
+Child rusage ru_stime: 0.10797799999999999
+Child rusage ru_maxrss: 83920
+Child rusage ru_minflt: 86375
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 22200
+Child rusage ru_nvcsw: 4999
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1735182373.40 

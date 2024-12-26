@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182398.07 
+efibootmgr-18-r0: do_patch
+Elapsed time: 0.39 seconds
+utime: 9
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 999760
+IO wchar: 628621
+IO syscr: 322
+IO syscw: 192
+IO read_bytes: 4096
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.09776
+rusage ru_stime: 0.028513
+rusage ru_maxrss: 82564
+rusage ru_minflt: 8804
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.007994
+Child rusage ru_stime: 0.01524
+Child rusage ru_maxrss: 76884
+Child rusage ru_minflt: 1257
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 21
+Child rusage ru_nivcsw: 16
+Status: PASSED 
+Ended: 1735182398.46 

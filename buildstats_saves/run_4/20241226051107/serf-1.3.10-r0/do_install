@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195104.52 
+serf-1.3.10-r0: do_install
+Elapsed time: 3.40 seconds
+utime: 20
+stime: 5
+cutime: 87
+cstime: 17
+IO rchar: 60842311
+IO wchar: 1664678
+IO syscr: 3439
+IO syscw: 131
+IO read_bytes: 16384
+IO write_bytes: 1687552
+IO cancelled_write_bytes: 737280
+rusage ru_utime: 0.20232
+rusage ru_stime: 0.051571
+rusage ru_maxrss: 58488
+rusage ru_minflt: 17077
+rusage ru_majflt: 2
+rusage ru_inblock: 24
+rusage ru_oublock: 152
+rusage ru_nvcsw: 481
+rusage ru_nivcsw: 65
+Child rusage ru_utime: 0.877064
+Child rusage ru_stime: 0.172129
+Child rusage ru_maxrss: 59104
+Child rusage ru_minflt: 39329
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 3144
+Child rusage ru_nvcsw: 319
+Child rusage ru_nivcsw: 526
+Status: PASSED 
+Ended: 1735195107.92 

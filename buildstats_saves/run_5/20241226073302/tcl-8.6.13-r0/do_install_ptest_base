@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202399.62 
+tcl-8.6.13-r0: do_install_ptest_base
+Elapsed time: 1.58 seconds
+utime: 13
+stime: 4
+cutime: 5
+cstime: 16
+IO rchar: 11525954
+IO wchar: 10778483
+IO syscr: 5925
+IO syscw: 1072
+IO read_bytes: 11079680
+IO write_bytes: 13819904
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.13548
+rusage ru_stime: 0.047816
+rusage ru_maxrss: 58736
+rusage ru_minflt: 13786
+rusage ru_majflt: 4
+rusage ru_inblock: 24
+rusage ru_oublock: 64
+rusage ru_nvcsw: 89
+rusage ru_nivcsw: 287
+Child rusage ru_utime: 0.054085999999999995
+Child rusage ru_stime: 0.16297499999999998
+Child rusage ru_maxrss: 56588
+Child rusage ru_minflt: 3612
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 21616
+Child rusage ru_oublock: 26928
+Child rusage ru_nvcsw: 1693
+Child rusage ru_nivcsw: 2672
+Status: PASSED 
+Ended: 1735202401.21 

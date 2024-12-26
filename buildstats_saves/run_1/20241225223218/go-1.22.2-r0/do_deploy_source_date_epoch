@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166357.74 
+go-1.22.2-r0: do_deploy_source_date_epoch
+Elapsed time: 0.60 seconds
+utime: 20
+stime: 5
+cutime: 3
+cstime: 2
+IO rchar: 680774
+IO wchar: 143757
+IO syscr: 407
+IO syscw: 98
+IO read_bytes: 0
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.205652
+rusage ru_stime: 0.051413
+rusage ru_maxrss: 85720
+rusage ru_minflt: 22042
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 0.031924
+Child rusage ru_stime: 0.020399
+Child rusage ru_maxrss: 82904
+Child rusage ru_minflt: 5116
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 95
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1735166358.34 

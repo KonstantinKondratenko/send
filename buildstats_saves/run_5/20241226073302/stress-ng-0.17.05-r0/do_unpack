@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735199253.50 
+stress-ng-0.17.05-r0: do_unpack
+Elapsed time: 10.35 seconds
+utime: 5
+stime: 0
+cutime: 21
+cstime: 9
+IO rchar: 5135978
+IO wchar: 12800251
+IO syscr: 2881
+IO syscw: 2278
+IO read_bytes: 4096
+IO write_bytes: 15704064
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.058372
+rusage ru_stime: 0.009727999999999999
+rusage ru_maxrss: 81136
+rusage ru_minflt: 12755
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 80
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.212752
+Child rusage ru_stime: 0.09884599999999999
+Child rusage ru_maxrss: 98496
+Child rusage ru_minflt: 37538
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 30592
+Child rusage ru_nvcsw: 243
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1735199263.85 
