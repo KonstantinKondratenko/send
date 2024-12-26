@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167610.30 
+sqlite3-3_3.45.1-r0: do_recipe_qa
+Elapsed time: 0.32 seconds
+utime: 32
+stime: 6
+cutime: 2
+cstime: 7
+IO rchar: 521616
+IO wchar: 116961
+IO syscr: 335
+IO syscw: 91
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.320461
+rusage ru_stime: 0.060086
+rusage ru_maxrss: 101484
+rusage ru_minflt: 15806
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 527
+Child rusage ru_utime: 0.024763
+Child rusage ru_stime: 0.073271
+Child rusage ru_maxrss: 98828
+Child rusage ru_minflt: 4247
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 54
+Child rusage ru_nivcsw: 73
+Status: PASSED 
+Ended: 1735167610.61 

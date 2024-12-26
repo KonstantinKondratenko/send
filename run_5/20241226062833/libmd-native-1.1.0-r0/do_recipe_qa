@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194725.33 
+libmd-native-1.1.0-r0: do_recipe_qa
+Elapsed time: 0.24 seconds
+utime: 33
+stime: 8
+cutime: 5
+cstime: 3
+IO rchar: 752439
+IO wchar: 118980
+IO syscr: 332
+IO syscw: 102
+IO read_bytes: 8192
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.33253699999999997
+rusage ru_stime: 0.08012899999999999
+rusage ru_maxrss: 101788
+rusage ru_minflt: 15798
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 168
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 109
+Child rusage ru_utime: 0.054334
+Child rusage ru_stime: 0.036882
+Child rusage ru_maxrss: 98900
+Child rusage ru_minflt: 4237
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 56
+Child rusage ru_nivcsw: 69
+Status: PASSED 
+Ended: 1735194725.57 

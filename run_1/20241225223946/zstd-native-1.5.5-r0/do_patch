@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166479.91 
+zstd-native-1.5.5-r0: do_patch
+Elapsed time: 0.36 seconds
+utime: 24
+stime: 5
+cutime: 5
+cstime: 9
+IO rchar: 925588
+IO wchar: 128751
+IO syscr: 725
+IO syscw: 125
+IO read_bytes: 0
+IO write_bytes: 155648
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.248112
+rusage ru_stime: 0.052023
+rusage ru_maxrss: 99308
+rusage ru_minflt: 9688
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 56
+Child rusage ru_utime: 0.057833999999999997
+Child rusage ru_stime: 0.090181
+Child rusage ru_maxrss: 93380
+Child rusage ru_minflt: 9781
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 176
+Child rusage ru_nvcsw: 135
+Child rusage ru_nivcsw: 114
+Status: PASSED 
+Ended: 1735166480.27 

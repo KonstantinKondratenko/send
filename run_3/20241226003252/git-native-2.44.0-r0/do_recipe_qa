@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173395.31 
+git-native-2.44.0-r0: do_recipe_qa
+Elapsed time: 0.27 seconds
+utime: 38
+stime: 7
+cutime: 2
+cstime: 6
+IO rchar: 766101
+IO wchar: 122523
+IO syscr: 343
+IO syscw: 107
+IO read_bytes: 16384
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.383225
+rusage ru_stime: 0.071854
+rusage ru_maxrss: 101956
+rusage ru_minflt: 16242
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 168
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 131
+Child rusage ru_utime: 0.02916
+Child rusage ru_stime: 0.065428
+Child rusage ru_maxrss: 99428
+Child rusage ru_minflt: 4250
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 50
+Child rusage ru_nivcsw: 122
+Status: PASSED 
+Ended: 1735173395.58 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166508.45 
+re2c-native-3.1-r0: do_recipe_qa
+Elapsed time: 2.49 seconds
+utime: 38
+stime: 6
+cutime: 4
+cstime: 4
+IO rchar: 740981
+IO wchar: 120089
+IO syscr: 332
+IO syscw: 103
+IO read_bytes: 4096
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38717199999999996
+rusage ru_stime: 0.061946999999999995
+rusage ru_maxrss: 102152
+rusage ru_minflt: 15585
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 168
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 157
+Child rusage ru_utime: 0.040265999999999996
+Child rusage ru_stime: 0.045732999999999996
+Child rusage ru_maxrss: 99328
+Child rusage ru_minflt: 4221
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 50
+Child rusage ru_nivcsw: 55
+Status: PASSED 
+Ended: 1735166510.94 

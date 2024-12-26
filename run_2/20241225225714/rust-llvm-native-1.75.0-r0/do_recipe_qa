@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167623.92 
+rust-llvm-native-1.75.0-r0: do_recipe_qa
+Elapsed time: 0.25 seconds
+utime: 35
+stime: 9
+cutime: 2
+cstime: 5
+IO rchar: 743024
+IO wchar: 119266
+IO syscr: 338
+IO syscw: 102
+IO read_bytes: 716800
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.351581
+rusage ru_stime: 0.090858
+rusage ru_maxrss: 102396
+rusage ru_minflt: 16416
+rusage ru_majflt: 0
+rusage ru_inblock: 1400
+rusage ru_oublock: 176
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 122
+Child rusage ru_utime: 0.028062
+Child rusage ru_stime: 0.059641
+Child rusage ru_maxrss: 99736
+Child rusage ru_minflt: 4224
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 57
+Child rusage ru_nivcsw: 32
+Status: PASSED 
+Ended: 1735167624.18 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194573.87 
+acl-native-2.3.2-r0: do_recipe_qa
+Elapsed time: 0.28 seconds
+utime: 37
+stime: 7
+cutime: 3
+cstime: 5
+IO rchar: 747930
+IO wchar: 121720
+IO syscr: 342
+IO syscw: 105
+IO read_bytes: 0
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.37579199999999996
+rusage ru_stime: 0.071202
+rusage ru_maxrss: 102064
+rusage ru_minflt: 15560
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 102
+Child rusage ru_utime: 0.034945
+Child rusage ru_stime: 0.054525
+Child rusage ru_maxrss: 99168
+Child rusage ru_minflt: 4224
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 60
+Child rusage ru_nivcsw: 61
+Status: PASSED 
+Ended: 1735194574.15 

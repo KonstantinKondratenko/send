@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194628.69 
+gmp-native-6.3.0-r0: do_patch
+Elapsed time: 2.71 seconds
+utime: 29
+stime: 5
+cutime: 30
+cstime: 10
+IO rchar: 1876840
+IO wchar: 445549
+IO syscr: 1976
+IO syscw: 318
+IO read_bytes: 49152
+IO write_bytes: 462848
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.29916
+rusage ru_stime: 0.058989
+rusage ru_maxrss: 99300
+rusage ru_minflt: 10861
+rusage ru_majflt: 1
+rusage ru_inblock: 96
+rusage ru_oublock: 136
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 72
+Child rusage ru_utime: 0.307911
+Child rusage ru_stime: 0.10776999999999999
+Child rusage ru_maxrss: 93096
+Child rusage ru_minflt: 29044
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 768
+Child rusage ru_nvcsw: 481
+Child rusage ru_nivcsw: 237
+Status: PASSED 
+Ended: 1735194631.40 

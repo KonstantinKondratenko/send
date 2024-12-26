@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167525.86 
+systemd-systemctl-native-1.0-r0: do_configure
+Elapsed time: 0.12 seconds
+utime: 20
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 307007
+IO wchar: 58300
+IO syscr: 86
+IO syscw: 45
+IO read_bytes: 0
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.209788
+rusage ru_stime: 0.039582
+rusage ru_maxrss: 101100
+rusage ru_minflt: 7131
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 27
+Child rusage ru_utime: 0.012416
+Child rusage ru_stime: 0.008421999999999999
+Child rusage ru_maxrss: 98376
+Child rusage ru_minflt: 829
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 5
+Child rusage ru_nivcsw: 2
+Status: PASSED 
+Ended: 1735167525.98 

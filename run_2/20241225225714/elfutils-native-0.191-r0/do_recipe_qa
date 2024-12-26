@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167573.50 
+elfutils-native-0.191-r0: do_recipe_qa
+Elapsed time: 0.80 seconds
+utime: 42
+stime: 5
+cutime: 2
+cstime: 4
+IO rchar: 761853
+IO wchar: 123912
+IO syscr: 339
+IO syscw: 107
+IO read_bytes: 155648
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.421384
+rusage ru_stime: 0.052673
+rusage ru_maxrss: 102340
+rusage ru_minflt: 15890
+rusage ru_majflt: 2
+rusage ru_inblock: 160
+rusage ru_oublock: 176
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 101
+Child rusage ru_utime: 0.028562999999999998
+Child rusage ru_stime: 0.048431999999999996
+Child rusage ru_maxrss: 99804
+Child rusage ru_minflt: 4206
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 144
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 66
+Child rusage ru_nivcsw: 70
+Status: PASSED 
+Ended: 1735167574.30 

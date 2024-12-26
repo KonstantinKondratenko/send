@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167582.22 
+libxml2-native-2.12.6-r0: do_recipe_qa
+Elapsed time: 0.33 seconds
+utime: 40
+stime: 8
+cutime: 3
+cstime: 5
+IO rchar: 762580
+IO wchar: 127287
+IO syscr: 346
+IO syscw: 111
+IO read_bytes: 16384
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.40941099999999997
+rusage ru_stime: 0.08347199999999999
+rusage ru_maxrss: 102512
+rusage ru_minflt: 15931
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 168
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 139
+Child rusage ru_utime: 0.031231
+Child rusage ru_stime: 0.058669
+Child rusage ru_maxrss: 99868
+Child rusage ru_minflt: 4234
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 54
+Child rusage ru_nivcsw: 145
+Status: PASSED 
+Ended: 1735167582.55 

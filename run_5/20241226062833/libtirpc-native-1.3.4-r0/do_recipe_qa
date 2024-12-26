@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194618.21 
+libtirpc-native-1.3.4-r0: do_recipe_qa
+Elapsed time: 0.43 seconds
+utime: 35
+stime: 7
+cutime: 3
+cstime: 3
+IO rchar: 740574
+IO wchar: 120712
+IO syscr: 332
+IO syscw: 103
+IO read_bytes: 81920
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.353365
+rusage ru_stime: 0.07543699999999999
+rusage ru_maxrss: 101760
+rusage ru_minflt: 15616
+rusage ru_majflt: 2
+rusage ru_inblock: 144
+rusage ru_oublock: 168
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 255
+Child rusage ru_utime: 0.036336
+Child rusage ru_stime: 0.037487
+Child rusage ru_maxrss: 98904
+Child rusage ru_minflt: 4204
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 71
+Status: PASSED 
+Ended: 1735194618.64 

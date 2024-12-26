@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735192457.42 
+systemd-systemctl-native-1.0-r0: do_install
+Elapsed time: 0.20 seconds
+utime: 24
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 358120
+IO wchar: 44708
+IO syscr: 162
+IO syscw: 31
+IO read_bytes: 0
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.246691
+rusage ru_stime: 0.039788
+rusage ru_maxrss: 100536
+rusage ru_minflt: 12309
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.028631999999999998
+Child rusage ru_stime: 0.021707
+Child rusage ru_maxrss: 97700
+Child rusage ru_minflt: 1608
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 9
+Child rusage ru_nivcsw: 1
+Status: PASSED 
+Ended: 1735192457.62 

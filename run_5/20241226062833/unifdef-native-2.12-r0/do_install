@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194845.09 
+unifdef-native-2.12-r0: do_install
+Elapsed time: 0.39 seconds
+utime: 42
+stime: 8
+cutime: 3
+cstime: 2
+IO rchar: 692310
+IO wchar: 104203
+IO syscr: 348
+IO syscw: 65
+IO read_bytes: 24576
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.42928
+rusage ru_stime: 0.087445
+rusage ru_maxrss: 101276
+rusage ru_minflt: 16557
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 66
+Child rusage ru_utime: 0.038536999999999995
+Child rusage ru_stime: 0.029143
+Child rusage ru_maxrss: 98520
+Child rusage ru_minflt: 2569
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 136
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1735194845.48 

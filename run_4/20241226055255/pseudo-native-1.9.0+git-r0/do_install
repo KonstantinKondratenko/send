@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735192862.49 
+pseudo-native-1.9.0+git-r0: do_install
+Elapsed time: 2.17 seconds
+utime: 42
+stime: 8
+cutime: 4
+cstime: 6
+IO rchar: 3108513
+IO wchar: 2473297
+IO syscr: 480
+IO syscw: 99
+IO read_bytes: 24576
+IO write_bytes: 2490368
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.42963999999999997
+rusage ru_stime: 0.08592799999999999
+rusage ru_maxrss: 101520
+rusage ru_minflt: 16637
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 0.043643
+Child rusage ru_stime: 0.060325
+Child rusage ru_maxrss: 98716
+Child rusage ru_minflt: 3640
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 4776
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 82
+Status: PASSED 
+Ended: 1735192864.66 

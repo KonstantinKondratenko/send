@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173376.59 
+libtalloc-2.4.2-r0: do_recipe_qa
+Elapsed time: 0.24 seconds
+utime: 29
+stime: 4
+cutime: 2
+cstime: 6
+IO rchar: 521583
+IO wchar: 118190
+IO syscr: 338
+IO syscw: 94
+IO read_bytes: 155648
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.297004
+rusage ru_stime: 0.04356
+rusage ru_maxrss: 101192
+rusage ru_minflt: 15649
+rusage ru_majflt: 0
+rusage ru_inblock: 304
+rusage ru_oublock: 160
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 59
+Child rusage ru_utime: 0.025446999999999997
+Child rusage ru_stime: 0.06447499999999999
+Child rusage ru_maxrss: 98652
+Child rusage ru_minflt: 4227
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 58
+Child rusage ru_nivcsw: 50
+Status: PASSED 
+Ended: 1735173376.83 

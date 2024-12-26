@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173253.54 
+systemd-systemctl-native-1.0-r0: do_patch
+Elapsed time: 0.19 seconds
+utime: 14
+stime: 4
+cutime: 1
+cstime: 1
+IO rchar: 421061
+IO wchar: 117932
+IO syscr: 180
+IO syscw: 71
+IO read_bytes: 0
+IO write_bytes: 126976
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.14227599999999999
+rusage ru_stime: 0.043473
+rusage ru_maxrss: 98472
+rusage ru_minflt: 8174
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.013224999999999999
+Child rusage ru_stime: 0.017623
+Child rusage ru_maxrss: 92424
+Child rusage ru_minflt: 1200
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 14
+Child rusage ru_nivcsw: 2
+Status: PASSED 
+Ended: 1735173253.73 

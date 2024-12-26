@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735194843.78 
+acl-native-2.3.2-r0: do_populate_sysroot
+Elapsed time: 3.25 seconds
+utime: 99
+stime: 30
+cutime: 15
+cstime: 42
+IO rchar: 2600701
+IO wchar: 711504
+IO syscr: 2116
+IO syscw: 316
+IO read_bytes: 880640
+IO write_bytes: 540672
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.9994149999999999
+rusage ru_stime: 0.309343
+rusage ru_maxrss: 101628
+rusage ru_minflt: 38685
+rusage ru_majflt: 14
+rusage ru_inblock: 1688
+rusage ru_oublock: 640
+rusage ru_nvcsw: 87
+rusage ru_nivcsw: 103
+Child rusage ru_utime: 0.150024
+Child rusage ru_stime: 0.423027
+Child rusage ru_maxrss: 99924
+Child rusage ru_minflt: 23312
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 416
+Child rusage ru_nvcsw: 218
+Child rusage ru_nivcsw: 229
+Status: PASSED 
+Ended: 1735194847.03 
