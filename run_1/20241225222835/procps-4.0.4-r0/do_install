@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172388.29 
+procps-4.0.4-r0: do_install
+Elapsed time: 9.25 seconds
+utime: 43
+stime: 5
+cutime: 125
+cstime: 41
+IO rchar: 10933263
+IO wchar: 4512077
+IO syscr: 14191
+IO syscw: 1930
+IO read_bytes: 4096
+IO write_bytes: 4546560
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.43629199999999996
+rusage ru_stime: 0.056037
+rusage ru_maxrss: 59240
+rusage ru_minflt: 19986
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 232
+rusage ru_nvcsw: 339
+rusage ru_nivcsw: 289
+Child rusage ru_utime: 1.252422
+Child rusage ru_stime: 0.418512
+Child rusage ru_maxrss: 57248
+Child rusage ru_minflt: 189484
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8648
+Child rusage ru_nvcsw: 3276
+Child rusage ru_nivcsw: 3442
+Status: PASSED 
+Ended: 1735172397.54 

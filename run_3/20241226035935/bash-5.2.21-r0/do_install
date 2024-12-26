@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189253.52 
+bash-5.2.21-r0: do_install
+Elapsed time: 25.16 seconds
+utime: 41
+stime: 7
+cutime: 1407
+cstime: 496
+IO rchar: 135441871
+IO wchar: 26080320
+IO syscr: 49881
+IO syscw: 7867
+IO read_bytes: 9240576
+IO write_bytes: 21483520
+IO cancelled_write_bytes: 32768
+rusage ru_utime: 0.41036999999999996
+rusage ru_stime: 0.076944
+rusage ru_maxrss: 58348
+rusage ru_minflt: 16808
+rusage ru_majflt: 2
+rusage ru_inblock: 496
+rusage ru_oublock: 488
+rusage ru_nvcsw: 736
+rusage ru_nivcsw: 337
+Child rusage ru_utime: 14.071965
+Child rusage ru_stime: 4.965686
+Child rusage ru_maxrss: 83520
+Child rusage ru_minflt: 512404
+Child rusage ru_majflt: 7
+Child rusage ru_inblock: 17552
+Child rusage ru_oublock: 41472
+Child rusage ru_nvcsw: 5575
+Child rusage ru_nivcsw: 8540
+Status: PASSED 
+Ended: 1735189278.69 

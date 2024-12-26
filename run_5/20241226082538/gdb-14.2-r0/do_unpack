@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202292.79 
+gdb-14.2-r0: do_unpack
+Elapsed time: 32.56 seconds
+utime: 8
+stime: 5
+cutime: 158
+cstime: 71
+IO rchar: 246363304
+IO wchar: 432365936
+IO syscr: 39271
+IO syscw: 63096
+IO read_bytes: 131072
+IO write_bytes: 245772288
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.088322
+rusage ru_stime: 0.054674999999999994
+rusage ru_maxrss: 82540
+rusage ru_minflt: 13625
+rusage ru_majflt: 0
+rusage ru_inblock: 256
+rusage ru_oublock: 160
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 1.586096
+Child rusage ru_stime: 0.717069
+Child rusage ru_maxrss: 78652
+Child rusage ru_minflt: 22811
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 479864
+Child rusage ru_nvcsw: 18936
+Child rusage ru_nivcsw: 318
+Status: PASSED 
+Ended: 1735202325.34 

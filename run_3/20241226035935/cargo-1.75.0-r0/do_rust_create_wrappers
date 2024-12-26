@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196136.91 
+cargo-1.75.0-r0: do_rust_create_wrappers
+Elapsed time: 0.13 seconds
+utime: 12
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 420384
+IO wchar: 53235
+IO syscr: 294
+IO syscw: 48
+IO read_bytes: 356352
+IO write_bytes: 102400
+IO cancelled_write_bytes: 32768
+rusage ru_utime: 0.12479799999999999
+rusage ru_stime: 0.020128
+rusage ru_maxrss: 62656
+rusage ru_minflt: 10207
+rusage ru_majflt: 0
+rusage ru_inblock: 352
+rusage ru_oublock: 72
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.008208
+Child rusage ru_stime: 0.017249999999999998
+Child rusage ru_maxrss: 60208
+Child rusage ru_minflt: 3321
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 344
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735196137.05 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196020.60 
+clang-18.1.5-r0: do_packagedata
+Elapsed time: 5.52 seconds
+utime: 36
+stime: 4
+cutime: 8
+cstime: 3
+IO rchar: 2459238
+IO wchar: 1168960
+IO syscr: 1223
+IO syscw: 257
+IO read_bytes: 4096
+IO write_bytes: 765952
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.360773
+rusage ru_stime: 0.040535999999999996
+rusage ru_maxrss: 63164
+rusage ru_minflt: 27258
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 248
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 148
+Child rusage ru_utime: 0.089419
+Child rusage ru_stime: 0.039583
+Child rusage ru_maxrss: 60612
+Child rusage ru_minflt: 8521
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1248
+Child rusage ru_nvcsw: 174
+Child rusage ru_nivcsw: 60
+Status: PASSED 
+Ended: 1735196026.11 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186204.56 
+xfsprogs-6.6.0-r0: do_patch
+Elapsed time: 0.35 seconds
+utime: 8
+stime: 2
+cutime: 16
+cstime: 3
+IO rchar: 2444898
+IO wchar: 501573
+IO syscr: 3226
+IO syscw: 436
+IO read_bytes: 0
+IO write_bytes: 565248
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.086502
+rusage ru_stime: 0.028834
+rusage ru_maxrss: 81956
+rusage ru_minflt: 12514
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 45
+Child rusage ru_utime: 0.165663
+Child rusage ru_stime: 0.031142999999999997
+Child rusage ru_maxrss: 75924
+Child rusage ru_minflt: 48746
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 944
+Child rusage ru_nvcsw: 769
+Child rusage ru_nivcsw: 103
+Status: PASSED 
+Ended: 1735186204.91 

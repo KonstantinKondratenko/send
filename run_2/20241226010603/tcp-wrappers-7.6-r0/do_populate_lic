@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175747.20 
+tcp-wrappers-7.6-r0: do_populate_lic
+Elapsed time: 0.19 seconds
+utime: 18
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 731456
+IO wchar: 157986
+IO syscr: 517
+IO syscw: 107
+IO read_bytes: 16384
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.18578999999999998
+rusage ru_stime: 0.059294
+rusage ru_maxrss: 86312
+rusage ru_minflt: 18029
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 216
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 0.029868
+Child rusage ru_stime: 0.036514
+Child rusage ru_maxrss: 83144
+Child rusage ru_minflt: 5587
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 92
+Child rusage ru_nivcsw: 30
+Status: PASSED 
+Ended: 1735175747.39 

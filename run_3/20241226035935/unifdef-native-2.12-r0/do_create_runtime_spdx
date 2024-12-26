@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186363.07 
+unifdef-native-2.12-r0: do_create_runtime_spdx
+Elapsed time: 0.59 seconds
+utime: 32
+stime: 5
+cutime: 3
+cstime: 2
+IO rchar: 980142
+IO wchar: 340085
+IO syscr: 356
+IO syscw: 105
+IO read_bytes: 8192
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.323453
+rusage ru_stime: 0.056065
+rusage ru_maxrss: 85500
+rusage ru_minflt: 20952
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 176
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 58
+Child rusage ru_utime: 0.033132
+Child rusage ru_stime: 0.025200999999999998
+Child rusage ru_maxrss: 82668
+Child rusage ru_minflt: 4591
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 73
+Child rusage ru_nivcsw: 30
+Status: PASSED 
+Ended: 1735186363.66 

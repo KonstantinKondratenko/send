@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202199.01 
+tcpdump-4.99.4-r0: do_patch
+Elapsed time: 0.23 seconds
+utime: 6
+stime: 1
+cutime: 3
+cstime: 1
+IO rchar: 1270182
+IO wchar: 658421
+IO syscr: 832
+IO syscw: 264
+IO read_bytes: 24576
+IO write_bytes: 692224
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.06901299999999999
+rusage ru_stime: 0.012938999999999999
+rusage ru_maxrss: 82164
+rusage ru_minflt: 9801
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 144
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.030230999999999997
+Child rusage ru_stime: 0.011203999999999999
+Child rusage ru_maxrss: 76368
+Child rusage ru_minflt: 9791
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 1208
+Child rusage ru_nvcsw: 144
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735202199.25 

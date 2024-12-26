@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172196.01 
+libnetfilter-cthelper-1.0.1-r0: do_compile
+Elapsed time: 3.25 seconds
+utime: 24
+stime: 4
+cutime: 63
+cstime: 7
+IO rchar: 3668313
+IO wchar: 346497
+IO syscr: 2076
+IO syscw: 369
+IO read_bytes: 65536
+IO write_bytes: 159744
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.244301
+rusage ru_stime: 0.045547
+rusage ru_maxrss: 58624
+rusage ru_minflt: 9471
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 101
+Child rusage ru_utime: 0.630671
+Child rusage ru_stime: 0.07103999999999999
+Child rusage ru_maxrss: 56020
+Child rusage ru_minflt: 31969
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 128
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 432
+Child rusage ru_nivcsw: 307
+Status: PASSED 
+Ended: 1735172199.25 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165994.86 
+libnetfilter-conntrack-1.0.9-r0: do_recipe_qa
+Elapsed time: 0.18 seconds
+utime: 22
+stime: 2
+cutime: 1
+cstime: 3
+IO rchar: 581495
+IO wchar: 118982
+IO syscr: 341
+IO syscw: 92
+IO read_bytes: 45056
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.225492
+rusage ru_stime: 0.028186
+rusage ru_maxrss: 84216
+rusage ru_minflt: 15680
+rusage ru_majflt: 0
+rusage ru_inblock: 88
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 18
+Child rusage ru_utime: 0.019688999999999998
+Child rusage ru_stime: 0.031376
+Child rusage ru_maxrss: 81544
+Child rusage ru_minflt: 4418
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1735165995.04 

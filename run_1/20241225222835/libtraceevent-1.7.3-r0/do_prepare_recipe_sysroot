@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172242.34 
+libtraceevent-1.7.3-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.74 seconds
+utime: 38
+stime: 19
+cutime: 2
+cstime: 0
+IO rchar: 2697140
+IO wchar: 1360537
+IO syscr: 675
+IO syscw: 383
+IO read_bytes: 159744
+IO write_bytes: 1437696
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.383438
+rusage ru_stime: 0.199544
+rusage ru_maxrss: 58928
+rusage ru_minflt: 10864
+rusage ru_majflt: 1
+rusage ru_inblock: 312
+rusage ru_oublock: 152
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 82
+Child rusage ru_utime: 0.028654
+Child rusage ru_stime: 0.008057
+Child rusage ru_maxrss: 54240
+Child rusage ru_minflt: 830
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2656
+Child rusage ru_nvcsw: 7
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1735172243.08 

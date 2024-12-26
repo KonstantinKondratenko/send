@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167795.82 
+openssl-3.2.1-r0: do_populate_sysroot
+Elapsed time: 2.98 seconds
+utime: 52
+stime: 14
+cutime: 156
+cstime: 37
+IO rchar: 168042445
+IO wchar: 92944969
+IO syscr: 19019
+IO syscw: 5981
+IO read_bytes: 12288
+IO write_bytes: 50647040
+IO cancelled_write_bytes: 6565888
+rusage ru_utime: 0.5280389999999999
+rusage ru_stime: 0.142928
+rusage ru_maxrss: 64008
+rusage ru_minflt: 31957
+rusage ru_majflt: 2
+rusage ru_inblock: 24
+rusage ru_oublock: 44480
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 103
+Child rusage ru_utime: 1.5611359999999999
+Child rusage ru_stime: 0.37613399999999997
+Child rusage ru_maxrss: 95824
+Child rusage ru_minflt: 57910
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 54440
+Child rusage ru_nvcsw: 1039
+Child rusage ru_nivcsw: 930
+Status: PASSED 
+Ended: 1735167798.80 

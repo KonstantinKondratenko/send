@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185932.57 
+libatomic-ops-7.8.2-r0: do_patch
+Elapsed time: 2.17 seconds
+utime: 6
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 1037136
+IO wchar: 632873
+IO syscr: 335
+IO syscw: 199
+IO read_bytes: 40960
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.064243
+rusage ru_stime: 0.022674
+rusage ru_maxrss: 81220
+rusage ru_minflt: 8831
+rusage ru_majflt: 1
+rusage ru_inblock: 80
+rusage ru_oublock: 128
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.013784999999999999
+Child rusage ru_stime: 0.00526
+Child rusage ru_maxrss: 75356
+Child rusage ru_minflt: 1271
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 15
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735185934.75 

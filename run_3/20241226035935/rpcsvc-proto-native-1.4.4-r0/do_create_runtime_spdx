@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186374.53 
+rpcsvc-proto-native-1.4.4-r0: do_create_runtime_spdx
+Elapsed time: 0.59 seconds
+utime: 34
+stime: 5
+cutime: 3
+cstime: 2
+IO rchar: 1004521
+IO wchar: 346370
+IO syscr: 367
+IO syscw: 111
+IO read_bytes: 4096
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.34342999999999996
+rusage ru_stime: 0.050733999999999994
+rusage ru_maxrss: 85356
+rusage ru_minflt: 20912
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 78
+Child rusage ru_utime: 0.039538
+Child rusage ru_stime: 0.023635999999999997
+Child rusage ru_maxrss: 82608
+Child rusage ru_minflt: 4644
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 60
+Child rusage ru_nivcsw: 37
+Status: PASSED 
+Ended: 1735186375.13 

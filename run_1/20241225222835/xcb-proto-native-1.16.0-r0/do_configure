@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166691.45 
+xcb-proto-native-1.16.0-r0: do_configure
+Elapsed time: 10.03 seconds
+utime: 42
+stime: 7
+cutime: 217
+cstime: 39
+IO rchar: 16795457
+IO wchar: 1990920
+IO syscr: 9521
+IO syscw: 4672
+IO read_bytes: 331776
+IO write_bytes: 1724416
+IO cancelled_write_bytes: 389120
+rusage ru_utime: 0.42656099999999997
+rusage ru_stime: 0.07574399999999999
+rusage ru_maxrss: 87792
+rusage ru_minflt: 19336
+rusage ru_majflt: 0
+rusage ru_inblock: 512
+rusage ru_oublock: 264
+rusage ru_nvcsw: 68
+rusage ru_nivcsw: 65
+Child rusage ru_utime: 2.178953
+Child rusage ru_stime: 0.39628399999999997
+Child rusage ru_maxrss: 85044
+Child rusage ru_minflt: 125212
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 136
+Child rusage ru_oublock: 3104
+Child rusage ru_nvcsw: 1415
+Child rusage ru_nivcsw: 878
+Status: PASSED 
+Ended: 1735166701.48 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735176557.75 
+glibc-mtrace-2.39+git-r0: do_packagedata
+Elapsed time: 0.99 seconds
+utime: 28
+stime: 6
+cutime: 6
+cstime: 5
+IO rchar: 784183
+IO wchar: 233865
+IO syscr: 798
+IO syscw: 140
+IO read_bytes: 4096
+IO write_bytes: 196608
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.281262
+rusage ru_stime: 0.069352
+rusage ru_maxrss: 87516
+rusage ru_minflt: 25802
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 224
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 53
+Child rusage ru_utime: 0.065088
+Child rusage ru_stime: 0.050009
+Child rusage ru_maxrss: 84676
+Child rusage ru_minflt: 7999
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 160
+Child rusage ru_nvcsw: 145
+Child rusage ru_nivcsw: 47
+Status: PASSED 
+Ended: 1735176558.74 

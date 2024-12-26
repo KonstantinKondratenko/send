@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184429.65 
+libxtst-native-1_1.2.4-r0: do_populate_sysroot
+Elapsed time: 1.35 seconds
+utime: 42
+stime: 9
+cutime: 13
+cstime: 3
+IO rchar: 1491389
+IO wchar: 376505
+IO syscr: 1241
+IO syscw: 230
+IO read_bytes: 102400
+IO write_bytes: 278528
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.426446
+rusage ru_stime: 0.090817
+rusage ru_maxrss: 61524
+rusage ru_minflt: 38640
+rusage ru_majflt: 2
+rusage ru_inblock: 160
+rusage ru_oublock: 408
+rusage ru_nvcsw: 46
+rusage ru_nivcsw: 218
+Child rusage ru_utime: 0.130879
+Child rusage ru_stime: 0.034845999999999995
+Child rusage ru_maxrss: 59748
+Child rusage ru_minflt: 15071
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 136
+Child rusage ru_nvcsw: 222
+Child rusage ru_nivcsw: 177
+Status: PASSED 
+Ended: 1735184431.00 

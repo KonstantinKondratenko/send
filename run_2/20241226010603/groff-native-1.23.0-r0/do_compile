@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175428.13 
+groff-native-1.23.0-r0: do_compile
+Elapsed time: 19.92 seconds
+utime: 24
+stime: 3
+cutime: 6753
+cstime: 635
+IO rchar: 362550963
+IO wchar: 66921971
+IO syscr: 152143
+IO syscw: 80252
+IO read_bytes: 8507392
+IO write_bytes: 34791424
+IO cancelled_write_bytes: 5689344
+rusage ru_utime: 0.24589
+rusage ru_stime: 0.038155
+rusage ru_maxrss: 85240
+rusage ru_minflt: 8032
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 1016
+rusage ru_nvcsw: 573
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 67.538344
+Child rusage ru_stime: 6.351257
+Child rusage ru_maxrss: 120244
+Child rusage ru_minflt: 1785884
+Child rusage ru_majflt: 60
+Child rusage ru_inblock: 16616
+Child rusage ru_oublock: 66936
+Child rusage ru_nvcsw: 34331
+Child rusage ru_nivcsw: 43501
+Status: PASSED 
+Ended: 1735175448.04 

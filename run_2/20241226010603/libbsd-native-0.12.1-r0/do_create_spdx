@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175413.86 
+libbsd-native-0.12.1-r0: do_create_spdx
+Elapsed time: 0.25 seconds
+utime: 23
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 1247049
+IO wchar: 483686
+IO syscr: 570
+IO syscw: 147
+IO read_bytes: 4096
+IO write_bytes: 208896
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.23294199999999998
+rusage ru_stime: 0.048194999999999995
+rusage ru_maxrss: 85280
+rusage ru_minflt: 20616
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 304
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 0.023504
+Child rusage ru_stime: 0.036654
+Child rusage ru_maxrss: 82412
+Child rusage ru_minflt: 5846
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 73
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1735175414.10 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735179738.43 
+liblogging-1.0.6-r0: do_prepare_recipe_sysroot
+Elapsed time: 3.00 seconds
+utime: 42
+stime: 14
+cutime: 28
+cstime: 7
+IO rchar: 3977892
+IO wchar: 1454929
+IO syscr: 3343
+IO syscw: 563
+IO read_bytes: 151552
+IO write_bytes: 1597440
+IO cancelled_write_bytes: 49152
+rusage ru_utime: 0.42296799999999996
+rusage ru_stime: 0.143809
+rusage ru_maxrss: 60004
+rusage ru_minflt: 10624
+rusage ru_majflt: 2
+rusage ru_inblock: 272
+rusage ru_oublock: 160
+rusage ru_nvcsw: 72
+rusage ru_nivcsw: 47
+Child rusage ru_utime: 0.288258
+Child rusage ru_stime: 0.079105
+Child rusage ru_maxrss: 55228
+Child rusage ru_minflt: 35847
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 2960
+Child rusage ru_nvcsw: 537
+Child rusage ru_nivcsw: 405
+Status: PASSED 
+Ended: 1735179741.43 

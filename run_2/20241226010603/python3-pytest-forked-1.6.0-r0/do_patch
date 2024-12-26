@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175634.83 
+python3-pytest-forked-1.6.0-r0: do_patch
+Elapsed time: 0.31 seconds
+utime: 18
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 1009296
+IO wchar: 634245
+IO syscr: 338
+IO syscw: 200
+IO read_bytes: 4096
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.18046199999999998
+rusage ru_stime: 0.034555999999999996
+rusage ru_maxrss: 82756
+rusage ru_minflt: 8997
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 96
+Child rusage ru_utime: 0.020338
+Child rusage ru_stime: 0.018682
+Child rusage ru_maxrss: 77300
+Child rusage ru_minflt: 1296
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 15
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1735175635.14 

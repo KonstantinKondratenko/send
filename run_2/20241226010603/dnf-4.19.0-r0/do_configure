@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184936.35 
+dnf-4.19.0-r0: do_configure
+Elapsed time: 1.06 seconds
+utime: 37
+stime: 2
+cutime: 12
+cstime: 5
+IO rchar: 7687091
+IO wchar: 7091485
+IO syscr: 1832
+IO syscw: 1029
+IO read_bytes: 7237632
+IO write_bytes: 7368704
+IO cancelled_write_bytes: 69632
+rusage ru_utime: 0.375417
+rusage ru_stime: 0.020402999999999998
+rusage ru_maxrss: 64156
+rusage ru_minflt: 15987
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 152
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 54
+Child rusage ru_utime: 0.125387
+Child rusage ru_stime: 0.059741999999999996
+Child rusage ru_maxrss: 61316
+Child rusage ru_minflt: 6716
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 14120
+Child rusage ru_oublock: 14240
+Child rusage ru_nvcsw: 271
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1735184937.41 

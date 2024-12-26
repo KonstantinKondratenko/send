@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175712.40 
+lsscsi-030-r0: do_deploy_source_date_epoch
+Elapsed time: 0.40 seconds
+utime: 25
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 702757
+IO wchar: 143528
+IO syscr: 428
+IO syscw: 96
+IO read_bytes: 4096
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.259015
+rusage ru_stime: 0.047818
+rusage ru_maxrss: 85284
+rusage ru_minflt: 21867
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 125
+Child rusage ru_utime: 0.025564
+Child rusage ru_stime: 0.03369
+Child rusage ru_maxrss: 82444
+Child rusage ru_minflt: 5224
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 67
+Child rusage ru_nivcsw: 57
+Status: PASSED 
+Ended: 1735175712.80 

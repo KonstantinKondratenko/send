@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735181667.93 
+libdnf-0.73.1-r0: do_compile
+Elapsed time: 111.11 seconds
+utime: 25
+stime: 3
+cutime: 38723
+cstime: 2185
+IO rchar: 1592090320
+IO wchar: 621874936
+IO syscr: 184381
+IO syscw: 137959
+IO read_bytes: 8916992
+IO write_bytes: 177188864
+IO cancelled_write_bytes: 10821632
+rusage ru_utime: 0.251539
+rusage ru_stime: 0.032605999999999996
+rusage ru_maxrss: 60624
+rusage ru_minflt: 7832
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 1168
+rusage ru_nvcsw: 265
+rusage ru_nivcsw: 42
+Child rusage ru_utime: 387.233541
+Child rusage ru_stime: 21.856023
+Child rusage ru_maxrss: 576376
+Child rusage ru_minflt: 5110361
+Child rusage ru_majflt: 17
+Child rusage ru_inblock: 17416
+Child rusage ru_oublock: 344904
+Child rusage ru_nvcsw: 44520
+Child rusage ru_nivcsw: 113410
+Status: PASSED 
+Ended: 1735181779.04 

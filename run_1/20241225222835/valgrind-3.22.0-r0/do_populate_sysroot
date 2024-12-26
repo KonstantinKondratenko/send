@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735170719.07 
+valgrind-3.22.0-r0: do_populate_sysroot
+Elapsed time: 3.38 seconds
+utime: 42
+stime: 10
+cutime: 135
+cstime: 37
+IO rchar: 141257354
+IO wchar: 61801509
+IO syscr: 18429
+IO syscw: 5658
+IO read_bytes: 28672
+IO write_bytes: 14413824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.42883299999999996
+rusage ru_stime: 0.10190099999999999
+rusage ru_maxrss: 62444
+rusage ru_minflt: 26761
+rusage ru_majflt: 3
+rusage ru_inblock: 56
+rusage ru_oublock: 416
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 85
+Child rusage ru_utime: 1.35537
+Child rusage ru_stime: 0.379055
+Child rusage ru_maxrss: 102556
+Child rusage ru_minflt: 38249
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 27736
+Child rusage ru_nvcsw: 1177
+Child rusage ru_nivcsw: 1034
+Status: PASSED 
+Ended: 1735170722.45 

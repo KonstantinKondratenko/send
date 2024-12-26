@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197495.89 
+pps-tools-1.0.3-r0: do_patch
+Elapsed time: 2.16 seconds
+utime: 15
+stime: 3
+cutime: 2
+cstime: 0
+IO rchar: 999354
+IO wchar: 628185
+IO syscr: 320
+IO syscw: 191
+IO read_bytes: 24576
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.15964
+rusage ru_stime: 0.037125
+rusage ru_maxrss: 81672
+rusage ru_minflt: 8904
+rusage ru_majflt: 0
+rusage ru_inblock: 48
+rusage ru_oublock: 128
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 39
+Child rusage ru_utime: 0.021915
+Child rusage ru_stime: 0.0074789999999999995
+Child rusage ru_maxrss: 76072
+Child rusage ru_minflt: 1248
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 19
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1735197498.06 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165796.50 
+libaio-0.3.113-r0: do_recipe_qa
+Elapsed time: 0.08 seconds
+utime: 8
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 527656
+IO wchar: 110533
+IO syscr: 327
+IO syscw: 85
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.081042
+rusage ru_stime: 0.033153
+rusage ru_maxrss: 81408
+rusage ru_minflt: 15349
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.017536
+Child rusage ru_stime: 0.009126
+Child rusage ru_maxrss: 78744
+Child rusage ru_minflt: 4366
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 146
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735165796.58 

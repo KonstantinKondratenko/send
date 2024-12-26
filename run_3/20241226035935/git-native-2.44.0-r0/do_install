@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186681.47 
+git-native-2.44.0-r0: do_install
+Elapsed time: 5.72 seconds
+utime: 40
+stime: 4
+cutime: 99
+cstime: 30
+IO rchar: 62419441
+IO wchar: 58492302
+IO syscr: 6828
+IO syscw: 788
+IO read_bytes: 225280
+IO write_bytes: 58400768
+IO cancelled_write_bytes: 22085632
+rusage ru_utime: 0.40058699999999997
+rusage ru_stime: 0.041965999999999996
+rusage ru_maxrss: 85504
+rusage ru_minflt: 16979
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 86
+Child rusage ru_utime: 0.999332
+Child rusage ru_stime: 0.307404
+Child rusage ru_maxrss: 82800
+Child rusage ru_minflt: 71041
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 440
+Child rusage ru_oublock: 113928
+Child rusage ru_nvcsw: 951
+Child rusage ru_nivcsw: 239
+Status: PASSED 
+Ended: 1735186687.19 

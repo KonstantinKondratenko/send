@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735200794.72 
+shadow-4.14.2-r0: do_populate_sysroot
+Elapsed time: 1.33 seconds
+utime: 45
+stime: 8
+cutime: 13
+cstime: 6
+IO rchar: 3610983
+IO wchar: 1580720
+IO syscr: 1357
+IO syscw: 249
+IO read_bytes: 110592
+IO write_bytes: 1347584
+IO cancelled_write_bytes: 163840
+rusage ru_utime: 0.45530099999999996
+rusage ru_stime: 0.08077899999999999
+rusage ru_maxrss: 63148
+rusage ru_minflt: 27755
+rusage ru_majflt: 0
+rusage ru_inblock: 216
+rusage ru_oublock: 1824
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 198
+Child rusage ru_utime: 0.13394899999999998
+Child rusage ru_stime: 0.062899
+Child rusage ru_maxrss: 60716
+Child rusage ru_minflt: 15634
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 808
+Child rusage ru_nvcsw: 243
+Child rusage ru_nivcsw: 92
+Status: PASSED 
+Ended: 1735200796.05 

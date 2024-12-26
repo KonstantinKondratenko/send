@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186458.50 
+unfs3-native-0.10.0-r0: do_populate_sysroot
+Elapsed time: 1.40 seconds
+utime: 45
+stime: 6
+cutime: 12
+cstime: 7
+IO rchar: 2296157
+IO wchar: 727284
+IO syscr: 1189
+IO syscw: 231
+IO read_bytes: 24576
+IO write_bytes: 544768
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.456682
+rusage ru_stime: 0.065828
+rusage ru_maxrss: 85808
+rusage ru_minflt: 33735
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 640
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 55
+Child rusage ru_utime: 0.120111
+Child rusage ru_stime: 0.07119099999999999
+Child rusage ru_maxrss: 83496
+Child rusage ru_minflt: 13766
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 424
+Child rusage ru_nvcsw: 190
+Child rusage ru_nivcsw: 71
+Status: PASSED 
+Ended: 1735186459.90 

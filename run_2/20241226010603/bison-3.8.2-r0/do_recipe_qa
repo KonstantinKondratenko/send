@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175486.70 
+bison-3.8.2-r0: do_recipe_qa
+Elapsed time: 0.15 seconds
+utime: 21
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 647682
+IO wchar: 116418
+IO syscr: 350
+IO syscw: 91
+IO read_bytes: 65536
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.214944
+rusage ru_stime: 0.035172
+rusage ru_maxrss: 85028
+rusage ru_minflt: 15858
+rusage ru_majflt: 0
+rusage ru_inblock: 128
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.021304
+Child rusage ru_stime: 0.025047999999999997
+Child rusage ru_maxrss: 82152
+Child rusage ru_minflt: 4400
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 73
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1735175486.85 

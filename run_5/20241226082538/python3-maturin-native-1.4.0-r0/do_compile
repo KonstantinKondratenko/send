@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735210405.62 
+python3-maturin-native-1.4.0-r0: do_compile
+Elapsed time: 189.50 seconds
+utime: 61
+stime: 39
+cutime: 85030
+cstime: 1926
+IO rchar: 1993704658
+IO wchar: 616005575
+IO syscr: 443113
+IO syscw: 299906
+IO read_bytes: 1438674944
+IO write_bytes: 621355008
+IO cancelled_write_bytes: 205131776
+rusage ru_utime: 0.614698
+rusage ru_stime: 0.394987
+rusage ru_maxrss: 63132
+rusage ru_minflt: 15875
+rusage ru_majflt: 378
+rusage ru_inblock: 61224
+rusage ru_oublock: 728
+rusage ru_nvcsw: 1030
+rusage ru_nivcsw: 781
+Child rusage ru_utime: 850.304833
+Child rusage ru_stime: 19.268748
+Child rusage ru_maxrss: 866836
+Child rusage ru_minflt: 3709422
+Child rusage ru_majflt: 15831
+Child rusage ru_inblock: 2748688
+Child rusage ru_oublock: 1212856
+Child rusage ru_nvcsw: 56165
+Child rusage ru_nivcsw: 108158
+Status: PASSED 
+Ended: 1735210595.11 

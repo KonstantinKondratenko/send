@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735180587.81 
+libpipeline-1.5.7-r0: do_install
+Elapsed time: 5.05 seconds
+utime: 42
+stime: 4
+cutime: 54
+cstime: 12
+IO rchar: 3591022
+IO wchar: 385813
+IO syscr: 5232
+IO syscw: 233
+IO read_bytes: 118784
+IO write_bytes: 393216
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.42491599999999996
+rusage ru_stime: 0.042069999999999996
+rusage ru_maxrss: 58724
+rusage ru_minflt: 17257
+rusage ru_majflt: 20
+rusage ru_inblock: 184
+rusage ru_oublock: 200
+rusage ru_nvcsw: 129
+rusage ru_nivcsw: 327
+Child rusage ru_utime: 0.542893
+Child rusage ru_stime: 0.12677
+Child rusage ru_maxrss: 56612
+Child rusage ru_minflt: 59168
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 568
+Child rusage ru_nvcsw: 1025
+Child rusage ru_nivcsw: 774
+Status: PASSED 
+Ended: 1735180592.86 

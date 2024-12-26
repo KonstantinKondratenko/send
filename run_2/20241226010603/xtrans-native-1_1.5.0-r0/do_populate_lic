@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175737.21 
+xtrans-native-1_1.5.0-r0: do_populate_lic
+Elapsed time: 0.23 seconds
+utime: 23
+stime: 5
+cutime: 3
+cstime: 2
+IO rchar: 931392
+IO wchar: 177950
+IO syscr: 530
+IO syscw: 126
+IO read_bytes: 20480
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.23205499999999998
+rusage ru_stime: 0.051129999999999995
+rusage ru_maxrss: 86768
+rusage ru_minflt: 21674
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 216
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 24
+Child rusage ru_utime: 0.038252
+Child rusage ru_stime: 0.021974999999999998
+Child rusage ru_maxrss: 83616
+Child rusage ru_minflt: 5626
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 78
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1735175737.44 

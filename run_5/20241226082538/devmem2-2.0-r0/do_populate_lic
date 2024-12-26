@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202987.29 
+devmem2-2.0-r0: do_populate_lic
+Elapsed time: 0.31 seconds
+utime: 12
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 787840
+IO wchar: 182594
+IO syscr: 523
+IO syscw: 108
+IO read_bytes: 16384
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.12653599999999998
+rusage ru_stime: 0.023006
+rusage ru_maxrss: 85268
+rusage ru_minflt: 17835
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 216
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 15
+Child rusage ru_utime: 0.029744
+Child rusage ru_stime: 0.012261999999999999
+Child rusage ru_maxrss: 82044
+Child rusage ru_minflt: 5580
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 152
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1735202987.60 

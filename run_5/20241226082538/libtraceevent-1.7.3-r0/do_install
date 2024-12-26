@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735209523.62 
+libtraceevent-1.7.3-r0: do_install
+Elapsed time: 2.02 seconds
+utime: 29
+stime: 4
+cutime: 39
+cstime: 13
+IO rchar: 10344845
+IO wchar: 1715078
+IO syscr: 1613
+IO syscw: 142
+IO read_bytes: 4096
+IO write_bytes: 1748992
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.297358
+rusage ru_stime: 0.049559
+rusage ru_maxrss: 58120
+rusage ru_minflt: 17282
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 99
+rusage ru_nivcsw: 569
+Child rusage ru_utime: 0.390576
+Child rusage ru_stime: 0.139789
+Child rusage ru_maxrss: 55984
+Child rusage ru_minflt: 11742
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 3256
+Child rusage ru_nvcsw: 57
+Child rusage ru_nivcsw: 380
+Status: PASSED 
+Ended: 1735209525.64 

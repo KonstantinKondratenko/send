@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165839.63 
+curl-native-8.7.1-r0: do_unpack
+Elapsed time: 0.55 seconds
+utime: 24
+stime: 6
+cutime: 30
+cstime: 20
+IO rchar: 29097569
+IO wchar: 48002956
+IO syscr: 4765
+IO syscw: 9554
+IO read_bytes: 0
+IO write_bytes: 32796672
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.247274
+rusage ru_stime: 0.067801
+rusage ru_maxrss: 81244
+rusage ru_minflt: 11826
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 41
+Child rusage ru_utime: 0.305868
+Child rusage ru_stime: 0.203425
+Child rusage ru_maxrss: 77452
+Child rusage ru_minflt: 6154
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 63920
+Child rusage ru_nvcsw: 2074
+Child rusage ru_nivcsw: 885
+Status: PASSED 
+Ended: 1735165840.18 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169016.23 
+librelp-1.11.0-r0: do_compile
+Elapsed time: 9.10 seconds
+utime: 20
+stime: 2
+cutime: 516
+cstime: 73
+IO rchar: 45535218
+IO wchar: 3553771
+IO syscr: 12569
+IO syscw: 1956
+IO read_bytes: 389120
+IO write_bytes: 1175552
+IO cancelled_write_bytes: 65536
+rusage ru_utime: 0.20221999999999998
+rusage ru_stime: 0.020634
+rusage ru_maxrss: 61276
+rusage ru_minflt: 9822
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 224
+rusage ru_nvcsw: 63
+rusage ru_nivcsw: 39
+Child rusage ru_utime: 5.163446
+Child rusage ru_stime: 0.735723
+Child rusage ru_maxrss: 68584
+Child rusage ru_minflt: 249091
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 760
+Child rusage ru_oublock: 2072
+Child rusage ru_nvcsw: 2725
+Child rusage ru_nivcsw: 2272
+Status: PASSED 
+Ended: 1735169025.33 

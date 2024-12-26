@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735179097.63 
+libstd-rs-1.75.0-r0: do_populate_sysroot
+Elapsed time: 3.26 seconds
+utime: 54
+stime: 14
+cutime: 462
+cstime: 42
+IO rchar: 581517508
+IO wchar: 263638276
+IO syscr: 68224
+IO syscw: 21883
+IO read_bytes: 32768
+IO write_bytes: 82120704
+IO cancelled_write_bytes: 10698752
+rusage ru_utime: 0.542551
+rusage ru_stime: 0.143388
+rusage ru_maxrss: 61312
+rusage ru_minflt: 28800
+rusage ru_majflt: 3
+rusage ru_inblock: 24
+rusage ru_oublock: 22400
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 201
+Child rusage ru_utime: 4.6207460000000005
+Child rusage ru_stime: 0.420736
+Child rusage ru_maxrss: 319872
+Child rusage ru_minflt: 110569
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 137992
+Child rusage ru_nvcsw: 5609
+Child rusage ru_nivcsw: 1249
+Status: PASSED 
+Ended: 1735179100.89 

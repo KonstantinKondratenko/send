@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175638.40 
+debugedit-5.0-r0: do_patch
+Elapsed time: 0.24 seconds
+utime: 22
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 558699
+IO wchar: 117183
+IO syscr: 205
+IO syscw: 71
+IO read_bytes: 4096
+IO write_bytes: 131072
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.224828
+rusage ru_stime: 0.033306999999999996
+rusage ru_maxrss: 82364
+rusage ru_minflt: 8988
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.009765
+Child rusage ru_stime: 0.013236
+Child rusage ru_maxrss: 76532
+Child rusage ru_minflt: 1241
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 13
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735175638.65 

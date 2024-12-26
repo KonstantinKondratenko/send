@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184468.27 
+man-db-2.12.0-r0: do_compile
+Elapsed time: 27.60 seconds
+utime: 26
+stime: 5
+cutime: 3976
+cstime: 508
+IO rchar: 317604945
+IO wchar: 35222858
+IO syscr: 106958
+IO syscw: 19314
+IO read_bytes: 5308416
+IO write_bytes: 19087360
+IO cancelled_write_bytes: 4861952
+rusage ru_utime: 0.265169
+rusage ru_stime: 0.055598999999999996
+rusage ru_maxrss: 61384
+rusage ru_minflt: 10564
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 1584
+rusage ru_nvcsw: 556
+rusage ru_nivcsw: 41
+Child rusage ru_utime: 39.765923
+Child rusage ru_stime: 5.081475
+Child rusage ru_maxrss: 98020
+Child rusage ru_minflt: 1831544
+Child rusage ru_majflt: 51
+Child rusage ru_inblock: 10344
+Child rusage ru_oublock: 35696
+Child rusage ru_nvcsw: 23008
+Child rusage ru_nivcsw: 16341
+Status: PASSED 
+Ended: 1735184495.88 

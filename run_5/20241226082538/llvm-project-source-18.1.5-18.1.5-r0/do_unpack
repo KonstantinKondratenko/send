@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202087.10 
+llvm-project-source-18.1.5-18.1.5-r0: do_unpack
+Elapsed time: 237.36 seconds
+utime: 29
+stime: 25
+cutime: 1246
+cstime: 655
+IO rchar: 1825019126
+IO wchar: 3269526488
+IO syscr: 254310
+IO syscw: 516607
+IO read_bytes: 266240
+IO write_bytes: 1932255232
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.29570399999999997
+rusage ru_stime: 0.259248
+rusage ru_maxrss: 81436
+rusage ru_minflt: 26841
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 320
+rusage ru_nvcsw: 86
+rusage ru_nivcsw: 33
+Child rusage ru_utime: 12.467323
+Child rusage ru_stime: 6.556705
+Child rusage ru_maxrss: 78004
+Child rusage ru_minflt: 23946
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 504
+Child rusage ru_oublock: 3773616
+Child rusage ru_nvcsw: 105680
+Child rusage ru_nivcsw: 12252
+Status: PASSED 
+Ended: 1735202324.45 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735181726.00 
+rust-llvm-1.75.0-r0: do_install
+Elapsed time: 7.08 seconds
+utime: 44
+stime: 13
+cutime: 57
+cstime: 267
+IO rchar: 345864994
+IO wchar: 337891464
+IO syscr: 81185
+IO syscw: 46840
+IO read_bytes: 14090240
+IO write_bytes: 341995520
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.44728999999999997
+rusage ru_stime: 0.134187
+rusage ru_maxrss: 58972
+rusage ru_minflt: 19777
+rusage ru_majflt: 8
+rusage ru_inblock: 672
+rusage ru_oublock: 864
+rusage ru_nvcsw: 4529
+rusage ru_nivcsw: 291
+Child rusage ru_utime: 0.572557
+Child rusage ru_stime: 2.672599
+Child rusage ru_maxrss: 56408
+Child rusage ru_minflt: 3468
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 26848
+Child rusage ru_oublock: 667096
+Child rusage ru_nvcsw: 4315
+Child rusage ru_nivcsw: 27046
+Status: PASSED 
+Ended: 1735181733.08 

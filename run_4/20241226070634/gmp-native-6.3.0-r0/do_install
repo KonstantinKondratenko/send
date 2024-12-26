@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197180.33 
+gmp-native-6.3.0-r0: do_install
+Elapsed time: 0.45 seconds
+utime: 15
+stime: 2
+cutime: 33
+cstime: 7
+IO rchar: 10364637
+IO wchar: 1527564
+IO syscr: 5774
+IO syscw: 720
+IO read_bytes: 4096
+IO write_bytes: 1507328
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.157904
+rusage ru_stime: 0.024293
+rusage ru_maxrss: 84732
+rusage ru_minflt: 16852
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 151
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.334465
+Child rusage ru_stime: 0.077874
+Child rusage ru_maxrss: 81944
+Child rusage ru_minflt: 64985
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2784
+Child rusage ru_nvcsw: 720
+Child rusage ru_nivcsw: 62
+Status: PASSED 
+Ended: 1735197180.78 

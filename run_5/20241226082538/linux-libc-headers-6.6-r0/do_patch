@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202027.05 
+linux-libc-headers-6.6-r0: do_patch
+Elapsed time: 1.03 seconds
+utime: 9
+stime: 3
+cutime: 4
+cstime: 1
+IO rchar: 997853
+IO wchar: 131419
+IO syscr: 806
+IO syscw: 129
+IO read_bytes: 20480
+IO write_bytes: 159744
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.093371
+rusage ru_stime: 0.035013999999999997
+rusage ru_maxrss: 81532
+rusage ru_minflt: 10303
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 144
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 11
+Child rusage ru_utime: 0.043841
+Child rusage ru_stime: 0.016651
+Child rusage ru_maxrss: 75624
+Child rusage ru_minflt: 9765
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 168
+Child rusage ru_nvcsw: 163
+Child rusage ru_nivcsw: 46
+Status: PASSED 
+Ended: 1735202028.09 

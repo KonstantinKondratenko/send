@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735204025.62 
+systemd-compat-units-1.0-r0: do_packagedata
+Elapsed time: 1.06 seconds
+utime: 40
+stime: 5
+cutime: 7
+cstime: 6
+IO rchar: 766493
+IO wchar: 212597
+IO syscr: 795
+IO syscw: 136
+IO read_bytes: 8192
+IO write_bytes: 192512
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.407572
+rusage ru_stime: 0.058224
+rusage ru_maxrss: 85352
+rusage ru_minflt: 25967
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 224
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 56
+Child rusage ru_utime: 0.07011099999999999
+Child rusage ru_stime: 0.062765
+Child rusage ru_maxrss: 82460
+Child rusage ru_minflt: 8020
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 161
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1735204026.68 

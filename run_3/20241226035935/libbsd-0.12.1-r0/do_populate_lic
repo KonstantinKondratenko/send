@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186346.00 
+libbsd-0.12.1-r0: do_populate_lic
+Elapsed time: 0.20 seconds
+utime: 20
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 851090
+IO wchar: 196086
+IO syscr: 545
+IO syscw: 114
+IO read_bytes: 32768
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.20357
+rusage ru_stime: 0.035233
+rusage ru_maxrss: 85708
+rusage ru_minflt: 21070
+rusage ru_majflt: 1
+rusage ru_inblock: 64
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 18
+Child rusage ru_utime: 0.025276999999999997
+Child rusage ru_stime: 0.028638999999999998
+Child rusage ru_maxrss: 82592
+Child rusage ru_minflt: 5613
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 94
+Child rusage ru_nivcsw: 30
+Status: PASSED 
+Ended: 1735186346.19 

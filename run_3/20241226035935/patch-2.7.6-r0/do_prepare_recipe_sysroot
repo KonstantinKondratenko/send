@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195108.75 
+patch-2.7.6-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.48 seconds
+utime: 14
+stime: 9
+cutime: 2
+cstime: 0
+IO rchar: 1829093
+IO wchar: 1052247
+IO syscr: 557
+IO syscw: 297
+IO read_bytes: 413696
+IO write_bytes: 1093632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.146312
+rusage ru_stime: 0.09754099999999999
+rusage ru_maxrss: 58476
+rusage ru_minflt: 12350
+rusage ru_majflt: 2
+rusage ru_inblock: 800
+rusage ru_oublock: 152
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 56
+Child rusage ru_utime: 0.022083
+Child rusage ru_stime: 0.008733
+Child rusage ru_maxrss: 53508
+Child rusage ru_minflt: 1523
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1984
+Child rusage ru_nvcsw: 17
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735195109.23 

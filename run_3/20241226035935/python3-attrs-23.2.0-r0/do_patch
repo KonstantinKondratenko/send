@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185952.69 
+python3-attrs-23.2.0-r0: do_patch
+Elapsed time: 4.10 seconds
+utime: 12
+stime: 2
+cutime: 11
+cstime: 3
+IO rchar: 1583520
+IO wchar: 677023
+IO syscr: 1470
+IO syscw: 309
+IO read_bytes: 45056
+IO write_bytes: 704512
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.12921
+rusage ru_stime: 0.025008
+rusage ru_maxrss: 81504
+rusage ru_minflt: 10311
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 144
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 47
+Child rusage ru_utime: 0.119935
+Child rusage ru_stime: 0.034221999999999995
+Child rusage ru_maxrss: 75564
+Child rusage ru_minflt: 19690
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 1232
+Child rusage ru_nvcsw: 315
+Child rusage ru_nivcsw: 152
+Status: PASSED 
+Ended: 1735185956.79 

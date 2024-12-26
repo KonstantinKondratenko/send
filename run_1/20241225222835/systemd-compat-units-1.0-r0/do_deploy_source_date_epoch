@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166270.73 
+systemd-compat-units-1.0-r0: do_deploy_source_date_epoch
+Elapsed time: 0.37 seconds
+utime: 26
+stime: 5
+cutime: 4
+cstime: 2
+IO rchar: 681933
+IO wchar: 138739
+IO syscr: 422
+IO syscw: 93
+IO read_bytes: 0
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.264053
+rusage ru_stime: 0.053634999999999995
+rusage ru_maxrss: 85156
+rusage ru_minflt: 21505
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 23
+Child rusage ru_utime: 0.041103999999999995
+Child rusage ru_stime: 0.02668
+Child rusage ru_maxrss: 82480
+Child rusage ru_minflt: 5217
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 75
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1735166271.11 

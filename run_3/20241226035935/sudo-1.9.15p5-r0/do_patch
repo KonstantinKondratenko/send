@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186214.36 
+sudo-1.9.15p5-r0: do_patch
+Elapsed time: 1.09 seconds
+utime: 13
+stime: 4
+cutime: 6
+cstime: 2
+IO rchar: 1976364
+IO wchar: 646346
+IO syscr: 996
+IO syscw: 255
+IO read_bytes: 4096
+IO write_bytes: 684032
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.135345
+rusage ru_stime: 0.045114999999999995
+rusage ru_maxrss: 82200
+rusage ru_minflt: 10341
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.061605
+Child rusage ru_stime: 0.028738
+Child rusage ru_maxrss: 76196
+Child rusage ru_minflt: 9768
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1192
+Child rusage ru_nvcsw: 164
+Child rusage ru_nivcsw: 44
+Status: PASSED 
+Ended: 1735186215.45 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165853.20 
+libstd-rs-1.75.0-r0: do_unpack
+Elapsed time: 87.21 seconds
+utime: 19
+stime: 4
+cutime: 1551
+cstime: 862
+IO rchar: 2373265271
+IO wchar: 4266269160
+IO syscr: 406754
+IO syscw: 656019
+IO read_bytes: 32768
+IO write_bytes: 2508259328
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.19874999999999998
+rusage ru_stime: 0.045
+rusage ru_maxrss: 80032
+rusage ru_minflt: 15405
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 35
+rusage ru_nivcsw: 35
+Child rusage ru_utime: 15.512443
+Child rusage ru_stime: 8.628622
+Child rusage ru_maxrss: 76280
+Child rusage ru_minflt: 25045
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 64
+Child rusage ru_oublock: 4898760
+Child rusage ru_nvcsw: 229134
+Child rusage ru_nivcsw: 206343
+Status: PASSED 
+Ended: 1735165940.41 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735201550.00 
+patch-native-2.7.6-r0: do_recipe_qa
+Elapsed time: 0.19 seconds
+utime: 26
+stime: 2
+cutime: 2
+cstime: 2
+IO rchar: 751601
+IO wchar: 121338
+IO syscr: 341
+IO syscw: 104
+IO read_bytes: 0
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.2701
+rusage ru_stime: 0.028208
+rusage ru_maxrss: 79252
+rusage ru_minflt: 15330
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 34
+Child rusage ru_utime: 0.028908999999999997
+Child rusage ru_stime: 0.020267
+Child rusage ru_maxrss: 76348
+Child rusage ru_minflt: 4387
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 77
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1735201550.19 

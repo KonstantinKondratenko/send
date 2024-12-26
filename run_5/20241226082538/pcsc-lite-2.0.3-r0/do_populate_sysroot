@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735209455.07 
+pcsc-lite-2.0.3-r0: do_populate_sysroot
+Elapsed time: 1.63 seconds
+utime: 43
+stime: 7
+cutime: 8
+cstime: 13
+IO rchar: 2511406
+IO wchar: 859778
+IO syscr: 1590
+IO syscw: 251
+IO read_bytes: 4030464
+IO write_bytes: 651264
+IO cancelled_write_bytes: 81920
+rusage ru_utime: 0.43233299999999997
+rusage ru_stime: 0.07467499999999999
+rusage ru_maxrss: 61964
+rusage ru_minflt: 31467
+rusage ru_majflt: 4
+rusage ru_inblock: 3432
+rusage ru_oublock: 816
+rusage ru_nvcsw: 241
+rusage ru_nivcsw: 175
+Child rusage ru_utime: 0.084297
+Child rusage ru_stime: 0.130017
+Child rusage ru_maxrss: 59256
+Child rusage ru_minflt: 19193
+Child rusage ru_majflt: 9
+Child rusage ru_inblock: 4440
+Child rusage ru_oublock: 456
+Child rusage ru_nvcsw: 241
+Child rusage ru_nivcsw: 150
+Status: PASSED 
+Ended: 1735209456.70 

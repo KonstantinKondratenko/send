@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185895.76 
+libcheck-0.15.2-r0: do_patch
+Elapsed time: 0.29 seconds
+utime: 6
+stime: 1
+cutime: 9
+cstime: 2
+IO rchar: 1691681
+IO wchar: 688078
+IO syscr: 1458
+IO syscw: 309
+IO read_bytes: 176128
+IO write_bytes: 724992
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.06777999999999999
+rusage ru_stime: 0.019934999999999998
+rusage ru_maxrss: 81044
+rusage ru_minflt: 10628
+rusage ru_majflt: 0
+rusage ru_inblock: 216
+rusage ru_oublock: 144
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.090485
+Child rusage ru_stime: 0.022733
+Child rusage ru_maxrss: 75188
+Child rusage ru_minflt: 19426
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 128
+Child rusage ru_oublock: 1272
+Child rusage ru_nvcsw: 294
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735185896.05 

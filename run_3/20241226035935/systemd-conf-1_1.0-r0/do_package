@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195906.54 
+systemd-conf-1_1.0-r0: do_package
+Elapsed time: 18.41 seconds
+utime: 38
+stime: 47
+cutime: 69
+cstime: 8
+IO rchar: 3057643
+IO wchar: 1808369
+IO syscr: 3201
+IO syscw: 679
+IO read_bytes: 147456
+IO write_bytes: 1859584
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38950999999999997
+rusage ru_stime: 0.480002
+rusage ru_maxrss: 59120
+rusage ru_minflt: 35081
+rusage ru_majflt: 2
+rusage ru_inblock: 288
+rusage ru_oublock: 544
+rusage ru_nvcsw: 1526
+rusage ru_nivcsw: 169
+Child rusage ru_utime: 0.693318
+Child rusage ru_stime: 0.08125099999999999
+Child rusage ru_maxrss: 115516
+Child rusage ru_minflt: 26772
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 3088
+Child rusage ru_nvcsw: 3627
+Child rusage ru_nivcsw: 67
+Status: PASSED 
+Ended: 1735195924.95 

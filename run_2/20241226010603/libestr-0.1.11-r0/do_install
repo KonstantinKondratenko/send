@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735179783.30 
+libestr-0.1.11-r0: do_install
+Elapsed time: 1.53 seconds
+utime: 29
+stime: 3
+cutime: 15
+cstime: 7
+IO rchar: 1228521
+IO wchar: 151211
+IO syscr: 1898
+IO syscw: 192
+IO read_bytes: 8192
+IO write_bytes: 163840
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.29964999999999997
+rusage ru_stime: 0.038526
+rusage ru_maxrss: 58364
+rusage ru_minflt: 19213
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 192
+rusage ru_nvcsw: 129
+rusage ru_nivcsw: 259
+Child rusage ru_utime: 0.151785
+Child rusage ru_stime: 0.07255099999999999
+Child rusage ru_maxrss: 56308
+Child rusage ru_minflt: 22659
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 362
+Child rusage ru_nivcsw: 416
+Status: PASSED 
+Ended: 1735179784.83 

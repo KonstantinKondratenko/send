@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165961.48 
+expect-5.45.4-r0: do_recipe_qa
+Elapsed time: 0.28 seconds
+utime: 27
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 600203
+IO wchar: 118676
+IO syscr: 339
+IO syscw: 93
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.277847
+rusage ru_stime: 0.053285
+rusage ru_maxrss: 83732
+rusage ru_minflt: 15954
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 122
+Child rusage ru_utime: 0.023496
+Child rusage ru_stime: 0.035404
+Child rusage ru_maxrss: 81048
+Child rusage ru_minflt: 4387
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 56
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1735165961.75 

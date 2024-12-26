@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735203647.10 
+linux-yocto-6.6.23+git-r0: do_validate_branches
+Elapsed time: 1.11 seconds
+utime: 39
+stime: 8
+cutime: 26
+cstime: 20
+IO rchar: 5317784
+IO wchar: 10879182
+IO syscr: 1720
+IO syscw: 684
+IO read_bytes: 36864
+IO write_bytes: 10944512
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.39292299999999997
+rusage ru_stime: 0.089477
+rusage ru_maxrss: 90416
+rusage ru_minflt: 15125
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 136
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 78
+Child rusage ru_utime: 0.26221
+Child rusage ru_stime: 0.20357599999999998
+Child rusage ru_maxrss: 337516
+Child rusage ru_minflt: 20657
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 64
+Child rusage ru_oublock: 21240
+Child rusage ru_nvcsw: 169
+Child rusage ru_nivcsw: 58
+Status: PASSED 
+Ended: 1735203648.20 

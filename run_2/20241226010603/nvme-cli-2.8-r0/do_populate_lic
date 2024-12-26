@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175754.11 
+nvme-cli-2.8-r0: do_populate_lic
+Elapsed time: 0.29 seconds
+utime: 29
+stime: 5
+cutime: 2
+cstime: 5
+IO rchar: 933589
+IO wchar: 226857
+IO syscr: 567
+IO syscw: 127
+IO read_bytes: 0
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.294564
+rusage ru_stime: 0.059708
+rusage ru_maxrss: 86596
+rusage ru_minflt: 21377
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 208
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 52
+Child rusage ru_utime: 0.026504999999999997
+Child rusage ru_stime: 0.059148
+Child rusage ru_maxrss: 83424
+Child rusage ru_minflt: 5653
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 115
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1735175754.40 

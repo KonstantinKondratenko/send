@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166312.07 
+nlohmann-json-3.11.3-r0: do_populate_lic
+Elapsed time: 0.26 seconds
+utime: 25
+stime: 8
+cutime: 2
+cstime: 3
+IO rchar: 745163
+IO wchar: 157457
+IO syscr: 516
+IO syscw: 107
+IO read_bytes: 32768
+IO write_bytes: 122880
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.25623999999999997
+rusage ru_stime: 0.080314
+rusage ru_maxrss: 86796
+rusage ru_minflt: 21077
+rusage ru_majflt: 1
+rusage ru_inblock: 56
+rusage ru_oublock: 208
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 47
+Child rusage ru_utime: 0.028433
+Child rusage ru_stime: 0.038655999999999996
+Child rusage ru_maxrss: 83856
+Child rusage ru_minflt: 5567
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 76
+Child rusage ru_nivcsw: 56
+Status: PASSED 
+Ended: 1735166312.32 

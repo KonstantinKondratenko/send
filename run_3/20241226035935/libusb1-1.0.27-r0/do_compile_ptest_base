@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735190354.10 
+libusb1-1.0.27-r0: do_compile_ptest_base
+Elapsed time: 1.75 seconds
+utime: 22
+stime: 1
+cutime: 42
+cstime: 5
+IO rchar: 3382627
+IO wchar: 264393
+IO syscr: 1572
+IO syscw: 279
+IO read_bytes: 20480
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.223739
+rusage ru_stime: 0.019976
+rusage ru_maxrss: 61652
+rusage ru_minflt: 7247
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 88
+Child rusage ru_utime: 0.426633
+Child rusage ru_stime: 0.058882
+Child rusage ru_maxrss: 58868
+Child rusage ru_minflt: 22698
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 144
+Child rusage ru_nvcsw: 267
+Child rusage ru_nivcsw: 201
+Status: PASSED 
+Ended: 1735190355.85 

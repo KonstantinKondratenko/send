@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189803.94 
+libtalloc-2.4.2-r0: do_install
+Elapsed time: 3.15 seconds
+utime: 36
+stime: 5
+cutime: 59
+cstime: 13
+IO rchar: 12865495
+IO wchar: 799680
+IO syscr: 4444
+IO syscw: 353
+IO read_bytes: 65536
+IO write_bytes: 839680
+IO cancelled_write_bytes: 331776
+rusage ru_utime: 0.370092
+rusage ru_stime: 0.053418
+rusage ru_maxrss: 59580
+rusage ru_minflt: 17519
+rusage ru_majflt: 9
+rusage ru_inblock: 120
+rusage ru_oublock: 160
+rusage ru_nvcsw: 302
+rusage ru_nivcsw: 355
+Child rusage ru_utime: 0.590861
+Child rusage ru_stime: 0.13522099999999998
+Child rusage ru_maxrss: 57656
+Child rusage ru_minflt: 24177
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1480
+Child rusage ru_nvcsw: 342
+Child rusage ru_nivcsw: 402
+Status: PASSED 
+Ended: 1735189807.09 

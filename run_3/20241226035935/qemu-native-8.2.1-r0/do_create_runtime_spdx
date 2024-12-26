@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186407.23 
+qemu-native-8.2.1-r0: do_create_runtime_spdx
+Elapsed time: 0.54 seconds
+utime: 28
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 810159
+IO wchar: 347817
+IO syscr: 380
+IO syscw: 113
+IO read_bytes: 4096
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.283107
+rusage ru_stime: 0.040443
+rusage ru_maxrss: 85892
+rusage ru_minflt: 20689
+rusage ru_majflt: 2
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 83
+Child rusage ru_utime: 0.029456
+Child rusage ru_stime: 0.032329
+Child rusage ru_maxrss: 83240
+Child rusage ru_minflt: 4629
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 54
+Child rusage ru_nivcsw: 40
+Status: PASSED 
+Ended: 1735186407.77 

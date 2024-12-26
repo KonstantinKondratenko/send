@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735178273.40 
+cargo-native-1.75.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 1.02 seconds
+utime: 31
+stime: 12
+cutime: 2
+cstime: 0
+IO rchar: 2452386
+IO wchar: 1220247
+IO syscr: 548
+IO syscw: 350
+IO read_bytes: 3473408
+IO write_bytes: 1282048
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.31625
+rusage ru_stime: 0.127378
+rusage ru_maxrss: 62112
+rusage ru_minflt: 8932
+rusage ru_majflt: 6
+rusage ru_inblock: 6696
+rusage ru_oublock: 168
+rusage ru_nvcsw: 322
+rusage ru_nivcsw: 123
+Child rusage ru_utime: 0.028543
+Child rusage ru_stime: 0.004464
+Child rusage ru_maxrss: 57444
+Child rusage ru_minflt: 803
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 88
+Child rusage ru_oublock: 2336
+Child rusage ru_nvcsw: 15
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735178274.42 

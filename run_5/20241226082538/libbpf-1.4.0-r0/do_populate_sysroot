@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735207696.75 
+libbpf-1.4.0-r0: do_populate_sysroot
+Elapsed time: 2.13 seconds
+utime: 46
+stime: 9
+cutime: 23
+cstime: 8
+IO rchar: 14755533
+IO wchar: 7272901
+IO syscr: 2494
+IO syscw: 615
+IO read_bytes: 4096
+IO write_bytes: 3883008
+IO cancelled_write_bytes: 409600
+rusage ru_utime: 0.46058699999999997
+rusage ru_stime: 0.094585
+rusage ru_maxrss: 61476
+rusage ru_minflt: 26743
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 3704
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 295
+Child rusage ru_utime: 0.230726
+Child rusage ru_stime: 0.088335
+Child rusage ru_maxrss: 58916
+Child rusage ru_minflt: 16404
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 3880
+Child rusage ru_nvcsw: 319
+Child rusage ru_nivcsw: 150
+Status: PASSED 
+Ended: 1735207698.88 

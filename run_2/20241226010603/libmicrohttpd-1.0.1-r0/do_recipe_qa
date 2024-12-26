@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175486.30 
+libmicrohttpd-1.0.1-r0: do_recipe_qa
+Elapsed time: 0.18 seconds
+utime: 18
+stime: 4
+cutime: 3
+cstime: 1
+IO rchar: 643092
+IO wchar: 118660
+IO syscr: 349
+IO syscw: 92
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.181972
+rusage ru_stime: 0.049283999999999994
+rusage ru_maxrss: 84988
+rusage ru_minflt: 15832
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 73
+Child rusage ru_utime: 0.03295
+Child rusage ru_stime: 0.016051
+Child rusage ru_maxrss: 82120
+Child rusage ru_minflt: 4396
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 70
+Child rusage ru_nivcsw: 39
+Status: PASSED 
+Ended: 1735175486.48 

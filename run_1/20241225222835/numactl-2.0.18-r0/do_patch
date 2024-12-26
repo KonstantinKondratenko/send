@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165939.82 
+numactl-2.0.18-r0: do_patch
+Elapsed time: 0.95 seconds
+utime: 13
+stime: 3
+cutime: 10
+cstime: 5
+IO rchar: 1588559
+IO wchar: 663349
+IO syscr: 1449
+IO syscw: 310
+IO read_bytes: 36864
+IO write_bytes: 700416
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.135699
+rusage ru_stime: 0.031017
+rusage ru_maxrss: 80540
+rusage ru_minflt: 10363
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 152
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 93
+Child rusage ru_utime: 0.10183099999999999
+Child rusage ru_stime: 0.057005
+Child rusage ru_maxrss: 74884
+Child rusage ru_minflt: 19606
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 1216
+Child rusage ru_nvcsw: 298
+Child rusage ru_nivcsw: 113
+Status: PASSED 
+Ended: 1735165940.76 

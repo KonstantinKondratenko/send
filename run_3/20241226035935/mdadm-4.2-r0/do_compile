@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191671.81 
+mdadm-4.2-r0: do_compile
+Elapsed time: 17.09 seconds
+utime: 20
+stime: 3
+cutime: 2760
+cstime: 182
+IO rchar: 88051106
+IO wchar: 29133697
+IO syscr: 23789
+IO syscw: 7707
+IO read_bytes: 1810432
+IO write_bytes: 8605696
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.20604999999999998
+rusage ru_stime: 0.031355
+rusage ru_maxrss: 62300
+rusage ru_minflt: 13065
+rusage ru_majflt: 5
+rusage ru_inblock: 48
+rusage ru_oublock: 240
+rusage ru_nvcsw: 69
+rusage ru_nivcsw: 62
+Child rusage ru_utime: 27.605349
+Child rusage ru_stime: 1.8208440000000001
+Child rusage ru_maxrss: 129132
+Child rusage ru_minflt: 362973
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 3488
+Child rusage ru_oublock: 16568
+Child rusage ru_nvcsw: 4952
+Child rusage ru_nivcsw: 9285
+Status: PASSED 
+Ended: 1735191688.91 

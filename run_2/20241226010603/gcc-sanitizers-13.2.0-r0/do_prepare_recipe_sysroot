@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184707.72 
+gcc-sanitizers-13.2.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.27 seconds
+utime: 19
+stime: 6
+cutime: 2
+cstime: 0
+IO rchar: 2201838
+IO wchar: 1431689
+IO syscr: 591
+IO syscw: 393
+IO read_bytes: 114688
+IO write_bytes: 1470464
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.190964
+rusage ru_stime: 0.062174
+rusage ru_maxrss: 59596
+rusage ru_minflt: 9881
+rusage ru_majflt: 4
+rusage ru_inblock: 224
+rusage ru_oublock: 144
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.026824999999999998
+Child rusage ru_stime: 0.007991
+Child rusage ru_maxrss: 54744
+Child rusage ru_minflt: 815
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2728
+Child rusage ru_nvcsw: 8
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735184707.99 

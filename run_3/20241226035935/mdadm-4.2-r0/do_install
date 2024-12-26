@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195018.82 
+mdadm-4.2-r0: do_install
+Elapsed time: 2.22 seconds
+utime: 35
+stime: 5
+cutime: 21
+cstime: 14
+IO rchar: 6622493
+IO wchar: 5189346
+IO syscr: 3797
+IO syscw: 750
+IO read_bytes: 5042176
+IO write_bytes: 4694016
+IO cancelled_write_bytes: 69632
+rusage ru_utime: 0.359633
+rusage ru_stime: 0.050180999999999996
+rusage ru_maxrss: 59744
+rusage ru_minflt: 17702
+rusage ru_majflt: 3
+rusage ru_inblock: 1208
+rusage ru_oublock: 216
+rusage ru_nvcsw: 257
+rusage ru_nivcsw: 351
+Child rusage ru_utime: 0.21266
+Child rusage ru_stime: 0.149263
+Child rusage ru_maxrss: 57772
+Child rusage ru_minflt: 32740
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 8640
+Child rusage ru_oublock: 8952
+Child rusage ru_nvcsw: 888
+Child rusage ru_nivcsw: 893
+Status: PASSED 
+Ended: 1735195021.04 

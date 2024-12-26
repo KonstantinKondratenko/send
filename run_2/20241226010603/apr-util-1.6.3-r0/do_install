@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735179264.93 
+apr-util-1.6.3-r0: do_install
+Elapsed time: 4.34 seconds
+utime: 34
+stime: 5
+cutime: 39
+cstime: 14
+IO rchar: 3181711
+IO wchar: 1233842
+IO syscr: 3894
+IO syscw: 303
+IO read_bytes: 8192
+IO write_bytes: 1323008
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.340536
+rusage ru_stime: 0.053335999999999995
+rusage ru_maxrss: 59616
+rusage ru_minflt: 17851
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 200
+rusage ru_nvcsw: 127
+rusage ru_nivcsw: 300
+Child rusage ru_utime: 0.390545
+Child rusage ru_stime: 0.14915599999999998
+Child rusage ru_maxrss: 57868
+Child rusage ru_minflt: 49632
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2384
+Child rusage ru_nvcsw: 725
+Child rusage ru_nivcsw: 1316
+Status: PASSED 
+Ended: 1735179269.27 

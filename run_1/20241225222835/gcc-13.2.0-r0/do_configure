@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735173243.60 
+gcc-13.2.0-r0: do_configure
+Elapsed time: 27.20 seconds
+utime: 45
+stime: 8
+cutime: 388
+cstime: 85
+IO rchar: 33524339
+IO wchar: 12518918
+IO syscr: 26838
+IO syscw: 10731
+IO read_bytes: 10395648
+IO write_bytes: 4874240
+IO cancelled_write_bytes: 3313664
+rusage ru_utime: 0.451613
+rusage ru_stime: 0.08544
+rusage ru_maxrss: 61744
+rusage ru_minflt: 26548
+rusage ru_majflt: 0
+rusage ru_inblock: 2664
+rusage ru_oublock: 904
+rusage ru_nvcsw: 302
+rusage ru_nivcsw: 53
+Child rusage ru_utime: 3.8856669999999998
+Child rusage ru_stime: 0.855586
+Child rusage ru_maxrss: 58980
+Child rusage ru_minflt: 369092
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 17640
+Child rusage ru_oublock: 8616
+Child rusage ru_nvcsw: 7917
+Child rusage ru_nivcsw: 5779
+Status: PASSED 
+Ended: 1735173270.81 

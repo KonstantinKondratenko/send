@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175712.15 
+nvme-cli-2.8-r0: do_deploy_source_date_epoch
+Elapsed time: 0.41 seconds
+utime: 31
+stime: 5
+cutime: 2
+cstime: 4
+IO rchar: 714443
+IO wchar: 147831
+IO syscr: 440
+IO syscw: 105
+IO read_bytes: 0
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.31128
+rusage ru_stime: 0.051879999999999996
+rusage ru_maxrss: 85408
+rusage ru_minflt: 22234
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 139
+Child rusage ru_utime: 0.020288999999999998
+Child rusage ru_stime: 0.041991
+Child rusage ru_maxrss: 82564
+Child rusage ru_minflt: 5235
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 69
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1735175712.56 

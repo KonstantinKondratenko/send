@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197426.88 
+dtc-1.7.0-r0: do_patch
+Elapsed time: 4.20 seconds
+utime: 7
+stime: 4
+cutime: 9
+cstime: 1
+IO rchar: 1667518
+IO wchar: 653321
+IO syscr: 1491
+IO syscw: 301
+IO read_bytes: 139264
+IO write_bytes: 684032
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.071057
+rusage ru_stime: 0.041138
+rusage ru_maxrss: 82412
+rusage ru_minflt: 11192
+rusage ru_majflt: 0
+rusage ru_inblock: 264
+rusage ru_oublock: 144
+rusage ru_nvcsw: 48
+rusage ru_nivcsw: 21
+Child rusage ru_utime: 0.094042
+Child rusage ru_stime: 0.014558
+Child rusage ru_maxrss: 76172
+Child rusage ru_minflt: 19540
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1192
+Child rusage ru_nvcsw: 292
+Child rusage ru_nivcsw: 48
+Status: PASSED 
+Ended: 1735197431.08 

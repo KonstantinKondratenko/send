@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175712.12 
+nginx-1.24.0-r0: do_deploy_source_date_epoch
+Elapsed time: 0.41 seconds
+utime: 26
+stime: 4
+cutime: 3
+cstime: 2
+IO rchar: 727819
+IO wchar: 143358
+IO syscr: 435
+IO syscw: 99
+IO read_bytes: 4096
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.26841699999999996
+rusage ru_stime: 0.044122999999999996
+rusage ru_maxrss: 85400
+rusage ru_minflt: 21931
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 117
+Child rusage ru_utime: 0.033007999999999996
+Child rusage ru_stime: 0.027853
+Child rusage ru_maxrss: 82560
+Child rusage ru_minflt: 5285
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1735175712.53 

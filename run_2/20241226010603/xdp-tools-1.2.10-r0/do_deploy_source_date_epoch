@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175710.53 
+xdp-tools-1.2.10-r0: do_deploy_source_date_epoch
+Elapsed time: 0.33 seconds
+utime: 23
+stime: 5
+cutime: 3
+cstime: 2
+IO rchar: 679274
+IO wchar: 138282
+IO syscr: 422
+IO syscw: 93
+IO read_bytes: 4096
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.23104
+rusage ru_stime: 0.056746
+rusage ru_maxrss: 85488
+rusage ru_minflt: 21748
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 73
+Child rusage ru_utime: 0.033944999999999996
+Child rusage ru_stime: 0.024582999999999997
+Child rusage ru_maxrss: 82652
+Child rusage ru_minflt: 5240
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 72
+Child rusage ru_nivcsw: 73
+Status: PASSED 
+Ended: 1735175710.86 

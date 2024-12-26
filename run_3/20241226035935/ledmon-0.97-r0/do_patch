@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186206.55 
+ledmon-0.97-r0: do_patch
+Elapsed time: 0.80 seconds
+utime: 14
+stime: 4
+cutime: 12
+cstime: 2
+IO rchar: 1695525
+IO wchar: 702711
+IO syscr: 1466
+IO syscw: 322
+IO read_bytes: 20480
+IO write_bytes: 745472
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.14357899999999998
+rusage ru_stime: 0.043871
+rusage ru_maxrss: 82280
+rusage ru_minflt: 10826
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 144
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.121957
+Child rusage ru_stime: 0.025795
+Child rusage ru_maxrss: 76276
+Child rusage ru_minflt: 19502
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1312
+Child rusage ru_nvcsw: 297
+Child rusage ru_nivcsw: 121
+Status: PASSED 
+Ended: 1735186207.35 

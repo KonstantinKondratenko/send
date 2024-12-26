@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735177212.75 
+libseccomp-2.5.5-r0: do_install_ptest_base
+Elapsed time: 9.86 seconds
+utime: 25
+stime: 3
+cutime: 50
+cstime: 38
+IO rchar: 29875126
+IO wchar: 27046018
+IO syscr: 9033
+IO syscw: 475
+IO read_bytes: 577536
+IO write_bytes: 27652096
+IO cancelled_write_bytes: 294912
+rusage ru_utime: 0.258281
+rusage ru_stime: 0.033326
+rusage ru_maxrss: 57760
+rusage ru_minflt: 16982
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 309
+Child rusage ru_utime: 0.508679
+Child rusage ru_stime: 0.38914299999999996
+Child rusage ru_maxrss: 55864
+Child rusage ru_minflt: 71014
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1128
+Child rusage ru_oublock: 53944
+Child rusage ru_nvcsw: 2888
+Child rusage ru_nivcsw: 2355
+Status: PASSED 
+Ended: 1735177222.61 

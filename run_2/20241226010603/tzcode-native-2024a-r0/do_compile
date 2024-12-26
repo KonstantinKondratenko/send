@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175663.52 
+tzcode-native-2024a-r0: do_compile
+Elapsed time: 1.91 seconds
+utime: 18
+stime: 3
+cutime: 370
+cstime: 28
+IO rchar: 11572742
+IO wchar: 3226906
+IO syscr: 3827
+IO syscw: 1108
+IO read_bytes: 1163264
+IO write_bytes: 2932736
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.180344
+rusage ru_stime: 0.032061
+rusage ru_maxrss: 85092
+rusage ru_minflt: 6773
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 56
+rusage ru_nvcsw: 40
+rusage ru_nivcsw: 27
+Child rusage ru_utime: 3.70879
+Child rusage ru_stime: 0.286635
+Child rusage ru_maxrss: 82356
+Child rusage ru_minflt: 50183
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2272
+Child rusage ru_oublock: 5672
+Child rusage ru_nvcsw: 266
+Child rusage ru_nivcsw: 535
+Status: PASSED 
+Ended: 1735175665.43 

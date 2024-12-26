@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185886.48 
+linux-libc-headers-6.6-r0: do_install
+Elapsed time: 6.26 seconds
+utime: 23
+stime: 6
+cutime: 1143
+cstime: 662
+IO rchar: 117236898
+IO wchar: 26284283
+IO syscr: 269116
+IO syscw: 11445
+IO read_bytes: 942080
+IO write_bytes: 31248384
+IO cancelled_write_bytes: 8867840
+rusage ru_utime: 0.23416599999999999
+rusage ru_stime: 0.06573
+rusage ru_maxrss: 78004
+rusage ru_minflt: 16100
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 240
+rusage ru_nvcsw: 2190
+rusage ru_nivcsw: 250
+Child rusage ru_utime: 11.43157
+Child rusage ru_stime: 6.624683
+Child rusage ru_maxrss: 75932
+Child rusage ru_minflt: 2344446
+Child rusage ru_majflt: 274
+Child rusage ru_inblock: 1840
+Child rusage ru_oublock: 60792
+Child rusage ru_nvcsw: 85613
+Child rusage ru_nivcsw: 20481
+Status: PASSED 
+Ended: 1735185892.75 

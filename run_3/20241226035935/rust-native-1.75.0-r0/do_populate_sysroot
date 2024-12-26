@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188917.59 
+rust-native-1.75.0-r0: do_populate_sysroot
+Elapsed time: 15.91 seconds
+utime: 226
+stime: 46
+cutime: 969
+cstime: 113
+IO rchar: 1249915176
+IO wchar: 734118022
+IO syscr: 101876
+IO syscw: 30453
+IO read_bytes: 1372160
+IO write_bytes: 467410944
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 2.263363
+rusage ru_stime: 0.468783
+rusage ru_maxrss: 62804
+rusage ru_minflt: 45944
+rusage ru_majflt: 8
+rusage ru_inblock: 1928
+rusage ru_oublock: 426920
+rusage ru_nvcsw: 274
+rusage ru_nivcsw: 436
+Child rusage ru_utime: 9.693918
+Child rusage ru_stime: 1.13417
+Child rusage ru_maxrss: 364472
+Child rusage ru_minflt: 220863
+Child rusage ru_majflt: 23
+Child rusage ru_inblock: 752
+Child rusage ru_oublock: 485992
+Child rusage ru_nvcsw: 7292
+Child rusage ru_nivcsw: 2456
+Status: PASSED 
+Ended: 1735188933.50 

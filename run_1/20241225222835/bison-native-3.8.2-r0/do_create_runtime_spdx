@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166345.28 
+bison-native-3.8.2-r0: do_create_runtime_spdx
+Elapsed time: 0.52 seconds
+utime: 34
+stime: 5
+cutime: 3
+cstime: 3
+IO rchar: 1006292
+IO wchar: 346282
+IO syscr: 368
+IO syscw: 112
+IO read_bytes: 4096
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.34541
+rusage ru_stime: 0.052562
+rusage ru_maxrss: 87684
+rusage ru_minflt: 21303
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 254
+Child rusage ru_utime: 0.034168
+Child rusage ru_stime: 0.032355999999999996
+Child rusage ru_maxrss: 85012
+Child rusage ru_minflt: 4631
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 67
+Child rusage ru_nivcsw: 37
+Status: PASSED 
+Ended: 1735166345.80 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175412.16 
+go-runtime-1.22.2-r0: do_patch
+Elapsed time: 1.02 seconds
+utime: 16
+stime: 7
+cutime: 44
+cstime: 10
+IO rchar: 4664775
+IO wchar: 1478247
+IO syscr: 5853
+IO syscw: 818
+IO read_bytes: 1155072
+IO write_bytes: 1482752
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.166519
+rusage ru_stime: 0.079224
+rusage ru_maxrss: 81048
+rusage ru_minflt: 15365
+rusage ru_majflt: 0
+rusage ru_inblock: 632
+rusage ru_oublock: 176
+rusage ru_nvcsw: 64
+rusage ru_nivcsw: 33
+Child rusage ru_utime: 0.440953
+Child rusage ru_stime: 0.10908599999999999
+Child rusage ru_maxrss: 74836
+Child rusage ru_minflt: 86392
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 1624
+Child rusage ru_oublock: 2720
+Child rusage ru_nvcsw: 1388
+Child rusage ru_nivcsw: 424
+Status: PASSED 
+Ended: 1735175413.19 

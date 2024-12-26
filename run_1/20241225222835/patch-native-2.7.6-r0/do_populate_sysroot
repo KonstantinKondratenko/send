@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165864.14 
+patch-native-2.7.6-r0: do_populate_sysroot
+Elapsed time: 0.41 seconds
+utime: 36
+stime: 7
+cutime: 8
+cstime: 6
+IO rchar: 2773941
+IO wchar: 970647
+IO syscr: 1232
+IO syscw: 243
+IO read_bytes: 0
+IO write_bytes: 724992
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.36227699999999996
+rusage ru_stime: 0.07564
+rusage ru_maxrss: 83308
+rusage ru_minflt: 33942
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 792
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 24
+Child rusage ru_utime: 0.084557
+Child rusage ru_stime: 0.062813
+Child rusage ru_maxrss: 81504
+Child rusage ru_minflt: 13786
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 624
+Child rusage ru_nvcsw: 157
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1735165864.55 

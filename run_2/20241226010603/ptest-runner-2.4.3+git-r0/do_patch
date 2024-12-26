@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175405.38 
+ptest-runner-2.4.3+git-r0: do_patch
+Elapsed time: 0.14 seconds
+utime: 16
+stime: 3
+cutime: 2
+cstime: 0
+IO rchar: 1018344
+IO wchar: 630335
+IO syscr: 325
+IO syscw: 195
+IO read_bytes: 28672
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.167906
+rusage ru_stime: 0.031982
+rusage ru_maxrss: 81228
+rusage ru_minflt: 8922
+rusage ru_majflt: 0
+rusage ru_inblock: 56
+rusage ru_oublock: 128
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 122
+Child rusage ru_utime: 0.027533
+Child rusage ru_stime: 0.007307999999999999
+Child rusage ru_maxrss: 75372
+Child rusage ru_minflt: 1263
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 13
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1735175405.52 

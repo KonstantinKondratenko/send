@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169720.05 
+c-ares-1.27.0-r0: do_install
+Elapsed time: 1.20 seconds
+utime: 39
+stime: 7
+cutime: 10
+cstime: 16
+IO rchar: 3420570
+IO wchar: 1540348
+IO syscr: 3647
+IO syscw: 652
+IO read_bytes: 1085440
+IO write_bytes: 1986560
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.39716599999999996
+rusage ru_stime: 0.077001
+rusage ru_maxrss: 57412
+rusage ru_minflt: 23084
+rusage ru_majflt: 4
+rusage ru_inblock: 792
+rusage ru_oublock: 184
+rusage ru_nvcsw: 417
+rusage ru_nivcsw: 324
+Child rusage ru_utime: 0.109458
+Child rusage ru_stime: 0.167104
+Child rusage ru_maxrss: 55388
+Child rusage ru_minflt: 2794
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1328
+Child rusage ru_oublock: 3696
+Child rusage ru_nvcsw: 962
+Child rusage ru_nivcsw: 1473
+Status: PASSED 
+Ended: 1735169721.25 

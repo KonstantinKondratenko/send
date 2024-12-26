@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186327.10 
+stressapptest-1.0.11-r0: do_populate_lic
+Elapsed time: 0.53 seconds
+utime: 25
+stime: 4
+cutime: 3
+cstime: 3
+IO rchar: 821023
+IO wchar: 183334
+IO syscr: 533
+IO syscw: 111
+IO read_bytes: 4096
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.251091
+rusage ru_stime: 0.047078999999999996
+rusage ru_maxrss: 85896
+rusage ru_minflt: 21542
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 89
+Child rusage ru_utime: 0.039166
+Child rusage ru_stime: 0.035539999999999995
+Child rusage ru_maxrss: 82688
+Child rusage ru_minflt: 5625
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 102
+Child rusage ru_nivcsw: 69
+Status: PASSED 
+Ended: 1735186327.63 

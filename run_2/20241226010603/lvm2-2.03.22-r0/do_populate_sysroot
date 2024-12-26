@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184683.10 
+lvm2-2.03.22-r0: do_populate_sysroot
+Elapsed time: 3.23 seconds
+utime: 58
+stime: 12
+cutime: 33
+cstime: 16
+IO rchar: 30521436
+IO wchar: 21128320
+IO syscr: 6167
+IO syscw: 1096
+IO read_bytes: 12566528
+IO write_bytes: 18329600
+IO cancelled_write_bytes: 3158016
+rusage ru_utime: 0.586527
+rusage ru_stime: 0.12149499999999999
+rusage ru_maxrss: 64052
+rusage ru_minflt: 39150
+rusage ru_majflt: 22
+rusage ru_inblock: 17512
+rusage ru_oublock: 21408
+rusage ru_nvcsw: 323
+rusage ru_nivcsw: 107
+Child rusage ru_utime: 0.332318
+Child rusage ru_stime: 0.1633
+Child rusage ru_maxrss: 61656
+Child rusage ru_minflt: 39377
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 7032
+Child rusage ru_oublock: 14392
+Child rusage ru_nvcsw: 358
+Child rusage ru_nivcsw: 218
+Status: PASSED 
+Ended: 1735184686.32 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186411.71 
+unfs3-native-0.10.0-r0: do_recipe_qa
+Elapsed time: 0.48 seconds
+utime: 30
+stime: 7
+cutime: 3
+cstime: 2
+IO rchar: 792687
+IO wchar: 120069
+IO syscr: 338
+IO syscw: 103
+IO read_bytes: 8192
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.309707
+rusage ru_stime: 0.07176099999999999
+rusage ru_maxrss: 85496
+rusage ru_minflt: 18959
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 168
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 74
+Child rusage ru_utime: 0.032987999999999996
+Child rusage ru_stime: 0.024283
+Child rusage ru_maxrss: 82740
+Child rusage ru_minflt: 4390
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 67
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1735186412.19 

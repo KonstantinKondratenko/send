@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735187931.32 
+opkg-utils-0.6.3-r0: do_populate_sysroot
+Elapsed time: 1.68 seconds
+utime: 32
+stime: 6
+cutime: 9
+cstime: 3
+IO rchar: 853311
+IO wchar: 221700
+IO syscr: 750
+IO syscw: 138
+IO read_bytes: 40960
+IO write_bytes: 176128
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.32502
+rusage ru_stime: 0.06667
+rusage ru_maxrss: 62396
+rusage ru_minflt: 25372
+rusage ru_majflt: 8
+rusage ru_inblock: 80
+rusage ru_oublock: 304
+rusage ru_nvcsw: 35
+rusage ru_nivcsw: 62
+Child rusage ru_utime: 0.09762
+Child rusage ru_stime: 0.032369999999999996
+Child rusage ru_maxrss: 59468
+Child rusage ru_minflt: 9380
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 186
+Child rusage ru_nivcsw: 40
+Status: PASSED 
+Ended: 1735187933.01 

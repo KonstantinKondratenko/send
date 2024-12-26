@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735204226.54 
+librepo-native-1.17.0-r0: do_populate_sysroot
+Elapsed time: 2.32 seconds
+utime: 45
+stime: 10
+cutime: 14
+cstime: 8
+IO rchar: 4019166
+IO wchar: 1420640
+IO syscr: 1689
+IO syscw: 302
+IO read_bytes: 0
+IO write_bytes: 905216
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.45014899999999997
+rusage ru_stime: 0.10960099999999999
+rusage ru_maxrss: 86608
+rusage ru_minflt: 35395
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 912
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 94
+Child rusage ru_utime: 0.14233099999999999
+Child rusage ru_stime: 0.08919099999999999
+Child rusage ru_maxrss: 84280
+Child rusage ru_minflt: 18283
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 856
+Child rusage ru_nvcsw: 219
+Child rusage ru_nivcsw: 100
+Status: PASSED 
+Ended: 1735204228.86 

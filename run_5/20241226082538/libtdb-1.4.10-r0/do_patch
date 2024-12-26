@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202080.64 
+libtdb-1.4.10-r0: do_patch
+Elapsed time: 1.23 seconds
+utime: 6
+stime: 2
+cutime: 8
+cstime: 3
+IO rchar: 1653320
+IO wchar: 731804
+IO syscr: 1477
+IO syscw: 322
+IO read_bytes: 94208
+IO write_bytes: 765952
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.061281999999999996
+rusage ru_stime: 0.020427
+rusage ru_maxrss: 81592
+rusage ru_minflt: 10495
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 152
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.083367
+Child rusage ru_stime: 0.030614
+Child rusage ru_maxrss: 75412
+Child rusage ru_minflt: 19541
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 160
+Child rusage ru_oublock: 1344
+Child rusage ru_nvcsw: 294
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1735202081.87 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735193664.50 
+lttng-ust-2_2.13.7-r0: do_package
+Elapsed time: 7.40 seconds
+utime: 174
+stime: 87
+cutime: 409
+cstime: 135
+IO rchar: 96562057
+IO wchar: 41120376
+IO syscr: 36719
+IO syscw: 5598
+IO read_bytes: 9977856
+IO write_bytes: 26869760
+IO cancelled_write_bytes: 12455936
+rusage ru_utime: 1.748602
+rusage ru_stime: 0.874301
+rusage ru_maxrss: 61216
+rusage ru_minflt: 73907
+rusage ru_majflt: 8
+rusage ru_inblock: 6336
+rusage ru_oublock: 952
+rusage ru_nvcsw: 2228
+rusage ru_nivcsw: 6477
+Child rusage ru_utime: 4.096839
+Child rusage ru_stime: 1.3553009999999999
+Child rusage ru_maxrss: 58628
+Child rusage ru_minflt: 214926
+Child rusage ru_majflt: 10
+Child rusage ru_inblock: 13152
+Child rusage ru_oublock: 51528
+Child rusage ru_nvcsw: 7028
+Child rusage ru_nivcsw: 5918
+Status: PASSED 
+Ended: 1735193671.90 

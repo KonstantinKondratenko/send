@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166110.26 
+watchdog-5.16-r0: do_fetch
+Elapsed time: 1.57 seconds
+utime: 19
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 609798
+IO wchar: 282730
+IO syscr: 227
+IO syscw: 414
+IO read_bytes: 32768
+IO write_bytes: 278528
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.19182
+rusage ru_stime: 0.034526999999999995
+rusage ru_maxrss: 82920
+rusage ru_minflt: 6752
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 144
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 64
+Child rusage ru_utime: 0.014586
+Child rusage ru_stime: 0.006757
+Child rusage ru_maxrss: 79408
+Child rusage ru_minflt: 1011
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 400
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735166111.83 

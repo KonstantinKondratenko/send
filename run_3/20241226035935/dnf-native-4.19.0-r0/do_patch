@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186252.78 
+dnf-native-4.19.0-r0: do_patch
+Elapsed time: 0.75 seconds
+utime: 11
+stime: 3
+cutime: 26
+cstime: 6
+IO rchar: 3238071
+IO wchar: 250989
+IO syscr: 5053
+IO syscw: 475
+IO read_bytes: 0
+IO write_bytes: 253952
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.116228
+rusage ru_stime: 0.032062
+rusage ru_maxrss: 83956
+rusage ru_minflt: 14534
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.261179
+Child rusage ru_stime: 0.067865
+Child rusage ru_maxrss: 77800
+Child rusage ru_minflt: 77347
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 344
+Child rusage ru_nvcsw: 1196
+Child rusage ru_nivcsw: 63
+Status: PASSED 
+Ended: 1735186253.53 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184947.99 
+cargo-1.75.0-r0: do_configure
+Elapsed time: 0.48 seconds
+utime: 32
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 372555
+IO wchar: 77219
+IO syscr: 199
+IO syscw: 71
+IO read_bytes: 446464
+IO write_bytes: 114688
+IO cancelled_write_bytes: 32768
+rusage ru_utime: 0.325748
+rusage ru_stime: 0.03711
+rusage ru_maxrss: 63640
+rusage ru_minflt: 10969
+rusage ru_majflt: 0
+rusage ru_inblock: 872
+rusage ru_oublock: 152
+rusage ru_nvcsw: 111
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 0.017044
+Child rusage ru_stime: 0.007346999999999999
+Child rusage ru_maxrss: 60836
+Child rusage ru_minflt: 2259
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 72
+Child rusage ru_nvcsw: 20
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1735184948.46 

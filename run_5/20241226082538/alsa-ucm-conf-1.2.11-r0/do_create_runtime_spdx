@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735204195.86 
+alsa-ucm-conf-1.2.11-r0: do_create_runtime_spdx
+Elapsed time: 0.68 seconds
+utime: 20
+stime: 3
+cutime: 4
+cstime: 3
+IO rchar: 1443752
+IO wchar: 360273
+IO syscr: 580
+IO syscw: 104
+IO read_bytes: 8192
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.20687699999999998
+rusage ru_stime: 0.030810999999999998
+rusage ru_maxrss: 85796
+rusage ru_minflt: 20210
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 54
+Child rusage ru_utime: 0.04405
+Child rusage ru_stime: 0.031738999999999996
+Child rusage ru_maxrss: 82812
+Child rusage ru_minflt: 5838
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 138
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1735204196.55 

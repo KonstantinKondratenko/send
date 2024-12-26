@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186071.38 
+iperf3-3.16-r0: do_recipe_qa
+Elapsed time: 0.10 seconds
+utime: 8
+stime: 3
+cutime: 2
+cstime: 0
+IO rchar: 625906
+IO wchar: 115775
+IO syscr: 342
+IO syscw: 91
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.08196099999999999
+rusage ru_stime: 0.033528999999999996
+rusage ru_maxrss: 84380
+rusage ru_minflt: 15766
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.020871999999999998
+Child rusage ru_stime: 0.004913
+Child rusage ru_maxrss: 81556
+Child rusage ru_minflt: 4372
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 131
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1735186071.48 

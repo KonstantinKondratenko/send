@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196832.78 
+systemd-1_255.4-r0: do_fetch
+Elapsed time: 101.57 seconds
+utime: 16
+stime: 2
+cutime: 3111
+cstime: 284
+IO rchar: 678217155
+IO wchar: 733008774
+IO syscr: 722713
+IO syscw: 260026
+IO read_bytes: 4096
+IO write_bytes: 255365120
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.164637
+rusage ru_stime: 0.020076999999999998
+rusage ru_maxrss: 78844
+rusage ru_minflt: 9526
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 216
+rusage ru_nvcsw: 336
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 31.110726
+Child rusage ru_stime: 2.840851
+Child rusage ru_maxrss: 138756
+Child rusage ru_minflt: 94490
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 498544
+Child rusage ru_nvcsw: 271120
+Child rusage ru_nivcsw: 1165
+Status: PASSED 
+Ended: 1735196934.35 

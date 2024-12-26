@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735187696.10 
+linux-libc-headers-6.6-r0: do_create_runtime_spdx
+Elapsed time: 2.09 seconds
+utime: 34
+stime: 7
+cutime: 4
+cstime: 2
+IO rchar: 2386152
+IO wchar: 385123
+IO syscr: 730
+IO syscw: 116
+IO read_bytes: 905216
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.34701899999999997
+rusage ru_stime: 0.077569
+rusage ru_maxrss: 65236
+rusage ru_minflt: 25564
+rusage ru_majflt: 5
+rusage ru_inblock: 1768
+rusage ru_oublock: 200
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 64
+Child rusage ru_utime: 0.048927
+Child rusage ru_stime: 0.025585
+Child rusage ru_maxrss: 62296
+Child rusage ru_minflt: 5969
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 131
+Child rusage ru_nivcsw: 66
+Status: PASSED 
+Ended: 1735187698.18 

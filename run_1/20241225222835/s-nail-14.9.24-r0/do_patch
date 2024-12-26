@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166258.86 
+s-nail-14.9.24-r0: do_patch
+Elapsed time: 0.81 seconds
+utime: 17
+stime: 5
+cutime: 27
+cstime: 11
+IO rchar: 2250420
+IO wchar: 357305
+IO syscr: 3123
+IO syscw: 357
+IO read_bytes: 4096
+IO write_bytes: 385024
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.17441299999999998
+rusage ru_stime: 0.054262
+rusage ru_maxrss: 82880
+rusage ru_minflt: 12402
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 75
+Child rusage ru_utime: 0.279038
+Child rusage ru_stime: 0.115516
+Child rusage ru_maxrss: 77360
+Child rusage ru_minflt: 48415
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 592
+Child rusage ru_nvcsw: 762
+Child rusage ru_nivcsw: 411
+Status: PASSED 
+Ended: 1735166259.67 

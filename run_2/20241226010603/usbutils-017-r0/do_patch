@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175655.85 
+usbutils-017-r0: do_patch
+Elapsed time: 0.39 seconds
+utime: 18
+stime: 3
+cutime: 7
+cstime: 2
+IO rchar: 1419974
+IO wchar: 638581
+IO syscr: 875
+IO syscw: 250
+IO read_bytes: 4096
+IO write_bytes: 675840
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.183273
+rusage ru_stime: 0.038994
+rusage ru_maxrss: 82812
+rusage ru_minflt: 10267
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 136
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 46
+Child rusage ru_utime: 0.076586
+Child rusage ru_stime: 0.025384999999999998
+Child rusage ru_maxrss: 76656
+Child rusage ru_minflt: 9833
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1184
+Child rusage ru_nvcsw: 142
+Child rusage ru_nivcsw: 76
+Status: PASSED 
+Ended: 1735175656.23 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735183928.38 
+tcpdump-4.99.4-r0: do_install
+Elapsed time: 0.78 seconds
+utime: 29
+stime: 8
+cutime: 7
+cstime: 3
+IO rchar: 10703062
+IO wchar: 10271700
+IO syscr: 968
+IO syscw: 177
+IO read_bytes: 5439488
+IO write_bytes: 10285056
+IO cancelled_write_bytes: 5058560
+rusage ru_utime: 0.29631599999999997
+rusage ru_stime: 0.08008499999999999
+rusage ru_maxrss: 58164
+rusage ru_minflt: 22817
+rusage ru_majflt: 11
+rusage ru_inblock: 600
+rusage ru_oublock: 184
+rusage ru_nvcsw: 580
+rusage ru_nivcsw: 91
+Child rusage ru_utime: 0.077537
+Child rusage ru_stime: 0.033241
+Child rusage ru_maxrss: 56080
+Child rusage ru_minflt: 5965
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 10024
+Child rusage ru_oublock: 19904
+Child rusage ru_nvcsw: 249
+Child rusage ru_nivcsw: 115
+Status: PASSED 
+Ended: 1735183929.16 

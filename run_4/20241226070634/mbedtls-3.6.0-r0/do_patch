@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197411.54 
+mbedtls-3.6.0-r0: do_patch
+Elapsed time: 0.75 seconds
+utime: 5
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 977918
+IO wchar: 636675
+IO syscr: 326
+IO syscw: 201
+IO read_bytes: 8192
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.056408
+rusage ru_stime: 0.024175
+rusage ru_maxrss: 82500
+rusage ru_minflt: 9040
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 128
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.015191999999999999
+Child rusage ru_stime: 0.015829
+Child rusage ru_maxrss: 76256
+Child rusage ru_minflt: 1249
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 14
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735197412.29 

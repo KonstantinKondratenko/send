@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166418.27 
+grub-native-2.12-r0: do_configure
+Elapsed time: 87.61 seconds
+utime: 42
+stime: 7
+cutime: 3067
+cstime: 504
+IO rchar: 261735567
+IO wchar: 57401661
+IO syscr: 141721
+IO syscw: 44103
+IO read_bytes: 4816896
+IO write_bytes: 54661120
+IO cancelled_write_bytes: 20815872
+rusage ru_utime: 0.42797399999999997
+rusage ru_stime: 0.073367
+rusage ru_maxrss: 87492
+rusage ru_minflt: 19281
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 288
+rusage ru_nvcsw: 701
+rusage ru_nivcsw: 53
+Child rusage ru_utime: 30.674715
+Child rusage ru_stime: 5.043549
+Child rusage ru_maxrss: 107260
+Child rusage ru_minflt: 2049318
+Child rusage ru_majflt: 25
+Child rusage ru_inblock: 9368
+Child rusage ru_oublock: 106472
+Child rusage ru_nvcsw: 21415
+Child rusage ru_nivcsw: 13507
+Status: PASSED 
+Ended: 1735166505.88 

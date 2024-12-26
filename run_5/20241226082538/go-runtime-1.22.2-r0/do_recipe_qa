@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735201639.95 
+go-runtime-1.22.2-r0: do_recipe_qa
+Elapsed time: 0.06 seconds
+utime: 7
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 525366
+IO wchar: 113293
+IO syscr: 313
+IO syscw: 90
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.07482799999999999
+rusage ru_stime: 0.022448
+rusage ru_maxrss: 82128
+rusage ru_minflt: 15553
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.007911
+Child rusage ru_stime: 0.011543999999999999
+Child rusage ru_maxrss: 79248
+Child rusage ru_minflt: 4260
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 140
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735201640.01 

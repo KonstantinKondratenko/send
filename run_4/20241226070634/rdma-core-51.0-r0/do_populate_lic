@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198056.02 
+rdma-core-51.0-r0: do_populate_lic
+Elapsed time: 4.13 seconds
+utime: 16
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 883406
+IO wchar: 211259
+IO syscr: 548
+IO syscw: 120
+IO read_bytes: 28672
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.16944499999999998
+rusage ru_stime: 0.051226999999999995
+rusage ru_maxrss: 86436
+rusage ru_minflt: 21037
+rusage ru_majflt: 2
+rusage ru_inblock: 56
+rusage ru_oublock: 208
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.023458999999999997
+Child rusage ru_stime: 0.03489
+Child rusage ru_maxrss: 83244
+Child rusage ru_minflt: 5660
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 124
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1735198060.16 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197864.95 
+rpcsvc-proto-native-1.4.4-r0: do_populate_sysroot
+Elapsed time: 0.67 seconds
+utime: 51
+stime: 6
+cutime: 4
+cstime: 3
+IO rchar: 1994147
+IO wchar: 582552
+IO syscr: 1188
+IO syscw: 225
+IO read_bytes: 4096
+IO write_bytes: 442368
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.511523
+rusage ru_stime: 0.067936
+rusage ru_maxrss: 86488
+rusage ru_minflt: 33864
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 544
+rusage ru_nvcsw: 35
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 0.048899
+Child rusage ru_stime: 0.037738
+Child rusage ru_maxrss: 84656
+Child rusage ru_minflt: 13703
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 320
+Child rusage ru_nvcsw: 228
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1735197865.62 

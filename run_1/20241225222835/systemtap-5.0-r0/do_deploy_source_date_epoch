@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166276.57 
+systemtap-5.0-r0: do_deploy_source_date_epoch
+Elapsed time: 0.29 seconds
+utime: 31
+stime: 3
+cutime: 2
+cstime: 4
+IO rchar: 727690
+IO wchar: 155064
+IO syscr: 456
+IO syscw: 105
+IO read_bytes: 0
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.319438
+rusage ru_stime: 0.039929
+rusage ru_maxrss: 85604
+rusage ru_minflt: 22093
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 27
+Child rusage ru_utime: 0.024492
+Child rusage ru_stime: 0.046887
+Child rusage ru_maxrss: 82936
+Child rusage ru_minflt: 5348
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 83
+Child rusage ru_nivcsw: 30
+Status: PASSED 
+Ended: 1735166276.85 

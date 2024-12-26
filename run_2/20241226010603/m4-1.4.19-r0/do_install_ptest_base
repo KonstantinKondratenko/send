@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735183947.62 
+m4-1.4.19-r0: do_install_ptest_base
+Elapsed time: 9.76 seconds
+utime: 23
+stime: 2
+cutime: 121
+cstime: 89
+IO rchar: 26938090
+IO wchar: 21537438
+IO syscr: 20677
+IO syscw: 1364
+IO read_bytes: 23605248
+IO write_bytes: 23764992
+IO cancelled_write_bytes: 9658368
+rusage ru_utime: 0.23535099999999998
+rusage ru_stime: 0.020644
+rusage ru_maxrss: 58416
+rusage ru_minflt: 10428
+rusage ru_majflt: 6
+rusage ru_inblock: 440
+rusage ru_oublock: 72
+rusage ru_nvcsw: 64
+rusage ru_nivcsw: 294
+Child rusage ru_utime: 1.218879
+Child rusage ru_stime: 0.891767
+Child rusage ru_maxrss: 56308
+Child rusage ru_minflt: 159457
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 45664
+Child rusage ru_oublock: 46344
+Child rusage ru_nvcsw: 5207
+Child rusage ru_nivcsw: 7573
+Status: PASSED 
+Ended: 1735183957.38 

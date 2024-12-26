@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196903.88 
+go-binary-native-1.22.2-r0: do_install
+Elapsed time: 0.29 seconds
+utime: 7
+stime: 1
+cutime: 2
+cstime: 20
+IO rchar: 207836641
+IO wchar: 207471917
+IO syscr: 20716
+IO syscw: 10787
+IO read_bytes: 0
+IO write_bytes: 234311680
+IO cancelled_write_bytes: 24670208
+rusage ru_utime: 0.078303
+rusage ru_stime: 0.012362999999999999
+rusage ru_maxrss: 81796
+rusage ru_minflt: 15689
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.022827999999999998
+Child rusage ru_stime: 0.209562
+Child rusage ru_maxrss: 79044
+Child rusage ru_minflt: 3842
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 457568
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735196904.17 

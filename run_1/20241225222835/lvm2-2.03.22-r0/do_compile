@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172389.06 
+lvm2-2.03.22-r0: do_compile
+Elapsed time: 42.58 seconds
+utime: 22
+stime: 2
+cutime: 10056
+cstime: 806
+IO rchar: 555848892
+IO wchar: 178246732
+IO syscr: 135654
+IO syscw: 36579
+IO read_bytes: 8392704
+IO write_bytes: 97718272
+IO cancelled_write_bytes: 32792576
+rusage ru_utime: 0.227215
+rusage ru_stime: 0.021435
+rusage ru_maxrss: 61580
+rusage ru_minflt: 10133
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 407
+rusage ru_nivcsw: 108
+Child rusage ru_utime: 100.564447
+Child rusage ru_stime: 8.066263
+Child rusage ru_maxrss: 108196
+Child rusage ru_minflt: 1695477
+Child rusage ru_majflt: 59
+Child rusage ru_inblock: 16392
+Child rusage ru_oublock: 190720
+Child rusage ru_nvcsw: 20534
+Child rusage ru_nivcsw: 27549
+Status: PASSED 
+Ended: 1735172431.64 

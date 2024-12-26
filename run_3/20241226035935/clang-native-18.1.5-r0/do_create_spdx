@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186049.40 
+clang-native-18.1.5-r0: do_create_spdx
+Elapsed time: 3.75 seconds
+utime: 28
+stime: 2
+cutime: 5
+cstime: 3
+IO rchar: 1969242
+IO wchar: 1031374
+IO syscr: 864
+IO syscw: 283
+IO read_bytes: 16384
+IO write_bytes: 749568
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.281555
+rusage ru_stime: 0.024482999999999998
+rusage ru_maxrss: 86540
+rusage ru_minflt: 25844
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 336
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 24
+Child rusage ru_utime: 0.053785
+Child rusage ru_stime: 0.034899
+Child rusage ru_maxrss: 83628
+Child rusage ru_minflt: 6648
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1128
+Child rusage ru_nvcsw: 164
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1735186053.15 

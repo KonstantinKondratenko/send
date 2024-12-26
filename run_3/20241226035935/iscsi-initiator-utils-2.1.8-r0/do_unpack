@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186170.45 
+iscsi-initiator-utils-2.1.8-r0: do_unpack
+Elapsed time: 1.37 seconds
+utime: 12
+stime: 4
+cutime: 16
+cstime: 7
+IO rchar: 5232816
+IO wchar: 2881035
+IO syscr: 2824
+IO syscw: 928
+IO read_bytes: 65536
+IO write_bytes: 3665920
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.123342
+rusage ru_stime: 0.043532
+rusage ru_maxrss: 82344
+rusage ru_minflt: 16790
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 46
+rusage ru_nivcsw: 41
+Child rusage ru_utime: 0.16065
+Child rusage ru_stime: 0.071201
+Child rusage ru_maxrss: 78764
+Child rusage ru_minflt: 20794
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 128
+Child rusage ru_oublock: 7048
+Child rusage ru_nvcsw: 82
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1735186171.81 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191031.83 
+nlohmann-json-3.11.3-r0: do_compile_ptest_base
+Elapsed time: 0.24 seconds
+utime: 31
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 302272
+IO wchar: 20409
+IO syscr: 2207
+IO syscw: 24
+IO read_bytes: 12288
+IO write_bytes: 28672
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.31402199999999997
+rusage ru_stime: 0.023551
+rusage ru_maxrss: 61884
+rusage ru_minflt: 9410
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 56
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 67
+Child rusage ru_utime: 0.010615999999999999
+Child rusage ru_stime: 0.005307999999999999
+Child rusage ru_maxrss: 59024
+Child rusage ru_minflt: 459
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 1
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735191032.07 

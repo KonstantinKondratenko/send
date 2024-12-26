@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735182780.70 
+python3-maturin-native-1.4.0-r0: do_rust_create_wrappers
+Elapsed time: 0.19 seconds
+utime: 35
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 694775
+IO wchar: 415877
+IO syscr: 320
+IO syscw: 674
+IO read_bytes: 638976
+IO write_bytes: 102400
+IO cancelled_write_bytes: 32768
+rusage ru_utime: 0.350086
+rusage ru_stime: 0.029885
+rusage ru_maxrss: 63976
+rusage ru_minflt: 13959
+rusage ru_majflt: 18
+rusage ru_inblock: 960
+rusage ru_oublock: 72
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 228
+Child rusage ru_utime: 0.028801999999999998
+Child rusage ru_stime: 0.010860999999999999
+Child rusage ru_maxrss: 61284
+Child rusage ru_minflt: 3279
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 288
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735182780.90 

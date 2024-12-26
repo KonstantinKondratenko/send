@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186210.75 
+containerd-opencontainers-v2.0.0-beta.0+git-r0: do_patch
+Elapsed time: 3.47 seconds
+utime: 12
+stime: 2
+cutime: 14
+cstime: 2
+IO rchar: 1998441
+IO wchar: 709350
+IO syscr: 2106
+IO syscw: 357
+IO read_bytes: 0
+IO write_bytes: 737280
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.12086999999999999
+rusage ru_stime: 0.023393999999999998
+rusage ru_maxrss: 82520
+rusage ru_minflt: 11394
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 11
+Child rusage ru_utime: 0.147273
+Child rusage ru_stime: 0.02498
+Child rusage ru_maxrss: 76424
+Child rusage ru_minflt: 30199
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1296
+Child rusage ru_nvcsw: 461
+Child rusage ru_nivcsw: 168
+Status: PASSED 
+Ended: 1735186214.22 

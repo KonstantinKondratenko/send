@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202988.85 
+sed-4.9-r0: do_populate_lic
+Elapsed time: 1.91 seconds
+utime: 21
+stime: 4
+cutime: 3
+cstime: 1
+IO rchar: 1030249
+IO wchar: 250742
+IO syscr: 571
+IO syscw: 127
+IO read_bytes: 196608
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.21384499999999998
+rusage ru_stime: 0.048416999999999995
+rusage ru_maxrss: 85784
+rusage ru_minflt: 21133
+rusage ru_majflt: 2
+rusage ru_inblock: 376
+rusage ru_oublock: 216
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 18
+Child rusage ru_utime: 0.030556
+Child rusage ru_stime: 0.013576999999999999
+Child rusage ru_maxrss: 82536
+Child rusage ru_minflt: 5648
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 158
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1735202990.76 

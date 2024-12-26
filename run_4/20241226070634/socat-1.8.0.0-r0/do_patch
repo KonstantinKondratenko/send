@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197587.16 
+socat-1.8.0.0-r0: do_patch
+Elapsed time: 0.72 seconds
+utime: 8
+stime: 0
+cutime: 3
+cstime: 1
+IO rchar: 1329356
+IO wchar: 643775
+IO syscr: 854
+IO syscw: 249
+IO read_bytes: 16384
+IO write_bytes: 679936
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.083615
+rusage ru_stime: 0.00418
+rusage ru_maxrss: 82128
+rusage ru_minflt: 10177
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 136
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.033908
+Child rusage ru_stime: 0.012893
+Child rusage ru_maxrss: 76352
+Child rusage ru_minflt: 9732
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 1192
+Child rusage ru_nvcsw: 150
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1735197587.88 

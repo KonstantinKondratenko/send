@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735178098.60 
+linux-yocto-6.6.23+git-r0: do_configure
+Elapsed time: 23.05 seconds
+utime: 43
+stime: 4
+cutime: 516
+cstime: 73
+IO rchar: 21495914
+IO wchar: 1321843
+IO syscr: 18485
+IO syscw: 1413
+IO read_bytes: 651264
+IO write_bytes: 1343488
+IO cancelled_write_bytes: 290816
+rusage ru_utime: 0.43060699999999996
+rusage ru_stime: 0.040243
+rusage ru_maxrss: 68772
+rusage ru_minflt: 12708
+rusage ru_majflt: 29
+rusage ru_inblock: 592
+rusage ru_oublock: 160
+rusage ru_nvcsw: 91
+rusage ru_nivcsw: 138
+Child rusage ru_utime: 5.164987
+Child rusage ru_stime: 0.736416
+Child rusage ru_maxrss: 65832
+Child rusage ru_minflt: 251743
+Child rusage ru_majflt: 13
+Child rusage ru_inblock: 680
+Child rusage ru_oublock: 2464
+Child rusage ru_nvcsw: 2182
+Child rusage ru_nivcsw: 1469
+Status: PASSED 
+Ended: 1735178121.65 

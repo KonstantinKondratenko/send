@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202988.31 
+stress-ng-0.17.05-r0: do_populate_lic
+Elapsed time: 0.34 seconds
+utime: 13
+stime: 1
+cutime: 2
+cstime: 2
+IO rchar: 851709
+IO wchar: 203473
+IO syscr: 528
+IO syscw: 110
+IO read_bytes: 4096
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.139238
+rusage ru_stime: 0.016877
+rusage ru_maxrss: 85256
+rusage ru_minflt: 17949
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.021854
+Child rusage ru_stime: 0.023575
+Child rusage ru_maxrss: 82016
+Child rusage ru_minflt: 5645
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 155
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735202988.65 

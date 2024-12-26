@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735204127.94 
+volatile-binds-1.0-r0: do_create_spdx
+Elapsed time: 1.12 seconds
+utime: 27
+stime: 5
+cutime: 5
+cstime: 3
+IO rchar: 1055720
+IO wchar: 516759
+IO syscr: 607
+IO syscw: 157
+IO read_bytes: 4096
+IO write_bytes: 229376
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.27577799999999997
+rusage ru_stime: 0.059951
+rusage ru_maxrss: 86316
+rusage ru_minflt: 25289
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 344
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 57
+Child rusage ru_utime: 0.057586
+Child rusage ru_stime: 0.034455
+Child rusage ru_maxrss: 83292
+Child rusage ru_minflt: 6802
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 305
+Child rusage ru_nivcsw: 77
+Status: PASSED 
+Ended: 1735204129.07 

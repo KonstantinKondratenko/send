@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202211.41 
+openldap-2.6.7-r0: do_patch
+Elapsed time: 0.84 seconds
+utime: 10
+stime: 2
+cutime: 6
+cstime: 1
+IO rchar: 1824864
+IO wchar: 666398
+IO syscr: 1565
+IO syscw: 308
+IO read_bytes: 323584
+IO write_bytes: 692224
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.10939199999999999
+rusage ru_stime: 0.029450999999999998
+rusage ru_maxrss: 82260
+rusage ru_minflt: 10948
+rusage ru_majflt: 0
+rusage ru_inblock: 600
+rusage ru_oublock: 152
+rusage ru_nvcsw: 73
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.068768
+Child rusage ru_stime: 0.011791
+Child rusage ru_maxrss: 76144
+Child rusage ru_minflt: 19613
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 1200
+Child rusage ru_nvcsw: 302
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1735202212.25 

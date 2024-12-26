@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184683.10 
+net-snmp-5.9.4-r0: do_populate_sysroot
+Elapsed time: 4.18 seconds
+utime: 69
+stime: 19
+cutime: 34
+cstime: 22
+IO rchar: 39180914
+IO wchar: 23052564
+IO syscr: 6890
+IO syscw: 1445
+IO read_bytes: 21233664
+IO write_bytes: 16883712
+IO cancelled_write_bytes: 2785280
+rusage ru_utime: 0.69916
+rusage ru_stime: 0.199179
+rusage ru_maxrss: 64396
+rusage ru_minflt: 38672
+rusage ru_majflt: 6
+rusage ru_inblock: 18944
+rusage ru_oublock: 19064
+rusage ru_nvcsw: 687
+rusage ru_nivcsw: 144
+Child rusage ru_utime: 0.340151
+Child rusage ru_stime: 0.223042
+Child rusage ru_maxrss: 61940
+Child rusage ru_minflt: 32442
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 22528
+Child rusage ru_oublock: 13912
+Child rusage ru_nvcsw: 592
+Child rusage ru_nivcsw: 187
+Status: PASSED 
+Ended: 1735184687.27 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185645.34 
+nlohmann-json-3.11.3-r0: do_fetch
+Elapsed time: 124.01 seconds
+utime: 13
+stime: 4
+cutime: 2223
+cstime: 335
+IO rchar: 759563503
+IO wchar: 1032880886
+IO syscr: 384084
+IO syscw: 374568
+IO read_bytes: 8192
+IO write_bytes: 346001408
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.138159
+rusage ru_stime: 0.049024
+rusage ru_maxrss: 79336
+rusage ru_minflt: 13263
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 256
+rusage ru_nvcsw: 487
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 22.232397
+Child rusage ru_stime: 3.351658
+Child rusage ru_maxrss: 111024
+Child rusage ru_minflt: 135248
+Child rusage ru_majflt: 7
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 675528
+Child rusage ru_nvcsw: 247044
+Child rusage ru_nivcsw: 4677
+Status: PASSED 
+Ended: 1735185769.35 

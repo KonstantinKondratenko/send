@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175657.04 
+rpcsvc-proto-1.4.4-r0: do_patch
+Elapsed time: 0.95 seconds
+utime: 12
+stime: 5
+cutime: 7
+cstime: 3
+IO rchar: 1306213
+IO wchar: 638252
+IO syscr: 852
+IO syscw: 249
+IO read_bytes: 4096
+IO write_bytes: 675840
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.121913
+rusage ru_stime: 0.051719999999999995
+rusage ru_maxrss: 82780
+rusage ru_minflt: 10118
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 136
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 42
+Child rusage ru_utime: 0.076194
+Child rusage ru_stime: 0.031993
+Child rusage ru_maxrss: 76976
+Child rusage ru_minflt: 9822
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1184
+Child rusage ru_nvcsw: 146
+Child rusage ru_nivcsw: 62
+Status: PASSED 
+Ended: 1735175657.99 

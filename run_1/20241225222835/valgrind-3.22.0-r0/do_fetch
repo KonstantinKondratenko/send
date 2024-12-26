@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735165780.25 
+valgrind-3.22.0-r0: do_fetch
+Elapsed time: 4.69 seconds
+utime: 27
+stime: 1
+cutime: 4
+cstime: 1
+IO rchar: 17006492
+IO wchar: 16758461
+IO syscr: 10970
+IO syscw: 23542
+IO read_bytes: 0
+IO write_bytes: 16670720
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.274932
+rusage ru_stime: 0.016172
+rusage ru_maxrss: 94436
+rusage ru_minflt: 9281
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 192
+rusage ru_nvcsw: 1650
+rusage ru_nivcsw: 27
+Child rusage ru_utime: 0.049096
+Child rusage ru_stime: 0.018814
+Child rusage ru_maxrss: 75480
+Child rusage ru_minflt: 982
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32368
+Child rusage ru_nvcsw: 2115
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1735165784.94 

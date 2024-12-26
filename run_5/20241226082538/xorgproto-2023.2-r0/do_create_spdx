@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205076.18 
+xorgproto-2023.2-r0: do_create_spdx
+Elapsed time: 1.51 seconds
+utime: 32
+stime: 6
+cutime: 8
+cstime: 2
+IO rchar: 1611863
+IO wchar: 744413
+IO syscr: 709
+IO syscw: 190
+IO read_bytes: 32768
+IO write_bytes: 344064
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.326283
+rusage ru_stime: 0.065256
+rusage ru_maxrss: 66348
+rusage ru_minflt: 24809
+rusage ru_majflt: 2
+rusage ru_inblock: 64
+rusage ru_oublock: 544
+rusage ru_nvcsw: 43
+rusage ru_nivcsw: 114
+Child rusage ru_utime: 0.080792
+Child rusage ru_stime: 0.024416999999999998
+Child rusage ru_maxrss: 63280
+Child rusage ru_minflt: 7071
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 364
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1735205077.69 

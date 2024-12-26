@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166572.37 
+python3-native-3.12.3-r0: do_compile
+Elapsed time: 40.22 seconds
+utime: 49
+stime: 3
+cutime: 25642
+cstime: 1806
+IO rchar: 1575689736
+IO wchar: 633163254
+IO syscr: 262203
+IO syscw: 133839
+IO read_bytes: 32215040
+IO write_bytes: 316264448
+IO cancelled_write_bytes: 249856
+rusage ru_utime: 0.49872099999999997
+rusage ru_stime: 0.032956
+rusage ru_maxrss: 87908
+rusage ru_minflt: 10235
+rusage ru_majflt: 7
+rusage ru_inblock: 496
+rusage ru_oublock: 1096
+rusage ru_nvcsw: 451
+rusage ru_nivcsw: 88
+Child rusage ru_utime: 256.424471
+Child rusage ru_stime: 18.060137
+Child rusage ru_maxrss: 266212
+Child rusage ru_minflt: 4145996
+Child rusage ru_majflt: 50
+Child rusage ru_inblock: 62424
+Child rusage ru_oublock: 616608
+Child rusage ru_nvcsw: 46148
+Child rusage ru_nivcsw: 86885
+Status: PASSED 
+Ended: 1735166612.59 

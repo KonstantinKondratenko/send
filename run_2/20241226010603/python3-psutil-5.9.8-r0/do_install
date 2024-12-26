@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735183971.57 
+python3-psutil-5.9.8-r0: do_install
+Elapsed time: 1.36 seconds
+utime: 42
+stime: 5
+cutime: 44
+cstime: 9
+IO rchar: 4347579
+IO wchar: 2397645
+IO syscr: 1414
+IO syscw: 136
+IO read_bytes: 8192
+IO write_bytes: 2580480
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.427019
+rusage ru_stime: 0.055698
+rusage ru_maxrss: 58972
+rusage ru_minflt: 17265
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 160
+rusage ru_nvcsw: 65
+rusage ru_nivcsw: 373
+Child rusage ru_utime: 0.445633
+Child rusage ru_stime: 0.091872
+Child rusage ru_maxrss: 56892
+Child rusage ru_minflt: 8616
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 4880
+Child rusage ru_nvcsw: 120
+Child rusage ru_nivcsw: 618
+Status: PASSED 
+Ended: 1735183972.93 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735205054.80 
+cmocka-1.1.7+git-r0: do_compile
+Elapsed time: 3.69 seconds
+utime: 25
+stime: 2
+cutime: 602
+cstime: 78
+IO rchar: 67986155
+IO wchar: 11237110
+IO syscr: 20385
+IO syscw: 5191
+IO read_bytes: 389120
+IO write_bytes: 6901760
+IO cancelled_write_bytes: 729088
+rusage ru_utime: 0.25218
+rusage ru_stime: 0.024804
+rusage ru_maxrss: 63572
+rusage ru_minflt: 9814
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 496
+rusage ru_nvcsw: 54
+rusage ru_nivcsw: 51
+Child rusage ru_utime: 6.020488
+Child rusage ru_stime: 0.789149
+Child rusage ru_maxrss: 60864
+Child rusage ru_minflt: 215179
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 760
+Child rusage ru_oublock: 12984
+Child rusage ru_nvcsw: 1491
+Child rusage ru_nivcsw: 1735
+Status: PASSED 
+Ended: 1735205058.48 

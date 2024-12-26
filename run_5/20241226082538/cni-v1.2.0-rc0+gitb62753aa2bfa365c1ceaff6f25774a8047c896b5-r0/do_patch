@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202349.40 
+cni-v1.2.0-rc0+gitb62753aa2bfa365c1ceaff6f25774a8047c896b5-r0: do_patch
+Elapsed time: 0.23 seconds
+utime: 12
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 1023611
+IO wchar: 637830
+IO syscr: 330
+IO syscw: 200
+IO read_bytes: 4096
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.12623099999999998
+rusage ru_stime: 0.020359
+rusage ru_maxrss: 82460
+rusage ru_minflt: 9401
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.009068999999999999
+Child rusage ru_stime: 0.012452
+Child rusage ru_maxrss: 76384
+Child rusage ru_minflt: 1388
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 14
+Child rusage ru_nivcsw: 2
+Status: PASSED 
+Ended: 1735202349.64 

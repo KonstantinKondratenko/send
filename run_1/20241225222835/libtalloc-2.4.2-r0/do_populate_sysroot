@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169376.00 
+libtalloc-2.4.2-r0: do_populate_sysroot
+Elapsed time: 2.05 seconds
+utime: 41
+stime: 9
+cutime: 15
+cstime: 7
+IO rchar: 2788422
+IO wchar: 921746
+IO syscr: 1727
+IO syscw: 256
+IO read_bytes: 8192
+IO write_bytes: 716800
+IO cancelled_write_bytes: 94208
+rusage ru_utime: 0.41585099999999997
+rusage ru_stime: 0.09023099999999999
+rusage ru_maxrss: 63104
+rusage ru_minflt: 29420
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 912
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 120
+Child rusage ru_utime: 0.154536
+Child rusage ru_stime: 0.07121999999999999
+Child rusage ru_maxrss: 60856
+Child rusage ru_minflt: 20333
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 488
+Child rusage ru_nvcsw: 254
+Child rusage ru_nivcsw: 114
+Status: PASSED 
+Ended: 1735169378.06 

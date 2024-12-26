@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186244.02 
+cargo-1.75.0-r0: do_patch
+Elapsed time: 0.43 seconds
+utime: 9
+stime: 4
+cutime: 34
+cstime: 8
+IO rchar: 5682304
+IO wchar: 990283
+IO syscr: 7360
+IO syscw: 824
+IO read_bytes: 0
+IO write_bytes: 999424
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.097326
+rusage ru_stime: 0.040552
+rusage ru_maxrss: 83112
+rusage ru_minflt: 17328
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 57
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.347668
+Child rusage ru_stime: 0.0867
+Child rusage ru_maxrss: 77172
+Child rusage ru_minflt: 116885
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1776
+Child rusage ru_nvcsw: 1819
+Child rusage ru_nivcsw: 119
+Status: PASSED 
+Ended: 1735186244.45 

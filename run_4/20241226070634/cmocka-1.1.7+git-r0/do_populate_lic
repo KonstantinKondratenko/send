@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197984.33 
+cmocka-1.1.7+git-r0: do_populate_lic
+Elapsed time: 0.39 seconds
+utime: 13
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 816767
+IO wchar: 180607
+IO syscr: 529
+IO syscw: 110
+IO read_bytes: 40960
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.132549
+rusage ru_stime: 0.041421
+rusage ru_maxrss: 86432
+rusage ru_minflt: 20912
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.014835
+Child rusage ru_stime: 0.020294
+Child rusage ru_maxrss: 83240
+Child rusage ru_minflt: 5584
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 152
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1735197984.72 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184936.37 
+gcc-sanitizers-13.2.0-r0: do_configure
+Elapsed time: 66.83 seconds
+utime: 49
+stime: 15
+cutime: 783
+cstime: 220
+IO rchar: 162363370
+IO wchar: 16793730
+IO syscr: 85356
+IO syscw: 21848
+IO read_bytes: 13029376
+IO write_bytes: 17354752
+IO cancelled_write_bytes: 9957376
+rusage ru_utime: 0.491921
+rusage ru_stime: 0.157253
+rusage ru_maxrss: 62984
+rusage ru_minflt: 30367
+rusage ru_majflt: 0
+rusage ru_inblock: 6032
+rusage ru_oublock: 872
+rusage ru_nvcsw: 424
+rusage ru_nivcsw: 107
+Child rusage ru_utime: 7.835336
+Child rusage ru_stime: 2.209903
+Child rusage ru_maxrss: 60304
+Child rusage ru_minflt: 1001224
+Child rusage ru_majflt: 29
+Child rusage ru_inblock: 19416
+Child rusage ru_oublock: 33024
+Child rusage ru_nvcsw: 11909
+Child rusage ru_nivcsw: 4243
+Status: PASSED 
+Ended: 1735185003.20 

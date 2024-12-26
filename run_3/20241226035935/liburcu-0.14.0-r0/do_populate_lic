@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186307.85 
+liburcu-0.14.0-r0: do_populate_lic
+Elapsed time: 0.48 seconds
+utime: 24
+stime: 5
+cutime: 3
+cstime: 4
+IO rchar: 859823
+IO wchar: 205063
+IO syscr: 559
+IO syscw: 120
+IO read_bytes: 32768
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.247302
+rusage ru_stime: 0.051852999999999996
+rusage ru_maxrss: 85652
+rusage ru_minflt: 21458
+rusage ru_majflt: 1
+rusage ru_inblock: 64
+rusage ru_oublock: 224
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 86
+Child rusage ru_utime: 0.038362
+Child rusage ru_stime: 0.040052
+Child rusage ru_maxrss: 82460
+Child rusage ru_minflt: 5663
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 124
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1735186308.33 

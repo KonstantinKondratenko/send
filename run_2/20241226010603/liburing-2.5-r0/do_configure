@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184772.32 
+liburing-2.5-r0: do_configure
+Elapsed time: 3.89 seconds
+utime: 23
+stime: 3
+cutime: 99
+cstime: 29
+IO rchar: 16721439
+IO wchar: 231937
+IO syscr: 5997
+IO syscw: 995
+IO read_bytes: 385024
+IO write_bytes: 581632
+IO cancelled_write_bytes: 311296
+rusage ru_utime: 0.235071
+rusage ru_stime: 0.031874
+rusage ru_maxrss: 61912
+rusage ru_minflt: 10103
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 128
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 31
+Child rusage ru_utime: 0.999718
+Child rusage ru_stime: 0.29445
+Child rusage ru_maxrss: 69464
+Child rusage ru_minflt: 71939
+Child rusage ru_majflt: 7
+Child rusage ru_inblock: 736
+Child rusage ru_oublock: 1008
+Child rusage ru_nvcsw: 324
+Child rusage ru_nivcsw: 207
+Status: PASSED 
+Ended: 1735184776.21 

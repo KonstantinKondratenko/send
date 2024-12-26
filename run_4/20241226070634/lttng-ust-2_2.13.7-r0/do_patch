@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197468.26 
+lttng-ust-2_2.13.7-r0: do_patch
+Elapsed time: 2.37 seconds
+utime: 11
+stime: 1
+cutime: 10
+cstime: 3
+IO rchar: 2827919
+IO wchar: 668758
+IO syscr: 2283
+IO syscw: 351
+IO read_bytes: 991232
+IO write_bytes: 696320
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.11995299999999999
+rusage ru_stime: 0.019347
+rusage ru_maxrss: 82040
+rusage ru_minflt: 11376
+rusage ru_majflt: 0
+rusage ru_inblock: 1880
+rusage ru_oublock: 144
+rusage ru_nvcsw: 115
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.106997
+Child rusage ru_stime: 0.037584
+Child rusage ru_maxrss: 76072
+Child rusage ru_minflt: 29371
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 1216
+Child rusage ru_nvcsw: 461
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1735197470.62 

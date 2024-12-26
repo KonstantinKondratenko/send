@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185711.30 
+libtraceevent-1.7.3-r0: do_recipe_qa
+Elapsed time: 0.15 seconds
+utime: 20
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 586202
+IO wchar: 119175
+IO syscr: 340
+IO syscw: 95
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.20282699999999998
+rusage ru_stime: 0.023861999999999998
+rusage ru_maxrss: 82020
+rusage ru_minflt: 15833
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 0.025962
+Child rusage ru_stime: 0.01596
+Child rusage ru_maxrss: 79208
+Child rusage ru_minflt: 4384
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 130
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1735185711.45 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197513.30 
+rust-1.75.0-r0: do_unpack
+Elapsed time: 817.83 seconds
+utime: 60
+stime: 46
+cutime: 1572
+cstime: 541
+IO rchar: 2992710035
+IO wchar: 5309321459
+IO syscr: 458255
+IO syscw: 779672
+IO read_bytes: 42889216
+IO write_bytes: 3030048768
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.605719
+rusage ru_stime: 0.466244
+rusage ru_maxrss: 82192
+rusage ru_minflt: 17437
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 192
+rusage ru_nvcsw: 46
+rusage ru_nivcsw: 72
+Child rusage ru_utime: 15.721669
+Child rusage ru_stime: 5.411627
+Child rusage ru_maxrss: 78028
+Child rusage ru_minflt: 70535
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 83744
+Child rusage ru_oublock: 5917872
+Child rusage ru_nvcsw: 217949
+Child rusage ru_nivcsw: 8251
+Status: PASSED 
+Ended: 1735198331.13 

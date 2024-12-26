@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735170849.94 
+libbsd-0.12.1-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.95 seconds
+utime: 27
+stime: 6
+cutime: 3
+cstime: 1
+IO rchar: 1812768
+IO wchar: 1054876
+IO syscr: 558
+IO syscw: 299
+IO read_bytes: 405504
+IO write_bytes: 1105920
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.279796
+rusage ru_stime: 0.060825
+rusage ru_maxrss: 59464
+rusage ru_minflt: 9968
+rusage ru_majflt: 0
+rusage ru_inblock: 784
+rusage ru_oublock: 160
+rusage ru_nvcsw: 43
+rusage ru_nivcsw: 268
+Child rusage ru_utime: 0.035244
+Child rusage ru_stime: 0.010839999999999999
+Child rusage ru_maxrss: 54756
+Child rusage ru_minflt: 1541
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 2000
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1735170852.89 

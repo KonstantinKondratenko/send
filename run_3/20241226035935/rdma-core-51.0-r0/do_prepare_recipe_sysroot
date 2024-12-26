@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196066.06 
+rdma-core-51.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 13.98 seconds
+utime: 28
+stime: 18
+cutime: 3
+cstime: 1
+IO rchar: 3664119
+IO wchar: 1986002
+IO syscr: 952
+IO syscw: 533
+IO read_bytes: 552960
+IO write_bytes: 2052096
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.28740499999999997
+rusage ru_stime: 0.183939
+rusage ru_maxrss: 62032
+rusage ru_minflt: 9413
+rusage ru_majflt: 5
+rusage ru_inblock: 1072
+rusage ru_oublock: 152
+rusage ru_nvcsw: 47
+rusage ru_nivcsw: 144
+Child rusage ru_utime: 0.036878
+Child rusage ru_stime: 0.01452
+Child rusage ru_maxrss: 57456
+Child rusage ru_minflt: 1614
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 3856
+Child rusage ru_nvcsw: 38
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735196080.04 

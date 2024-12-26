@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175501.30 
+net-tools-2.10-r0: do_fetch
+Elapsed time: 4.51 seconds
+utime: 10
+stime: 1
+cutime: 25
+cstime: 4
+IO rchar: 7046861
+IO wchar: 3495361
+IO syscr: 6360
+IO syscw: 1302
+IO read_bytes: 0
+IO write_bytes: 1380352
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.102306
+rusage ru_stime: 0.012275999999999999
+rusage ru_maxrss: 82548
+rusage ru_minflt: 9192
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 167
+rusage ru_nivcsw: 19
+Child rusage ru_utime: 0.250685
+Child rusage ru_stime: 0.045604
+Child rusage ru_maxrss: 78840
+Child rusage ru_minflt: 14575
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2536
+Child rusage ru_nvcsw: 1000
+Child rusage ru_nivcsw: 66
+Status: PASSED 
+Ended: 1735175505.81 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735191003.75 
+valgrind-3.22.0-r0: do_compile_ptest_base
+Elapsed time: 61.49 seconds
+utime: 45
+stime: 5
+cutime: 8631
+cstime: 1655
+IO rchar: 1213044479
+IO wchar: 127834005
+IO syscr: 365793
+IO syscw: 68642
+IO read_bytes: 7110656
+IO write_bytes: 134078464
+IO cancelled_write_bytes: 3051520
+rusage ru_utime: 0.458783
+rusage ru_stime: 0.053973999999999994
+rusage ru_maxrss: 64316
+rusage ru_minflt: 11040
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 4776
+rusage ru_nvcsw: 1559
+rusage ru_nivcsw: 77
+Child rusage ru_utime: 86.312998
+Child rusage ru_stime: 16.556786
+Child rusage ru_maxrss: 223480
+Child rusage ru_minflt: 4059758
+Child rusage ru_majflt: 129
+Child rusage ru_inblock: 13888
+Child rusage ru_oublock: 257096
+Child rusage ru_nvcsw: 14407
+Child rusage ru_nivcsw: 21388
+Status: PASSED 
+Ended: 1735191065.24 

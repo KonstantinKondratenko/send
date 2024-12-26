@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185882.79 
+base-files-3.0.14-r0: do_install
+Elapsed time: 0.87 seconds
+utime: 17
+stime: 6
+cutime: 7
+cstime: 10
+IO rchar: 1006202
+IO wchar: 84502
+IO syscr: 2225
+IO syscw: 69
+IO read_bytes: 40960
+IO write_bytes: 143360
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.171172
+rusage ru_stime: 0.062243999999999994
+rusage ru_maxrss: 77824
+rusage ru_minflt: 16011
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 460
+rusage ru_nivcsw: 17
+Child rusage ru_utime: 0.072675
+Child rusage ru_stime: 0.101751
+Child rusage ru_maxrss: 75820
+Child rusage ru_minflt: 21369
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 80
+Child rusage ru_oublock: 120
+Child rusage ru_nvcsw: 950
+Child rusage ru_nivcsw: 149
+Status: PASSED 
+Ended: 1735185883.65 

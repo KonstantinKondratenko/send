@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735187126.11 
+kmod-native-31-r0: do_install
+Elapsed time: 4.28 seconds
+utime: 31
+stime: 4
+cutime: 57
+cstime: 10
+IO rchar: 7365706
+IO wchar: 403954
+IO syscr: 3157
+IO syscw: 254
+IO read_bytes: 8192
+IO write_bytes: 405504
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.31768399999999997
+rusage ru_stime: 0.049165
+rusage ru_maxrss: 86624
+rusage ru_minflt: 17140
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 138
+Child rusage ru_utime: 0.5752039999999999
+Child rusage ru_stime: 0.10269099999999999
+Child rusage ru_maxrss: 83916
+Child rusage ru_minflt: 39216
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 664
+Child rusage ru_nvcsw: 424
+Child rusage ru_nivcsw: 186
+Status: PASSED 
+Ended: 1735187130.39 

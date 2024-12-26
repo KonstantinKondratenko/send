@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735189218.52 
+file-5.45-r0: do_install
+Elapsed time: 3.00 seconds
+utime: 32
+stime: 4
+cutime: 45
+cstime: 15
+IO rchar: 11599173
+IO wchar: 9478942
+IO syscr: 4073
+IO syscw: 487
+IO read_bytes: 16384
+IO write_bytes: 9490432
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.32653099999999996
+rusage ru_stime: 0.041332999999999995
+rusage ru_maxrss: 58372
+rusage ru_minflt: 16270
+rusage ru_majflt: 4
+rusage ru_inblock: 32
+rusage ru_oublock: 200
+rusage ru_nvcsw: 204
+rusage ru_nivcsw: 287
+Child rusage ru_utime: 0.45133799999999996
+Child rusage ru_stime: 0.15445699999999998
+Child rusage ru_maxrss: 56452
+Child rusage ru_minflt: 51663
+Child rusage ru_majflt: 5
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 18336
+Child rusage ru_nvcsw: 1032
+Child rusage ru_nivcsw: 793
+Status: PASSED 
+Ended: 1735189221.53 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195874.94 
+conntrack-tools-1.4.8-r0: do_compile
+Elapsed time: 5.81 seconds
+utime: 15
+stime: 0
+cutime: 1562
+cstime: 313
+IO rchar: 121129955
+IO wchar: 16377078
+IO syscr: 46768
+IO syscw: 8353
+IO read_bytes: 1335296
+IO write_bytes: 6070272
+IO cancelled_write_bytes: 630784
+rusage ru_utime: 0.152884
+rusage ru_stime: 0.008263999999999999
+rusage ru_maxrss: 61448
+rusage ru_minflt: 10148
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 776
+rusage ru_nvcsw: 182
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 15.622209999999999
+Child rusage ru_stime: 3.131134
+Child rusage ru_maxrss: 60976
+Child rusage ru_minflt: 761887
+Child rusage ru_majflt: 15
+Child rusage ru_inblock: 2608
+Child rusage ru_oublock: 11080
+Child rusage ru_nvcsw: 7866
+Child rusage ru_nivcsw: 5174
+Status: PASSED 
+Ended: 1735195880.75 

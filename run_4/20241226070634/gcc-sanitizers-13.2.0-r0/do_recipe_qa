@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197841.81 
+gcc-sanitizers-13.2.0-r0: do_recipe_qa
+Elapsed time: 0.10 seconds
+utime: 10
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 677601
+IO wchar: 120699
+IO syscr: 366
+IO syscw: 96
+IO read_bytes: 0
+IO write_bytes: 94208
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.10234299999999999
+rusage ru_stime: 0.027552999999999998
+rusage ru_maxrss: 85144
+rusage ru_minflt: 15918
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.015238999999999999
+Child rusage ru_stime: 0.009972
+Child rusage ru_maxrss: 82276
+Child rusage ru_minflt: 4380
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 115
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1735197841.91 

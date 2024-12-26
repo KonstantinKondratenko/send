@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735188306.32 
+xtrans-1_1.5.0-r0: do_install
+Elapsed time: 1.26 seconds
+utime: 35
+stime: 5
+cutime: 12
+cstime: 5
+IO rchar: 1091554
+IO wchar: 313904
+IO syscr: 1860
+IO syscw: 157
+IO read_bytes: 241664
+IO write_bytes: 339968
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.35655699999999996
+rusage ru_stime: 0.059426
+rusage ru_maxrss: 57416
+rusage ru_minflt: 17051
+rusage ru_majflt: 4
+rusage ru_inblock: 32
+rusage ru_oublock: 192
+rusage ru_nvcsw: 78
+rusage ru_nivcsw: 345
+Child rusage ru_utime: 0.12459999999999999
+Child rusage ru_stime: 0.058363
+Child rusage ru_maxrss: 55524
+Child rusage ru_minflt: 13583
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 440
+Child rusage ru_oublock: 472
+Child rusage ru_nvcsw: 222
+Child rusage ru_nivcsw: 359
+Status: PASSED 
+Ended: 1735188307.58 

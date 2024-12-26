@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202507.21 
+systemd-conf-1_1.0-r0: do_unpack
+Elapsed time: 0.03 seconds
+utime: 4
+stime: 0
+cutime: 1
+cstime: 0
+IO rchar: 366490
+IO wchar: 37616
+IO syscr: 257
+IO syscw: 78
+IO read_bytes: 12288
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.04853
+rusage ru_stime: 0.006932
+rusage ru_maxrss: 82144
+rusage ru_minflt: 9900
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 80
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.010782
+Child rusage ru_stime: 0.001044
+Child rusage ru_maxrss: 78536
+Child rusage ru_minflt: 3012
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 7
+Child rusage ru_nivcsw: 2
+Status: PASSED 
+Ended: 1735202507.24 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175477.79 
+alsa-state-0.2.0-r0: do_recipe_qa
+Elapsed time: 0.13 seconds
+utime: 13
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 593640
+IO wchar: 111254
+IO syscr: 331
+IO syscw: 86
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.131918
+rusage ru_stime: 0.048998
+rusage ru_maxrss: 84364
+rusage ru_minflt: 15690
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.025821999999999998
+Child rusage ru_stime: 0.011696
+Child rusage ru_maxrss: 81516
+Child rusage ru_minflt: 4370
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 70
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1735175477.93 

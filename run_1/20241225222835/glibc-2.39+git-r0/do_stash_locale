@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166724.91 
+glibc-2.39+git-r0: do_stash_locale
+Elapsed time: 2.74 seconds
+utime: 50
+stime: 7
+cutime: 255
+cstime: 44
+IO rchar: 394726385
+IO wchar: 239774205
+IO syscr: 40452
+IO syscw: 12849
+IO read_bytes: 45056
+IO write_bytes: 151408640
+IO cancelled_write_bytes: 32092160
+rusage ru_utime: 0.501389
+rusage ru_stime: 0.078958
+rusage ru_maxrss: 87416
+rusage ru_minflt: 25438
+rusage ru_majflt: 0
+rusage ru_inblock: 88
+rusage ru_oublock: 704
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 87
+Child rusage ru_utime: 2.550638
+Child rusage ru_stime: 0.445445
+Child rusage ru_maxrss: 191188
+Child rusage ru_minflt: 57077
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 295016
+Child rusage ru_nvcsw: 2673
+Child rusage ru_nivcsw: 961
+Status: PASSED 
+Ended: 1735166727.65 

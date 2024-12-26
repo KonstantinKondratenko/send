@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735177629.71 
+libpam-1.5.3-r0: do_populate_sysroot
+Elapsed time: 3.22 seconds
+utime: 45
+stime: 50
+cutime: 107
+cstime: 136
+IO rchar: 22210820
+IO wchar: 6343476
+IO syscr: 15997
+IO syscw: 1959
+IO read_bytes: 8192
+IO write_bytes: 5705728
+IO cancelled_write_bytes: 1269760
+rusage ru_utime: 0.458117
+rusage ru_stime: 0.5043139999999999
+rusage ru_maxrss: 60680
+rusage ru_minflt: 83933
+rusage ru_majflt: 6
+rusage ru_inblock: 16
+rusage ru_oublock: 5736
+rusage ru_nvcsw: 31
+rusage ru_nivcsw: 263
+Child rusage ru_utime: 1.077356
+Child rusage ru_stime: 1.362599
+Child rusage ru_maxrss: 58092
+Child rusage ru_minflt: 256118
+Child rusage ru_majflt: 9
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 5408
+Child rusage ru_nvcsw: 1219
+Child rusage ru_nivcsw: 852
+Status: PASSED 
+Ended: 1735177632.93 

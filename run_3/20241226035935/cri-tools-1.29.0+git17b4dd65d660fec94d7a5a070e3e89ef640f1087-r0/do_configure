@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195831.30 
+cri-tools-1.29.0+git17b4dd65d660fec94d7a5a070e3e89ef640f1087-r0: do_configure
+Elapsed time: 0.22 seconds
+utime: 33
+stime: 3
+cutime: 0
+cstime: 0
+IO rchar: 315464
+IO wchar: 73521
+IO syscr: 68
+IO syscw: 46
+IO read_bytes: 8192
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.332238
+rusage ru_stime: 0.032413
+rusage ru_maxrss: 59952
+rusage ru_minflt: 10014
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 152
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 27
+Child rusage ru_utime: 0.005835
+Child rusage ru_stime: 0.006448
+Child rusage ru_maxrss: 57392
+Child rusage ru_minflt: 649
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 3
+Child rusage ru_nivcsw: 1
+Status: PASSED 
+Ended: 1735195831.52 

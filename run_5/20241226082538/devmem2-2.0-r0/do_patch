@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202656.12 
+devmem2-2.0-r0: do_patch
+Elapsed time: 0.21 seconds
+utime: 11
+stime: 1
+cutime: 2
+cstime: 0
+IO rchar: 999322
+IO wchar: 627989
+IO syscr: 320
+IO syscw: 191
+IO read_bytes: 0
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.114966
+rusage ru_stime: 0.019160999999999997
+rusage ru_maxrss: 82448
+rusage ru_minflt: 8898
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.023386999999999998
+Child rusage ru_stime: 0.006836
+Child rusage ru_maxrss: 76812
+Child rusage ru_minflt: 1269
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 15
+Child rusage ru_nivcsw: 3
+Status: PASSED 
+Ended: 1735202656.32 

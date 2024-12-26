@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202938.47 
+volatile-binds-1.0-r0: do_populate_lic
+Elapsed time: 1.63 seconds
+utime: 12
+stime: 4
+cutime: 3
+cstime: 1
+IO rchar: 608957
+IO wchar: 151535
+IO syscr: 500
+IO syscw: 107
+IO read_bytes: 8192
+IO write_bytes: 118784
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.128862
+rusage ru_stime: 0.04548
+rusage ru_maxrss: 84844
+rusage ru_minflt: 17612
+rusage ru_majflt: 1
+rusage ru_inblock: 16
+rusage ru_oublock: 200
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 35
+Child rusage ru_utime: 0.034138
+Child rusage ru_stime: 0.012116
+Child rusage ru_maxrss: 81604
+Child rusage ru_minflt: 5422
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 70
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1735202940.10 

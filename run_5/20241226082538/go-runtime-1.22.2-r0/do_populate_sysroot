@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735207685.71 
+go-runtime-1.22.2-r0: do_populate_sysroot
+Elapsed time: 17.29 seconds
+utime: 134
+stime: 70
+cutime: 325
+cstime: 78
+IO rchar: 319324254
+IO wchar: 112796128
+IO syscr: 80053
+IO syscw: 11188
+IO read_bytes: 87961600
+IO write_bytes: 18411520
+IO cancelled_write_bytes: 0
+rusage ru_utime: 1.342002
+rusage ru_stime: 0.709361
+rusage ru_maxrss: 61644
+rusage ru_minflt: 26258
+rusage ru_majflt: 0
+rusage ru_inblock: 171264
+rusage ru_oublock: 4184
+rusage ru_nvcsw: 6778
+rusage ru_nivcsw: 352
+Child rusage ru_utime: 3.2500109999999998
+Child rusage ru_stime: 0.783855
+Child rusage ru_maxrss: 172800
+Child rusage ru_minflt: 56679
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 536
+Child rusage ru_oublock: 31776
+Child rusage ru_nvcsw: 7879
+Child rusage ru_nivcsw: 7735
+Status: PASSED 
+Ended: 1735207703.00 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196151.48 
+compiler-rt-sanitizers-18.1.5-r0: do_configure
+Elapsed time: 87.74 seconds
+utime: 18
+stime: 3
+cutime: 2714
+cstime: 1360
+IO rchar: 372791538
+IO wchar: 95750672
+IO syscr: 157375
+IO syscw: 45421
+IO read_bytes: 41193472
+IO write_bytes: 102404096
+IO cancelled_write_bytes: 33640448
+rusage ru_utime: 0.187211
+rusage ru_stime: 0.033281
+rusage ru_maxrss: 62624
+rusage ru_minflt: 11853
+rusage ru_majflt: 0
+rusage ru_inblock: 136
+rusage ru_oublock: 216
+rusage ru_nvcsw: 555
+rusage ru_nivcsw: 23
+Child rusage ru_utime: 27.144006
+Child rusage ru_stime: 13.608523
+Child rusage ru_maxrss: 300300
+Child rusage ru_minflt: 2953124
+Child rusage ru_majflt: 124
+Child rusage ru_inblock: 80320
+Child rusage ru_oublock: 199792
+Child rusage ru_nvcsw: 12648
+Child rusage ru_nivcsw: 8103
+Status: PASSED 
+Ended: 1735196239.21 

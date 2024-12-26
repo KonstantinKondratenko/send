@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195891.33 
+cri-tools-1.29.0+git17b4dd65d660fec94d7a5a070e3e89ef640f1087-r0: do_install
+Elapsed time: 0.12 seconds
+utime: 12
+stime: 3
+cutime: 1
+cstime: 3
+IO rchar: 55745294
+IO wchar: 55411887
+IO syscr: 976
+IO syscw: 475
+IO read_bytes: 24576
+IO write_bytes: 55422976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.129498
+rusage ru_stime: 0.036420999999999995
+rusage ru_maxrss: 57716
+rusage ru_minflt: 16817
+rusage ru_majflt: 2
+rusage ru_inblock: 48
+rusage ru_oublock: 208
+rusage ru_nvcsw: 553
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.016930999999999998
+Child rusage ru_stime: 0.033361999999999996
+Child rusage ru_maxrss: 56024
+Child rusage ru_minflt: 3225
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 108040
+Child rusage ru_nvcsw: 126
+Child rusage ru_nivcsw: 1
+Status: PASSED 
+Ended: 1735195891.45 

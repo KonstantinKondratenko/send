@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198102.93 
+nasm-native-2.16.01-r0: do_create_runtime_spdx
+Elapsed time: 0.42 seconds
+utime: 25
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 1002905
+IO wchar: 345634
+IO syscr: 367
+IO syscw: 111
+IO read_bytes: 4096
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.25978799999999996
+rusage ru_stime: 0.024354999999999998
+rusage ru_maxrss: 86476
+rusage ru_minflt: 21111
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.016092
+Child rusage ru_stime: 0.018653
+Child rusage ru_maxrss: 83620
+Child rusage ru_minflt: 4610
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 63
+Child rusage ru_nivcsw: 33
+Status: PASSED 
+Ended: 1735198103.35 

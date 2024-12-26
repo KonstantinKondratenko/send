@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195882.98 
+conntrack-tools-1.4.8-r0: do_install
+Elapsed time: 5.24 seconds
+utime: 40
+stime: 8
+cutime: 38
+cstime: 28
+IO rchar: 4402089
+IO wchar: 1958853
+IO syscr: 5111
+IO syscw: 443
+IO read_bytes: 94208
+IO write_bytes: 2019328
+IO cancelled_write_bytes: 65536
+rusage ru_utime: 0.40515999999999996
+rusage ru_stime: 0.08570699999999999
+rusage ru_maxrss: 59804
+rusage ru_minflt: 17443
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 232
+rusage ru_nvcsw: 745
+rusage ru_nivcsw: 17
+Child rusage ru_utime: 0.381131
+Child rusage ru_stime: 0.285204
+Child rusage ru_maxrss: 58128
+Child rusage ru_minflt: 62329
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 168
+Child rusage ru_oublock: 3712
+Child rusage ru_nvcsw: 1789
+Child rusage ru_nivcsw: 571
+Status: PASSED 
+Ended: 1735195888.22 

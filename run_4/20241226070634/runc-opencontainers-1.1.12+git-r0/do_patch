@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197716.63 
+runc-opencontainers-1.1.12+git-r0: do_patch
+Elapsed time: 1.64 seconds
+utime: 4
+stime: 2
+cutime: 4
+cstime: 0
+IO rchar: 1307656
+IO wchar: 645894
+IO syscr: 882
+IO syscw: 250
+IO read_bytes: 0
+IO write_bytes: 684032
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.049044
+rusage ru_stime: 0.020435
+rusage ru_maxrss: 82540
+rusage ru_minflt: 10277
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.045569
+Child rusage ru_stime: 0.003047
+Child rusage ru_maxrss: 76700
+Child rusage ru_minflt: 9945
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1192
+Child rusage ru_nvcsw: 144
+Child rusage ru_nivcsw: 3
+Status: PASSED 
+Ended: 1735197718.26 

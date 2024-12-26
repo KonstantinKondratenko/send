@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184829.70 
+usbutils-017-r0: do_configure
+Elapsed time: 26.96 seconds
+utime: 42
+stime: 6
+cutime: 618
+cstime: 110
+IO rchar: 52344913
+IO wchar: 6712865
+IO syscr: 29147
+IO syscw: 13143
+IO read_bytes: 536576
+IO write_bytes: 6135808
+IO cancelled_write_bytes: 2187264
+rusage ru_utime: 0.42771
+rusage ru_stime: 0.061688999999999994
+rusage ru_maxrss: 63956
+rusage ru_minflt: 24169
+rusage ru_majflt: 0
+rusage ru_inblock: 680
+rusage ru_oublock: 280
+rusage ru_nvcsw: 191
+rusage ru_nivcsw: 81
+Child rusage ru_utime: 6.184755
+Child rusage ru_stime: 1.102846
+Child rusage ru_maxrss: 61132
+Child rusage ru_minflt: 374389
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 368
+Child rusage ru_oublock: 11704
+Child rusage ru_nvcsw: 5018
+Child rusage ru_nivcsw: 3450
+Status: PASSED 
+Ended: 1735184856.66 

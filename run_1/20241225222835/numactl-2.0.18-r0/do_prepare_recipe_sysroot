@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735169765.04 
+numactl-2.0.18-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.48 seconds
+utime: 27
+stime: 6
+cutime: 3
+cstime: 0
+IO rchar: 1821807
+IO wchar: 1052793
+IO syscr: 554
+IO syscw: 298
+IO read_bytes: 147456
+IO write_bytes: 1093632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.27938399999999997
+rusage ru_stime: 0.060735
+rusage ru_maxrss: 59472
+rusage ru_minflt: 10012
+rusage ru_majflt: 3
+rusage ru_inblock: 280
+rusage ru_oublock: 152
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 92
+Child rusage ru_utime: 0.032785
+Child rusage ru_stime: 0.004853
+Child rusage ru_maxrss: 54672
+Child rusage ru_minflt: 1548
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1984
+Child rusage ru_nvcsw: 21
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735169765.51 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735170506.95 
+make-4.4.1-r0: do_compile
+Elapsed time: 3.31 seconds
+utime: 23
+stime: 2
+cutime: 1043
+cstime: 117
+IO rchar: 45928407
+IO wchar: 9459683
+IO syscr: 12828
+IO syscw: 3082
+IO read_bytes: 1286144
+IO write_bytes: 2703360
+IO cancelled_write_bytes: 57344
+rusage ru_utime: 0.236706
+rusage ru_stime: 0.024485999999999997
+rusage ru_maxrss: 59404
+rusage ru_minflt: 9594
+rusage ru_majflt: 6
+rusage ru_inblock: 136
+rusage ru_oublock: 176
+rusage ru_nvcsw: 63
+rusage ru_nivcsw: 38
+Child rusage ru_utime: 10.435497
+Child rusage ru_stime: 1.179688
+Child rusage ru_maxrss: 57664
+Child rusage ru_minflt: 179153
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 2376
+Child rusage ru_oublock: 5104
+Child rusage ru_nvcsw: 2036
+Child rusage ru_nivcsw: 3033
+Status: PASSED 
+Ended: 1735170510.27 

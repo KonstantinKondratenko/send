@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186206.00 
+lsscsi-030-r0: do_patch
+Elapsed time: 0.28 seconds
+utime: 9
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 1077604
+IO wchar: 630507
+IO syscr: 340
+IO syscw: 195
+IO read_bytes: 0
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.09848799999999999
+rusage ru_stime: 0.020517999999999998
+rusage ru_maxrss: 82332
+rusage ru_minflt: 8966
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 19
+Child rusage ru_utime: 0.018701
+Child rusage ru_stime: 0.004497999999999999
+Child rusage ru_maxrss: 76532
+Child rusage ru_minflt: 1276
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 28
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735186206.28 

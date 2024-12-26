@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175636.33 
+ebtables-2.0.11-r0: do_patch
+Elapsed time: 1.49 seconds
+utime: 22
+stime: 6
+cutime: 10
+cstime: 3
+IO rchar: 1405678
+IO wchar: 656518
+IO syscr: 879
+IO syscw: 261
+IO read_bytes: 4096
+IO write_bytes: 684032
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.22458
+rusage ru_stime: 0.060155
+rusage ru_maxrss: 82848
+rusage ru_minflt: 10377
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 152
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 59
+Child rusage ru_utime: 0.10088799999999999
+Child rusage ru_stime: 0.035745
+Child rusage ru_maxrss: 76788
+Child rusage ru_minflt: 9973
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1184
+Child rusage ru_nvcsw: 152
+Child rusage ru_nivcsw: 48
+Status: PASSED 
+Ended: 1735175637.82 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735170678.94 
+linux-yocto-6.6.23+git-r0: do_compile_kernelmodules
+Elapsed time: 233.32 seconds
+utime: 48
+stime: 11
+cutime: 198931
+cstime: 18903
+IO rchar: 30296250878
+IO wchar: 4856149182
+IO syscr: 4208135
+IO syscw: 941779
+IO read_bytes: 467505152
+IO write_bytes: 4274057216
+IO cancelled_write_bytes: 166977536
+rusage ru_utime: 0.48228699999999997
+rusage ru_stime: 0.116918
+rusage ru_maxrss: 67876
+rusage ru_minflt: 9659
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 344
+rusage ru_nvcsw: 2771
+rusage ru_nivcsw: 76
+Child rusage ru_utime: 1989.316817
+Child rusage ru_stime: 189.036051
+Child rusage ru_maxrss: 337420
+Child rusage ru_minflt: 55263556
+Child rusage ru_majflt: 676
+Child rusage ru_inblock: 913096
+Child rusage ru_oublock: 8347424
+Child rusage ru_nvcsw: 110801
+Child rusage ru_nivcsw: 364891
+Status: PASSED 
+Ended: 1735170912.27 

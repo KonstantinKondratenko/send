@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198907.25 
+xcb-proto-native-1.16.0-r0: do_populate_sysroot
+Elapsed time: 1.39 seconds
+utime: 42
+stime: 6
+cutime: 12
+cstime: 4
+IO rchar: 5262319
+IO wchar: 1457250
+IO syscr: 1607
+IO syscw: 320
+IO read_bytes: 0
+IO write_bytes: 344064
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.42835799999999996
+rusage ru_stime: 0.06346
+rusage ru_maxrss: 87252
+rusage ru_minflt: 30237
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 368
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 78
+Child rusage ru_utime: 0.12661899999999998
+Child rusage ru_stime: 0.047488999999999996
+Child rusage ru_maxrss: 84376
+Child rusage ru_minflt: 12033
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 304
+Child rusage ru_nvcsw: 229
+Child rusage ru_nivcsw: 75
+Status: PASSED 
+Ended: 1735198908.64 

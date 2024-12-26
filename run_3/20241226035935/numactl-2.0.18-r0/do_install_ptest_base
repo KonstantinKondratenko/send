@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735193657.52 
+numactl-2.0.18-r0: do_install_ptest_base
+Elapsed time: 0.73 seconds
+utime: 18
+stime: 3
+cutime: 9
+cstime: 4
+IO rchar: 1294753
+IO wchar: 536702
+IO syscr: 1461
+IO syscw: 60
+IO read_bytes: 1970176
+IO write_bytes: 614400
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.188689
+rusage ru_stime: 0.035103999999999996
+rusage ru_maxrss: 57752
+rusage ru_minflt: 16412
+rusage ru_majflt: 2
+rusage ru_inblock: 904
+rusage ru_oublock: 72
+rusage ru_nvcsw: 70
+rusage ru_nivcsw: 248
+Child rusage ru_utime: 0.09132
+Child rusage ru_stime: 0.045971
+Child rusage ru_maxrss: 55712
+Child rusage ru_minflt: 11104
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2944
+Child rusage ru_oublock: 1128
+Child rusage ru_nvcsw: 272
+Child rusage ru_nivcsw: 384
+Status: PASSED 
+Ended: 1735193658.25 

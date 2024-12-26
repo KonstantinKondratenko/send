@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202532.35 
+stressapptest-1.0.11-r0: do_unpack
+Elapsed time: 9.50 seconds
+utime: 5
+stime: 3
+cutime: 10
+cstime: 7
+IO rchar: 4997046
+IO wchar: 966326
+IO syscr: 1868
+IO syscw: 253
+IO read_bytes: 258048
+IO write_bytes: 1208320
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.058446
+rusage ru_stime: 0.031170999999999997
+rusage ru_maxrss: 82472
+rusage ru_minflt: 12878
+rusage ru_majflt: 0
+rusage ru_inblock: 208
+rusage ru_oublock: 80
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.10267499999999999
+Child rusage ru_stime: 0.07461999999999999
+Child rusage ru_maxrss: 78856
+Child rusage ru_minflt: 16069
+Child rusage ru_majflt: 5
+Child rusage ru_inblock: 296
+Child rusage ru_oublock: 2280
+Child rusage ru_nvcsw: 74
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735202541.85 

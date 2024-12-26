@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166021.00 
+conntrack-tools-1.4.8-r0: do_recipe_qa
+Elapsed time: 0.16 seconds
+utime: 16
+stime: 5
+cutime: 2
+cstime: 2
+IO rchar: 620213
+IO wchar: 120347
+IO syscr: 349
+IO syscw: 96
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.16783199999999998
+rusage ru_stime: 0.053401
+rusage ru_maxrss: 84716
+rusage ru_minflt: 15929
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.025613999999999998
+Child rusage ru_stime: 0.026376999999999998
+Child rusage ru_maxrss: 82024
+Child rusage ru_minflt: 4389
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 83
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1735166021.16 

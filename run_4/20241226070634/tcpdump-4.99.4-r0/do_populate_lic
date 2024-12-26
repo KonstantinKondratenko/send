@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198055.09 
+tcpdump-4.99.4-r0: do_populate_lic
+Elapsed time: 0.81 seconds
+utime: 28
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 759265
+IO wchar: 163001
+IO syscr: 533
+IO syscw: 113
+IO read_bytes: 24576
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.28023
+rusage ru_stime: 0.058380999999999995
+rusage ru_maxrss: 86480
+rusage ru_minflt: 21109
+rusage ru_majflt: 1
+rusage ru_inblock: 32
+rusage ru_oublock: 208
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.026635
+Child rusage ru_stime: 0.038509
+Child rusage ru_maxrss: 83288
+Child rusage ru_minflt: 5620
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 169
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1735198055.90 

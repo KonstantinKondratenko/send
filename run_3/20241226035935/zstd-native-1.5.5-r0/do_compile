@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185619.38 
+zstd-native-1.5.5-r0: do_compile
+Elapsed time: 11.51 seconds
+utime: 9
+stime: 1
+cutime: 9654
+cstime: 356
+IO rchar: 257141260
+IO wchar: 30782787
+IO syscr: 49746
+IO syscw: 9790
+IO read_bytes: 897024
+IO write_bytes: 14811136
+IO cancelled_write_bytes: 1093632
+rusage ru_utime: 0.092572
+rusage ru_stime: 0.012074
+rusage ru_maxrss: 81416
+rusage ru_minflt: 7275
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 328
+rusage ru_nvcsw: 348
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 96.544379
+Child rusage ru_stime: 3.569037
+Child rusage ru_maxrss: 175176
+Child rusage ru_minflt: 1515250
+Child rusage ru_majflt: 42
+Child rusage ru_inblock: 1752
+Child rusage ru_oublock: 28600
+Child rusage ru_nvcsw: 6699
+Child rusage ru_nivcsw: 33889
+Status: PASSED 
+Ended: 1735185630.89 

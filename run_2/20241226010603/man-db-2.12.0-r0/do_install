@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735184497.54 
+man-db-2.12.0-r0: do_install
+Elapsed time: 17.04 seconds
+utime: 33
+stime: 5
+cutime: 201
+cstime: 57
+IO rchar: 15228139
+IO wchar: 4780618
+IO syscr: 20198
+IO syscw: 2041
+IO read_bytes: 831488
+IO write_bytes: 4927488
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.335653
+rusage ru_stime: 0.057871
+rusage ru_maxrss: 57924
+rusage ru_minflt: 17573
+rusage ru_majflt: 3
+rusage ru_inblock: 40
+rusage ru_oublock: 272
+rusage ru_nvcsw: 568
+rusage ru_nivcsw: 360
+Child rusage ru_utime: 2.010989
+Child rusage ru_stime: 0.572975
+Child rusage ru_maxrss: 55784
+Child rusage ru_minflt: 250521
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 1584
+Child rusage ru_oublock: 9352
+Child rusage ru_nvcsw: 4418
+Child rusage ru_nivcsw: 6551
+Status: PASSED 
+Ended: 1735184514.58 

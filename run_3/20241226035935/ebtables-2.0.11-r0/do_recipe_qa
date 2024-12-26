@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186040.08 
+ebtables-2.0.11-r0: do_recipe_qa
+Elapsed time: 0.12 seconds
+utime: 17
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 614778
+IO wchar: 117573
+IO syscr: 345
+IO syscw: 92
+IO read_bytes: 122880
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.173088
+rusage ru_stime: 0.03147
+rusage ru_maxrss: 84416
+rusage ru_minflt: 15786
+rusage ru_majflt: 0
+rusage ru_inblock: 240
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.016628999999999998
+Child rusage ru_stime: 0.016065
+Child rusage ru_maxrss: 81588
+Child rusage ru_minflt: 4391
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 120
+Child rusage ru_nivcsw: 9
+Status: PASSED 
+Ended: 1735186040.20 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735196097.77 
+fio-3.36+git-r0: do_prepare_recipe_sysroot
+Elapsed time: 1.82 seconds
+utime: 7
+stime: 4
+cutime: 0
+cstime: 0
+IO rchar: 872231
+IO wchar: 166414
+IO syscr: 223
+IO syscw: 67
+IO read_bytes: 397312
+IO write_bytes: 184320
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.074003
+rusage ru_stime: 0.046738999999999996
+rusage ru_maxrss: 59556
+rusage ru_minflt: 9625
+rusage ru_majflt: 1
+rusage ru_inblock: 768
+rusage ru_oublock: 152
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.00546
+Child rusage ru_stime: 0.00106
+Child rusage ru_maxrss: 54932
+Child rusage ru_minflt: 761
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 14
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735196099.59 

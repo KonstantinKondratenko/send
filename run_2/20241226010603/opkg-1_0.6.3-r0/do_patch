@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735175425.44 
+opkg-1_0.6.3-r0: do_patch
+Elapsed time: 0.28 seconds
+utime: 14
+stime: 2
+cutime: 11
+cstime: 4
+IO rchar: 1621014
+IO wchar: 697106
+IO syscr: 1496
+IO syscw: 320
+IO read_bytes: 65536
+IO write_bytes: 729088
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.143555
+rusage ru_stime: 0.024609
+rusage ru_maxrss: 81864
+rusage ru_minflt: 10708
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 152
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.111482
+Child rusage ru_stime: 0.047438999999999995
+Child rusage ru_maxrss: 75696
+Child rusage ru_minflt: 19394
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 96
+Child rusage ru_oublock: 1272
+Child rusage ru_nvcsw: 299
+Child rusage ru_nivcsw: 128
+Status: PASSED 
+Ended: 1735175425.71 

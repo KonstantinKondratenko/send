@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735209458.29 
+m4-1.4.19-r0: do_compile_ptest_base
+Elapsed time: 9.31 seconds
+utime: 26
+stime: 5
+cutime: 3520
+cstime: 714
+IO rchar: 603314402
+IO wchar: 35519616
+IO syscr: 175581
+IO syscw: 33820
+IO read_bytes: 8028160
+IO write_bytes: 19111936
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.262587
+rusage ru_stime: 0.055281
+rusage ru_maxrss: 59552
+rusage ru_minflt: 12938
+rusage ru_majflt: 2
+rusage ru_inblock: 104
+rusage ru_oublock: 1840
+rusage ru_nvcsw: 504
+rusage ru_nivcsw: 44
+Child rusage ru_utime: 35.207617
+Child rusage ru_stime: 7.143708
+Child rusage ru_maxrss: 124316
+Child rusage ru_minflt: 1589839
+Child rusage ru_majflt: 37
+Child rusage ru_inblock: 15576
+Child rusage ru_oublock: 35488
+Child rusage ru_nvcsw: 9141
+Child rusage ru_nivcsw: 11469
+Status: PASSED 
+Ended: 1735209467.60 

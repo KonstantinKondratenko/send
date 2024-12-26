@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735172195.97 
+efivar-39+39+git-r0: do_compile
+Elapsed time: 8.29 seconds
+utime: 25
+stime: 2
+cutime: 2121
+cstime: 372
+IO rchar: 151954893
+IO wchar: 14380781
+IO syscr: 40233
+IO syscw: 5327
+IO read_bytes: 1875968
+IO write_bytes: 4653056
+IO cancelled_write_bytes: 221184
+rusage ru_utime: 0.253671
+rusage ru_stime: 0.020791999999999998
+rusage ru_maxrss: 58404
+rusage ru_minflt: 9439
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 288
+rusage ru_nvcsw: 79
+rusage ru_nivcsw: 53
+Child rusage ru_utime: 21.21316
+Child rusage ru_stime: 3.72919
+Child rusage ru_maxrss: 75668
+Child rusage ru_minflt: 431158
+Child rusage ru_majflt: 8
+Child rusage ru_inblock: 3664
+Child rusage ru_oublock: 8800
+Child rusage ru_nvcsw: 3575
+Child rusage ru_nivcsw: 6657
+Status: PASSED 
+Ended: 1735172204.25 

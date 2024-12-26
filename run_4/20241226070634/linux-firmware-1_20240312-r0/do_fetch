@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197550.90 
+linux-firmware-1_20240312-r0: do_fetch
+Elapsed time: 92.44 seconds
+utime: 398
+stime: 45
+cutime: 81
+cstime: 146
+IO rchar: 372238072
+IO wchar: 371438430
+IO syscr: 222029
+IO syscw: 518073
+IO read_bytes: 4096
+IO write_bytes: 370888704
+IO cancelled_write_bytes: 0
+rusage ru_utime: 3.987003
+rusage ru_stime: 0.45297099999999996
+rusage ru_maxrss: 450036
+rusage ru_minflt: 69366
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 27610
+rusage ru_nivcsw: 200
+Child rusage ru_utime: 0.810686
+Child rusage ru_stime: 1.464322
+Child rusage ru_maxrss: 86984
+Child rusage ru_minflt: 960
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 724264
+Child rusage ru_nvcsw: 80211
+Child rusage ru_nivcsw: 662
+Status: PASSED 
+Ended: 1735197643.34 

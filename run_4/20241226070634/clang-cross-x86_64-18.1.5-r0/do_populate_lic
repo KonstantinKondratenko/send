@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735197986.22 
+clang-cross-x86_64-18.1.5-r0: do_populate_lic
+Elapsed time: 1.21 seconds
+utime: 7
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 855813
+IO wchar: 207425
+IO syscr: 540
+IO syscw: 118
+IO read_bytes: 4096
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.07095
+rusage ru_stime: 0.027590999999999997
+rusage ru_maxrss: 86248
+rusage ru_minflt: 17772
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.023344999999999998
+Child rusage ru_stime: 0.010336999999999999
+Child rusage ru_maxrss: 83044
+Child rusage ru_minflt: 5654
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 143
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1735197987.43 

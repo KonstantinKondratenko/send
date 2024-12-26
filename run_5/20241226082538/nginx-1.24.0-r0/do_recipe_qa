@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735201839.91 
+nginx-1.24.0-r0: do_recipe_qa
+Elapsed time: 0.14 seconds
+utime: 8
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 646473
+IO wchar: 118127
+IO syscr: 351
+IO syscw: 94
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.08034899999999999
+rusage ru_stime: 0.019129999999999998
+rusage ru_maxrss: 83724
+rusage ru_minflt: 15620
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.013210999999999999
+Child rusage ru_stime: 0.006392999999999999
+Child rusage ru_maxrss: 80840
+Child rusage ru_minflt: 4407
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 135
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735201840.05 

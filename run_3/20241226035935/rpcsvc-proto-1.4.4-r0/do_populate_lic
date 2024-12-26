@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186342.05 
+rpcsvc-proto-1.4.4-r0: do_populate_lic
+Elapsed time: 0.22 seconds
+utime: 18
+stime: 3
+cutime: 2
+cstime: 3
+IO rchar: 753154
+IO wchar: 160941
+IO syscr: 519
+IO syscw: 109
+IO read_bytes: 4096
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.185075
+rusage ru_stime: 0.037856
+rusage ru_maxrss: 85380
+rusage ru_minflt: 20908
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 0.023717
+Child rusage ru_stime: 0.031143999999999998
+Child rusage ru_maxrss: 82288
+Child rusage ru_minflt: 5617
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 80
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1735186342.27 

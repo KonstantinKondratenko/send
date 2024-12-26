@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202653.30 
+etcd-3.5.7-r0: do_patch
+Elapsed time: 0.38 seconds
+utime: 5
+stime: 3
+cutime: 5
+cstime: 2
+IO rchar: 2011329
+IO wchar: 1022258
+IO syscr: 1495
+IO syscw: 411
+IO read_bytes: 0
+IO write_bytes: 1056768
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.057418
+rusage ru_stime: 0.030622999999999997
+rusage ru_maxrss: 82880
+rusage ru_minflt: 10957
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.052423
+Child rusage ru_stime: 0.021755999999999998
+Child rusage ru_maxrss: 76816
+Child rusage ru_minflt: 19666
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1904
+Child rusage ru_nvcsw: 303
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735202653.68 

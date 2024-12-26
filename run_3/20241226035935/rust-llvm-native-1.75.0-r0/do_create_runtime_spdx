@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735186364.74 
+rust-llvm-native-1.75.0-r0: do_create_runtime_spdx
+Elapsed time: 0.69 seconds
+utime: 32
+stime: 4
+cutime: 5
+cstime: 1
+IO rchar: 995144
+IO wchar: 343515
+IO syscr: 365
+IO syscw: 109
+IO read_bytes: 0
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.324491
+rusage ru_stime: 0.045760999999999996
+rusage ru_maxrss: 85820
+rusage ru_minflt: 21495
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 103
+Child rusage ru_utime: 0.051992
+Child rusage ru_stime: 0.012314
+Child rusage ru_maxrss: 82980
+Child rusage ru_minflt: 4621
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 74
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1735186365.42 

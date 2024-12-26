@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735167598.83 
+xorgproto-2023.2-r0: do_populate_sysroot
+Elapsed time: 1.49 seconds
+utime: 34
+stime: 7
+cutime: 13
+cstime: 2
+IO rchar: 5026208
+IO wchar: 1744760
+IO syscr: 2517
+IO syscw: 315
+IO read_bytes: 16384
+IO write_bytes: 393216
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.348472
+rusage ru_stime: 0.07137299999999999
+rusage ru_maxrss: 63388
+rusage ru_minflt: 25835
+rusage ru_majflt: 1
+rusage ru_inblock: 32
+rusage ru_oublock: 376
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 160
+Child rusage ru_utime: 0.13600099999999998
+Child rusage ru_stime: 0.028978999999999998
+Child rusage ru_maxrss: 60676
+Child rusage ru_minflt: 13595
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 392
+Child rusage ru_nvcsw: 251
+Child rusage ru_nivcsw: 92
+Status: PASSED 
+Ended: 1735167600.33 

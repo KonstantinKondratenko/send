@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735198054.98 
+xfsprogs-6.6.0-r0: do_populate_lic
+Elapsed time: 0.92 seconds
+utime: 20
+stime: 4
+cutime: 3
+cstime: 3
+IO rchar: 1064473
+IO wchar: 269554
+IO syscr: 563
+IO syscw: 124
+IO read_bytes: 53248
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.209167
+rusage ru_stime: 0.044246
+rusage ru_maxrss: 86360
+rusage ru_minflt: 21016
+rusage ru_majflt: 2
+rusage ru_inblock: 104
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 15
+Child rusage ru_utime: 0.031977
+Child rusage ru_stime: 0.036545999999999995
+Child rusage ru_maxrss: 83168
+Child rusage ru_minflt: 5699
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 150
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1735198055.90 

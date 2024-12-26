@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735166294.09 
+systemd-serialgetty-1.0-r0: do_populate_lic
+Elapsed time: 0.19 seconds
+utime: 21
+stime: 6
+cutime: 2
+cstime: 4
+IO rchar: 713805
+IO wchar: 193797
+IO syscr: 505
+IO syscw: 109
+IO read_bytes: 0
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.211693
+rusage ru_stime: 0.061064999999999994
+rusage ru_maxrss: 86684
+rusage ru_minflt: 18020
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 208
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 0.023004
+Child rusage ru_stime: 0.043322
+Child rusage ru_maxrss: 83664
+Child rusage ru_minflt: 5612
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 77
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735166294.28 

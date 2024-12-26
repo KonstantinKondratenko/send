@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735185992.21 
+mdadm-4.2-r0: do_patch
+Elapsed time: 2.40 seconds
+utime: 12
+stime: 6
+cutime: 96
+cstime: 33
+IO rchar: 10275826
+IO wchar: 1402392
+IO syscr: 17059
+IO syscw: 1659
+IO read_bytes: 679936
+IO write_bytes: 1368064
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.127961
+rusage ru_stime: 0.061916
+rusage ru_maxrss: 81768
+rusage ru_minflt: 25289
+rusage ru_majflt: 0
+rusage ru_inblock: 72
+rusage ru_oublock: 232
+rusage ru_nvcsw: 127
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.9638749999999999
+Child rusage ru_stime: 0.332561
+Child rusage ru_maxrss: 75648
+Child rusage ru_minflt: 259169
+Child rusage ru_majflt: 11
+Child rusage ru_inblock: 1256
+Child rusage ru_oublock: 2440
+Child rusage ru_nvcsw: 4132
+Child rusage ru_nivcsw: 341
+Status: PASSED 
+Ended: 1735185994.61 

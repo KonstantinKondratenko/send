@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735202940.05 
+systemd-conf-1_1.0-r0: do_populate_lic
+Elapsed time: 0.14 seconds
+utime: 11
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 600026
+IO wchar: 156732
+IO syscr: 496
+IO syscw: 106
+IO read_bytes: 4096
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.11964999999999999
+rusage ru_stime: 0.035894999999999996
+rusage ru_maxrss: 84860
+rusage ru_minflt: 17895
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 47
+Child rusage ru_utime: 0.023552
+Child rusage ru_stime: 0.019719999999999998
+Child rusage ru_maxrss: 81616
+Child rusage ru_minflt: 5556
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 80
+Child rusage ru_nivcsw: 64
+Status: PASSED 
+Ended: 1735202940.19 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735195891.56 
+cri-tools-1.29.0+git17b4dd65d660fec94d7a5a070e3e89ef640f1087-r0: do_package
+Elapsed time: 20.84 seconds
+utime: 897
+stime: 108
+cutime: 204
+cstime: 68
+IO rchar: 674514010
+IO wchar: 397319365
+IO syscr: 67179
+IO syscw: 31930
+IO read_bytes: 413696
+IO write_bytes: 284401664
+IO cancelled_write_bytes: 149745664
+rusage ru_utime: 8.970181
+rusage ru_stime: 1.084263
+rusage ru_maxrss: 59972
+rusage ru_minflt: 42565
+rusage ru_majflt: 2
+rusage ru_inblock: 808
+rusage ru_oublock: 1000
+rusage ru_nvcsw: 1720
+rusage ru_nivcsw: 156
+Child rusage ru_utime: 2.041057
+Child rusage ru_stime: 0.6840959999999999
+Child rusage ru_maxrss: 144052
+Child rusage ru_minflt: 163970
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 554472
+Child rusage ru_nvcsw: 8516
+Child rusage ru_nivcsw: 5893
+Status: PASSED 
+Ended: 1735195912.39 
