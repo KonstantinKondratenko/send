@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235161.58 
+lzip-native-1.24-r0: do_configure
+Elapsed time: 0.06 seconds
+utime: 8
+stime: 1
+cutime: 2
+cstime: 0
+IO rchar: 693311
+IO wchar: 82064
+IO syscr: 512
+IO syscw: 105
+IO read_bytes: 8192
+IO write_bytes: 86016
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.08298599999999999
+rusage ru_stime: 0.01886
+rusage ru_maxrss: 85820
+rusage ru_minflt: 9983
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.025525
+Child rusage ru_stime: 0.00094
+Child rusage ru_maxrss: 82908
+Child rusage ru_minflt: 6625
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 100
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1735235161.64 

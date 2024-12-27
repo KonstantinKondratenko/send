@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235315.61 
+kbd-2.6.4-r0: do_patch
+Elapsed time: 0.68 seconds
+utime: 12
+stime: 1
+cutime: 4
+cstime: 1
+IO rchar: 1320352
+IO wchar: 125064
+IO syscr: 835
+IO syscw: 126
+IO read_bytes: 16384
+IO write_bytes: 155648
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.124807
+rusage ru_stime: 0.012910999999999999
+rusage ru_maxrss: 82572
+rusage ru_minflt: 10082
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 136
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 26
+Child rusage ru_utime: 0.046402
+Child rusage ru_stime: 0.018239
+Child rusage ru_maxrss: 76748
+Child rusage ru_minflt: 9735
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 168
+Child rusage ru_nvcsw: 145
+Child rusage ru_nivcsw: 49
+Status: PASSED 
+Ended: 1735235316.29 

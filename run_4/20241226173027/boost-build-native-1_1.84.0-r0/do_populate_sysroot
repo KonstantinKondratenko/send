@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234487.02 
+boost-build-native-1_1.84.0-r0: do_populate_sysroot
+Elapsed time: 1.94 seconds
+utime: 14
+stime: 6
+cutime: 11
+cstime: 3
+IO rchar: 9878707
+IO wchar: 3215440
+IO syscr: 3413
+IO syscw: 424
+IO read_bytes: 77824
+IO write_bytes: 991232
+IO cancelled_write_bytes: 286720
+rusage ru_utime: 0.14374199999999998
+rusage ru_stime: 0.064305
+rusage ru_maxrss: 82720
+rusage ru_minflt: 31538
+rusage ru_majflt: 1
+rusage ru_inblock: 48
+rusage ru_oublock: 400
+rusage ru_nvcsw: 35
+rusage ru_nivcsw: 18
+Child rusage ru_utime: 0.118404
+Child rusage ru_stime: 0.036039999999999996
+Child rusage ru_maxrss: 80568
+Child rusage ru_minflt: 13582
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 104
+Child rusage ru_oublock: 1536
+Child rusage ru_nvcsw: 298
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1735234488.95 

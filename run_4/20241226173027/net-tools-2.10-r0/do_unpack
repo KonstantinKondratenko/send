@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235228.72 
+net-tools-2.10-r0: do_unpack
+Elapsed time: 5.79 seconds
+utime: 7
+stime: 5
+cutime: 16
+cstime: 11
+IO rchar: 5039369
+IO wchar: 1204408
+IO syscr: 1920
+IO syscw: 338
+IO read_bytes: 8192
+IO write_bytes: 1716224
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.071918
+rusage ru_stime: 0.050766
+rusage ru_maxrss: 82612
+rusage ru_minflt: 14888
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 40
+rusage ru_nivcsw: 61
+Child rusage ru_utime: 0.16237
+Child rusage ru_stime: 0.114891
+Child rusage ru_maxrss: 79004
+Child rusage ru_minflt: 18003
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 3264
+Child rusage ru_nvcsw: 73
+Child rusage ru_nivcsw: 32
+Status: PASSED 
+Ended: 1735235234.51 

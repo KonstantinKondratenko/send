@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234645.08 
+brotli-1.1.0-r0: do_patch
+Elapsed time: 4.36 seconds
+utime: 4
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 1152775
+IO wchar: 630071
+IO syscr: 369
+IO syscw: 195
+IO read_bytes: 4096
+IO write_bytes: 647168
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.048165
+rusage ru_stime: 0.02223
+rusage ru_maxrss: 81508
+rusage ru_minflt: 9028
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.017203
+Child rusage ru_stime: 0.001459
+Child rusage ru_maxrss: 75440
+Child rusage ru_minflt: 1261
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 17
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735234649.44 

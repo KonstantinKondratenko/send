@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234728.57 
+go-cross-core2-64-1.22.2-r0: do_install
+Elapsed time: 75.87 seconds
+utime: 12
+stime: 2
+cutime: 15
+cstime: 68
+IO rchar: 256539102
+IO wchar: 255225172
+IO syscr: 23095
+IO syscw: 10954
+IO read_bytes: 37318656
+IO write_bytes: 280363008
+IO cancelled_write_bytes: 24670208
+rusage ru_utime: 0.12339
+rusage ru_stime: 0.020565
+rusage ru_maxrss: 83676
+rusage ru_minflt: 15895
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 81
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.15811899999999998
+Child rusage ru_stime: 0.680914
+Child rusage ru_maxrss: 80808
+Child rusage ru_minflt: 29183
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 72888
+Child rusage ru_oublock: 547480
+Child rusage ru_nvcsw: 4437
+Child rusage ru_nivcsw: 256
+Status: PASSED 
+Ended: 1735234804.44 

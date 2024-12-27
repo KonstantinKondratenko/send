@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234526.71 
+libbpf-1.4.0-r0: do_recipe_qa
+Elapsed time: 0.55 seconds
+utime: 6
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 490960
+IO wchar: 112511
+IO syscr: 322
+IO syscw: 88
+IO read_bytes: 0
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.06819399999999999
+rusage ru_stime: 0.016045
+rusage ru_maxrss: 82664
+rusage ru_minflt: 15471
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.017858
+Child rusage ru_stime: 0.004948999999999999
+Child rusage ru_maxrss: 79820
+Child rusage ru_minflt: 4373
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 118
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735234527.26 

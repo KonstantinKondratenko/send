@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235515.98 
+go-cross-core2-64-1.22.2-r0: do_create_runtime_spdx
+Elapsed time: 0.55 seconds
+utime: 16
+stime: 3
+cutime: 3
+cstime: 0
+IO rchar: 762769
+IO wchar: 341686
+IO syscr: 343
+IO syscw: 100
+IO read_bytes: 0
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.161595
+rusage ru_stime: 0.03402
+rusage ru_maxrss: 85920
+rusage ru_minflt: 20281
+rusage ru_majflt: 1
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 33
+Child rusage ru_utime: 0.039716
+Child rusage ru_stime: 0.00363
+Child rusage ru_maxrss: 83104
+Child rusage ru_minflt: 4536
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 107
+Child rusage ru_nivcsw: 39
+Status: PASSED 
+Ended: 1735235516.53 

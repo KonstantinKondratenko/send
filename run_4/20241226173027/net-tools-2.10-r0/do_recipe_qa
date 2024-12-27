@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234983.45 
+net-tools-2.10-r0: do_recipe_qa
+Elapsed time: 0.07 seconds
+utime: 7
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 635106
+IO wchar: 113440
+IO syscr: 346
+IO syscw: 89
+IO read_bytes: 4096
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.07723
+rusage ru_stime: 0.022064999999999998
+rusage ru_maxrss: 84472
+rusage ru_minflt: 15718
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.013042
+Child rusage ru_stime: 0.006611
+Child rusage ru_maxrss: 81700
+Child rusage ru_minflt: 4345
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 127
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1735234983.53 

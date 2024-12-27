@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234543.14 
+mbedtls-3.6.0-r0: do_fetch
+Elapsed time: 190.13 seconds
+utime: 12
+stime: 4
+cutime: 3247
+cstime: 292
+IO rchar: 779488544
+IO wchar: 830282565
+IO syscr: 685948
+IO syscw: 294020
+IO read_bytes: 81920
+IO write_bytes: 286449664
+IO cancelled_write_bytes: 16384
+rusage ru_utime: 0.12852
+rusage ru_stime: 0.044487
+rusage ru_maxrss: 80656
+rusage ru_minflt: 13441
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 248
+rusage ru_nvcsw: 562
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 32.474527
+Child rusage ru_stime: 2.928362
+Child rusage ru_maxrss: 89456
+Child rusage ru_minflt: 116118
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 160
+Child rusage ru_oublock: 559224
+Child rusage ru_nvcsw: 239241
+Child rusage ru_nivcsw: 5181
+Status: PASSED 
+Ended: 1735234733.28 

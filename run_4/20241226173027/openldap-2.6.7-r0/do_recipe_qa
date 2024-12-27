@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234636.06 
+openldap-2.6.7-r0: do_recipe_qa
+Elapsed time: 0.07 seconds
+utime: 9
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 600158
+IO wchar: 120048
+IO syscr: 349
+IO syscw: 96
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.094857
+rusage ru_stime: 0.025537999999999998
+rusage ru_maxrss: 83992
+rusage ru_minflt: 15819
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.017006
+Child rusage ru_stime: 0.005755
+Child rusage ru_maxrss: 81152
+Child rusage ru_minflt: 4387
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 165
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735234636.13 

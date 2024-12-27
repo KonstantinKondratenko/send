@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234478.60 
+libldb-2.8.0-r0: do_unpack
+Elapsed time: 1.03 seconds
+utime: 5
+stime: 1
+cutime: 7
+cstime: 3
+IO rchar: 13742762
+IO wchar: 21247565
+IO syscr: 1683
+IO syscw: 2423
+IO read_bytes: 24576
+IO write_bytes: 12058624
+IO cancelled_write_bytes: 1241088
+rusage ru_utime: 0.055491
+rusage ru_stime: 0.017074
+rusage ru_maxrss: 80476
+rusage ru_minflt: 10788
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.075205
+Child rusage ru_stime: 0.039945999999999995
+Child rusage ru_maxrss: 76600
+Child rusage ru_minflt: 3929
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 23480
+Child rusage ru_nvcsw: 364
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735234479.63 

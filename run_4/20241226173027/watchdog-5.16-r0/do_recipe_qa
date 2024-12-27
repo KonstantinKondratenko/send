@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234982.38 
+watchdog-5.16-r0: do_recipe_qa
+Elapsed time: 0.11 seconds
+utime: 9
+stime: 1
+cutime: 1
+cstime: 1
+IO rchar: 650455
+IO wchar: 117653
+IO syscr: 350
+IO syscw: 92
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.09407199999999999
+rusage ru_stime: 0.015678
+rusage ru_maxrss: 84660
+rusage ru_minflt: 15800
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.011387999999999999
+Child rusage ru_stime: 0.010369999999999999
+Child rusage ru_maxrss: 81868
+Child rusage ru_minflt: 4373
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 141
+Child rusage ru_nivcsw: 9
+Status: PASSED 
+Ended: 1735234982.49 

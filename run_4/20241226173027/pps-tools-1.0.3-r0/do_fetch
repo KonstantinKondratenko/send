@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234704.87 
+pps-tools-1.0.3-r0: do_fetch
+Elapsed time: 7.68 seconds
+utime: 8
+stime: 2
+cutime: 12
+cstime: 3
+IO rchar: 4080544
+IO wchar: 257266
+IO syscr: 2293
+IO syscw: 445
+IO read_bytes: 12288
+IO write_bytes: 233472
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.081742
+rusage ru_stime: 0.022886999999999998
+rusage ru_maxrss: 81340
+rusage ru_minflt: 8825
+rusage ru_majflt: 1
+rusage ru_inblock: 24
+rusage ru_oublock: 136
+rusage ru_nvcsw: 47
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 0.127531
+Child rusage ru_stime: 0.030756
+Child rusage ru_maxrss: 77448
+Child rusage ru_minflt: 14550
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 320
+Child rusage ru_nvcsw: 156
+Child rusage ru_nivcsw: 107
+Status: PASSED 
+Ended: 1735234712.54 

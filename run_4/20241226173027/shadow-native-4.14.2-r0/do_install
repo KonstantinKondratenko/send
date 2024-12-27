@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234546.05 
+shadow-native-4.14.2-r0: do_install
+Elapsed time: 7.75 seconds
+utime: 10
+stime: 3
+cutime: 33
+cstime: 12
+IO rchar: 8761661
+IO wchar: 3973895
+IO syscr: 7974
+IO syscw: 1007
+IO read_bytes: 24576
+IO write_bytes: 3883008
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.10066399999999999
+rusage ru_stime: 0.034845
+rusage ru_maxrss: 84832
+rusage ru_minflt: 17281
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 224
+rusage ru_nvcsw: 125
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.330857
+Child rusage ru_stime: 0.124399
+Child rusage ru_maxrss: 82120
+Child rusage ru_minflt: 91655
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 7360
+Child rusage ru_nvcsw: 1249
+Child rusage ru_nivcsw: 48
+Status: PASSED 
+Ended: 1735234553.81 

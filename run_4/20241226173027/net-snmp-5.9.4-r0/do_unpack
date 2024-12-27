@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234484.22 
+net-snmp-5.9.4-r0: do_unpack
+Elapsed time: 2.92 seconds
+utime: 10
+stime: 2
+cutime: 17
+cstime: 12
+IO rchar: 42913790
+IO wchar: 69269793
+IO syscr: 5019
+IO syscw: 6732
+IO read_bytes: 299008
+IO write_bytes: 39522304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.101032
+rusage ru_stime: 0.028288999999999998
+rusage ru_maxrss: 80960
+rusage ru_minflt: 18107
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 44
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.176669
+Child rusage ru_stime: 0.12147899999999999
+Child rusage ru_maxrss: 77308
+Child rusage ru_minflt: 12177
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 584
+Child rusage ru_oublock: 77056
+Child rusage ru_nvcsw: 1323
+Child rusage ru_nivcsw: 198
+Status: PASSED 
+Ended: 1735234487.14 

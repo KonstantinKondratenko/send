@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234661.03 
+libcomps-0.1.20-r0: do_fetch
+Elapsed time: 15.22 seconds
+utime: 8
+stime: 1
+cutime: 20
+cstime: 4
+IO rchar: 11272526
+IO wchar: 8252666
+IO syscr: 8808
+IO syscw: 3711
+IO read_bytes: 12288
+IO write_bytes: 2965504
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.08652599999999999
+rusage ru_stime: 0.01236
+rusage ru_maxrss: 81556
+rusage ru_minflt: 9204
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 200
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.207235
+Child rusage ru_stime: 0.045651
+Child rusage ru_maxrss: 77628
+Child rusage ru_minflt: 17388
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 5624
+Child rusage ru_nvcsw: 1715
+Child rusage ru_nivcsw: 28
+Status: PASSED 
+Ended: 1735234676.24 

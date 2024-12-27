@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234365.78 
+make-native-4.4.1-r0: do_populate_sysroot
+Elapsed time: 0.62 seconds
+utime: 20
+stime: 4
+cutime: 5
+cstime: 3
+IO rchar: 3310557
+IO wchar: 1224379
+IO syscr: 1366
+IO syscw: 263
+IO read_bytes: 0
+IO write_bytes: 901120
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.209451
+rusage ru_stime: 0.04189
+rusage ru_maxrss: 83444
+rusage ru_minflt: 33834
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 928
+rusage ru_nvcsw: 35
+rusage ru_nivcsw: 21
+Child rusage ru_utime: 0.055986999999999995
+Child rusage ru_stime: 0.032824
+Child rusage ru_maxrss: 81608
+Child rusage ru_minflt: 14816
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 832
+Child rusage ru_nvcsw: 234
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1735234366.40 

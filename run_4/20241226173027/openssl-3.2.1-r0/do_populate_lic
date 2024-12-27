@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235488.10 
+openssl-3.2.1-r0: do_populate_lic
+Elapsed time: 0.61 seconds
+utime: 20
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 846233
+IO wchar: 187702
+IO syscr: 540
+IO syscw: 120
+IO read_bytes: 65536
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.20585299999999998
+rusage ru_stime: 0.036327
+rusage ru_maxrss: 86404
+rusage ru_minflt: 21224
+rusage ru_majflt: 8
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.029436
+Child rusage ru_stime: 0.023184999999999997
+Child rusage ru_maxrss: 83252
+Child rusage ru_minflt: 5634
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 88
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 113
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1735235488.71 

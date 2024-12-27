@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234650.24 
+mdadm-4.2-r0: do_unpack
+Elapsed time: 1.43 seconds
+utime: 6
+stime: 3
+cutime: 9
+cstime: 4
+IO rchar: 4352721
+IO wchar: 5348406
+IO syscr: 2040
+IO syscw: 1182
+IO read_bytes: 331776
+IO write_bytes: 3715072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.06884699999999999
+rusage ru_stime: 0.038726
+rusage ru_maxrss: 81832
+rusage ru_minflt: 23990
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 224
+rusage ru_nvcsw: 67
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.093183
+Child rusage ru_stime: 0.043088
+Child rusage ru_maxrss: 77648
+Child rusage ru_minflt: 19000
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 648
+Child rusage ru_oublock: 7032
+Child rusage ru_nvcsw: 281
+Child rusage ru_nivcsw: 16
+Status: PASSED 
+Ended: 1735234651.67 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234927.13 
+volatile-binds-1.0-r0: do_recipe_qa
+Elapsed time: 0.06 seconds
+utime: 6
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 504069
+IO wchar: 107623
+IO syscr: 330
+IO syscw: 88
+IO read_bytes: 0
+IO write_bytes: 94208
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.066651
+rusage ru_stime: 0.012497
+rusage ru_maxrss: 84256
+rusage ru_minflt: 15348
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.013434
+Child rusage ru_stime: 0.004915
+Child rusage ru_maxrss: 81460
+Child rusage ru_minflt: 4252
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 140
+Child rusage ru_nivcsw: 3
+Status: PASSED 
+Ended: 1735234927.18 

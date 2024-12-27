@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234644.98 
+tcpdump-4.99.4-r0: do_unpack
+Elapsed time: 5.03 seconds
+utime: 5
+stime: 0
+cutime: 7
+cstime: 3
+IO rchar: 17426577
+IO wchar: 29071084
+IO syscr: 1952
+IO syscw: 3411
+IO read_bytes: 8192
+IO write_bytes: 18636800
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.056365
+rusage ru_stime: 0.004026
+rusage ru_maxrss: 81568
+rusage ru_minflt: 9352
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 1
+Child rusage ru_utime: 0.072599
+Child rusage ru_stime: 0.031201
+Child rusage ru_maxrss: 77704
+Child rusage ru_minflt: 2216
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 36336
+Child rusage ru_nvcsw: 521
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1735234650.01 

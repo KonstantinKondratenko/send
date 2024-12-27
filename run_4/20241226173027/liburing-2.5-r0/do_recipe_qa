@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234977.68 
+liburing-2.5-r0: do_recipe_qa
+Elapsed time: 0.20 seconds
+utime: 6
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 603688
+IO wchar: 111334
+IO syscr: 336
+IO syscw: 87
+IO read_bytes: 32768
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.066393
+rusage ru_stime: 0.016597999999999998
+rusage ru_maxrss: 84316
+rusage ru_minflt: 15502
+rusage ru_majflt: 0
+rusage ru_inblock: 64
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.013113
+Child rusage ru_stime: 0.003967
+Child rusage ru_maxrss: 81524
+Child rusage ru_minflt: 4363
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 136
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735234977.88 

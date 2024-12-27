@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235148.30 
+thrift-0.20.0-r0: do_unpack
+Elapsed time: 1.44 seconds
+utime: 8
+stime: 3
+cutime: 12
+cstime: 5
+IO rchar: 29283919
+IO wchar: 46702463
+IO syscr: 2910
+IO syscw: 5660
+IO read_bytes: 204800
+IO write_bytes: 28504064
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.084726
+rusage ru_stime: 0.032276
+rusage ru_maxrss: 82456
+rusage ru_minflt: 8938
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 0.12192
+Child rusage ru_stime: 0.052156999999999995
+Child rusage ru_maxrss: 78596
+Child rusage ru_minflt: 1655
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 400
+Child rusage ru_oublock: 55608
+Child rusage ru_nvcsw: 773
+Child rusage ru_nivcsw: 86
+Status: PASSED 
+Ended: 1735235149.74 

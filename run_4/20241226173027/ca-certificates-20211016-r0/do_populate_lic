@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235493.70 
+ca-certificates-20211016-r0: do_populate_lic
+Elapsed time: 0.45 seconds
+utime: 10
+stime: 5
+cutime: 3
+cstime: 1
+IO rchar: 769181
+IO wchar: 215502
+IO syscr: 515
+IO syscw: 112
+IO read_bytes: 20480
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.1002
+rusage ru_stime: 0.051954999999999994
+rusage ru_maxrss: 86032
+rusage ru_minflt: 17781
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 200
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 0.037228
+Child rusage ru_stime: 0.016618
+Child rusage ru_maxrss: 82888
+Child rusage ru_minflt: 5472
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 101
+Child rusage ru_nivcsw: 44
+Status: PASSED 
+Ended: 1735235494.15 

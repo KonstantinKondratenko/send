@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234828.26 
+iproute2-6.7.0-r0: do_patch
+Elapsed time: 1.22 seconds
+utime: 11
+stime: 1
+cutime: 3
+cstime: 2
+IO rchar: 786455
+IO wchar: 131042
+IO syscr: 723
+IO syscw: 123
+IO read_bytes: 20480
+IO write_bytes: 163840
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.11914799999999999
+rusage ru_stime: 0.015373999999999999
+rusage ru_maxrss: 82164
+rusage ru_minflt: 10180
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 48
+Child rusage ru_utime: 0.031792
+Child rusage ru_stime: 0.020388
+Child rusage ru_maxrss: 76272
+Child rusage ru_minflt: 9763
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 184
+Child rusage ru_nvcsw: 145
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1735234829.47 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235167.81 
+python3-psutil-5.9.8-r0: do_patch
+Elapsed time: 0.81 seconds
+utime: 6
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 2014156
+IO wchar: 633003
+IO syscr: 569
+IO syscw: 198
+IO read_bytes: 4096
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.067577
+rusage ru_stime: 0.0159
+rusage ru_maxrss: 82584
+rusage ru_minflt: 8789
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 128
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.014412
+Child rusage ru_stime: 0.00533
+Child rusage ru_maxrss: 76880
+Child rusage ru_minflt: 1290
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 52
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735235168.62 

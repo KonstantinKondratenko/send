@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735235487.16 
+patch-2.7.6-r0: do_populate_lic
+Elapsed time: 0.38 seconds
+utime: 17
+stime: 2
+cutime: 3
+cstime: 2
+IO rchar: 1005899
+IO wchar: 246142
+IO syscr: 546
+IO syscw: 120
+IO read_bytes: 36864
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.179305
+rusage ru_stime: 0.027891
+rusage ru_maxrss: 86304
+rusage ru_minflt: 20928
+rusage ru_majflt: 2
+rusage ru_inblock: 72
+rusage ru_oublock: 208
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 153
+Child rusage ru_utime: 0.032165
+Child rusage ru_stime: 0.028498
+Child rusage ru_maxrss: 83172
+Child rusage ru_minflt: 5631
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 117
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1735235487.54 

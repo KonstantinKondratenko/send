@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735234994.60 
+pcsc-tools-1.7.1-r0: do_fetch
+Elapsed time: 23.27 seconds
+utime: 4
+stime: 2
+cutime: 44
+cstime: 6
+IO rchar: 11380704
+IO wchar: 8001559
+IO syscr: 8726
+IO syscw: 3508
+IO read_bytes: 278528
+IO write_bytes: 2916352
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.048361
+rusage ru_stime: 0.02821
+rusage ru_maxrss: 82336
+rusage ru_minflt: 8812
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 164
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.449382
+Child rusage ru_stime: 0.064804
+Child rusage ru_maxrss: 78824
+Child rusage ru_minflt: 19890
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 544
+Child rusage ru_oublock: 5544
+Child rusage ru_nvcsw: 1413
+Child rusage ru_nivcsw: 85
+Status: PASSED 
+Ended: 1735235017.87 
