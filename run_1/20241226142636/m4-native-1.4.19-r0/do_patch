@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735223267.04 
+m4-native-1.4.19-r0: do_patch
+Elapsed time: 0.51 seconds
+utime: 16
+stime: 6
+cutime: 22
+cstime: 16
+IO rchar: 3015145
+IO wchar: 1782969
+IO syscr: 1937
+IO syscw: 622
+IO read_bytes: 49152
+IO write_bytes: 1806336
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.16829
+rusage ru_stime: 0.065021
+rusage ru_maxrss: 98980
+rusage ru_minflt: 10349
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.224405
+Child rusage ru_stime: 0.163153
+Child rusage ru_maxrss: 92820
+Child rusage ru_minflt: 29556
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 96
+Child rusage ru_oublock: 3392
+Child rusage ru_nvcsw: 442
+Child rusage ru_nivcsw: 443
+Status: PASSED 
+Ended: 1735223267.55 

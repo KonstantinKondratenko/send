@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735225925.95 
+mpfr-native-4.2.1-r0: do_recipe_qa
+Elapsed time: 0.23 seconds
+utime: 34
+stime: 6
+cutime: 3
+cstime: 4
+IO rchar: 736155
+IO wchar: 119533
+IO syscr: 337
+IO syscw: 103
+IO read_bytes: 0
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.344888
+rusage ru_stime: 0.060154
+rusage ru_maxrss: 102252
+rusage ru_minflt: 15416
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 115
+Child rusage ru_utime: 0.03916
+Child rusage ru_stime: 0.045564
+Child rusage ru_maxrss: 99588
+Child rusage ru_minflt: 4214
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1735225926.18 

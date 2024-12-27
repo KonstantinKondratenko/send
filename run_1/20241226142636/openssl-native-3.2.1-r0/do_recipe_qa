@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735223338.28 
+openssl-native-3.2.1-r0: do_recipe_qa
+Elapsed time: 0.23 seconds
+utime: 38
+stime: 5
+cutime: 1
+cstime: 5
+IO rchar: 767760
+IO wchar: 123624
+IO syscr: 349
+IO syscw: 110
+IO read_bytes: 28672
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38903499999999996
+rusage ru_stime: 0.050073
+rusage ru_maxrss: 102408
+rusage ru_minflt: 15930
+rusage ru_majflt: 0
+rusage ru_inblock: 56
+rusage ru_oublock: 168
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 208
+Child rusage ru_utime: 0.01332
+Child rusage ru_stime: 0.054578999999999996
+Child rusage ru_maxrss: 99564
+Child rusage ru_minflt: 4219
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 52
+Child rusage ru_nivcsw: 41
+Status: PASSED 
+Ended: 1735223338.51 

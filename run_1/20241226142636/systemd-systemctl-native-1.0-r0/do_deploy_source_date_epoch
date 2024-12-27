@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735223317.29 
+systemd-systemctl-native-1.0-r0: do_deploy_source_date_epoch
+Elapsed time: 0.82 seconds
+utime: 39
+stime: 7
+cutime: 3
+cstime: 6
+IO rchar: 555383
+IO wchar: 134076
+IO syscr: 409
+IO syscw: 99
+IO read_bytes: 81920
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.39058299999999996
+rusage ru_stime: 0.07811599999999999
+rusage ru_maxrss: 101024
+rusage ru_minflt: 20566
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 202
+Child rusage ru_utime: 0.038786999999999995
+Child rusage ru_stime: 0.06182
+Child rusage ru_maxrss: 98272
+Child rusage ru_minflt: 5080
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 152
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 56
+Child rusage ru_nivcsw: 63
+Status: PASSED 
+Ended: 1735223318.11 

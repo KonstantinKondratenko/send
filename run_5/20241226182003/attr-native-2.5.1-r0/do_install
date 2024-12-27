@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237436.80 
+attr-native-2.5.1-r0: do_install
+Elapsed time: 0.56 seconds
+utime: 43
+stime: 6
+cutime: 37
+cstime: 20
+IO rchar: 2848806
+IO wchar: 336613
+IO syscr: 4396
+IO syscw: 563
+IO read_bytes: 131072
+IO write_bytes: 344064
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.43971099999999996
+rusage ru_stime: 0.06514199999999999
+rusage ru_maxrss: 101804
+rusage ru_minflt: 17434
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 49
+rusage ru_nivcsw: 19
+Child rusage ru_utime: 0.377949
+Child rusage ru_stime: 0.20438599999999998
+Child rusage ru_maxrss: 99068
+Child rusage ru_minflt: 44191
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 256
+Child rusage ru_oublock: 544
+Child rusage ru_nvcsw: 726
+Child rusage ru_nivcsw: 346
+Status: PASSED 
+Ended: 1735237437.36 

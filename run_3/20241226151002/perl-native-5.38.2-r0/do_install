@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735226483.17 
+perl-native-5.38.2-r0: do_install
+Elapsed time: 49.16 seconds
+utime: 53
+stime: 10
+cutime: 4037
+cstime: 123
+IO rchar: 124645446
+IO wchar: 79300810
+IO syscr: 17055
+IO syscw: 4899
+IO read_bytes: 3575808
+IO write_bytes: 84688896
+IO cancelled_write_bytes: 794624
+rusage ru_utime: 0.530211
+rusage ru_stime: 0.105262
+rusage ru_maxrss: 102280
+rusage ru_minflt: 17368
+rusage ru_majflt: 0
+rusage ru_inblock: 352
+rusage ru_oublock: 816
+rusage ru_nvcsw: 116
+rusage ru_nivcsw: 121
+Child rusage ru_utime: 40.372461
+Child rusage ru_stime: 1.234491
+Child rusage ru_maxrss: 99708
+Child rusage ru_minflt: 38665
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 6632
+Child rusage ru_oublock: 164592
+Child rusage ru_nvcsw: 638
+Child rusage ru_nivcsw: 5513
+Status: PASSED 
+Ended: 1735226532.33 

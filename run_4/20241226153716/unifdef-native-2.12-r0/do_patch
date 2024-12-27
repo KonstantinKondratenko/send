@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735227756.34 
+unifdef-native-2.12-r0: do_patch
+Elapsed time: 0.37 seconds
+utime: 25
+stime: 5
+cutime: 0
+cstime: 2
+IO rchar: 631551
+IO wchar: 116303
+IO syscr: 182
+IO syscw: 71
+IO read_bytes: 32768
+IO write_bytes: 131072
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.25127
+rusage ru_stime: 0.052684999999999996
+rusage ru_maxrss: 99276
+rusage ru_minflt: 8969
+rusage ru_majflt: 0
+rusage ru_inblock: 64
+rusage ru_oublock: 128
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 39
+Child rusage ru_utime: 0.005893
+Child rusage ru_stime: 0.02914
+Child rusage ru_maxrss: 92980
+Child rusage ru_minflt: 1195
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 15
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1735227756.71 

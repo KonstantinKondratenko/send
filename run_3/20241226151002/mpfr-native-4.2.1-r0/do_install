@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735226221.46 
+mpfr-native-4.2.1-r0: do_install
+Elapsed time: 0.91 seconds
+utime: 42
+stime: 7
+cutime: 29
+cstime: 16
+IO rchar: 4731580
+IO wchar: 1095259
+IO syscr: 2652
+IO syscw: 286
+IO read_bytes: 184320
+IO write_bytes: 1122304
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.42366299999999996
+rusage ru_stime: 0.07593899999999999
+rusage ru_maxrss: 101952
+rusage ru_minflt: 16390
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 61
+rusage ru_nivcsw: 137
+Child rusage ru_utime: 0.29248199999999996
+Child rusage ru_stime: 0.169992
+Child rusage ru_maxrss: 99364
+Child rusage ru_minflt: 25673
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 360
+Child rusage ru_oublock: 2064
+Child rusage ru_nvcsw: 327
+Child rusage ru_nivcsw: 147
+Status: PASSED 
+Ended: 1735226222.37 

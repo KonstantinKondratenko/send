@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735227708.62 
+flex-native-2.6.4-r0: do_install
+Elapsed time: 0.82 seconds
+utime: 42
+stime: 6
+cutime: 35
+cstime: 19
+IO rchar: 5216096
+IO wchar: 1013372
+IO syscr: 3377
+IO syscw: 372
+IO read_bytes: 708608
+IO write_bytes: 1024000
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.42694499999999996
+rusage ru_stime: 0.06505799999999999
+rusage ru_maxrss: 102028
+rusage ru_minflt: 16716
+rusage ru_majflt: 4
+rusage ru_inblock: 120
+rusage ru_oublock: 144
+rusage ru_nvcsw: 72
+rusage ru_nivcsw: 28
+Child rusage ru_utime: 0.35217
+Child rusage ru_stime: 0.19877799999999998
+Child rusage ru_maxrss: 99216
+Child rusage ru_minflt: 37910
+Child rusage ru_majflt: 8
+Child rusage ru_inblock: 1264
+Child rusage ru_oublock: 1856
+Child rusage ru_nvcsw: 511
+Child rusage ru_nivcsw: 150
+Status: PASSED 
+Ended: 1735227709.44 

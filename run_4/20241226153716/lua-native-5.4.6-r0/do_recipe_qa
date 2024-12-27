@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735227656.51 
+lua-native-5.4.6-r0: do_recipe_qa
+Elapsed time: 0.24 seconds
+utime: 35
+stime: 6
+cutime: 2
+cstime: 5
+IO rchar: 752342
+IO wchar: 118800
+IO syscr: 338
+IO syscw: 103
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.355332
+rusage ru_stime: 0.067872
+rusage ru_maxrss: 102120
+rusage ru_minflt: 16184
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 148
+Child rusage ru_utime: 0.023500999999999998
+Child rusage ru_stime: 0.057339999999999995
+Child rusage ru_maxrss: 99220
+Child rusage ru_minflt: 4191
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 68
+Child rusage ru_nivcsw: 52
+Status: PASSED 
+Ended: 1735227656.75 

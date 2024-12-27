@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237409.86 
+rust-llvm-native-1.75.0-r0: do_fetch
+Elapsed time: 69.68 seconds
+utime: 666
+stime: 57
+cutime: 183
+cstime: 202
+IO rchar: 160626099
+IO wchar: 159993087
+IO syscr: 139884
+IO syscw: 223205
+IO read_bytes: 450560
+IO write_bytes: 159715328
+IO cancelled_write_bytes: 0
+rusage ru_utime: 6.661873
+rusage ru_stime: 0.573672
+rusage ru_maxrss: 253956
+rusage ru_minflt: 32234
+rusage ru_majflt: 9
+rusage ru_inblock: 680
+rusage ru_oublock: 168
+rusage ru_nvcsw: 14682
+rusage ru_nivcsw: 388
+Child rusage ru_utime: 1.835294
+Child rusage ru_stime: 2.023627
+Child rusage ru_maxrss: 95640
+Child rusage ru_minflt: 951
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 200
+Child rusage ru_oublock: 311776
+Child rusage ru_nvcsw: 74956
+Child rusage ru_nivcsw: 5522
+Status: PASSED 
+Ended: 1735237479.54 

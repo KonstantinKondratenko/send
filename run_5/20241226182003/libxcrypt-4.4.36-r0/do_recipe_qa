@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237355.02 
+libxcrypt-4.4.36-r0: do_recipe_qa
+Elapsed time: 0.25 seconds
+utime: 30
+stime: 6
+cutime: 2
+cstime: 6
+IO rchar: 516112
+IO wchar: 117378
+IO syscr: 331
+IO syscw: 92
+IO read_bytes: 32768
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.303033
+rusage ru_stime: 0.060568
+rusage ru_maxrss: 101080
+rusage ru_minflt: 15596
+rusage ru_majflt: 0
+rusage ru_inblock: 64
+rusage ru_oublock: 160
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 38
+Child rusage ru_utime: 0.023382
+Child rusage ru_stime: 0.06195
+Child rusage ru_maxrss: 98276
+Child rusage ru_minflt: 4249
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 60
+Child rusage ru_nivcsw: 38
+Status: PASSED 
+Ended: 1735237355.28 

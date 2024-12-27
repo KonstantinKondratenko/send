@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735223281.60 
+gcc-source-13.2.0-13.2.0-r0: do_recipe_qa
+Elapsed time: 0.22 seconds
+utime: 22
+stime: 5
+cutime: 2
+cstime: 5
+IO rchar: 525790
+IO wchar: 119979
+IO syscr: 344
+IO syscw: 97
+IO read_bytes: 0
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.22350399999999998
+rusage ru_stime: 0.059867
+rusage ru_maxrss: 101428
+rusage ru_minflt: 15087
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 27
+Child rusage ru_utime: 0.026274
+Child rusage ru_stime: 0.057727
+Child rusage ru_maxrss: 98568
+Child rusage ru_minflt: 4217
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 64
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1735223281.82 
