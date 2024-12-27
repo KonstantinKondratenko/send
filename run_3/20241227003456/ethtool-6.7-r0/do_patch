@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735260878.10 
+ethtool-6.7-r0: do_patch
+Elapsed time: 0.52 seconds
+utime: 8
+stime: 1
+cutime: 3
+cstime: 1
+IO rchar: 1261480
+IO wchar: 646853
+IO syscr: 846
+IO syscw: 258
+IO read_bytes: 45056
+IO write_bytes: 679936
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.081159
+rusage ru_stime: 0.010144
+rusage ru_maxrss: 83972
+rusage ru_minflt: 9801
+rusage ru_majflt: 0
+rusage ru_inblock: 80
+rusage ru_oublock: 144
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 2
+Child rusage ru_utime: 0.031578999999999996
+Child rusage ru_stime: 0.016184999999999998
+Child rusage ru_maxrss: 78416
+Child rusage ru_minflt: 9811
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1184
+Child rusage ru_nvcsw: 140
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1735260878.62 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735264038.10 
+xtrans-1_1.5.0-r0: do_populate_sysroot
+Elapsed time: 1.18 seconds
+utime: 34
+stime: 6
+cutime: 10
+cstime: 3
+IO rchar: 1454977
+IO wchar: 468856
+IO syscr: 939
+IO syscw: 184
+IO read_bytes: 253952
+IO write_bytes: 229376
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.349141
+rusage ru_stime: 0.06572
+rusage ru_maxrss: 60624
+rusage ru_minflt: 26437
+rusage ru_majflt: 50
+rusage ru_inblock: 496
+rusage ru_oublock: 344
+rusage ru_nvcsw: 76
+rusage ru_nivcsw: 91
+Child rusage ru_utime: 0.10196899999999999
+Child rusage ru_stime: 0.038301
+Child rusage ru_maxrss: 57632
+Child rusage ru_minflt: 10153
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 153
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1735264039.28 

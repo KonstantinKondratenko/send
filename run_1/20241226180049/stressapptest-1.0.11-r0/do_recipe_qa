@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237244.93 
+stressapptest-1.0.11-r0: do_recipe_qa
+Elapsed time: 0.09 seconds
+utime: 10
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 615290
+IO wchar: 116591
+IO syscr: 343
+IO syscw: 91
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.106541
+rusage ru_stime: 0.011837
+rusage ru_maxrss: 84916
+rusage ru_minflt: 15707
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.015757999999999998
+Child rusage ru_stime: 0.007802
+Child rusage ru_maxrss: 82096
+Child rusage ru_minflt: 4389
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 136
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1735237245.02 

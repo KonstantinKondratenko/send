@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238054.15 
+systemtap-5.0-r0: do_populate_lic
+Elapsed time: 0.29 seconds
+utime: 22
+stime: 6
+cutime: 4
+cstime: 2
+IO rchar: 894755
+IO wchar: 214976
+IO syscr: 552
+IO syscw: 122
+IO read_bytes: 20480
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.22822699999999999
+rusage ru_stime: 0.064063
+rusage ru_maxrss: 86136
+rusage ru_minflt: 21178
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 62
+Child rusage ru_utime: 0.041146999999999996
+Child rusage ru_stime: 0.027017
+Child rusage ru_maxrss: 82988
+Child rusage ru_minflt: 5777
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 138
+Child rusage ru_nivcsw: 84
+Status: PASSED 
+Ended: 1735238054.44 

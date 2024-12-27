@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735244227.18 
+net-snmp-5.9.4-r0: do_install_ptest_base
+Elapsed time: 2.47 seconds
+utime: 36
+stime: 4
+cutime: 23
+cstime: 35
+IO rchar: 7731891
+IO wchar: 6377787
+IO syscr: 7777
+IO syscw: 1101
+IO read_bytes: 8069120
+IO write_bytes: 8617984
+IO cancelled_write_bytes: 1830912
+rusage ru_utime: 0.36811299999999997
+rusage ru_stime: 0.042179
+rusage ru_maxrss: 61292
+rusage ru_minflt: 13964
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 592
+rusage ru_nvcsw: 168
+rusage ru_nivcsw: 463
+Child rusage ru_utime: 0.234979
+Child rusage ru_stime: 0.356296
+Child rusage ru_maxrss: 59320
+Child rusage ru_minflt: 12599
+Child rusage ru_majflt: 62
+Child rusage ru_inblock: 15760
+Child rusage ru_oublock: 16240
+Child rusage ru_nvcsw: 869
+Child rusage ru_nivcsw: 4605
+Status: PASSED 
+Ended: 1735244229.65 

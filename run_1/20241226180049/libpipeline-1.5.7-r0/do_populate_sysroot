@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735246733.85 
+libpipeline-1.5.7-r0: do_populate_sysroot
+Elapsed time: 13.81 seconds
+utime: 55
+stime: 9
+cutime: 10
+cstime: 7
+IO rchar: 2058247
+IO wchar: 731336
+IO syscr: 1310
+IO syscw: 216
+IO read_bytes: 2703360
+IO write_bytes: 598016
+IO cancelled_write_bytes: 65536
+rusage ru_utime: 0.551187
+rusage ru_stime: 0.095858
+rusage ru_maxrss: 58788
+rusage ru_minflt: 30743
+rusage ru_majflt: 29
+rusage ru_inblock: 3104
+rusage ru_oublock: 808
+rusage ru_nvcsw: 175
+rusage ru_nivcsw: 67
+Child rusage ru_utime: 0.101987
+Child rusage ru_stime: 0.076239
+Child rusage ru_maxrss: 55880
+Child rusage ru_minflt: 15382
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2176
+Child rusage ru_oublock: 360
+Child rusage ru_nvcsw: 244
+Child rusage ru_nivcsw: 68
+Status: PASSED 
+Ended: 1735246747.66 

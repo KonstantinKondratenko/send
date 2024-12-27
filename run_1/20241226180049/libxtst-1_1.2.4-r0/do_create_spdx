@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735246298.91 
+libxtst-1_1.2.4-r0: do_create_spdx
+Elapsed time: 1.13 seconds
+utime: 42
+stime: 4
+cutime: 5
+cstime: 7
+IO rchar: 1409004
+IO wchar: 589039
+IO syscr: 744
+IO syscw: 216
+IO read_bytes: 2035712
+IO write_bytes: 258048
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.428189
+rusage ru_stime: 0.044434
+rusage ru_maxrss: 62496
+rusage ru_minflt: 26135
+rusage ru_majflt: 41
+rusage ru_inblock: 3928
+rusage ru_oublock: 392
+rusage ru_nvcsw: 159
+rusage ru_nivcsw: 148
+Child rusage ru_utime: 0.051094999999999995
+Child rusage ru_stime: 0.070848
+Child rusage ru_maxrss: 59352
+Child rusage ru_minflt: 7509
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 112
+Child rusage ru_nvcsw: 457
+Child rusage ru_nivcsw: 141
+Status: PASSED 
+Ended: 1735246300.03 

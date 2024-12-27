@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735259994.62 
+ipmitool-1.8.19-r0: do_recipe_qa
+Elapsed time: 4.55 seconds
+utime: 8
+stime: 1
+cutime: 1
+cstime: 1
+IO rchar: 628380
+IO wchar: 116998
+IO syscr: 346
+IO syscw: 92
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.085978
+rusage ru_stime: 0.017195
+rusage ru_maxrss: 83768
+rusage ru_minflt: 15700
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.010731
+Child rusage ru_stime: 0.015364
+Child rusage ru_maxrss: 80960
+Child rusage ru_minflt: 4400
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 129
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1735259999.16 

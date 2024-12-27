@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237438.31 
+sudo-1.9.15p5-r0: do_fetch
+Elapsed time: 7.85 seconds
+utime: 12
+stime: 1
+cutime: 2
+cstime: 5
+IO rchar: 5660597
+IO wchar: 5386906
+IO syscr: 3126
+IO syscw: 7690
+IO read_bytes: 0
+IO write_bytes: 5378048
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.128857
+rusage ru_stime: 0.017896
+rusage ru_maxrss: 86220
+rusage ru_minflt: 7476
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 584
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.020439
+Child rusage ru_stime: 0.053731999999999995
+Child rusage ru_maxrss: 78884
+Child rusage ru_minflt: 986
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 10376
+Child rusage ru_nvcsw: 431
+Child rusage ru_nivcsw: 9
+Status: PASSED 
+Ended: 1735237446.16 

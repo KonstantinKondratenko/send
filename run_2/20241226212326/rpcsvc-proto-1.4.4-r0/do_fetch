@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249193.40 
+rpcsvc-proto-1.4.4-r0: do_fetch
+Elapsed time: 0.09 seconds
+utime: 4
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 2047928
+IO wchar: 56679
+IO syscr: 650
+IO syscw: 61
+IO read_bytes: 20480
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.04786
+rusage ru_stime: 0.039158
+rusage ru_maxrss: 82188
+rusage ru_minflt: 7661
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 120
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 12
+Child rusage ru_utime: 0.029469
+Child rusage ru_stime: 0.016793
+Child rusage ru_maxrss: 78320
+Child rusage ru_minflt: 6352
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 18
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1735249193.49 

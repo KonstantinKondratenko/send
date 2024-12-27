@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249780.32 
+samba-4.19.5-r0: do_populate_lic
+Elapsed time: 4.85 seconds
+utime: 13
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 1142341
+IO wchar: 290803
+IO syscr: 600
+IO syscw: 133
+IO read_bytes: 45056
+IO write_bytes: 147456
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.13632
+rusage ru_stime: 0.033047
+rusage ru_maxrss: 85500
+rusage ru_minflt: 21651
+rusage ru_majflt: 2
+rusage ru_inblock: 88
+rusage ru_oublock: 208
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.022236
+Child rusage ru_stime: 0.014714
+Child rusage ru_maxrss: 82228
+Child rusage ru_minflt: 5697
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 127
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1735249785.17 

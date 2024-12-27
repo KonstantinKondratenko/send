@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237246.41 
+atop-2.4.0-r0: do_recipe_qa
+Elapsed time: 0.15 seconds
+utime: 8
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 618216
+IO wchar: 113426
+IO syscr: 341
+IO syscw: 89
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.082218
+rusage ru_stime: 0.022423
+rusage ru_maxrss: 84776
+rusage ru_minflt: 15639
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.018245
+Child rusage ru_stime: 0.004683
+Child rusage ru_maxrss: 81956
+Child rusage ru_minflt: 4371
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 132
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1735237246.56 

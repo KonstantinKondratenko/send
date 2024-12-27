@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249054.17 
+ca-certificates-20211016-r0: do_install
+Elapsed time: 1.49 seconds
+utime: 9
+stime: 1
+cutime: 11
+cstime: 3
+IO rchar: 2214394
+IO wchar: 311063
+IO syscr: 5321
+IO syscw: 232
+IO read_bytes: 8192
+IO write_bytes: 626688
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.098858
+rusage ru_stime: 0.016475999999999998
+rusage ru_maxrss: 77948
+rusage ru_minflt: 16115
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 523
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.112898
+Child rusage ru_stime: 0.038481
+Child rusage ru_maxrss: 75780
+Child rusage ru_minflt: 42124
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 1088
+Child rusage ru_nvcsw: 2856
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1735249055.66 

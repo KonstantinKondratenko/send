@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249880.64 
+attr-native-2.5.1-r0: do_create_runtime_spdx
+Elapsed time: 0.61 seconds
+utime: 15
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 1028782
+IO wchar: 349421
+IO syscr: 383
+IO syscw: 117
+IO read_bytes: 4096
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.15887199999999999
+rusage ru_stime: 0.02383
+rusage ru_maxrss: 85772
+rusage ru_minflt: 21641
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 176
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 11
+Child rusage ru_utime: 0.0123
+Child rusage ru_stime: 0.012797
+Child rusage ru_maxrss: 82816
+Child rusage ru_minflt: 4630
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 125
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735249881.24 

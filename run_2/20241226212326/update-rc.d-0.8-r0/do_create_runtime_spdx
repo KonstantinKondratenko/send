@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735251084.19 
+update-rc.d-0.8-r0: do_create_runtime_spdx
+Elapsed time: 0.65 seconds
+utime: 21
+stime: 4
+cutime: 4
+cstime: 2
+IO rchar: 855660
+IO wchar: 374884
+IO syscr: 544
+IO syscw: 107
+IO read_bytes: 4096
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.21137599999999998
+rusage ru_stime: 0.045591
+rusage ru_maxrss: 85948
+rusage ru_minflt: 19708
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 200
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 43
+Child rusage ru_utime: 0.049270999999999995
+Child rusage ru_stime: 0.026392
+Child rusage ru_maxrss: 82936
+Child rusage ru_minflt: 5854
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 133
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1735251084.84 

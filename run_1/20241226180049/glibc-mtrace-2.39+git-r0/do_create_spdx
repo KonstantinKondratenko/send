@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238771.10 
+glibc-mtrace-2.39+git-r0: do_create_spdx
+Elapsed time: 0.89 seconds
+utime: 23
+stime: 5
+cutime: 5
+cstime: 4
+IO rchar: 1150242
+IO wchar: 494458
+IO syscr: 613
+IO syscw: 143
+IO read_bytes: 16384
+IO write_bytes: 217088
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.236998
+rusage ru_stime: 0.052219999999999996
+rusage ru_maxrss: 87696
+rusage ru_minflt: 23271
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 320
+rusage ru_nvcsw: 42
+rusage ru_nivcsw: 94
+Child rusage ru_utime: 0.054565999999999996
+Child rusage ru_stime: 0.049319999999999996
+Child rusage ru_maxrss: 84812
+Child rusage ru_minflt: 6932
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 265
+Child rusage ru_nivcsw: 74
+Status: PASSED 
+Ended: 1735238771.99 

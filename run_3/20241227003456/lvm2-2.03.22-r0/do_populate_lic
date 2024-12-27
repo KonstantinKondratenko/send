@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261285.17 
+lvm2-2.03.22-r0: do_populate_lic
+Elapsed time: 0.15 seconds
+utime: 10
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 1095491
+IO wchar: 277221
+IO syscr: 586
+IO syscw: 131
+IO read_bytes: 49152
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.108236
+rusage ru_stime: 0.027059
+rusage ru_maxrss: 87212
+rusage ru_minflt: 21345
+rusage ru_majflt: 2
+rusage ru_inblock: 96
+rusage ru_oublock: 216
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.020562
+Child rusage ru_stime: 0.012650999999999999
+Child rusage ru_maxrss: 84084
+Child rusage ru_minflt: 5930
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 167
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1735261285.32 

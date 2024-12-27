@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238064.18 
+cargo-1.75.0-r0: do_populate_lic
+Elapsed time: 0.66 seconds
+utime: 33
+stime: 5
+cutime: 6
+cstime: 3
+IO rchar: 1131599
+IO wchar: 289028
+IO syscr: 574
+IO syscw: 131
+IO read_bytes: 86016
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.334492
+rusage ru_stime: 0.053826
+rusage ru_maxrss: 86372
+rusage ru_minflt: 21568
+rusage ru_majflt: 4
+rusage ru_inblock: 168
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 159
+Child rusage ru_utime: 0.061946999999999995
+Child rusage ru_stime: 0.033007999999999996
+Child rusage ru_maxrss: 83228
+Child rusage ru_minflt: 5694
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 72
+Child rusage ru_nvcsw: 121
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1735238064.84 

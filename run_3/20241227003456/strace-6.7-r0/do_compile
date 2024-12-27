@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735266562.60 
+strace-6.7-r0: do_compile
+Elapsed time: 15.74 seconds
+utime: 25
+stime: 2
+cutime: 4070
+cstime: 889
+IO rchar: 537778681
+IO wchar: 103282324
+IO syscr: 146416
+IO syscw: 25916
+IO read_bytes: 12505088
+IO write_bytes: 67424256
+IO cancelled_write_bytes: 21159936
+rusage ru_utime: 0.251787
+rusage ru_stime: 0.027975999999999997
+rusage ru_maxrss: 62768
+rusage ru_minflt: 7372
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 1288
+rusage ru_nvcsw: 421
+rusage ru_nivcsw: 126
+Child rusage ru_utime: 40.708126
+Child rusage ru_stime: 8.893292
+Child rusage ru_maxrss: 64940
+Child rusage ru_minflt: 1556888
+Child rusage ru_majflt: 37
+Child rusage ru_inblock: 24424
+Child rusage ru_oublock: 130400
+Child rusage ru_nvcsw: 14660
+Child rusage ru_nivcsw: 20632
+Status: PASSED 
+Ended: 1735266578.34 

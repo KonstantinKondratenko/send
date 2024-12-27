@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735264053.34 
+cmocka-1.1.7+git-r0: do_populate_sysroot
+Elapsed time: 1.68 seconds
+utime: 48
+stime: 10
+cutime: 20
+cstime: 18
+IO rchar: 4155983
+IO wchar: 1197654
+IO syscr: 2847
+IO syscw: 397
+IO read_bytes: 765952
+IO write_bytes: 970752
+IO cancelled_write_bytes: 180224
+rusage ru_utime: 0.48101099999999997
+rusage ru_stime: 0.105985
+rusage ru_maxrss: 61228
+rusage ru_minflt: 31789
+rusage ru_majflt: 16
+rusage ru_inblock: 472
+rusage ru_oublock: 1056
+rusage ru_nvcsw: 52
+rusage ru_nivcsw: 133
+Child rusage ru_utime: 0.201986
+Child rusage ru_stime: 0.180026
+Child rusage ru_maxrss: 58456
+Child rusage ru_minflt: 33472
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1024
+Child rusage ru_oublock: 840
+Child rusage ru_nvcsw: 286
+Child rusage ru_nivcsw: 181
+Status: PASSED 
+Ended: 1735264055.01 

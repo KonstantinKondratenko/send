@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261059.26 
+samba-4.19.5-r0: do_patch
+Elapsed time: 13.98 seconds
+utime: 42
+stime: 10
+cutime: 33
+cstime: 7
+IO rchar: 16583321
+IO wchar: 1104081
+IO syscr: 7931
+IO syscw: 700
+IO read_bytes: 14917632
+IO write_bytes: 1114112
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.42804699999999996
+rusage ru_stime: 0.109957
+rusage ru_maxrss: 84144
+rusage ru_minflt: 15913
+rusage ru_majflt: 8
+rusage ru_inblock: 28416
+rusage ru_oublock: 192
+rusage ru_nvcsw: 1123
+rusage ru_nivcsw: 104
+Child rusage ru_utime: 0.33335699999999996
+Child rusage ru_stime: 0.07498099999999999
+Child rusage ru_maxrss: 78072
+Child rusage ru_minflt: 78605
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 720
+Child rusage ru_oublock: 1984
+Child rusage ru_nvcsw: 1235
+Child rusage ru_nivcsw: 124
+Status: PASSED 
+Ended: 1735261073.24 

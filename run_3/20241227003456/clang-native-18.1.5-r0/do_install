@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735266578.92 
+clang-native-18.1.5-r0: do_install
+Elapsed time: 80.75 seconds
+utime: 40
+stime: 7
+cutime: 143
+cstime: 347
+IO rchar: 2245487341
+IO wchar: 2096099815
+IO syscr: 266964
+IO syscw: 232611
+IO read_bytes: 768524288
+IO write_bytes: 2105171968
+IO cancelled_write_bytes: 326774784
+rusage ru_utime: 0.401426
+rusage ru_stime: 0.07948999999999999
+rusage ru_maxrss: 64680
+rusage ru_minflt: 18101
+rusage ru_majflt: 6
+rusage ru_inblock: 736
+rusage ru_oublock: 2488
+rusage ru_nvcsw: 4698
+rusage ru_nivcsw: 41
+Child rusage ru_utime: 1.433609
+Child rusage ru_stime: 3.471206
+Child rusage ru_maxrss: 69980
+Child rusage ru_minflt: 240119
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1500288
+Child rusage ru_oublock: 4109176
+Child rusage ru_nvcsw: 10075
+Child rusage ru_nivcsw: 920
+Status: PASSED 
+Ended: 1735266659.67 

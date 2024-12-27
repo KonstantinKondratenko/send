@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735255435.90 
+lvm2-2.03.22-r0: do_configure
+Elapsed time: 117.90 seconds
+utime: 58
+stime: 6
+cutime: 1380
+cstime: 325
+IO rchar: 143735312
+IO wchar: 10902298
+IO syscr: 80498
+IO syscw: 18206
+IO read_bytes: 8110080
+IO write_bytes: 11718656
+IO cancelled_write_bytes: 6684672
+rusage ru_utime: 0.590102
+rusage ru_stime: 0.064542
+rusage ru_maxrss: 60876
+rusage ru_minflt: 22427
+rusage ru_majflt: 55
+rusage ru_inblock: 3160
+rusage ru_oublock: 400
+rusage ru_nvcsw: 768
+rusage ru_nivcsw: 85
+Child rusage ru_utime: 13.80058
+Child rusage ru_stime: 3.258448
+Child rusage ru_maxrss: 58044
+Child rusage ru_minflt: 1041746
+Child rusage ru_majflt: 12
+Child rusage ru_inblock: 12680
+Child rusage ru_oublock: 22488
+Child rusage ru_nvcsw: 10389
+Child rusage ru_nivcsw: 5051
+Status: PASSED 
+Ended: 1735255553.80 

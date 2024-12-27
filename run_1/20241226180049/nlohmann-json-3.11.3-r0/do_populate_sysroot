@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735247308.79 
+nlohmann-json-3.11.3-r0: do_populate_sysroot
+Elapsed time: 6.60 seconds
+utime: 45
+stime: 9
+cutime: 15
+cstime: 11
+IO rchar: 4322507
+IO wchar: 1694964
+IO syscr: 1688
+IO syscw: 349
+IO read_bytes: 2904064
+IO write_bytes: 311296
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.456318
+rusage ru_stime: 0.09203
+rusage ru_maxrss: 61752
+rusage ru_minflt: 26278
+rusage ru_majflt: 4
+rusage ru_inblock: 3968
+rusage ru_oublock: 328
+rusage ru_nvcsw: 210
+rusage ru_nivcsw: 116
+Child rusage ru_utime: 0.15328
+Child rusage ru_stime: 0.118861
+Child rusage ru_maxrss: 58832
+Child rusage ru_minflt: 13420
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 1704
+Child rusage ru_oublock: 280
+Child rusage ru_nvcsw: 344
+Child rusage ru_nivcsw: 96
+Status: PASSED 
+Ended: 1735247315.38 

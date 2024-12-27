@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238053.50 
+cloud-init-v23.4.1+git-r0: do_populate_lic
+Elapsed time: 0.24 seconds
+utime: 25
+stime: 3
+cutime: 3
+cstime: 2
+IO rchar: 1072464
+IO wchar: 274407
+IO syscr: 575
+IO syscw: 127
+IO read_bytes: 61440
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.25371699999999997
+rusage ru_stime: 0.039643
+rusage ru_maxrss: 85932
+rusage ru_minflt: 20910
+rusage ru_majflt: 4
+rusage ru_inblock: 120
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 0.039105
+Child rusage ru_stime: 0.025717999999999998
+Child rusage ru_maxrss: 82792
+Child rusage ru_minflt: 5690
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 72
+Child rusage ru_nvcsw: 86
+Child rusage ru_nivcsw: 63
+Status: PASSED 
+Ended: 1735238053.74 

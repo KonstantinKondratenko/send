@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249022.08 
+cni-v1.2.0-rc0+gitb62753aa2bfa365c1ceaff6f25774a8047c896b5-r0: do_unpack
+Elapsed time: 150.54 seconds
+utime: 15
+stime: 16
+cutime: 216
+cstime: 101
+IO rchar: 56291481
+IO wchar: 106133810
+IO syscr: 172278
+IO syscw: 89526
+IO read_bytes: 29650944
+IO write_bytes: 122114048
+IO cancelled_write_bytes: 143360
+rusage ru_utime: 0.155602
+rusage ru_stime: 0.16475499999999998
+rusage ru_maxrss: 82696
+rusage ru_minflt: 60232
+rusage ru_majflt: 0
+rusage ru_inblock: 56
+rusage ru_oublock: 400
+rusage ru_nvcsw: 280
+rusage ru_nivcsw: 50
+Child rusage ru_utime: 2.162384
+Child rusage ru_stime: 1.016667
+Child rusage ru_maxrss: 78680
+Child rusage ru_minflt: 217870
+Child rusage ru_majflt: 516
+Child rusage ru_inblock: 57856
+Child rusage ru_oublock: 238104
+Child rusage ru_nvcsw: 13917
+Child rusage ru_nivcsw: 484
+Status: PASSED 
+Ended: 1735249172.62 

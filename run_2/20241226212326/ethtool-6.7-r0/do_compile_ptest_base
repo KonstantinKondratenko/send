@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735256491.24 
+ethtool-6.7-r0: do_compile_ptest_base
+Elapsed time: 6.83 seconds
+utime: 15
+stime: 2
+cutime: 1519
+cstime: 232
+IO rchar: 102033133
+IO wchar: 19547461
+IO syscr: 26578
+IO syscw: 6464
+IO read_bytes: 3129344
+IO write_bytes: 6078464
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.15389899999999998
+rusage ru_stime: 0.022632
+rusage ru_maxrss: 60672
+rusage ru_minflt: 6996
+rusage ru_majflt: 1
+rusage ru_inblock: 120
+rusage ru_oublock: 272
+rusage ru_nvcsw: 96
+rusage ru_nivcsw: 37
+Child rusage ru_utime: 15.190056
+Child rusage ru_stime: 2.323255
+Child rusage ru_maxrss: 71624
+Child rusage ru_minflt: 383941
+Child rusage ru_majflt: 15
+Child rusage ru_inblock: 5992
+Child rusage ru_oublock: 11600
+Child rusage ru_nvcsw: 4331
+Child rusage ru_nivcsw: 6761
+Status: PASSED 
+Ended: 1735256498.08 

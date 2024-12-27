@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237103.60 
+grub-efi-2.12-r0: do_recipe_qa
+Elapsed time: 0.12 seconds
+utime: 11
+stime: 1
+cutime: 2
+cstime: 1
+IO rchar: 595813
+IO wchar: 116438
+IO syscr: 352
+IO syscw: 95
+IO read_bytes: 0
+IO write_bytes: 94208
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.117682
+rusage ru_stime: 0.016232
+rusage ru_maxrss: 84572
+rusage ru_minflt: 15779
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 16
+Child rusage ru_utime: 0.020338
+Child rusage ru_stime: 0.011292
+Child rusage ru_maxrss: 81760
+Child rusage ru_minflt: 4322
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 103
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1735237103.72 

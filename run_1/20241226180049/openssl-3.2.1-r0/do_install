@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735240267.03 
+openssl-3.2.1-r0: do_install
+Elapsed time: 24.42 seconds
+utime: 33
+stime: 7
+cutime: 676
+cstime: 155
+IO rchar: 274163650
+IO wchar: 152683833
+IO syscr: 70765
+IO syscw: 10519
+IO read_bytes: 5591040
+IO write_bytes: 153022464
+IO cancelled_write_bytes: 74932224
+rusage ru_utime: 0.33341899999999997
+rusage ru_stime: 0.077942
+rusage ru_maxrss: 56936
+rusage ru_minflt: 17371
+rusage ru_majflt: 16
+rusage ru_inblock: 616
+rusage ru_oublock: 208
+rusage ru_nvcsw: 569
+rusage ru_nivcsw: 307
+Child rusage ru_utime: 6.763371
+Child rusage ru_stime: 1.5516269999999999
+Child rusage ru_maxrss: 55232
+Child rusage ru_minflt: 206656
+Child rusage ru_majflt: 8
+Child rusage ru_inblock: 10304
+Child rusage ru_oublock: 298664
+Child rusage ru_nvcsw: 4556
+Child rusage ru_nivcsw: 4088
+Status: PASSED 
+Ended: 1735240291.45 

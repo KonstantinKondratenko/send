@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735241552.17 
+librelp-1.11.0-r0: do_compile_ptest_base
+Elapsed time: 3.95 seconds
+utime: 16
+stime: 1
+cutime: 139
+cstime: 20
+IO rchar: 14973463
+IO wchar: 1080748
+IO syscr: 5922
+IO syscw: 1011
+IO read_bytes: 69632
+IO write_bytes: 471040
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.160964
+rusage ru_stime: 0.015328999999999999
+rusage ru_maxrss: 61820
+rusage ru_minflt: 7329
+rusage ru_majflt: 5
+rusage ru_inblock: 40
+rusage ru_oublock: 120
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 1.390411
+Child rusage ru_stime: 0.201894
+Child rusage ru_maxrss: 59400
+Child rusage ru_minflt: 91703
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 96
+Child rusage ru_oublock: 800
+Child rusage ru_nvcsw: 993
+Child rusage ru_nivcsw: 700
+Status: PASSED 
+Ended: 1735241556.12 

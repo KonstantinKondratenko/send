@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735259844.58 
+lttng-ust-2_2.13.7-r0: do_recipe_qa
+Elapsed time: 0.09 seconds
+utime: 10
+stime: 0
+cutime: 1
+cstime: 0
+IO rchar: 585701
+IO wchar: 121042
+IO syscr: 352
+IO syscw: 96
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.103903
+rusage ru_stime: 0.007696
+rusage ru_maxrss: 83104
+rusage ru_minflt: 15819
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.015697
+Child rusage ru_stime: 0.004961
+Child rusage ru_maxrss: 80296
+Child rusage ru_minflt: 4452
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 160
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735259844.67 

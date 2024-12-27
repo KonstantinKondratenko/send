@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735254571.03 
+libmd-1.1.0-r0: do_install
+Elapsed time: 2.54 seconds
+utime: 42
+stime: 6
+cutime: 47
+cstime: 41
+IO rchar: 3032213
+IO wchar: 364844
+IO syscr: 7518
+IO syscw: 519
+IO read_bytes: 118784
+IO write_bytes: 393216
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.42189
+rusage ru_stime: 0.066178
+rusage ru_maxrss: 57764
+rusage ru_minflt: 19174
+rusage ru_majflt: 1
+rusage ru_inblock: 8
+rusage ru_oublock: 208
+rusage ru_nvcsw: 291
+rusage ru_nivcsw: 318
+Child rusage ru_utime: 0.47747999999999996
+Child rusage ru_stime: 0.41614599999999996
+Child rusage ru_maxrss: 55924
+Child rusage ru_minflt: 65775
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 224
+Child rusage ru_oublock: 560
+Child rusage ru_nvcsw: 1699
+Child rusage ru_nivcsw: 1500
+Status: PASSED 
+Ended: 1735254573.57 

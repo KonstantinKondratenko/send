@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238022.02 
+libnvme-1.8-r0: do_populate_lic
+Elapsed time: 1.92 seconds
+utime: 28
+stime: 3
+cutime: 4
+cstime: 2
+IO rchar: 985399
+IO wchar: 248893
+IO syscr: 565
+IO syscw: 127
+IO read_bytes: 53248
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.280545
+rusage ru_stime: 0.033005
+rusage ru_maxrss: 85932
+rusage ru_minflt: 21035
+rusage ru_majflt: 5
+rusage ru_inblock: 104
+rusage ru_oublock: 208
+rusage ru_nvcsw: 33
+rusage ru_nivcsw: 58
+Child rusage ru_utime: 0.048864
+Child rusage ru_stime: 0.024690999999999998
+Child rusage ru_maxrss: 82804
+Child rusage ru_minflt: 5660
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 79
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1735238023.93 

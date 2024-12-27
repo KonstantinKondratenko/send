@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735265817.37 
+go-runtime-1.22.2-r0: do_install
+Elapsed time: 26.87 seconds
+utime: 19
+stime: 3
+cutime: 101
+cstime: 263
+IO rchar: 152187948
+IO wchar: 146392377
+IO syscr: 78754
+IO syscw: 10121
+IO read_bytes: 65929216
+IO write_bytes: 171470848
+IO cancelled_write_bytes: 53370880
+rusage ru_utime: 0.19319999999999998
+rusage ru_stime: 0.035127
+rusage ru_maxrss: 57108
+rusage ru_minflt: 16568
+rusage ru_majflt: 10
+rusage ru_inblock: 112
+rusage ru_oublock: 160
+rusage ru_nvcsw: 71
+rusage ru_nivcsw: 309
+Child rusage ru_utime: 1.019285
+Child rusage ru_stime: 2.632499
+Child rusage ru_maxrss: 55084
+Child rusage ru_minflt: 50302
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 128656
+Child rusage ru_oublock: 334744
+Child rusage ru_nvcsw: 17290
+Child rusage ru_nivcsw: 45402
+Status: PASSED 
+Ended: 1735265844.24 

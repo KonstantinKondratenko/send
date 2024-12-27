@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735262359.82 
+volatile-binds-1.0-r0: do_package
+Elapsed time: 4.12 seconds
+utime: 79
+stime: 87
+cutime: 116
+cstime: 18
+IO rchar: 3240529
+IO wchar: 1826062
+IO syscr: 4027
+IO syscw: 662
+IO read_bytes: 126976
+IO write_bytes: 1871872
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.792769
+rusage ru_stime: 0.872809
+rusage ru_maxrss: 79536
+rusage ru_minflt: 33459
+rusage ru_majflt: 0
+rusage ru_inblock: 200
+rusage ru_oublock: 584
+rusage ru_nvcsw: 450
+rusage ru_nivcsw: 1046
+Child rusage ru_utime: 1.16008
+Child rusage ru_stime: 0.18237199999999998
+Child rusage ru_maxrss: 125392
+Child rusage ru_minflt: 32833
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 3072
+Child rusage ru_nvcsw: 1187
+Child rusage ru_nivcsw: 1092
+Status: PASSED 
+Ended: 1735262363.94 

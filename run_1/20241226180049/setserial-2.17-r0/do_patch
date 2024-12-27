@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237748.67 
+setserial-2.17-r0: do_patch
+Elapsed time: 1.39 seconds
+utime: 6
+stime: 1
+cutime: 9
+cstime: 1
+IO rchar: 1984782
+IO wchar: 694256
+IO syscr: 2039
+IO syscw: 351
+IO read_bytes: 4096
+IO write_bytes: 729088
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.066422
+rusage ru_stime: 0.013283999999999999
+rusage ru_maxrss: 82792
+rusage ru_minflt: 11272
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 144
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.092634
+Child rusage ru_stime: 0.019469
+Child rusage ru_maxrss: 76948
+Child rusage ru_minflt: 29120
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1280
+Child rusage ru_nvcsw: 452
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1735237750.06 

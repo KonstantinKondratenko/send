@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735267945.77 
+procps-4.0.4-r0: do_configure
+Elapsed time: 84.59 seconds
+utime: 48
+stime: 10
+cutime: 1578
+cstime: 333
+IO rchar: 215173429
+IO wchar: 25095688
+IO syscr: 92315
+IO syscw: 22785
+IO read_bytes: 11059200
+IO write_bytes: 23592960
+IO cancelled_write_bytes: 12779520
+rusage ru_utime: 0.48163799999999996
+rusage ru_stime: 0.10159499999999999
+rusage ru_maxrss: 62028
+rusage ru_minflt: 23432
+rusage ru_majflt: 0
+rusage ru_inblock: 384
+rusage ru_oublock: 296
+rusage ru_nvcsw: 337
+rusage ru_nivcsw: 112
+Child rusage ru_utime: 15.783968
+Child rusage ru_stime: 3.333819
+Child rusage ru_maxrss: 59104
+Child rusage ru_minflt: 1008355
+Child rusage ru_majflt: 150
+Child rusage ru_inblock: 21216
+Child rusage ru_oublock: 45784
+Child rusage ru_nvcsw: 9325
+Child rusage ru_nivcsw: 7554
+Status: PASSED 
+Ended: 1735268030.37 

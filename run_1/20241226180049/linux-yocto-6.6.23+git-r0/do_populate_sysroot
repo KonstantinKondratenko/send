@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735247264.54 
+linux-yocto-6.6.23+git-r0: do_populate_sysroot
+Elapsed time: 8.21 seconds
+utime: 52
+stime: 6
+cutime: 7
+cstime: 2
+IO rchar: 1077811
+IO wchar: 240843
+IO syscr: 752
+IO syscw: 164
+IO read_bytes: 3887104
+IO write_bytes: 180224
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5249349999999999
+rusage ru_stime: 0.065616
+rusage ru_maxrss: 67924
+rusage ru_minflt: 32256
+rusage ru_majflt: 33
+rusage ru_inblock: 6448
+rusage ru_oublock: 312
+rusage ru_nvcsw: 248
+rusage ru_nivcsw: 108
+Child rusage ru_utime: 0.079868
+Child rusage ru_stime: 0.029224
+Child rusage ru_maxrss: 65056
+Child rusage ru_minflt: 8224
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1144
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 156
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1735247272.75 

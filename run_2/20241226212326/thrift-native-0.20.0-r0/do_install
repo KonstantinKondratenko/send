@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735251684.97 
+thrift-native-0.20.0-r0: do_install
+Elapsed time: 1.84 seconds
+utime: 40
+stime: 4
+cutime: 9
+cstime: 28
+IO rchar: 188111879
+IO wchar: 185423605
+IO syscr: 25434
+IO syscw: 23097
+IO read_bytes: 106496
+IO write_bytes: 185704448
+IO cancelled_write_bytes: 24576
+rusage ru_utime: 0.401607
+rusage ru_stime: 0.043297999999999996
+rusage ru_maxrss: 85448
+rusage ru_minflt: 15933
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 166
+rusage ru_nivcsw: 56
+Child rusage ru_utime: 0.09798699999999999
+Child rusage ru_stime: 0.28247
+Child rusage ru_maxrss: 82588
+Child rusage ru_minflt: 3047
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 208
+Child rusage ru_oublock: 362528
+Child rusage ru_nvcsw: 58
+Child rusage ru_nivcsw: 191
+Status: PASSED 
+Ended: 1735251686.80 

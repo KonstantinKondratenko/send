@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735252487.06 
+jansson-2.14-r0: do_populate_sysroot
+Elapsed time: 2.19 seconds
+utime: 42
+stime: 7
+cutime: 12
+cstime: 5
+IO rchar: 2137661
+IO wchar: 764079
+IO syscr: 1269
+IO syscw: 195
+IO read_bytes: 139264
+IO write_bytes: 606208
+IO cancelled_write_bytes: 73728
+rusage ru_utime: 0.426446
+rusage ru_stime: 0.073658
+rusage ru_maxrss: 63480
+rusage ru_minflt: 26963
+rusage ru_majflt: 6
+rusage ru_inblock: 264
+rusage ru_oublock: 784
+rusage ru_nvcsw: 40
+rusage ru_nivcsw: 180
+Child rusage ru_utime: 0.12041199999999999
+Child rusage ru_stime: 0.055202999999999995
+Child rusage ru_maxrss: 60992
+Child rusage ru_minflt: 14299
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 400
+Child rusage ru_nvcsw: 204
+Child rusage ru_nivcsw: 88
+Status: PASSED 
+Ended: 1735252489.25 

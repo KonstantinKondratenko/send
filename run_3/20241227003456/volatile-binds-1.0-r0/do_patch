@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261044.85 
+volatile-binds-1.0-r0: do_patch
+Elapsed time: 0.28 seconds
+utime: 7
+stime: 2
+cutime: 0
+cstime: 0
+IO rchar: 962837
+IO wchar: 643389
+IO syscr: 323
+IO syscw: 208
+IO read_bytes: 16384
+IO write_bytes: 655360
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.077161
+rusage ru_stime: 0.028426999999999997
+rusage ru_maxrss: 83668
+rusage ru_minflt: 8406
+rusage ru_majflt: 2
+rusage ru_inblock: 32
+rusage ru_oublock: 136
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.009896
+Child rusage ru_stime: 0.0031149999999999997
+Child rusage ru_maxrss: 78028
+Child rusage ru_minflt: 1240
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 15
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735261045.13 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261059.29 
+python3-pytest-xdist-3.5.0-r0: do_patch
+Elapsed time: 1.75 seconds
+utime: 12
+stime: 2
+cutime: 2
+cstime: 0
+IO rchar: 1014092
+IO wchar: 634195
+IO syscr: 346
+IO syscw: 200
+IO read_bytes: 40960
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.128668
+rusage ru_stime: 0.025716
+rusage ru_maxrss: 83832
+rusage ru_minflt: 8817
+rusage ru_majflt: 0
+rusage ru_inblock: 80
+rusage ru_oublock: 128
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 41
+Child rusage ru_utime: 0.021577
+Child rusage ru_stime: 0.003774
+Child rusage ru_maxrss: 78076
+Child rusage ru_minflt: 1279
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 17
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735261061.03 

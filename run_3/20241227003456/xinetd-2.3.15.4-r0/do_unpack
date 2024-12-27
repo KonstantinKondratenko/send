@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735260087.90 
+xinetd-2.3.15.4-r0: do_unpack
+Elapsed time: 17.74 seconds
+utime: 5
+stime: 2
+cutime: 11
+cstime: 2
+IO rchar: 5072988
+IO wchar: 868777
+IO syscr: 2022
+IO syscw: 369
+IO read_bytes: 0
+IO write_bytes: 1409024
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.054719
+rusage ru_stime: 0.027358999999999998
+rusage ru_maxrss: 81996
+rusage ru_minflt: 14998
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 19
+Child rusage ru_utime: 0.11513599999999999
+Child rusage ru_stime: 0.025248
+Child rusage ru_maxrss: 78148
+Child rusage ru_minflt: 17983
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2664
+Child rusage ru_nvcsw: 57
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1735260105.65 

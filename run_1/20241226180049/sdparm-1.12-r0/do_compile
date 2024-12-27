@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735247586.10 
+sdparm-1.12-r0: do_compile
+Elapsed time: 5.42 seconds
+utime: 26
+stime: 3
+cutime: 398
+cstime: 25
+IO rchar: 12036526
+IO wchar: 4893901
+IO syscr: 3026
+IO syscw: 1318
+IO read_bytes: 512000
+IO write_bytes: 1462272
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.262737
+rusage ru_stime: 0.035293
+rusage ru_maxrss: 62028
+rusage ru_minflt: 9663
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 50
+Child rusage ru_utime: 3.989064
+Child rusage ru_stime: 0.25421099999999996
+Child rusage ru_maxrss: 64672
+Child rusage ru_minflt: 49366
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 984
+Child rusage ru_oublock: 2752
+Child rusage ru_nvcsw: 689
+Child rusage ru_nivcsw: 1699
+Status: PASSED 
+Ended: 1735247591.51 

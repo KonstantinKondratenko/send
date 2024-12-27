@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735269122.51 
+jq-1.7.1-r0: do_install
+Elapsed time: 4.52 seconds
+utime: 23
+stime: 6
+cutime: 25
+cstime: 9
+IO rchar: 3365298
+IO wchar: 1627766
+IO syscr: 3150
+IO syscw: 285
+IO read_bytes: 6184960
+IO write_bytes: 1654784
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.23052499999999998
+rusage ru_stime: 0.062515
+rusage ru_maxrss: 57120
+rusage ru_minflt: 19492
+rusage ru_majflt: 22
+rusage ru_inblock: 2808
+rusage ru_oublock: 200
+rusage ru_nvcsw: 437
+rusage ru_nivcsw: 206
+Child rusage ru_utime: 0.256229
+Child rusage ru_stime: 0.097732
+Child rusage ru_maxrss: 55100
+Child rusage ru_minflt: 39814
+Child rusage ru_majflt: 35
+Child rusage ru_inblock: 9272
+Child rusage ru_oublock: 3032
+Child rusage ru_nvcsw: 1017
+Child rusage ru_nivcsw: 546
+Status: PASSED 
+Ended: 1735269127.04 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735250757.24 
+python3-poetry-core-native-1.9.0-r0: do_compile
+Elapsed time: 5.11 seconds
+utime: 27
+stime: 4
+cutime: 224
+cstime: 16
+IO rchar: 12829883
+IO wchar: 4904989
+IO syscr: 2233
+IO syscw: 631
+IO read_bytes: 1462272
+IO write_bytes: 5419008
+IO cancelled_write_bytes: 348160
+rusage ru_utime: 0.27810599999999996
+rusage ru_stime: 0.043702
+rusage ru_maxrss: 85776
+rusage ru_minflt: 12273
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 48
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 2.246029
+Child rusage ru_stime: 0.16161399999999998
+Child rusage ru_maxrss: 82904
+Child rusage ru_minflt: 21724
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2856
+Child rusage ru_oublock: 10536
+Child rusage ru_nvcsw: 195
+Child rusage ru_nivcsw: 321
+Status: PASSED 
+Ended: 1735250762.36 

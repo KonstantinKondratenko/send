@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261073.80 
+iptraf-ng-1.2.1-r0: do_patch
+Elapsed time: 4.06 seconds
+utime: 9
+stime: 2
+cutime: 7
+cstime: 2
+IO rchar: 1639623
+IO wchar: 669888
+IO syscr: 1432
+IO syscw: 298
+IO read_bytes: 40960
+IO write_bytes: 700416
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.09322599999999999
+rusage ru_stime: 0.020266
+rusage ru_maxrss: 83752
+rusage ru_minflt: 10528
+rusage ru_majflt: 2
+rusage ru_inblock: 56
+rusage ru_oublock: 144
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 17
+Child rusage ru_utime: 0.077333
+Child rusage ru_stime: 0.020402
+Child rusage ru_maxrss: 78120
+Child rusage ru_minflt: 19465
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 1224
+Child rusage ru_nvcsw: 295
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1735261077.85 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735268512.73 
+go-runtime-1.22.2-r0: do_create_spdx
+Elapsed time: 8.10 seconds
+utime: 262
+stime: 75
+cutime: 11
+cstime: 5
+IO rchar: 14336150
+IO wchar: 9612637
+IO syscr: 2196
+IO syscw: 1656
+IO read_bytes: 108634112
+IO write_bytes: 4808704
+IO cancelled_write_bytes: 0
+rusage ru_utime: 2.622692
+rusage ru_stime: 0.754535
+rusage ru_maxrss: 76016
+rusage ru_minflt: 45012
+rusage ru_majflt: 7018
+rusage ru_inblock: 212032
+rusage ru_oublock: 8360
+rusage ru_nvcsw: 7180
+rusage ru_nivcsw: 322
+Child rusage ru_utime: 0.11924699999999999
+Child rusage ru_stime: 0.053932999999999995
+Child rusage ru_maxrss: 68656
+Child rusage ru_minflt: 8729
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 144
+Child rusage ru_oublock: 1032
+Child rusage ru_nvcsw: 340
+Child rusage ru_nivcsw: 145
+Status: PASSED 
+Ended: 1735268520.83 

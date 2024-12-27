@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735242149.66 
+systemd-1_255.4-r0: do_create_spdx
+Elapsed time: 14.06 seconds
+utime: 376
+stime: 90
+cutime: 39
+cstime: 27
+IO rchar: 16395432
+IO wchar: 23627035
+IO syscr: 4054
+IO syscw: 28863
+IO read_bytes: 978944
+IO write_bytes: 8265728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 3.762157
+rusage ru_stime: 0.908106
+rusage ru_maxrss: 76400
+rusage ru_minflt: 108845
+rusage ru_majflt: 56
+rusage ru_inblock: 1912
+rusage ru_oublock: 15536
+rusage ru_nvcsw: 297
+rusage ru_nivcsw: 10961
+Child rusage ru_utime: 0.397518
+Child rusage ru_stime: 0.27229
+Child rusage ru_maxrss: 66172
+Child rusage ru_minflt: 25896
+Child rusage ru_majflt: 18
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 608
+Child rusage ru_nvcsw: 4095
+Child rusage ru_nivcsw: 860
+Status: PASSED 
+Ended: 1735242163.72 

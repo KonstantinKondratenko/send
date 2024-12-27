@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735248485.45 
+btrfs-tools-6.7.1-r0: do_fetch
+Elapsed time: 224.10 seconds
+utime: 14
+stime: 2
+cutime: 243
+cstime: 38
+IO rchar: 38372973
+IO wchar: 40155795
+IO syscr: 42441
+IO syscw: 9516
+IO read_bytes: 0
+IO write_bytes: 14258176
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.145487
+rusage ru_stime: 0.029758
+rusage ru_maxrss: 80252
+rusage ru_minflt: 9253
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 224
+rusage ru_nvcsw: 504
+rusage ru_nivcsw: 18
+Child rusage ru_utime: 2.438976
+Child rusage ru_stime: 0.38409699999999997
+Child rusage ru_maxrss: 76232
+Child rusage ru_minflt: 20428
+Child rusage ru_majflt: 8
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 27624
+Child rusage ru_nvcsw: 12876
+Child rusage ru_nivcsw: 196
+Status: PASSED 
+Ended: 1735248709.55 

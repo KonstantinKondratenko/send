@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238076.74 
+thrift-native-0.20.0-r0: do_create_runtime_spdx
+Elapsed time: 1.23 seconds
+utime: 26
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 993759
+IO wchar: 344590
+IO syscr: 375
+IO syscw: 109
+IO read_bytes: 0
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.268673
+rusage ru_stime: 0.056761
+rusage ru_maxrss: 87704
+rusage ru_minflt: 21752
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 61
+Child rusage ru_utime: 0.013864
+Child rusage ru_stime: 0.028714
+Child rusage ru_maxrss: 84908
+Child rusage ru_minflt: 4649
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 131
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1735238077.97 

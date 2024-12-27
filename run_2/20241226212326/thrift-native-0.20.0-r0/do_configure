@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735251526.90 
+thrift-native-0.20.0-r0: do_configure
+Elapsed time: 61.04 seconds
+utime: 31
+stime: 3
+cutime: 276
+cstime: 96
+IO rchar: 48870461
+IO wchar: 4551559
+IO syscr: 30094
+IO syscw: 18742
+IO read_bytes: 1036288
+IO write_bytes: 5259264
+IO cancelled_write_bytes: 3743744
+rusage ru_utime: 0.31787899999999997
+rusage ru_stime: 0.039734
+rusage ru_maxrss: 85960
+rusage ru_minflt: 14063
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 152
+rusage ru_nvcsw: 166
+rusage ru_nivcsw: 86
+Child rusage ru_utime: 2.769289
+Child rusage ru_stime: 0.9622219999999999
+Child rusage ru_maxrss: 82872
+Child rusage ru_minflt: 262409
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 2016
+Child rusage ru_oublock: 10120
+Child rusage ru_nvcsw: 2473
+Child rusage ru_nivcsw: 1713
+Status: PASSED 
+Ended: 1735251587.93 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735252375.51 
+libaio-0.3.113-r0: do_install
+Elapsed time: 0.70 seconds
+utime: 34
+stime: 4
+cutime: 6
+cstime: 3
+IO rchar: 535452
+IO wchar: 183243
+IO syscr: 650
+IO syscw: 86
+IO read_bytes: 8192
+IO write_bytes: 200704
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.34759599999999996
+rusage ru_stime: 0.040417999999999996
+rusage ru_maxrss: 75420
+rusage ru_minflt: 16106
+rusage ru_majflt: 2
+rusage ru_inblock: 16
+rusage ru_oublock: 152
+rusage ru_nvcsw: 59
+rusage ru_nivcsw: 273
+Child rusage ru_utime: 0.060826
+Child rusage ru_stime: 0.031966999999999995
+Child rusage ru_maxrss: 73232
+Child rusage ru_minflt: 4242
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 240
+Child rusage ru_nvcsw: 86
+Child rusage ru_nivcsw: 102
+Status: PASSED 
+Ended: 1735252376.21 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735253788.33 
+libxtst-1_1.2.4-r0: do_compile
+Elapsed time: 4.36 seconds
+utime: 22
+stime: 2
+cutime: 139
+cstime: 14
+IO rchar: 6153545
+IO wchar: 1203097
+IO syscr: 2961
+IO syscw: 624
+IO read_bytes: 131072
+IO write_bytes: 454656
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.222408
+rusage ru_stime: 0.020593
+rusage ru_maxrss: 62360
+rusage ru_minflt: 9733
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 40
+Child rusage ru_utime: 1.3935659999999999
+Child rusage ru_stime: 0.145969
+Child rusage ru_maxrss: 59492
+Child rusage ru_minflt: 48657
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 256
+Child rusage ru_oublock: 768
+Child rusage ru_nvcsw: 627
+Child rusage ru_nivcsw: 330
+Status: PASSED 
+Ended: 1735253792.69 

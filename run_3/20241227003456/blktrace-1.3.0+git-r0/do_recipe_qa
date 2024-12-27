@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735260002.13 
+blktrace-1.3.0+git-r0: do_recipe_qa
+Elapsed time: 0.11 seconds
+utime: 9
+stime: 1
+cutime: 0
+cstime: 1
+IO rchar: 622079
+IO wchar: 110814
+IO syscr: 339
+IO syscw: 85
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.09467199999999999
+rusage ru_stime: 0.012908999999999999
+rusage ru_maxrss: 83648
+rusage ru_minflt: 15541
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.009973
+Child rusage ru_stime: 0.015000999999999999
+Child rusage ru_maxrss: 80832
+Child rusage ru_minflt: 4388
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 84
+Child rusage ru_nivcsw: 28
+Status: PASSED 
+Ended: 1735260002.23 

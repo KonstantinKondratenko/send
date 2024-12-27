@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237245.02 
+samba-4.19.5-r0: do_recipe_qa
+Elapsed time: 0.09 seconds
+utime: 12
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 636746
+IO wchar: 122975
+IO syscr: 361
+IO syscw: 101
+IO read_bytes: 184320
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.12835
+rusage ru_stime: 0.011668
+rusage ru_maxrss: 85156
+rusage ru_minflt: 16016
+rusage ru_majflt: 0
+rusage ru_inblock: 360
+rusage ru_oublock: 160
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.015023
+Child rusage ru_stime: 0.0069489999999999994
+Child rusage ru_maxrss: 82352
+Child rusage ru_minflt: 4407
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 127
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1735237245.12 

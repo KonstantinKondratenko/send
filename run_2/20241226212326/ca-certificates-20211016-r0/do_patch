@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735248998.85 
+ca-certificates-20211016-r0: do_patch
+Elapsed time: 4.14 seconds
+utime: 6
+stime: 1
+cutime: 12
+cstime: 2
+IO rchar: 2672875
+IO wchar: 750943
+IO syscr: 3333
+IO syscw: 456
+IO read_bytes: 73728
+IO write_bytes: 782336
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.064029
+rusage ru_stime: 0.016007
+rusage ru_maxrss: 81956
+rusage ru_minflt: 12302
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.126515
+Child rusage ru_stime: 0.024817
+Child rusage ru_maxrss: 76240
+Child rusage ru_minflt: 47868
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 144
+Child rusage ru_oublock: 1376
+Child rusage ru_nvcsw: 768
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1735249002.99 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237246.00 
+iptraf-ng-1.2.1-r0: do_recipe_qa
+Elapsed time: 0.12 seconds
+utime: 9
+stime: 4
+cutime: 2
+cstime: 0
+IO rchar: 605397
+IO wchar: 113226
+IO syscr: 338
+IO syscw: 88
+IO read_bytes: 110592
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.09834699999999999
+rusage ru_stime: 0.043272
+rusage ru_maxrss: 84728
+rusage ru_minflt: 15608
+rusage ru_majflt: 0
+rusage ru_inblock: 216
+rusage ru_oublock: 160
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.020366
+Child rusage ru_stime: 0.006227
+Child rusage ru_maxrss: 81912
+Child rusage ru_minflt: 4344
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 153
+Child rusage ru_nivcsw: 6
+Status: PASSED 
+Ended: 1735237246.12 

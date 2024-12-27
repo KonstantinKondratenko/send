@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261073.22 
+multipath-tools-0.9.8-r0: do_patch
+Elapsed time: 2.59 seconds
+utime: 8
+stime: 3
+cutime: 35
+cstime: 7
+IO rchar: 5455640
+IO wchar: 1032352
+IO syscr: 8249
+IO syscw: 893
+IO read_bytes: 516096
+IO write_bytes: 1024000
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.084243
+rusage ru_stime: 0.038292
+rusage ru_maxrss: 83828
+rusage ru_minflt: 17337
+rusage ru_majflt: 13
+rusage ru_inblock: 328
+rusage ru_oublock: 200
+rusage ru_nvcsw: 84
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.358886
+Child rusage ru_stime: 0.078945
+Child rusage ru_maxrss: 77864
+Child rusage ru_minflt: 127695
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 680
+Child rusage ru_oublock: 1800
+Child rusage ru_nvcsw: 2005
+Child rusage ru_nivcsw: 86
+Status: PASSED 
+Ended: 1735261075.81 

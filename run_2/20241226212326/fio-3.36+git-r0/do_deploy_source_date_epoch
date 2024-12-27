@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249564.43 
+fio-3.36+git-r0: do_deploy_source_date_epoch
+Elapsed time: 2.65 seconds
+utime: 14
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 678614
+IO wchar: 136372
+IO syscr: 429
+IO syscw: 92
+IO read_bytes: 4096
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.149863
+rusage ru_stime: 0.027606
+rusage ru_maxrss: 84200
+rusage ru_minflt: 21509
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.015858
+Child rusage ru_stime: 0.011954999999999999
+Child rusage ru_maxrss: 81284
+Child rusage ru_minflt: 5206
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 127
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1735249567.08 

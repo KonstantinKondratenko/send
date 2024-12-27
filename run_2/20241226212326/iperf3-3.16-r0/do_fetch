@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249121.60 
+iperf3-3.16-r0: do_fetch
+Elapsed time: 16.04 seconds
+utime: 11
+stime: 0
+cutime: 151
+cstime: 24
+IO rchar: 51094948
+IO wchar: 50057034
+IO syscr: 30008
+IO syscw: 18814
+IO read_bytes: 16384
+IO write_bytes: 17072128
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.11213999999999999
+rusage ru_stime: 0.005097
+rusage ru_maxrss: 82272
+rusage ru_minflt: 9035
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 176
+rusage ru_nvcsw: 220
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 1.517373
+Child rusage ru_stime: 0.247601
+Child rusage ru_maxrss: 78576
+Child rusage ru_minflt: 23950
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 33168
+Child rusage ru_nvcsw: 11494
+Child rusage ru_nivcsw: 91
+Status: PASSED 
+Ended: 1735249137.64 

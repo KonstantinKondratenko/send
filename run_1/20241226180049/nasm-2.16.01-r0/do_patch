@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237751.32 
+nasm-2.16.01-r0: do_patch
+Elapsed time: 0.35 seconds
+utime: 5
+stime: 1
+cutime: 5
+cstime: 2
+IO rchar: 2265915
+IO wchar: 1139849
+IO syscr: 1500
+IO syscw: 439
+IO read_bytes: 57344
+IO write_bytes: 1212416
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.057955
+rusage ru_stime: 0.019318
+rusage ru_maxrss: 82864
+rusage ru_minflt: 10711
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 144
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.050969
+Child rusage ru_stime: 0.025765999999999997
+Child rusage ru_maxrss: 76976
+Child rusage ru_minflt: 19718
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 104
+Child rusage ru_oublock: 2224
+Child rusage ru_nvcsw: 310
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1735237751.66 

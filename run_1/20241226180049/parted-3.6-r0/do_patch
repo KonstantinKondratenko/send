@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735236865.92 
+parted-3.6-r0: do_patch
+Elapsed time: 13.11 seconds
+utime: 7
+stime: 1
+cutime: 9
+cstime: 2
+IO rchar: 1399679
+IO wchar: 163935
+IO syscr: 1914
+IO syscw: 228
+IO read_bytes: 0
+IO write_bytes: 180224
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.072007
+rusage ru_stime: 0.012707
+rusage ru_maxrss: 82292
+rusage ru_minflt: 11128
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 11
+Child rusage ru_utime: 0.099703
+Child rusage ru_stime: 0.027641
+Child rusage ru_maxrss: 75964
+Child rusage ru_minflt: 29152
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 447
+Child rusage ru_nivcsw: 46
+Status: PASSED 
+Ended: 1735236879.04 

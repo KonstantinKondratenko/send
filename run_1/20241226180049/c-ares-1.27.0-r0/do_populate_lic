@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238022.25 
+c-ares-1.27.0-r0: do_populate_lic
+Elapsed time: 1.62 seconds
+utime: 24
+stime: 4
+cutime: 4
+cstime: 2
+IO rchar: 749734
+IO wchar: 159599
+IO syscr: 522
+IO syscw: 111
+IO read_bytes: 196608
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.248599
+rusage ru_stime: 0.040096
+rusage ru_maxrss: 85948
+rusage ru_minflt: 20963
+rusage ru_majflt: 1
+rusage ru_inblock: 344
+rusage ru_oublock: 208
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 50
+Child rusage ru_utime: 0.046911
+Child rusage ru_stime: 0.028329999999999998
+Child rusage ru_maxrss: 82852
+Child rusage ru_minflt: 5615
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 103
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1735238023.87 

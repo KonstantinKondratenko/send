@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261278.81 
+thrift-0.20.0-r0: do_populate_lic
+Elapsed time: 4.28 seconds
+utime: 10
+stime: 2
+cutime: 2
+cstime: 2
+IO rchar: 835158
+IO wchar: 195887
+IO syscr: 539
+IO syscw: 115
+IO read_bytes: 20480
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.10863099999999999
+rusage ru_stime: 0.022475
+rusage ru_maxrss: 86968
+rusage ru_minflt: 21053
+rusage ru_majflt: 2
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 7
+Child rusage ru_utime: 0.0206
+Child rusage ru_stime: 0.021089
+Child rusage ru_maxrss: 83840
+Child rusage ru_minflt: 5631
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 137
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735261283.09 

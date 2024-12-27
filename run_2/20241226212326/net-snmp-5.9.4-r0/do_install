@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735256342.57 
+net-snmp-5.9.4-r0: do_install
+Elapsed time: 242.08 seconds
+utime: 51
+stime: 13
+cutime: 3121
+cstime: 623
+IO rchar: 238837386
+IO wchar: 37808409
+IO syscr: 151899
+IO syscw: 26827
+IO read_bytes: 24195072
+IO write_bytes: 36900864
+IO cancelled_write_bytes: 1372160
+rusage ru_utime: 0.512652
+rusage ru_stime: 0.130134
+rusage ru_maxrss: 60180
+rusage ru_minflt: 21718
+rusage ru_majflt: 54
+rusage ru_inblock: 2280
+rusage ru_oublock: 848
+rusage ru_nvcsw: 2498
+rusage ru_nivcsw: 1299
+Child rusage ru_utime: 31.214982
+Child rusage ru_stime: 6.230343
+Child rusage ru_maxrss: 57792
+Child rusage ru_minflt: 3540381
+Child rusage ru_majflt: 31
+Child rusage ru_inblock: 44976
+Child rusage ru_oublock: 71224
+Child rusage ru_nvcsw: 53077
+Child rusage ru_nivcsw: 39192
+Status: PASSED 
+Ended: 1735256584.65 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735260980.43 
+lvm2-2.03.22-r0: do_patch
+Elapsed time: 1.49 seconds
+utime: 10
+stime: 2
+cutime: 31
+cstime: 6
+IO rchar: 5681220
+IO wchar: 1484820
+IO syscr: 7081
+IO syscw: 949
+IO read_bytes: 1585152
+IO write_bytes: 1495040
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.10832299999999999
+rusage ru_stime: 0.028886
+rusage ru_maxrss: 83724
+rusage ru_minflt: 16360
+rusage ru_majflt: 11
+rusage ru_inblock: 1808
+rusage ru_oublock: 184
+rusage ru_nvcsw: 135
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 0.311604
+Child rusage ru_stime: 0.06677799999999999
+Child rusage ru_maxrss: 77812
+Child rusage ru_minflt: 108607
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1288
+Child rusage ru_oublock: 2736
+Child rusage ru_nvcsw: 1697
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1735260981.92 

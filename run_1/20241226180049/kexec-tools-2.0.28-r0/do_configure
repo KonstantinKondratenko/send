@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735247512.53 
+kexec-tools-2.0.28-r0: do_configure
+Elapsed time: 26.70 seconds
+utime: 23
+stime: 4
+cutime: 166
+cstime: 39
+IO rchar: 29009702
+IO wchar: 2571726
+IO syscr: 15247
+IO syscw: 6335
+IO read_bytes: 966656
+IO write_bytes: 2576384
+IO cancelled_write_bytes: 1118208
+rusage ru_utime: 0.23304899999999998
+rusage ru_stime: 0.048216999999999996
+rusage ru_maxrss: 62836
+rusage ru_minflt: 19561
+rusage ru_majflt: 0
+rusage ru_inblock: 456
+rusage ru_oublock: 256
+rusage ru_nvcsw: 163
+rusage ru_nivcsw: 20
+Child rusage ru_utime: 1.660822
+Child rusage ru_stime: 0.394752
+Child rusage ru_maxrss: 60108
+Child rusage ru_minflt: 192609
+Child rusage ru_majflt: 6
+Child rusage ru_inblock: 1432
+Child rusage ru_oublock: 4776
+Child rusage ru_nvcsw: 2478
+Child rusage ru_nivcsw: 1302
+Status: PASSED 
+Ended: 1735247539.23 

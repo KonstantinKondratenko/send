@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735242398.91 
+libdaemon-0.14-r0: do_package
+Elapsed time: 5.68 seconds
+utime: 99
+stime: 80
+cutime: 239
+cstime: 30
+IO rchar: 6517610
+IO wchar: 2684323
+IO syscr: 6669
+IO syscw: 926
+IO read_bytes: 20480
+IO write_bytes: 2396160
+IO cancelled_write_bytes: 221184
+rusage ru_utime: 0.99645
+rusage ru_stime: 0.8093619999999999
+rusage ru_maxrss: 60220
+rusage ru_minflt: 44775
+rusage ru_majflt: 5
+rusage ru_inblock: 40
+rusage ru_oublock: 616
+rusage ru_nvcsw: 367
+rusage ru_nivcsw: 1703
+Child rusage ru_utime: 2.396977
+Child rusage ru_stime: 0.305901
+Child rusage ru_maxrss: 57856
+Child rusage ru_minflt: 46768
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 4064
+Child rusage ru_nvcsw: 2350
+Child rusage ru_nivcsw: 1249
+Status: PASSED 
+Ended: 1735242404.58 

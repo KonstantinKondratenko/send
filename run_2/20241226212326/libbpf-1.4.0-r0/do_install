@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735254582.43 
+libbpf-1.4.0-r0: do_install
+Elapsed time: 1.18 seconds
+utime: 25
+stime: 4
+cutime: 8
+cstime: 3
+IO rchar: 5253679
+IO wchar: 4735356
+IO syscr: 1277
+IO syscw: 133
+IO read_bytes: 290816
+IO write_bytes: 4780032
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.258493
+rusage ru_stime: 0.048701
+rusage ru_maxrss: 57596
+rusage ru_minflt: 18877
+rusage ru_majflt: 3
+rusage ru_inblock: 32
+rusage ru_oublock: 144
+rusage ru_nvcsw: 63
+rusage ru_nivcsw: 261
+Child rusage ru_utime: 0.089887
+Child rusage ru_stime: 0.038253999999999996
+Child rusage ru_maxrss: 55756
+Child rusage ru_minflt: 8907
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 536
+Child rusage ru_oublock: 9192
+Child rusage ru_nvcsw: 337
+Child rusage ru_nivcsw: 265
+Status: PASSED 
+Ended: 1735254583.62 

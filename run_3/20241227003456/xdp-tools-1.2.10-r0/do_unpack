@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735260118.26 
+xdp-tools-1.2.10-r0: do_unpack
+Elapsed time: 9.64 seconds
+utime: 6
+stime: 3
+cutime: 8
+cstime: 6
+IO rchar: 5119095
+IO wchar: 1103468
+IO syscr: 2493
+IO syscw: 588
+IO read_bytes: 0
+IO write_bytes: 1568768
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.064412
+rusage ru_stime: 0.032206
+rusage ru_maxrss: 81804
+rusage ru_minflt: 15297
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 13
+Child rusage ru_utime: 0.08509499999999999
+Child rusage ru_stime: 0.062382
+Child rusage ru_maxrss: 77948
+Child rusage ru_minflt: 18827
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 2968
+Child rusage ru_nvcsw: 94
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735260127.90 

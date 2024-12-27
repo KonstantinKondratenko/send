@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735254606.77 
+sed-4.9-r0: do_install
+Elapsed time: 6.54 seconds
+utime: 32
+stime: 5
+cutime: 75
+cstime: 23
+IO rchar: 9371029
+IO wchar: 1735463
+IO syscr: 9281
+IO syscw: 484
+IO read_bytes: 2449408
+IO write_bytes: 1781760
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.322849
+rusage ru_stime: 0.051952
+rusage ru_maxrss: 58184
+rusage ru_minflt: 19491
+rusage ru_majflt: 0
+rusage ru_inblock: 480
+rusage ru_oublock: 200
+rusage ru_nvcsw: 265
+rusage ru_nivcsw: 330
+Child rusage ru_utime: 0.754369
+Child rusage ru_stime: 0.23971599999999998
+Child rusage ru_maxrss: 56344
+Child rusage ru_minflt: 90320
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 4304
+Child rusage ru_oublock: 3280
+Child rusage ru_nvcsw: 1697
+Child rusage ru_nivcsw: 2456
+Status: PASSED 
+Ended: 1735254613.31 

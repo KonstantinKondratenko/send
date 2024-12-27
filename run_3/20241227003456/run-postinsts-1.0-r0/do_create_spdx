@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735262605.66 
+run-postinsts-1.0-r0: do_create_spdx
+Elapsed time: 0.97 seconds
+utime: 36
+stime: 9
+cutime: 6
+cstime: 4
+IO rchar: 1040832
+IO wchar: 504955
+IO syscr: 607
+IO syscw: 156
+IO read_bytes: 8192
+IO write_bytes: 221184
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.36105499999999996
+rusage ru_stime: 0.093306
+rusage ru_maxrss: 87836
+rusage ru_minflt: 25250
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 328
+rusage ru_nvcsw: 37
+rusage ru_nivcsw: 90
+Child rusage ru_utime: 0.061585999999999995
+Child rusage ru_stime: 0.045859
+Child rusage ru_maxrss: 84952
+Child rusage ru_minflt: 6798
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 247
+Child rusage ru_nivcsw: 137
+Status: PASSED 
+Ended: 1735262606.63 

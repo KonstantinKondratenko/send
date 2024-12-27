@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735268163.61 
+iptables-1.8.10-r0: do_populate_sysroot
+Elapsed time: 23.31 seconds
+utime: 304
+stime: 77
+cutime: 111
+cstime: 151
+IO rchar: 31954986
+IO wchar: 8960901
+IO syscr: 20722
+IO syscw: 2731
+IO read_bytes: 4440064
+IO write_bytes: 8171520
+IO cancelled_write_bytes: 1867776
+rusage ru_utime: 3.049566
+rusage ru_stime: 0.772042
+rusage ru_maxrss: 63388
+rusage ru_minflt: 81652
+rusage ru_majflt: 3
+rusage ru_inblock: 928
+rusage ru_oublock: 8144
+rusage ru_nvcsw: 161
+rusage ru_nivcsw: 525
+Child rusage ru_utime: 1.11239
+Child rusage ru_stime: 1.5162309999999999
+Child rusage ru_maxrss: 61028
+Child rusage ru_minflt: 257016
+Child rusage ru_majflt: 33
+Child rusage ru_inblock: 7744
+Child rusage ru_oublock: 7816
+Child rusage ru_nvcsw: 1455
+Child rusage ru_nivcsw: 704
+Status: PASSED 
+Ended: 1735268186.92 

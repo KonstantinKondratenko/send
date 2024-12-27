@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249780.08 
+xdp-tools-1.2.10-r0: do_populate_lic
+Elapsed time: 4.94 seconds
+utime: 14
+stime: 1
+cutime: 2
+cstime: 2
+IO rchar: 1048130
+IO wchar: 267529
+IO syscr: 569
+IO syscw: 123
+IO read_bytes: 57344
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.148812
+rusage ru_stime: 0.016534
+rusage ru_maxrss: 84756
+rusage ru_minflt: 18129
+rusage ru_majflt: 5
+rusage ru_inblock: 112
+rusage ru_oublock: 208
+rusage ru_nvcsw: 31
+rusage ru_nivcsw: 10
+Child rusage ru_utime: 0.020227
+Child rusage ru_stime: 0.022548
+Child rusage ru_maxrss: 81476
+Child rusage ru_minflt: 5624
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 72
+Child rusage ru_nvcsw: 140
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1735249785.02 

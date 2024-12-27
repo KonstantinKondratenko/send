@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735242590.23 
+sg3-utils-1.48-r0: do_install
+Elapsed time: 31.78 seconds
+utime: 31
+stime: 2
+cutime: 279
+cstime: 78
+IO rchar: 17491832
+IO wchar: 9475419
+IO syscr: 30855
+IO syscw: 6219
+IO read_bytes: 1146880
+IO write_bytes: 9404416
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.319733
+rusage ru_stime: 0.029449
+rusage ru_maxrss: 59280
+rusage ru_minflt: 16203
+rusage ru_majflt: 3
+rusage ru_inblock: 24
+rusage ru_oublock: 248
+rusage ru_nvcsw: 554
+rusage ru_nivcsw: 297
+Child rusage ru_utime: 2.7931429999999997
+Child rusage ru_stime: 0.7821159999999999
+Child rusage ru_maxrss: 57348
+Child rusage ru_minflt: 430631
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 2216
+Child rusage ru_oublock: 18120
+Child rusage ru_nvcsw: 9209
+Child rusage ru_nivcsw: 6996
+Status: PASSED 
+Ended: 1735242622.02 

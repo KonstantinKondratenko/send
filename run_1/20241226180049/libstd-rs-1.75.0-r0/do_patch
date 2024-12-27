@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237180.70 
+libstd-rs-1.75.0-r0: do_patch
+Elapsed time: 3.82 seconds
+utime: 10
+stime: 5
+cutime: 48
+cstime: 13
+IO rchar: 5674309
+IO wchar: 989450
+IO syscr: 7350
+IO syscw: 820
+IO read_bytes: 172032
+IO write_bytes: 999424
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.102758
+rusage ru_stime: 0.057088
+rusage ru_maxrss: 82816
+rusage ru_minflt: 17217
+rusage ru_majflt: 0
+rusage ru_inblock: 336
+rusage ru_oublock: 176
+rusage ru_nvcsw: 66
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 0.48516699999999996
+Child rusage ru_stime: 0.132574
+Child rusage ru_maxrss: 76712
+Child rusage ru_minflt: 118052
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1776
+Child rusage ru_nvcsw: 1817
+Child rusage ru_nivcsw: 158
+Status: PASSED 
+Ended: 1735237184.52 

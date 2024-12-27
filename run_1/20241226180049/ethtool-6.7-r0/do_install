@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735244172.55 
+ethtool-6.7-r0: do_install
+Elapsed time: 2.10 seconds
+utime: 38
+stime: 5
+cutime: 12
+cstime: 8
+IO rchar: 3576302
+IO wchar: 2313251
+IO syscr: 1587
+IO syscw: 142
+IO read_bytes: 2617344
+IO write_bytes: 2322432
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38190599999999997
+rusage ru_stime: 0.051909
+rusage ru_maxrss: 58588
+rusage ru_minflt: 16871
+rusage ru_majflt: 1
+rusage ru_inblock: 504
+rusage ru_oublock: 184
+rusage ru_nvcsw: 148
+rusage ru_nivcsw: 358
+Child rusage ru_utime: 0.120127
+Child rusage ru_stime: 0.082343
+Child rusage ru_maxrss: 56656
+Child rusage ru_minflt: 11292
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 4608
+Child rusage ru_oublock: 4352
+Child rusage ru_nvcsw: 191
+Child rusage ru_nivcsw: 265
+Status: PASSED 
+Ended: 1735244174.65 

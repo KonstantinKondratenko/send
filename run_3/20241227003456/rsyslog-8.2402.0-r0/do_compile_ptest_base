@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735269041.84 
+rsyslog-8.2402.0-r0: do_compile_ptest_base
+Elapsed time: 3.45 seconds
+utime: 21
+stime: 2
+cutime: 447
+cstime: 70
+IO rchar: 40089900
+IO wchar: 2702898
+IO syscr: 17423
+IO syscw: 2889
+IO read_bytes: 4616192
+IO write_bytes: 1163264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.21066
+rusage ru_stime: 0.024783
+rusage ru_maxrss: 61508
+rusage ru_minflt: 12926
+rusage ru_majflt: 0
+rusage ru_inblock: 392
+rusage ru_oublock: 272
+rusage ru_nvcsw: 77
+rusage ru_nivcsw: 34
+Child rusage ru_utime: 4.473407
+Child rusage ru_stime: 0.7021879999999999
+Child rusage ru_maxrss: 67604
+Child rusage ru_minflt: 264317
+Child rusage ru_majflt: 18
+Child rusage ru_inblock: 8624
+Child rusage ru_oublock: 2000
+Child rusage ru_nvcsw: 3100
+Child rusage ru_nivcsw: 1800
+Status: PASSED 
+Ended: 1735269045.29 

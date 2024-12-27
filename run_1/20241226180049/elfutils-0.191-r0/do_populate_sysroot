@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735241011.50 
+elfutils-0.191-r0: do_populate_sysroot
+Elapsed time: 2.16 seconds
+utime: 42
+stime: 8
+cutime: 39
+cstime: 18
+IO rchar: 46965103
+IO wchar: 23576802
+IO syscr: 6437
+IO syscw: 1748
+IO read_bytes: 12288
+IO write_bytes: 11403264
+IO cancelled_write_bytes: 802816
+rusage ru_utime: 0.42074599999999995
+rusage ru_stime: 0.084149
+rusage ru_maxrss: 62560
+rusage ru_minflt: 29241
+rusage ru_majflt: 1
+rusage ru_inblock: 24
+rusage ru_oublock: 10848
+rusage ru_nvcsw: 32
+rusage ru_nivcsw: 92
+Child rusage ru_utime: 0.392993
+Child rusage ru_stime: 0.183414
+Child rusage ru_maxrss: 60544
+Child rusage ru_minflt: 28054
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 11424
+Child rusage ru_nvcsw: 401
+Child rusage ru_nivcsw: 302
+Status: PASSED 
+Ended: 1735241013.66 

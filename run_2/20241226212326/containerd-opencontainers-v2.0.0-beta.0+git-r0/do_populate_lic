@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249820.83 
+containerd-opencontainers-v2.0.0-beta.0+git-r0: do_populate_lic
+Elapsed time: 0.19 seconds
+utime: 14
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 832728
+IO wchar: 193554
+IO syscr: 532
+IO syscw: 113
+IO read_bytes: 24576
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.141206
+rusage ru_stime: 0.028241
+rusage ru_maxrss: 85544
+rusage ru_minflt: 21399
+rusage ru_majflt: 3
+rusage ru_inblock: 48
+rusage ru_oublock: 224
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 15
+Child rusage ru_utime: 0.022732
+Child rusage ru_stime: 0.015524999999999999
+Child rusage ru_maxrss: 82264
+Child rusage ru_minflt: 5922
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 125
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1735249821.02 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735242426.24 
+numactl-2.0.18-r0: do_install
+Elapsed time: 3.32 seconds
+utime: 32
+stime: 3
+cutime: 44
+cstime: 10
+IO rchar: 2835034
+IO wchar: 859125
+IO syscr: 4517
+IO syscw: 676
+IO read_bytes: 204800
+IO write_bytes: 864256
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.320861
+rusage ru_stime: 0.038657
+rusage ru_maxrss: 58876
+rusage ru_minflt: 17138
+rusage ru_majflt: 3
+rusage ru_inblock: 240
+rusage ru_oublock: 192
+rusage ru_nvcsw: 166
+rusage ru_nivcsw: 311
+Child rusage ru_utime: 0.44630899999999996
+Child rusage ru_stime: 0.10828499999999999
+Child rusage ru_maxrss: 56948
+Child rusage ru_minflt: 63770
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 160
+Child rusage ru_oublock: 1496
+Child rusage ru_nvcsw: 1042
+Child rusage ru_nivcsw: 1078
+Status: PASSED 
+Ended: 1735242429.56 

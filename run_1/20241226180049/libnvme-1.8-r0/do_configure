@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735244118.09 
+libnvme-1.8-r0: do_configure
+Elapsed time: 11.50 seconds
+utime: 23
+stime: 1
+cutime: 261
+cstime: 41
+IO rchar: 24713934
+IO wchar: 10815794
+IO syscr: 7252
+IO syscw: 3546
+IO read_bytes: 5382144
+IO write_bytes: 7819264
+IO cancelled_write_bytes: 233472
+rusage ru_utime: 0.24006899999999998
+rusage ru_stime: 0.020005
+rusage ru_maxrss: 59928
+rusage ru_minflt: 16453
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 152
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 109
+Child rusage ru_utime: 2.618047
+Child rusage ru_stime: 0.417106
+Child rusage ru_maxrss: 57004
+Child rusage ru_minflt: 90407
+Child rusage ru_majflt: 79
+Child rusage ru_inblock: 10496
+Child rusage ru_oublock: 15120
+Child rusage ru_nvcsw: 1493
+Child rusage ru_nivcsw: 1374
+Status: PASSED 
+Ended: 1735244129.58 

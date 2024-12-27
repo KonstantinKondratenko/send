@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261052.38 
+traceroute-2.1.5-r0: do_patch
+Elapsed time: 1.07 seconds
+utime: 13
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 1014936
+IO wchar: 629003
+IO syscr: 323
+IO syscw: 192
+IO read_bytes: 16384
+IO write_bytes: 651264
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.133361
+rusage ru_stime: 0.020836999999999998
+rusage ru_maxrss: 83760
+rusage ru_minflt: 8817
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 128
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 28
+Child rusage ru_utime: 0.017169
+Child rusage ru_stime: 0.010222
+Child rusage ru_maxrss: 78068
+Child rusage ru_minflt: 1260
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1144
+Child rusage ru_nvcsw: 37
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1735261053.46 

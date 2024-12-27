@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735255346.91 
+lvm2-2.03.22-r0: do_prepare_recipe_sysroot
+Elapsed time: 11.96 seconds
+utime: 49
+stime: 27
+cutime: 33
+cstime: 5
+IO rchar: 5537751
+IO wchar: 2523414
+IO syscr: 3709
+IO syscw: 843
+IO read_bytes: 2904064
+IO write_bytes: 2715648
+IO cancelled_write_bytes: 49152
+rusage ru_utime: 0.493185
+rusage ru_stime: 0.273992
+rusage ru_maxrss: 60988
+rusage ru_minflt: 16084
+rusage ru_majflt: 514
+rusage ru_inblock: 5632
+rusage ru_oublock: 176
+rusage ru_nvcsw: 601
+rusage ru_nivcsw: 160
+Child rusage ru_utime: 0.33957299999999996
+Child rusage ru_stime: 0.056787
+Child rusage ru_maxrss: 56016
+Child rusage ru_minflt: 36399
+Child rusage ru_majflt: 7
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 5128
+Child rusage ru_nvcsw: 590
+Child rusage ru_nivcsw: 189
+Status: PASSED 
+Ended: 1735255358.87 

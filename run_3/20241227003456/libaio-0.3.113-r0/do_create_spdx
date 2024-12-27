@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735268442.21 
+libaio-0.3.113-r0: do_create_spdx
+Elapsed time: 1.59 seconds
+utime: 32
+stime: 6
+cutime: 9
+cstime: 3
+IO rchar: 1302448
+IO wchar: 606094
+IO syscr: 686
+IO syscw: 251
+IO read_bytes: 675840
+IO write_bytes: 266240
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.32501199999999997
+rusage ru_stime: 0.06770999999999999
+rusage ru_maxrss: 63380
+rusage ru_minflt: 28078
+rusage ru_majflt: 21
+rusage ru_inblock: 1272
+rusage ru_oublock: 408
+rusage ru_nvcsw: 108
+rusage ru_nivcsw: 88
+Child rusage ru_utime: 0.090737
+Child rusage ru_stime: 0.032177
+Child rusage ru_maxrss: 60248
+Child rusage ru_minflt: 7458
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 112
+Child rusage ru_nvcsw: 333
+Child rusage ru_nivcsw: 104
+Status: PASSED 
+Ended: 1735268443.80 

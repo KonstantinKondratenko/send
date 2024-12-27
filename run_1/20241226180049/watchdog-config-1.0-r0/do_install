@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735247128.36 
+watchdog-config-1.0-r0: do_install
+Elapsed time: 0.61 seconds
+utime: 28
+stime: 4
+cutime: 3
+cstime: 2
+IO rchar: 379882
+IO wchar: 71175
+IO syscr: 490
+IO syscw: 44
+IO read_bytes: 106496
+IO write_bytes: 90112
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.284802
+rusage ru_stime: 0.042335
+rusage ru_maxrss: 57288
+rusage ru_minflt: 19373
+rusage ru_majflt: 5
+rusage ru_inblock: 192
+rusage ru_oublock: 152
+rusage ru_nvcsw: 72
+rusage ru_nivcsw: 277
+Child rusage ru_utime: 0.031958
+Child rusage ru_stime: 0.022455
+Child rusage ru_maxrss: 55348
+Child rusage ru_minflt: 2716
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 209
+Child rusage ru_nivcsw: 56
+Status: PASSED 
+Ended: 1735247128.97 

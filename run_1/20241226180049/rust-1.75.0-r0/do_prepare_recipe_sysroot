@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735246304.16 
+rust-1.75.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 3.08 seconds
+utime: 41
+stime: 25
+cutime: 2
+cstime: 1
+IO rchar: 3029490
+IO wchar: 1436750
+IO syscr: 668
+IO syscw: 379
+IO read_bytes: 430080
+IO write_bytes: 1499136
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.41873699999999997
+rusage ru_stime: 0.256773
+rusage ru_maxrss: 60164
+rusage ru_minflt: 9275
+rusage ru_majflt: 0
+rusage ru_inblock: 808
+rusage ru_oublock: 456
+rusage ru_nvcsw: 43
+rusage ru_nivcsw: 142
+Child rusage ru_utime: 0.024807
+Child rusage ru_stime: 0.019277
+Child rusage ru_maxrss: 55368
+Child rusage ru_minflt: 816
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 2472
+Child rusage ru_nvcsw: 17
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1735246307.24 

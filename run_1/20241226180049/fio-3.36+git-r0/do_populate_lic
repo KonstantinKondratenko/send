@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238053.24 
+fio-3.36+git-r0: do_populate_lic
+Elapsed time: 0.27 seconds
+utime: 22
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 851681
+IO wchar: 202200
+IO syscr: 519
+IO syscw: 109
+IO read_bytes: 24576
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.22344599999999998
+rusage ru_stime: 0.043121
+rusage ru_maxrss: 85816
+rusage ru_minflt: 20756
+rusage ru_majflt: 1
+rusage ru_inblock: 48
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 51
+Child rusage ru_utime: 0.024978999999999998
+Child rusage ru_stime: 0.035543
+Child rusage ru_maxrss: 82688
+Child rusage ru_minflt: 5631
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 71
+Child rusage ru_nivcsw: 88
+Status: PASSED 
+Ended: 1735238053.51 

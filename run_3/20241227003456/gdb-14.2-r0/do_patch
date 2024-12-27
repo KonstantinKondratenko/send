@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735260990.96 
+gdb-14.2-r0: do_patch
+Elapsed time: 4.80 seconds
+utime: 24
+stime: 5
+cutime: 30
+cstime: 8
+IO rchar: 11650775
+IO wchar: 2762972
+IO syscr: 6060
+IO syscw: 1085
+IO read_bytes: 20480
+IO write_bytes: 2764800
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.249877
+rusage ru_stime: 0.057655
+rusage ru_maxrss: 88196
+rusage ru_minflt: 17413
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 168
+rusage ru_nvcsw: 47
+rusage ru_nivcsw: 38
+Child rusage ru_utime: 0.309232
+Child rusage ru_stime: 0.087505
+Child rusage ru_maxrss: 78380
+Child rusage ru_minflt: 77966
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 5232
+Child rusage ru_nvcsw: 1196
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1735260995.76 

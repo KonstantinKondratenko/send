@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249583.48 
+compiler-rt-sanitizers-18.1.5-r0: do_recipe_qa
+Elapsed time: 0.13 seconds
+utime: 12
+stime: 2
+cutime: 2
+cstime: 0
+IO rchar: 644553
+IO wchar: 119597
+IO syscr: 354
+IO syscw: 95
+IO read_bytes: 0
+IO write_bytes: 94208
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.129761
+rusage ru_stime: 0.022899
+rusage ru_maxrss: 84624
+rusage ru_minflt: 15862
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.026594
+Child rusage ru_stime: 0.0035499999999999998
+Child rusage ru_maxrss: 81696
+Child rusage ru_minflt: 4411
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 112
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1735249583.61 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735247378.94 
+thrift-0.20.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 4.24 seconds
+utime: 90
+stime: 81
+cutime: 3
+cstime: 2
+IO rchar: 8171930
+IO wchar: 1853316
+IO syscr: 1583
+IO syscw: 512
+IO read_bytes: 35598336
+IO write_bytes: 1974272
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.903118
+rusage ru_stime: 0.8187139999999999
+rusage ru_maxrss: 80412
+rusage ru_minflt: 17666
+rusage ru_majflt: 0
+rusage ru_inblock: 69056
+rusage ru_oublock: 176
+rusage ru_nvcsw: 3041
+rusage ru_nivcsw: 258
+Child rusage ru_utime: 0.033819
+Child rusage ru_stime: 0.024832999999999997
+Child rusage ru_maxrss: 75584
+Child rusage ru_minflt: 1648
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 472
+Child rusage ru_oublock: 3680
+Child rusage ru_nvcsw: 74
+Child rusage ru_nivcsw: 112
+Status: PASSED 
+Ended: 1735247383.18 

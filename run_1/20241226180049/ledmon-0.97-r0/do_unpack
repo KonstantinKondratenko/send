@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237625.46 
+ledmon-0.97-r0: do_unpack
+Elapsed time: 1.00 seconds
+utime: 5
+stime: 2
+cutime: 9
+cstime: 3
+IO rchar: 5099695
+IO wchar: 528859
+IO syscr: 2324
+IO syscw: 452
+IO read_bytes: 8192
+IO write_bytes: 811008
+IO cancelled_write_bytes: 8192
+rusage ru_utime: 0.051788
+rusage ru_stime: 0.021578
+rusage ru_maxrss: 82508
+rusage ru_minflt: 14288
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 35
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.09340899999999999
+Child rusage ru_stime: 0.030331999999999998
+Child rusage ru_maxrss: 78900
+Child rusage ru_minflt: 17361
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 1496
+Child rusage ru_nvcsw: 77
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1735237626.46 

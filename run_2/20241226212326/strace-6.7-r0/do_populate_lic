@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249693.03 
+strace-6.7-r0: do_populate_lic
+Elapsed time: 0.15 seconds
+utime: 11
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 886269
+IO wchar: 213413
+IO syscr: 546
+IO syscw: 117
+IO read_bytes: 118784
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.11120899999999999
+rusage ru_stime: 0.029941
+rusage ru_maxrss: 85644
+rusage ru_minflt: 21243
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 14
+Child rusage ru_utime: 0.016981
+Child rusage ru_stime: 0.016989
+Child rusage ru_maxrss: 82396
+Child rusage ru_minflt: 5642
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 192
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 147
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1735249693.18 

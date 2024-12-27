@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735254648.21 
+strace-6.7-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.44 seconds
+utime: 22
+stime: 5
+cutime: 2
+cstime: 1
+IO rchar: 1816871
+IO wchar: 1051762
+IO syscr: 550
+IO syscw: 297
+IO read_bytes: 278528
+IO write_bytes: 1093632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.226406
+rusage ru_stime: 0.050311999999999996
+rusage ru_maxrss: 58440
+rusage ru_minflt: 9982
+rusage ru_majflt: 1
+rusage ru_inblock: 536
+rusage ru_oublock: 152
+rusage ru_nvcsw: 40
+rusage ru_nivcsw: 30
+Child rusage ru_utime: 0.026986999999999997
+Child rusage ru_stime: 0.013857
+Child rusage ru_maxrss: 53708
+Child rusage ru_minflt: 1545
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 1984
+Child rusage ru_nvcsw: 17
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1735254648.65 

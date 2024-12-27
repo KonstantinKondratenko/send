@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735248500.44 
+runc-opencontainers-1.1.12+git-r0: do_fetch
+Elapsed time: 44.20 seconds
+utime: 7
+stime: 1
+cutime: 166
+cstime: 36
+IO rchar: 82701775
+IO wchar: 90698146
+IO syscr: 89080
+IO syscw: 33097
+IO read_bytes: 0
+IO write_bytes: 31281152
+IO cancelled_write_bytes: 12288
+rusage ru_utime: 0.07593899999999999
+rusage ru_stime: 0.018984
+rusage ru_maxrss: 80456
+rusage ru_minflt: 9217
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 272
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 1.6697600000000001
+Child rusage ru_stime: 0.368415
+Child rusage ru_maxrss: 76296
+Child rusage ru_minflt: 21987
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 60928
+Child rusage ru_nvcsw: 29770
+Child rusage ru_nivcsw: 95
+Status: PASSED 
+Ended: 1735248544.64 

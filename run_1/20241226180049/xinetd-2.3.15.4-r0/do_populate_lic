@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238053.67 
+xinetd-2.3.15.4-r0: do_populate_lic
+Elapsed time: 0.28 seconds
+utime: 22
+stime: 4
+cutime: 3
+cstime: 2
+IO rchar: 769625
+IO wchar: 161305
+IO syscr: 524
+IO syscw: 111
+IO read_bytes: 16384
+IO write_bytes: 122880
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.224098
+rusage ru_stime: 0.043247
+rusage ru_maxrss: 86004
+rusage ru_minflt: 20955
+rusage ru_majflt: 1
+rusage ru_inblock: 32
+rusage ru_oublock: 208
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 45
+Child rusage ru_utime: 0.032353
+Child rusage ru_stime: 0.029932999999999998
+Child rusage ru_maxrss: 82852
+Child rusage ru_minflt: 5596
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 88
+Child rusage ru_nivcsw: 49
+Status: PASSED 
+Ended: 1735238053.94 

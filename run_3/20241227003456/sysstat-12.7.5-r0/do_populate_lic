@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261290.67 
+sysstat-12.7.5-r0: do_populate_lic
+Elapsed time: 0.45 seconds
+utime: 8
+stime: 4
+cutime: 4
+cstime: 2
+IO rchar: 891862
+IO wchar: 214577
+IO syscr: 542
+IO syscw: 118
+IO read_bytes: 20480
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.089346
+rusage ru_stime: 0.04273
+rusage ru_maxrss: 87116
+rusage ru_minflt: 20873
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 208
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 8
+Child rusage ru_utime: 0.04155
+Child rusage ru_stime: 0.021664
+Child rusage ru_maxrss: 83992
+Child rusage ru_minflt: 5824
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 153
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735261291.11 

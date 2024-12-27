@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735261285.40 
+irqbalance-1.8.0+git-r0: do_populate_lic
+Elapsed time: 0.20 seconds
+utime: 11
+stime: 1
+cutime: 1
+cstime: 1
+IO rchar: 912327
+IO wchar: 211817
+IO syscr: 554
+IO syscw: 121
+IO read_bytes: 40960
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.11026699999999999
+rusage ru_stime: 0.01969
+rusage ru_maxrss: 87076
+rusage ru_minflt: 20934
+rusage ru_majflt: 1
+rusage ru_inblock: 80
+rusage ru_oublock: 216
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 5
+Child rusage ru_utime: 0.016819999999999998
+Child rusage ru_stime: 0.010964
+Child rusage ru_maxrss: 83956
+Child rusage ru_minflt: 5640
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 147
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1735261285.59 

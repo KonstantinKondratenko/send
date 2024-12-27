@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249462.50 
+net-tools-2.10-r0: do_patch
+Elapsed time: 3.97 seconds
+utime: 7
+stime: 1
+cutime: 4
+cstime: 1
+IO rchar: 1370267
+IO wchar: 710384
+IO syscr: 840
+IO syscw: 272
+IO read_bytes: 4096
+IO write_bytes: 745472
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.075192
+rusage ru_stime: 0.016708999999999998
+rusage ru_maxrss: 82108
+rusage ru_minflt: 10301
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 144
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 4
+Child rusage ru_utime: 0.04604
+Child rusage ru_stime: 0.012737
+Child rusage ru_maxrss: 76012
+Child rusage ru_minflt: 9710
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1312
+Child rusage ru_nvcsw: 143
+Child rusage ru_nivcsw: 7
+Status: PASSED 
+Ended: 1735249466.46 

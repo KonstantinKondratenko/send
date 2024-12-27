@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237056.78 
+go-cross-core2-64-1.22.2-r0: do_populate_sysroot
+Elapsed time: 45.09 seconds
+utime: 965
+stime: 133
+cutime: 1367
+cstime: 83
+IO rchar: 1072522937
+IO wchar: 600713831
+IO syscr: 144765
+IO syscw: 30896
+IO read_bytes: 20480
+IO write_bytes: 364630016
+IO cancelled_write_bytes: 0
+rusage ru_utime: 9.659873
+rusage ru_stime: 1.330594
+rusage ru_maxrss: 84404
+rusage ru_minflt: 94721
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 304904
+rusage ru_nvcsw: 465
+rusage ru_nivcsw: 116
+Child rusage ru_utime: 13.677219000000001
+Child rusage ru_stime: 0.832625
+Child rusage ru_maxrss: 361772
+Child rusage ru_minflt: 281961
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 407264
+Child rusage ru_nvcsw: 7710
+Child rusage ru_nivcsw: 2632
+Status: PASSED 
+Ended: 1735237101.87 

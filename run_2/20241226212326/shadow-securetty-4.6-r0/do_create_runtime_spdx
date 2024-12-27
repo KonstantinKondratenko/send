@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735251508.48 
+shadow-securetty-4.6-r0: do_create_runtime_spdx
+Elapsed time: 1.09 seconds
+utime: 24
+stime: 4
+cutime: 4
+cstime: 2
+IO rchar: 863880
+IO wchar: 380807
+IO syscr: 543
+IO syscw: 107
+IO read_bytes: 4096
+IO write_bytes: 151552
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.240203
+rusage ru_stime: 0.04804
+rusage ru_maxrss: 85936
+rusage ru_minflt: 20086
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 216
+rusage ru_nvcsw: 29
+rusage ru_nivcsw: 46
+Child rusage ru_utime: 0.047979
+Child rusage ru_stime: 0.029355
+Child rusage ru_maxrss: 82932
+Child rusage ru_minflt: 5949
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 140
+Child rusage ru_nivcsw: 33
+Status: PASSED 
+Ended: 1735251509.57 

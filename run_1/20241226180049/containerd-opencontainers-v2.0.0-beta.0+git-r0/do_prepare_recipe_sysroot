@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735247396.80 
+containerd-opencontainers-v2.0.0-beta.0+git-r0: do_prepare_recipe_sysroot
+Elapsed time: 2.08 seconds
+utime: 72
+stime: 62
+cutime: 0
+cstime: 0
+IO rchar: 4270525
+IO wchar: 169471
+IO syscr: 643
+IO syscw: 70
+IO read_bytes: 200704
+IO write_bytes: 180224
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.721777
+rusage ru_stime: 0.623174
+rusage ru_maxrss: 68548
+rusage ru_minflt: 14652
+rusage ru_majflt: 2
+rusage ru_inblock: 384
+rusage ru_oublock: 144
+rusage ru_nvcsw: 45
+rusage ru_nivcsw: 189
+Child rusage ru_utime: 0.006652
+Child rusage ru_stime: 0.009113
+Child rusage ru_maxrss: 63704
+Child rusage ru_minflt: 834
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 11
+Child rusage ru_nivcsw: 8
+Status: PASSED 
+Ended: 1735247398.89 

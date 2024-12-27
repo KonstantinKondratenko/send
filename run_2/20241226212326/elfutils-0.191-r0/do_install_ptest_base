@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735253368.81 
+elfutils-0.191-r0: do_install_ptest_base
+Elapsed time: 2.27 seconds
+utime: 23
+stime: 2
+cutime: 16
+cstime: 42
+IO rchar: 56534162
+IO wchar: 55282810
+IO syscr: 9123
+IO syscw: 1730
+IO read_bytes: 10743808
+IO write_bytes: 58220544
+IO cancelled_write_bytes: 245760
+rusage ru_utime: 0.230574
+rusage ru_stime: 0.021752
+rusage ru_maxrss: 57972
+rusage ru_minflt: 13131
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 72
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 378
+Child rusage ru_utime: 0.16838899999999998
+Child rusage ru_stime: 0.42316499999999996
+Child rusage ru_maxrss: 55784
+Child rusage ru_minflt: 18801
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 20984
+Child rusage ru_oublock: 113640
+Child rusage ru_nvcsw: 1383
+Child rusage ru_nivcsw: 4334
+Status: PASSED 
+Ended: 1735253371.08 

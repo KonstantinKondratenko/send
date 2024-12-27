@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238042.32 
+go-binary-native-1.22.2-r0: do_populate_lic
+Elapsed time: 0.56 seconds
+utime: 19
+stime: 4
+cutime: 3
+cstime: 3
+IO rchar: 670360
+IO wchar: 160156
+IO syscr: 511
+IO syscw: 114
+IO read_bytes: 167936
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.192735
+rusage ru_stime: 0.041569999999999996
+rusage ru_maxrss: 85912
+rusage ru_minflt: 17676
+rusage ru_majflt: 1
+rusage ru_inblock: 312
+rusage ru_oublock: 216
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 36
+Child rusage ru_utime: 0.036878999999999995
+Child rusage ru_stime: 0.032447
+Child rusage ru_maxrss: 82764
+Child rusage ru_minflt: 5586
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 119
+Child rusage ru_nivcsw: 33
+Status: PASSED 
+Ended: 1735238042.88 

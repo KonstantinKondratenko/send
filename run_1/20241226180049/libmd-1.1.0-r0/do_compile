@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735242144.31 
+libmd-1.1.0-r0: do_compile
+Elapsed time: 3.47 seconds
+utime: 19
+stime: 2
+cutime: 343
+cstime: 49
+IO rchar: 17920018
+IO wchar: 1941711
+IO syscr: 8808
+IO syscw: 1713
+IO read_bytes: 151552
+IO write_bytes: 688128
+IO cancelled_write_bytes: 65536
+rusage ru_utime: 0.195869
+rusage ru_stime: 0.026366999999999998
+rusage ru_maxrss: 61980
+rusage ru_minflt: 7050
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 62
+rusage ru_nivcsw: 55
+Child rusage ru_utime: 3.437118
+Child rusage ru_stime: 0.491952
+Child rusage ru_maxrss: 59524
+Child rusage ru_minflt: 180115
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 296
+Child rusage ru_oublock: 1168
+Child rusage ru_nvcsw: 2181
+Child rusage ru_nivcsw: 1547
+Status: PASSED 
+Ended: 1735242147.78 

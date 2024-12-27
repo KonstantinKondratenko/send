@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735248560.29 
+inotify-tools-3.22.6.0-r0: do_recipe_qa
+Elapsed time: 0.07 seconds
+utime: 6
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 628228
+IO wchar: 117814
+IO syscr: 344
+IO syscw: 91
+IO read_bytes: 0
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.062391999999999996
+rusage ru_stime: 0.020797
+rusage ru_maxrss: 82564
+rusage ru_minflt: 15645
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 3
+Child rusage ru_utime: 0.01482
+Child rusage ru_stime: 0.003431
+Child rusage ru_maxrss: 79620
+Child rusage ru_minflt: 4395
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 140
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1735248560.36 

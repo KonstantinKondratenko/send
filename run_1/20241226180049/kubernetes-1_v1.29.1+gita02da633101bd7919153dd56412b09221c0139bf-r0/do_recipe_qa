@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237245.89 
+kubernetes-1_v1.29.1+gita02da633101bd7919153dd56412b09221c0139bf-r0: do_recipe_qa
+Elapsed time: 0.13 seconds
+utime: 12
+stime: 3
+cutime: 2
+cstime: 0
+IO rchar: 645373
+IO wchar: 130296
+IO syscr: 349
+IO syscw: 94
+IO read_bytes: 155648
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.122082
+rusage ru_stime: 0.036624
+rusage ru_maxrss: 85320
+rusage ru_minflt: 16377
+rusage ru_majflt: 0
+rusage ru_inblock: 304
+rusage ru_oublock: 184
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 9
+Child rusage ru_utime: 0.024692
+Child rusage ru_stime: 0.008709
+Child rusage ru_maxrss: 82512
+Child rusage ru_minflt: 4681
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 158
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1735237246.03 

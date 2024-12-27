@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735249435.68 
+lshw-02.20+git-r0: do_patch
+Elapsed time: 3.13 seconds
+utime: 5
+stime: 4
+cutime: 4
+cstime: 1
+IO rchar: 1287481
+IO wchar: 638962
+IO syscr: 836
+IO syscw: 245
+IO read_bytes: 16384
+IO write_bytes: 675840
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.052787
+rusage ru_stime: 0.040604999999999995
+rusage ru_maxrss: 82392
+rusage ru_minflt: 10052
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 136
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 6
+Child rusage ru_utime: 0.048388
+Child rusage ru_stime: 0.018297
+Child rusage ru_maxrss: 76708
+Child rusage ru_minflt: 9803
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 1184
+Child rusage ru_nvcsw: 136
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1735249438.81 

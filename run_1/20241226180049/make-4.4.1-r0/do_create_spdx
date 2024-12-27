@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735244145.55 
+make-4.4.1-r0: do_create_spdx
+Elapsed time: 4.99 seconds
+utime: 42
+stime: 16
+cutime: 11
+cstime: 17
+IO rchar: 2050572
+IO wchar: 1039193
+IO syscr: 1506
+IO syscw: 500
+IO read_bytes: 5668864
+IO write_bytes: 479232
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.421998
+rusage ru_stime: 0.165489
+rusage ru_maxrss: 62624
+rusage ru_minflt: 51815
+rusage ru_majflt: 133
+rusage ru_inblock: 10784
+rusage ru_oublock: 808
+rusage ru_nvcsw: 491
+rusage ru_nivcsw: 469
+Child rusage ru_utime: 0.11019699999999999
+Child rusage ru_stime: 0.179065
+Child rusage ru_maxrss: 59512
+Child rusage ru_minflt: 15448
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 288
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 1658
+Child rusage ru_nivcsw: 516
+Status: PASSED 
+Ended: 1735244150.54 

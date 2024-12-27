@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735248848.50 
+make-native-4.4.1-r0: do_install
+Elapsed time: 0.70 seconds
+utime: 21
+stime: 4
+cutime: 13
+cstime: 2
+IO rchar: 3790167
+IO wchar: 1039355
+IO syscr: 1889
+IO syscw: 195
+IO read_bytes: 745472
+IO write_bytes: 1036288
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.21098899999999998
+rusage ru_stime: 0.042978999999999996
+rusage ru_maxrss: 84760
+rusage ru_minflt: 16624
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 35
+rusage ru_nivcsw: 32
+Child rusage ru_utime: 0.13629
+Child rusage ru_stime: 0.024864999999999998
+Child rusage ru_maxrss: 81920
+Child rusage ru_minflt: 15930
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1456
+Child rusage ru_oublock: 1912
+Child rusage ru_nvcsw: 212
+Child rusage ru_nivcsw: 60
+Status: PASSED 
+Ended: 1735248849.20 

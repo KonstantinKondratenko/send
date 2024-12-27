@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735238083.92 
+lua-native-5.4.6-r0: do_create_runtime_spdx
+Elapsed time: 1.77 seconds
+utime: 21
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 1008501
+IO wchar: 343818
+IO syscr: 376
+IO syscw: 111
+IO read_bytes: 0
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.213247
+rusage ru_stime: 0.042649
+rusage ru_maxrss: 86720
+rusage ru_minflt: 21524
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 45
+Child rusage ru_utime: 0.015106999999999999
+Child rusage ru_stime: 0.020225999999999997
+Child rusage ru_maxrss: 83920
+Child rusage ru_minflt: 4608
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 128
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1735238085.70 

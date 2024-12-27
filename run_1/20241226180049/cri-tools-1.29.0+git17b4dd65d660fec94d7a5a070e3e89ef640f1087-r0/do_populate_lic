@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735237973.69 
+cri-tools-1.29.0+git17b4dd65d660fec94d7a5a070e3e89ef640f1087-r0: do_populate_lic
+Elapsed time: 0.30 seconds
+utime: 24
+stime: 6
+cutime: 3
+cstime: 4
+IO rchar: 826026
+IO wchar: 196549
+IO syscr: 525
+IO syscw: 114
+IO read_bytes: 28672
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.242981
+rusage ru_stime: 0.07001099999999999
+rusage ru_maxrss: 86244
+rusage ru_minflt: 21138
+rusage ru_majflt: 1
+rusage ru_inblock: 56
+rusage ru_oublock: 232
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 63
+Child rusage ru_utime: 0.03078
+Child rusage ru_stime: 0.043643
+Child rusage ru_maxrss: 83096
+Child rusage ru_minflt: 5984
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 75
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1735237973.99 
